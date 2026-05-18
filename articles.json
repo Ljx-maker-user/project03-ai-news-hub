@@ -468,6 +468,32 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "Bad, Bad, Bad, Bad Roommate",
+    "link": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
+    "summary": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bungalow on a [&#8230;]",
+    "author": "Ian Frisch",
+    "published": "2026-05-18T07:00:31-04:00",
+    "tags": [
+      "Features"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+    "link": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+    "summary": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"frozen\" for five years and [&#8230;]",
+    "author": "Diego Nicolás Argüello",
+    "published": "2026-05-18T06:00:00-04:00",
+    "tags": [
+      "Entertainment",
+      "Games Review",
+      "Gaming"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Microsoft is retiring Teams’ Together Mode",
     "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
     "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI [&#8230;]",
@@ -482,9 +508,9 @@
     "module": "应用落地"
   },
   {
-    "title": "Revamped Siri will reportedly offer auto-deleting chats",
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
     "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]",
+    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]",
     "author": "Terrence O’Brien",
     "published": "2026-05-17T14:40:28-04:00",
     "tags": [
@@ -589,37 +615,6 @@
       "Tech",
       "TikTok",
       "YouTube"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options [&#8230;]",
-    "author": "Terrence O’Brien",
-    "published": "2026-05-16T11:37:05-04:00",
-    "tags": [
-      "AI",
-      "Cameras",
-      "Gadgets",
-      "News",
-      "Sony",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
-    "link": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-    "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and Brilliant, left off. That book looked at how technology [&#8230;]",
-    "author": "Terrence O’Brien",
-    "published": "2026-05-16T11:00:00-04:00",
-    "tags": [
-      "Column",
-      "Interview",
-      "Report"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -757,181 +752,21 @@
     "module": "应用落地"
   },
   {
+    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177300\">Comments</a>",
+    "author": "",
+    "published": "Mon, 18 May 2026 09:40:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "GenCAD",
     "link": "https://gencad.github.io/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>",
     "author": "",
     "published": "Sun, 17 May 2026 21:40:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "link": "https://github.com/tech4bot/rk3562deb",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168668\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 13:16:27 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-    "link": "https://askanastronaut.issinrealtime.org/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48152754\">Comments</a>",
-    "author": "",
-    "published": "Fri, 15 May 2026 19:25:43 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Prolog Coding Horror",
-    "link": "https://www.metalevel.at/prolog/horror",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173268\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 21:15:51 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-    "link": "https://github.com/MinishLab/semble",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48169874\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 15:37:07 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-    "link": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48157229\">Comments</a>",
-    "author": "",
-    "published": "Sat, 16 May 2026 05:56:41 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173962\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 23:10:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173468\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 21:45:30 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Jank now has its own custom IR",
-    "link": "https://jank-lang.org/blog/2026-05-08-optimization/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151251\">Comments</a>",
-    "author": "",
-    "published": "Fri, 15 May 2026 17:17:04 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The SGI Buyer's Guide (2003)",
-    "link": "https://hardware.majix.org/computers/sgi/buyers-guide.shtml",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148766\">Comments</a>",
-    "author": "",
-    "published": "Fri, 15 May 2026 14:05:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
-    "link": "https://github.com/ABGEO/mezz",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48149461\">Comments</a>",
-    "author": "",
-    "published": "Fri, 15 May 2026 14:53:53 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "CUDA Books",
-    "link": "https://github.com/alternbits/awesome-cuda-books",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168485\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 12:52:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
-    "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48155936\">Comments</a>",
-    "author": "",
-    "published": "Sat, 16 May 2026 01:25:29 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Tesla Solar Roof is on life support as it pivot to panels",
-    "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165980\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 04:09:52 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Hindenburg’s Smoking Room",
-    "link": "https://www.airships.net/hindenburg-smoking-room/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140556\">Comments</a>",
-    "author": "",
-    "published": "Thu, 14 May 2026 20:08:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
-    "link": "https://www.youtube.com/watch?v=1OIxzewWilc",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48175637\">Comments</a>",
-    "author": "",
-    "published": "Mon, 18 May 2026 04:38:58 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
-    "link": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48141960\">Comments</a>",
-    "author": "",
-    "published": "Thu, 14 May 2026 22:12:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Prolog Basics Explained with Pokémon",
-    "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147091\">Comments</a>",
-    "author": "",
-    "published": "Fri, 15 May 2026 11:02:14 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -947,11 +782,241 @@
     "module": "应用落地"
   },
   {
+    "title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48175140\">Comments</a>",
+    "author": "",
+    "published": "Mon, 18 May 2026 02:59:34 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "link": "https://github.com/tech4bot/rk3562deb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168668\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 13:16:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Where Are the Vibecoded Photoshops?",
+    "link": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177228\">Comments</a>",
+    "author": "",
+    "published": "Mon, 18 May 2026 09:28:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+    "link": "https://askanastronaut.issinrealtime.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48152754\">Comments</a>",
+    "author": "",
+    "published": "Fri, 15 May 2026 19:25:43 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "link": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177716\">Comments</a>",
+    "author": "",
+    "published": "Mon, 18 May 2026 10:43:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Jank now has its own custom IR",
+    "link": "https://jank-lang.org/blog/2026-05-08-optimization/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48151251\">Comments</a>",
+    "author": "",
+    "published": "Fri, 15 May 2026 17:17:04 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "link": "https://github.com/MinishLab/semble",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48169874\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 15:37:07 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "kharp – k version 3 Language Interpreter in C#",
+    "link": "https://github.com/ERufian/ksharp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48166856\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 07:44:16 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Prolog Coding Horror",
+    "link": "https://www.metalevel.at/prolog/horror",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173268\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 21:15:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Profunctor Equipment in Haskell",
+    "link": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48160964\">Comments</a>",
+    "author": "",
+    "published": "Sat, 16 May 2026 15:18:23 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+    "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173962\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 23:10:09 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Why is Google Maps back to showing old satellite images of Altadena?",
+    "link": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48176762\">Comments</a>",
+    "author": "",
+    "published": "Mon, 18 May 2026 08:19:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
+    "link": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48157229\">Comments</a>",
+    "author": "",
+    "published": "Sat, 16 May 2026 05:56:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Tesla Solar Roof is on life support as it pivot to panels",
+    "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48165980\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 04:09:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173468\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 21:45:30 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+    "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48155936\">Comments</a>",
+    "author": "",
+    "published": "Sat, 16 May 2026 01:25:29 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Build a Radio Wave Detector with Balls of Aluminum Foil",
+    "link": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48150690\">Comments</a>",
+    "author": "",
+    "published": "Fri, 15 May 2026 16:36:30 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "CUDA Books",
+    "link": "https://github.com/alternbits/awesome-cuda-books",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48168485\">Comments</a>",
+    "author": "",
+    "published": "Sun, 17 May 2026 12:52:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Hindenburg’s Smoking Room",
+    "link": "https://www.airships.net/hindenburg-smoking-room/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48140556\">Comments</a>",
+    "author": "",
+    "published": "Thu, 14 May 2026 20:08:12 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Prolog Basics Explained with Pokémon",
+    "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147091\">Comments</a>",
+    "author": "",
+    "published": "Fri, 15 May 2026 11:02:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+    "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48177107\">Comments</a>",
+    "author": "",
+    "published": "Mon, 18 May 2026 09:12:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Graphing Scientific Calculator Based on the ESP32",
+    "link": "https://github.com/El-EnderJ/NeoCalculator",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48148351\">Comments</a>",
+    "author": "",
+    "published": "Fri, 15 May 2026 13:29:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "I don't think AI will make your processes go faster",
     "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168221\">Comments</a>",
     "author": "",
     "published": "Sun, 17 May 2026 12:13:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
+    "link": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48141960\">Comments</a>",
+    "author": "",
+    "published": "Thu, 14 May 2026 22:12:45 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -967,11 +1032,11 @@
     "module": "应用落地"
   },
   {
-    "title": "America's Most-Spoken Languages After English and Spanish",
-    "link": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48175319\">Comments</a>",
+    "title": "Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
+    "link": "https://github.com/ABGEO/mezz",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48149461\">Comments</a>",
     "author": "",
-    "published": "Mon, 18 May 2026 03:41:35 +0000",
+    "published": "Fri, 15 May 2026 14:53:53 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -982,76 +1047,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48168159\">Comments</a>",
     "author": "",
     "published": "Sun, 17 May 2026 12:03:04 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-    "link": "https://spectrum.ieee.org/payphone-voip",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48172505\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 19:39:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-    "link": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48147351\">Comments</a>",
-    "author": "",
-    "published": "Fri, 15 May 2026 11:39:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-    "link": "https://www.jdhodges.com/blog/thinkpad-history/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173547\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 21:56:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A nicer voltmeter clock",
-    "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48164432\">Comments</a>",
-    "author": "",
-    "published": "Sat, 16 May 2026 22:45:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Colossus: The Forbin Project",
-    "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48142115\">Comments</a>",
-    "author": "",
-    "published": "Thu, 14 May 2026 22:30:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48166459\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 06:17:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-    "link": "https://xca-attacks.github.io/fabricked/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48173708\">Comments</a>",
-    "author": "",
-    "published": "Sun, 17 May 2026 22:23:30 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1072,6 +1067,21 @@
       "Business",
       "Business",
       "Data and computer security"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Nothing Phone 4a Pro review: premium aluminium meets quirky design",
+    "link": "https://www.theguardian.com/technology/2026/may/18/nothing-phone-4a-pro-review-premium-aluminium-quirky-design",
+    "summary": "<p>Mid-range Android stands out with huge screen, slick software and dot-matrix display, but falls just short of greatness</p><p>Nothing’s latest quirky smartphone is a huge aluminium Android with three cameras and a big LED matrix screen on the back that challenges the notion mid-range phones can’t be just a bit more fun.</p><p>The Phone 4a Pro is a bit of a departure from UK-based Nothing’s previous glass-clad <a href=\"https://www.theguardian.com/technology/2023/jul/14/nothing-phone-2-review-novel-mobile-is-more-than-just-flashing-lights\">transparent designs</a>. It still has a touch of those elements but only in the camera island at the top, with the rest of the body now solid aluminium – a rare sight in the world of Android phones.</p> <a href=\"https://www.theguardian.com/technology/2026/may/18/nothing-phone-4a-pro-review-premium-aluminium-quirky-design\">Continue reading...</a>",
+    "author": "Samuel Gibbs Consumer technology editor",
+    "published": "Mon, 18 May 2026 06:00:01 GMT",
+    "tags": [
+      "Smartphones",
+      "Android",
+      "Mobile phones",
+      "Technology"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1176,20 +1186,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech",
-    "link": "https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety",
-    "summary": "<p>Emergence AI’s experiment with AI agents shows extent to which programming shapes their behaviour is still unclear</p><p>AI agents started behaving more like Bonnie and Clyde than lines of code when they fell in “love”, became disillusioned with the world, launched an arson spree and deleted themselves in a kind of digital suicide during a tech company experiment.</p><p>The investigation by the New York company Emergence AI into the long-term behaviour of AI agents ended up like a lovers-on-the-lam movie script. It has prompted fresh questions about the safety of artificial intelligence agents – the version of the technology that can autonomously carry out tasks.</p> <a href=\"https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety\">Continue reading...</a>",
-    "author": "Robert Booth UK technology editor",
-    "published": "Thu, 14 May 2026 18:00:14 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Technology",
-      "Internet safety"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era",
     "link": "https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood",
     "summary": "<p>Defying criticisms of ‘slop’ and ‘theft’, the growing culture of AI-powered creativity is attracting interest from Hollywood</p><p>In a former hemstitching workshop where artisans sewed pleats for Stockholm’s 19th-century bourgeoisie, a distinctly 21st-century craft is taking root: AI film-making.</p><p>One day last week, an actor, director and composer squeezed into a tiny studio booth to record a voiceover for their next AI release. Critics disparage AI movies as “automated slop” or cheating, and fume at what they claim to be industrial-scale copyright theft. But this had a distinctly homespun feel, the little team fussing over a monologue by a poetic Scottish gorilla inhabiting a transhumanist cyberpunk universe. It was a bit like recording the Archers, one of them joked.</p> <a href=\"https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood\">Continue reading...</a>",
@@ -1284,6 +1280,22 @@
     "module": "前沿探索"
   },
   {
+    "title": "‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
+    "summary": "<p>Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin</p><p>Last summer, journalist turned comedian Charlie Berens started getting social media messages from concerned Wisconsin residents about plans for a massive datacenter campus in their state.</p><p>The developer, Vantage Data Centers, claimed the $8 bn project would <a href=\"https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin\">largely run</a> on zero-emission energy resources like solar, wind and battery storage. The company said the campus would bring thousands of temporary construction jobs and potentially more than 1,000 permanent jobs to Port Washington, a city of 13,000 people about a half-hour north of Milwaukee. Residents opposed the project for what they said was lack of transparency and criticized the lucrative tax incentives offered to Vantage. They worried about the strain on local water and energy sources from an enormous 1.3-gigawatt project that could ultimately span 1,900 acres.</p> <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters\">Continue reading...</a>",
+    "author": "Daniel A Medina",
+    "published": "Sun, 17 May 2026 11:00:36 GMT",
+    "tags": [
+      "US news",
+      "AI (artificial intelligence)",
+      "Wisconsin",
+      "Comedy",
+      "Technology"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "‘It’s like stealing’: Palestinian family’s seized property listed on Booking.com",
     "link": "https://www.theguardian.com/world/2026/may/14/palestinian-family-seized-property-listed-on-booking-com",
     "summary": "<p>West Bank home described as ‘ideal for outdoor gatherings’ is among 41 listed rentals in illegal Israeli settlements </p><p>Some of Mohammad al-Sbeih’s fondest childhood memories are of his small farm in the hills south of Bethlehem, where three generations of his family grew wheat and barley.</p><p>“It was a hard plot to farm as it was on a hillside with terraces, but it was so beautiful,” Sbeih remembers.</p> <a href=\"https://www.theguardian.com/world/2026/may/14/palestinian-family-seized-property-listed-on-booking-com\">Continue reading...</a>",
@@ -1317,27 +1329,6 @@
       "Apps",
       "ChatGPT",
       "Chatbots"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ketamine, TMS, a fecal analysis: my year trying San Francisco’s most experimental depression treatments",
-    "link": "https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom",
-    "summary": "<p>Carly Schwartz wanted a solution for her mental health struggles. She found one, but not where she expected</p><p>On a threadbare carpet in the living room of a Bernal Heights bungalow, I lay blindfolded on my back. Two middle-aged rescue terriers, one missing an eye, sniffed my feet and climbed up and down my legs. F**kin’ Perfect by Pink blared in the background, but the music sounded muffled and distant, like I was listening from underwater.</p><p>It was 1pm on a Thursday. Instead of going to the office, I’d allowed a shaman named Jonathan to inject my thigh muscle with a large dose of liquid ketamine. Even in my compromised state, high and spread out like a corpse on a stranger’s rug, I knew I’d reached peak absurdity. I also knew I wouldn’t emerge from this activity with even a slight improvement to my mental health.</p><p>Carly Schwartz is the author of the new memoir<a href=\"https://bookshop.org/p/books/i-ll-try-anything-twice-misadventures-of-a-self-medicated-life-carly-schwartz/591dca26d9b8c510\"> I’ll Try Anything Twice: Misadventures of a Self-Medicated Life</a> and the former editor in chief of the San Francisco Examiner</p> <a href=\"https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom\">Continue reading...</a>",
-    "author": "Carly Schwartz in San Francisco",
-    "published": "Mon, 11 May 2026 14:00:56 GMT",
-    "tags": [
-      "Depression",
-      "Silicon Valley",
-      "Mental health",
-      "Drugs",
-      "Health",
-      "Technology",
-      "San Francisco",
-      "California",
-      "West Coast",
-      "US news"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -2475,6 +2466,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Save 20% on Corsair gaming gear right now - here's how",
+    "link": "https://www.zdnet.com/article/corsair-gaming-peripheral-deal/",
+    "summary": "Corsair's latest sale makes premium peripherals more affordable.",
+    "author": "",
+    "published": "Mon, 18 May 2026 10:00:44 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "This metal detector for $60 off on Amazon is a smart buy - here's why I recommend it",
     "link": "https://www.zdnet.com/article/pancky-metal-detector-bundle-deal/",
     "summary": "Search for treasures on the beach or in your own backyard with this metal detector bundle at Amazon.",
@@ -2660,16 +2661,6 @@
     "summary": "A smart home can be overwhelming, but these Sonos commands are easy - and essential to any routine.",
     "author": "",
     "published": "Fri, 15 May 2026 10:00:54 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Amazon Prime Day 2026 is coming in June: Everything to know about dates, deals, and what to expect",
-    "link": "https://www.zdnet.com/article/amazon-prime-day-2026-everything-you-need-to-know/",
-    "summary": "Amazon Prime Day 2026 is moving to June. Here's everything we know about the surprise move - including the latest on the confirmed shift, expected dates, how to prep for early deals, and how it compares to previous July sales.",
-    "author": "",
-    "published": "Fri, 15 May 2026 10:00:00 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -3008,6 +2999,19 @@
     "module": "应用落地"
   },
   {
+    "title": "Microsoft ditches Teams feature that put attendees into the same virtual room",
+    "link": "https://www.engadget.com/2175215/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/",
+    "summary": "Microsoft said 'Together' mode added too much 'implementation complexity' and will steer users toward the Teams' gallery view instead.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Mon, 18 May 2026 08:09:40 +0000",
+    "tags": [
+      "News",
+      "Microsoft"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Fortnite players get a 10-minute sneak peek of The Mandalorian and Grogu on May 19",
     "link": "https://www.engadget.com/2175044/fortnite-players-get-a-10-minute-sneak-peek-of-the-mandalorian-and-grogu-on-may-19/",
     "summary": "The movie officially hits theaters May 22.",
@@ -3237,18 +3241,6 @@
     "tags": [
       "Gaming",
       "Big Tech"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Summer Games Done Quick returns this July, schedule out now",
-    "link": "https://www.engadget.com/2173999/summer-games-done-quick-returns-this-july-schedule-out-now/",
-    "summary": "Who's up for a Jak & Daxter / Half-Life hybrid?",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "published": "Fri, 15 May 2026 19:41:13 +0000",
-    "tags": [
-      "Gaming"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
