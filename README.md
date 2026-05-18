@@ -15,3 +15,5 @@ AI News Hub — 仿掘金（样例）
    在浏览器打开： http://localhost:8000/
 
 注意：爬虫会遵守 robots.txt 并加速率限制；若遇到站点限制或 429，请稍后重试或调整 FEEDS 列表。
+
+Automated deployment trigger: 2026-05-18T13:54:00+08:00
