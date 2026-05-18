@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AI News Hub — 仿掘金</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>AI News Hub</h1>
+      <p class="tagline">聚合 AI 领域热点新闻 — 分类、搜索、讨论（样例数据）</p>
+    </div>
+  </header>
+  <main class="container main">
+    <section class="content">
+      <div class="toolbar">
+        <select id="moduleFilter"><option value="">全部模块</option></select>
+        <input id="search" placeholder="搜索标题或摘要" />
+      </div>
+      <ul id="articles"></ul>
+    </section>
+    <aside class="sidebar">
+      <h3>热门话题</h3>
+      <div id="tags"></div>
+    </aside>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
