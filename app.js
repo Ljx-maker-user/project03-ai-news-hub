@@ -1,5 +1,5 @@
 (async function(){
-  const data = await fetch('articles.json').then(r=>r.json()).catch(()=>[]);
+  const data = await fetch('https://raw.githubusercontent.com/Ljx-maker-user/project03-ai-news-hub/main/articles.json').then(r=>r.json()).catch(()=>[]);
   const modules = Array.from(new Set(data.map(a=>a.module))).filter(Boolean);
   const moduleSelect = document.getElementById('moduleFilter');
   modules.sort();
