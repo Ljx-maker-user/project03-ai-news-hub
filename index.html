@@ -1,108 +1,31 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>AI 资讯汇 — AI 领域热点新闻</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AI News Hub — 仿掘金</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="topbar">
-    <div class="container topbar-inner">
-      <div class="logo"><a href="/">AI 资讯汇</a></div>
-      <nav id="topnav" class="topnav"></nav>
-      <div class="top-actions">
-        <input id="headerSearch" placeholder="搜索文章、作者或话题" />
-        <button id="publishBtn" class="btn outline">发布</button>
-        <button id="loginBtn" class="btn primary">登录</button>
-      </div>
+  <header class="header">
+    <div class="container">
+      <h1>AI News Hub</h1>
+      <p class="tagline">聚合 AI 领域热点新闻 — 分类、搜索、讨论（样例数据）</p>
     </div>
   </header>
-
-  <main class="container layout">
-    <aside class="left-col">
-      <div class="card">
-        <h3>模块细分</h3>
-        <ul id="submodules" class="submodule-list"></ul>
-      </div>
-      <div class="card">
-        <h3>我的订阅</h3>
-        <p>（占位，后续支持）</p>
-      </div>
-    </aside>
-
-    <section class="center-col">
-      <div class="feed-toolbar">
+  <main class="container main">
+    <section class="content">
+      <div class="toolbar">
         <select id="moduleFilter"><option value="">全部模块</option></select>
         <input id="search" placeholder="搜索标题或摘要" />
       </div>
-      <div id="articles" class="feed"></div>
-      <div id="loadMoreWrap" style="text-align:center;margin:16px 0"><button id="loadMore" class="btn">加载更多</button></div>
+      <ul id="articles"></ul>
     </section>
-
-    <aside class="right-col">
-      <div class="card">
-        <h3>排行榜</h3>
-        <ol id="rankList"></ol>
-      </div>
-      <div class="card ad">
-        <h3>广告位</h3>
-        <div class="ad-placeholder">300×250 广告</div>
-      </div>
+    <aside class="sidebar">
+      <h3>热门话题</h3>
+      <div id="tags"></div>
     </aside>
   </main>
-
-  <template id="article-template">
-    <article class="article-card">
-      <div class="meta-left">
-        <div class="avatar">A</div>
-      </div>
-      <div class="content-right">
-        <a class="title" href="#" target="_blank"></a>
-        <div class="meta"></div>
-        <p class="summary"></p>
-        <div class="card-actions" style="margin-top:8px">
-          <button class="btn small view-btn">查看</button>
-          <button class="btn small translate-btn">翻译</button>
-        </div>
-      </div>
-    </article>
-  </template>
-
-  <!-- 文章弹窗（详情 + 评论） -->
-  <div id="articleModal" class="modal" style="display:none">
-    <div class="modal-content">
-      <button class="modal-close" id="modalClose">×</button>
-      <h2 id="modalTitle"></h2>
-      <div id="modalMeta" class="meta"></div>
-      <div id="modalSummary"></div>
-      <p><a id="modalLink" href="#" target="_blank" rel="noopener">查看原文</a></p>
-
-      <div id="commentArea" class="card" style="margin-top:12px">
-        <h3>评论</h3>
-        <div id="twikoo" style="display:none"></div>
-        <div id="local-comments"></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 发布弹窗（本地示例） -->
-  <div id="publishModal" class="modal" style="display:none">
-    <div class="modal-content">
-      <button class="modal-close" id="publishClose">×</button>
-      <h3>发布文章（本地示例）</h3>
-      <form id="publishForm">
-        <div style="margin-bottom:8px"><label>标题：<input id="p_title" required style="width:100%;padding:8px;margin-top:6px" /></label></div>
-        <div style="margin-bottom:8px"><label>摘要：<textarea id="p_summary" rows="4" style="width:100%;padding:8px;margin-top:6px"></textarea></label></div>
-        <div style="margin-bottom:8px"><label>模块：<select id="p_module" style="width:100%;padding:8px;margin-top:6px"></select></label></div>
-        <div style="margin-bottom:8px"><label>作者：<input id="p_author" style="width:100%;padding:8px;margin-top:6px" /></label></div>
-        <div style="margin-top:8px"><button type="submit" class="btn primary">发布</button></div>
-      </form>
-    </div>
-  </div>
-
-  <!-- 可选：Twikoo CDN（如需线上评论，部署 Twikoo cloud function 并填入 envId） -->
-  <script src="https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
