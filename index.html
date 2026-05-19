@@ -1,31 +1,69 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>AI News Hub — 仿掘金</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="header">
-    <div class="container">
-      <h1>AI News Hub</h1>
-      <p class="tagline">聚合 AI 领域热点新闻 — 分类、搜索、讨论（样例数据）</p>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="logo"><a href="/">AI News Hub</a></div>
+      <nav id="topnav" class="topnav"></nav>
+      <div class="top-actions">
+        <input id="headerSearch" placeholder="搜索文章、作者或话题" />
+        <button id="publishBtn" class="btn outline">发布</button>
+        <button id="loginBtn" class="btn primary">登录</button>
+      </div>
     </div>
   </header>
-  <main class="container main">
-    <section class="content">
-      <div class="toolbar">
+
+  <main class="container layout">
+    <aside class="left-col">
+      <div class="card">
+        <h3>模块细分</h3>
+        <ul id="submodules" class="submodule-list"></ul>
+      </div>
+      <div class="card">
+        <h3>我的订阅</h3>
+        <p>（占位，后续支持）</p>
+      </div>
+    </aside>
+
+    <section class="center-col">
+      <div class="feed-toolbar">
         <select id="moduleFilter"><option value="">全部模块</option></select>
         <input id="search" placeholder="搜索标题或摘要" />
       </div>
-      <ul id="articles"></ul>
+      <div id="articles" class="feed"></div>
     </section>
-    <aside class="sidebar">
-      <h3>热门话题</h3>
-      <div id="tags"></div>
+
+    <aside class="right-col">
+      <div class="card">
+        <h3>排行榜</h3>
+        <ol id="rankList"></ol>
+      </div>
+      <div class="card ad">
+        <h3>广告位</h3>
+        <div class="ad-placeholder">300×250 广告</div>
+      </div>
     </aside>
   </main>
+
+  <template id="article-template">
+    <article class="article-card">
+      <div class="meta-left">
+        <div class="avatar">A</div>
+      </div>
+      <div class="content-right">
+        <a class="title" href="#" target="_blank"></a>
+        <div class="meta"></div>
+        <p class="summary"></p>
+      </div>
+    </article>
+  </template>
+
   <script src="app.js"></script>
 </body>
 </html>
