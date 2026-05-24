@@ -470,6 +470,36 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]",
+    "author": "Robert Hart",
+    "published": "2026-05-24T08:00:00-04:00",
+    "tags": [
+      "AI",
+      "Column",
+      "Security",
+      "Tech",
+      "The Stepback"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+    "link": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+    "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better? Nuro, the [&#8230;]",
+    "author": "Andrew J. Hawkins",
+    "published": "2026-05-24T07:00:00-04:00",
+    "tags": [
+      "Autonomous Cars",
+      "Report",
+      "Transportation"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "前沿探索"
+  },
+  {
     "title": "Record Club is trying to be Letterboxd for music nerds",
     "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
     "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
@@ -587,36 +617,6 @@
       "Gadgets",
       "Tech",
       "Verge Shopping"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
-    "link": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
-    "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum [&#8230;]",
-    "author": "Stevie Bonifield",
-    "published": "2026-05-22T13:27:08-04:00",
-    "tags": [
-      "Facebook",
-      "Meta",
-      "News",
-      "Social Media",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Elon, stop trying to make Grok happen",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-    "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's [&#8230;]",
-    "author": "Robert Hart",
-    "published": "2026-05-22T13:17:06-04:00",
-    "tags": [
-      "AI",
-      "Report",
-      "xAI"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -761,6 +761,56 @@
     "module": "2025 年最热细分赛道"
   },
   {
+    "title": "Mastering Dyalog APL",
+    "link": "https://mastering.dyalog.com/README.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256475\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 11:42:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+    "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48255593\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 08:29:38 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Childhood Computing",
+    "link": "https://susam.net/childhood-computing.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256597\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 12:07:34 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I spent 50 hours drawing a line graph",
+    "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48223997\">Comments</a>",
+    "author": "",
+    "published": "Thu, 21 May 2026 15:05:28 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Artificial egg hatched 26 healthy chickens",
+    "link": "https://colossal.com/colossal-biosciences-artificial-egg-dodo-moa/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48219158\">Comments</a>",
+    "author": "",
+    "published": "Thu, 21 May 2026 07:39:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
     "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48253386\">Comments</a>",
@@ -841,6 +891,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Swap tables, flash-friendly swap, swap_ops, and more",
+    "link": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48208233\">Comments</a>",
+    "author": "",
+    "published": "Wed, 20 May 2026 14:16:34 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Time to talk about my writerdeck",
     "link": "https://veronicaexplains.net/my-first-writerdeck/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48250144\">Comments</a>",
@@ -871,21 +931,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Amazon Web Services – Four Years and Out",
-    "link": "https://www.adventuresinoss.com/aws-four-years/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48254475\">Comments</a>",
+    "title": "Show HN: Git-based front-end interface for Hugo",
+    "link": "https://github.com/arashthr/hugo-flow",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48214766\">Comments</a>",
     "author": "",
-    "published": "Sun, 24 May 2026 04:51:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "My I3-Emacs Integration",
-    "link": "https://khz.ac/software/i3-integration.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48252535\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 23:13:42 +0000",
+    "published": "Wed, 20 May 2026 21:57:18 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -896,6 +946,26 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48247208\">Comments</a>",
     "author": "",
     "published": "Sat, 23 May 2026 12:48:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Key, in sight – A guide, of sorts, to keyboard customization",
+    "link": "https://aresluna.org/key-in-sight/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48202129\">Comments</a>",
+    "author": "",
+    "published": "Wed, 20 May 2026 01:53:35 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "My I3-Emacs Integration",
+    "link": "https://khz.ac/software/i3-integration.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48252535\">Comments</a>",
+    "author": "",
+    "published": "Sat, 23 May 2026 23:13:42 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -921,51 +991,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Neoclassical C++: segmented iterators revisited",
-    "link": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236057\">Comments</a>",
+    "title": "Amazon Web Services – Four Years and Out",
+    "link": "https://www.adventuresinoss.com/aws-four-years/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48254475\">Comments</a>",
     "author": "",
-    "published": "Fri, 22 May 2026 14:06:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Key, in sight – A guide, of sorts, to keyboard customization",
-    "link": "https://aresluna.org/key-in-sight/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48202129\">Comments</a>",
-    "author": "",
-    "published": "Wed, 20 May 2026 01:53:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48250980\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 20:09:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Hengefinder: Finding when the sun aligns with your street",
-    "link": "https://victoriaritvo.com/blog/hengefinder/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48241335\">Comments</a>",
-    "author": "",
-    "published": "Fri, 22 May 2026 20:39:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
-    "link": "https://www.milwaukeemag.com/schlitz-is-gone/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48227864\">Comments</a>",
-    "author": "",
-    "published": "Thu, 21 May 2026 19:32:35 +0000",
+    "published": "Sun, 24 May 2026 04:51:22 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -981,11 +1011,21 @@
     "module": "应用落地"
   },
   {
-    "title": "80386 microcode disassembled",
-    "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247004\">Comments</a>",
+    "title": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
+    "link": "https://www.milwaukeemag.com/schlitz-is-gone/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48227864\">Comments</a>",
     "author": "",
-    "published": "Sat, 23 May 2026 12:11:43 +0000",
+    "published": "Thu, 21 May 2026 19:32:35 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Hengefinder: Finding when the sun aligns with your street",
+    "link": "https://victoriaritvo.com/blog/hengefinder/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48241335\">Comments</a>",
+    "author": "",
+    "published": "Fri, 22 May 2026 20:39:42 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1001,21 +1041,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-    "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48248954\">Comments</a>",
+    "title": "80386 microcode disassembled",
+    "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247004\">Comments</a>",
     "author": "",
-    "published": "Sat, 23 May 2026 16:24:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Byrne's Euclid",
-    "link": "https://www.c82.net/euclid/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48252146\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 22:19:36 +0000",
+    "published": "Sat, 23 May 2026 12:11:43 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1026,36 +1056,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48246232\">Comments</a>",
     "author": "",
     "published": "Sat, 23 May 2026 09:37:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": ".NET (OK, C#) finally gets union types",
-    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48234954\">Comments</a>",
-    "author": "",
-    "published": "Fri, 22 May 2026 12:28:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Buildcraft Is a Compiler Problem",
-    "link": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48233829\">Comments</a>",
-    "author": "",
-    "published": "Fri, 22 May 2026 09:50:48 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "PHP's Oddities",
-    "link": "https://flowtwo.io/post/php%27s-oddities",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48199314\">Comments</a>",
-    "author": "",
-    "published": "Tue, 19 May 2026 20:41:48 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1280,6 +1280,25 @@
     "module": "应用落地"
   },
   {
+    "title": "The devil owns Amazon: big tech has infiltrated the fashion world - will we see a revolt?",
+    "link": "https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour",
+    "summary": "<p>Anna Wintour has welcomed the Bezoses – and their patronage – with open arms. But after a controversial Met Gala, industry insiders are less enthusiastic</p><p>The press conference for the Met Costume Institute’s spring exhibition is always a stately affair, but this year it was giving “feudal lady addresses her serfs” or perhaps “Marie Antoinette during the last days of Versailles”. Here, among the spectacular marble sculptures of the art museum’s American wing, was a beaming <a href=\"https://www.theguardian.com/news/audio/2026/may/04/why-the-bezos-backed-met-gala-is-so-controversial-the-latest\">Lauren Sánchez Bezos</a>, who <a href=\"https://www.theguardian.com/fashion/anna-wintour\">Anna Wintour</a> introduced as a “force for joy”, before adding that “she and her husband, Jeff, have shown with this event that they genuinely, genuinely care about giving back”. Meanwhile, in the outside world, protests against the <a href=\"https://www.theguardian.com/fashion/2026/may/04/jeff-bezos-amazon-met-gala-protest-fashion-show\">Bezoses’ involvement</a> had been raging for days. The discrepancy between the word on the street and the deference within the glass-ceilinged room was head-spinning.</p><p>The <a href=\"https://www.theguardian.com/fashion/gallery/2026/may/05/met-gala-2026-red-carpet\">Met Gala </a>has recently become a magnet for anti-excess protests, but this was its most controversial yet, owing to the $10m patronage of its honorary co-chairs, centibillionaires Jeff Bezos and Lauren Sánchez Bezos. It was not the first time Jeff Bezos bankrolled the gala – Amazon was its lead sponsor in 2012. But this year’s event came at a moment of soaring inequality, as Bezos’s personal wealth has mushroomed and his <a href=\"https://www.theguardian.com/news/ng-interactive/2026/feb/08/washington-post-layoffs-democracy-trump\">Donald Trump-appeasing decisions</a> have made him less popular than ever with New York City’s left-leaning fashion and arts crowd.</p> <a href=\"https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour\">Continue reading...</a>",
+    "author": "Hannah Marriott",
+    "published": "Sun, 24 May 2026 12:00:56 GMT",
+    "tags": [
+      "Fashion",
+      "Anna Wintour",
+      "Met Gala",
+      "Met Gala 2026",
+      "Life and style",
+      "Jeff Bezos",
+      "Technology",
+      "Amazon"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Final frontier for meds? UK startup sends drug-making into space",
     "link": "https://www.theguardian.com/business/2026/may/23/meds-uk-startup-drug-making-space-bioorbit-cancer",
     "summary": "<p>BioOrbit hopes drug-crystallisation technology will lead to self-injected cancer treatment that could save millions</p><p>Onboard a SpaceX flight last week was a remarkable piece of cargo – a hi-tech box destined for the International Space Station to grow ultra-pure protein crystals, with the aim of producing self-injected cancer drugs.</p><p>A British startup, BioOrbit, has developed the drug-crystallisation technology at its labs in London and launched Box-E, a compact unit the size of a microwave, on the 15 May rocket from Kennedy Space Center in Florida.</p> <a href=\"https://www.theguardian.com/business/2026/may/23/meds-uk-startup-drug-making-space-bioorbit-cancer\">Continue reading...</a>",
@@ -1337,22 +1356,6 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
-  },
-  {
-    "title": "The seven best video doorbells in the UK tried and tested – and Ring isn’t top",
-    "link": "https://www.theguardian.com/thefilter/2024/nov/14/the-8-best-video-doorbells-tried-and-tested",
-    "summary": "<p>Whether you want to improve your home’s security or simply know who’s at the door, the latest generation of smart doorbells will help put your mind at ease</p><p><strong>• </strong><a href=\"https://www.theguardian.com/thefilter/2024/nov/26/best-robot-vacuum-mop\"><strong>The best robot vacuums, tested</strong></a></p><p>Doorbells have evolved. Today, they watch us as we approach, let the people inside the home know we’re coming sooner than our finger can hit the button, and give them a good look at our faces before they open the door. They’re essentially security cameras with a chime function.</p><p>If you haven’t already installed one of these handy tools, there’s a huge array available. Choosing the best video doorbell can be a bewildering task, with various factors to consider, including how much of your doorstep you want to see and whether you’re prepared to pay for a subscription. To help make the decision a little bit easier, I tested eight popular video doorbells to find the best.</p><p><strong>Best video doorbell overall: <br /></strong>Google Nest Doorbell (battery)</p><p><strong>Best budget video doorbell: </strong><br />\n Blink smart video doorbell with Sync Module 2</p> <a href=\"https://www.theguardian.com/thefilter/2024/nov/14/the-8-best-video-doorbells-tried-and-tested\">Continue reading...</a>",
-    "author": "Andy Shaw",
-    "published": "Wed, 20 May 2026 08:57:17 GMT",
-    "tags": [
-      "Technology",
-      "Homes",
-      "Life and style",
-      "Interiors",
-      "Gadgets"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "前沿探索"
   },
   {
     "title": "How Sam Altman’s victory over Elon Musk clears way for OpenAI’s trillion-dollar ambitions",
@@ -1812,7 +1815,7 @@
     "link": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
     "summary": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
     "author": "Adam Satariano and Paul Mozur",
-    "published": "Sun, 24 May 2026 09:01:42 +0000",
+    "published": "Sun, 24 May 2026 09:01:43 +0000",
     "tags": [
       "Artificial Intelligence",
       "Regulation and Deregulation of Industry",
@@ -2351,6 +2354,26 @@
     "module": "应用落地"
   },
   {
+    "title": "I found the 11 best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
+    "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
+    "summary": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
+    "author": "",
+    "published": "Sun, 24 May 2026 12:53:23 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
+    "link": "https://www.zdnet.com/article/best-early-memorial-day-deals-2026/",
+    "summary": "Memorial Day is here. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
+    "author": "",
+    "published": "Sun, 24 May 2026 11:09:54 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Samsung is giving away free 32-inch Odyssey monitors - seriously",
     "link": "https://www.zdnet.com/article/samsung-m9-odyssey-g7-bogo-deal/",
     "summary": "Samsung's BOGO monitor deal is back, back, back again. Here's what you need to know to snag yours.",
@@ -2453,7 +2476,7 @@
   {
     "title": "These are the best early Memorial Day 2026 TV deals I've found so far",
     "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-tv-deals/",
-    "summary": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and more ahead of Memorial Day.",
+    "summary": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and this Memorial Day Weekend.",
     "author": "",
     "published": "Fri, 22 May 2026 20:48:00 GMT",
     "tags": [],
@@ -2526,26 +2549,6 @@
     "summary": "These gadgets aren't going to make or break your home office, but they're huge upgrades for my workflow - and most are on sale for Memorial Day.",
     "author": "",
     "published": "Fri, 22 May 2026 15:05:08 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "This Costco deal cuts the price of membership to $45 - here's how to get it",
-    "link": "https://www.zdnet.com/article/costco-memorial-day-deal-2026/",
-    "summary": "If you've been thinking about joining Costco, the wholesale retailer is offering a gift card of up to $40 for new members, effectively dropping the price of your membership.",
-    "author": "",
-    "published": "Fri, 22 May 2026 14:30:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Lowe's just dropped its Memorial Day deals - I found the best ones",
-    "link": "https://www.zdnet.com/article/best-lowes-memorial-day-deals-2026/",
-    "summary": "Lowe's has everything you need for home, lawn, and garden projects with these Memorial Day deals on appliances, grills, and more.",
-    "author": "",
-    "published": "Fri, 22 May 2026 13:56:00 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -4546,16 +4549,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Open Ended Intelligence: The individuation of Intelligent Agents",
-    "link": "https://arxiv.org/abs/1505.06366v2",
-    "summary": "Artificial General Intelligence is a field of research aiming to distill the principles of intelligence that operate independently of a specific problem domain or a predefined context and utilize these principles in order to synthesize systems capable of performing any intellectual task a human being is capable of and eventually go beyond that. While \"narrow\" artificial intelligence which focuses on solving specific problems such as speech recognition, text comprehension, visual pattern recognition, robotic motion, etc. has shown quite a few impressive breakthroughs lately, understanding general intelligence remains elusive. In the paper we offer a novel theoretical approach to understanding general intelligence. We start with a brief introduction of the current conceptual approach. Our critique exposes a number of serious limitations that are traced back to the ontological roots of the concept of intelligence. We then propose a paradigm shift from intelligence perceived as a competence of individual agents defined in relation to an a priori given problem domain or a goal, to intelligence perceived as a formative process of self-organization by which intelligent agents are individuated. We call this process open-ended intelligence. Open-ended intelligence is developed as an abstraction of the process of cognitive development so its application can be extended to general agents and systems. We introduce and discuss three facets of the idea: the philosophical concept of individuation, sense-making and the individuation of general cognitive agents. We further show how open-ended intelligence can be framed in terms of a distributed, self-organizing network of interacting elements and how such process is scalable. The framework highlights an important relation between coordination and intelligence and a new understanding of values. We conclude with a number of questions for future research.",
-    "author": "David Weinbaum, Viktoras Veitas",
-    "published": "2015-05-23T19:32:54Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Towards Measuring Ethicality of an Intelligent Assistive System",
     "link": "https://arxiv.org/abs/2303.03929v1",
     "summary": "Artificial intelligence (AI) based assistive systems, so called intelligent assistive technology (IAT) are becoming increasingly ubiquitous by each day. IAT helps people in improving their quality of life by providing intelligent assistance based on the provided data. A few examples of such IATs include self-driving cars, robot assistants and smart-health management solutions. However, the presence of such autonomous entities poses ethical challenges concerning the stakeholders involved in using these systems. There is a lack of research when it comes to analysing how such IAT adheres to provided ethical regulations due to ethical, logistic and cost issues associated with such an analysis. In the light of the above-mentioned problem statement and issues, we present a method to measure the ethicality of an assistive system. To perform this task, we utilised our simulation tool that focuses on modelling navigation and assistance of Persons with Dementia (PwD) in indoor environments. By utilising this tool, we analyse how well different assistive strategies adhere to provided ethical regulations such as autonomy, justice and beneficence of the stakeholders.",
@@ -4564,6 +4557,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Open Ended Intelligence: The individuation of Intelligent Agents",
+    "link": "https://arxiv.org/abs/1505.06366v2",
+    "summary": "Artificial General Intelligence is a field of research aiming to distill the principles of intelligence that operate independently of a specific problem domain or a predefined context and utilize these principles in order to synthesize systems capable of performing any intellectual task a human being is capable of and eventually go beyond that. While \"narrow\" artificial intelligence which focuses on solving specific problems such as speech recognition, text comprehension, visual pattern recognition, robotic motion, etc. has shown quite a few impressive breakthroughs lately, understanding general intelligence remains elusive. In the paper we offer a novel theoretical approach to understanding general intelligence. We start with a brief introduction of the current conceptual approach. Our critique exposes a number of serious limitations that are traced back to the ontological roots of the concept of intelligence. We then propose a paradigm shift from intelligence perceived as a competence of individual agents defined in relation to an a priori given problem domain or a goal, to intelligence perceived as a formative process of self-organization by which intelligent agents are individuated. We call this process open-ended intelligence. Open-ended intelligence is developed as an abstraction of the process of cognitive development so its application can be extended to general agents and systems. We introduce and discuss three facets of the idea: the philosophical concept of individuation, sense-making and the individuation of general cognitive agents. We further show how open-ended intelligence can be framed in terms of a distributed, self-organizing network of interacting elements and how such process is scalable. The framework highlights an important relation between coordination and intelligence and a new understanding of values. We conclude with a number of questions for future research.",
+    "author": "David Weinbaum, Viktoras Veitas",
+    "published": "2015-05-23T19:32:54Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Comprehensible Artificial Intelligence on Knowledge Graphs: A survey",
@@ -5186,16 +5189,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
-    "link": "https://arxiv.org/abs/1807.08195v1",
-    "summary": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored.",
-    "author": "Bo Xing, Tshilidzi Marwala",
-    "published": "2018-07-21T19:37:25Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "A Review of Explainable Artificial Intelligence in Manufacturing",
     "link": "https://arxiv.org/abs/2107.02295v1",
     "summary": "The implementation of Artificial Intelligence (AI) systems in the manufacturing domain enables higher production efficiency, outstanding performance, and safer operations, leveraging powerful tools such as deep learning and reinforcement learning techniques. Despite the high accuracy of these models, they are mostly considered black boxes: they are unintelligible to the human. Opaqueness affects trust in the system, a factor that is critical in the context of decision-making. We present an overview of Explainable Artificial Intelligence (XAI) techniques as a means of boosting the transparency of models. We analyze different metrics to evaluate these techniques and describe several application scenarios in the manufacturing domain.",
@@ -5204,6 +5197,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
+    "link": "https://arxiv.org/abs/1807.08195v1",
+    "summary": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored.",
+    "author": "Bo Xing, Tshilidzi Marwala",
+    "published": "2018-07-21T19:37:25Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Artificial Intelligence Techniques for Steam Generator Modelling",
@@ -5316,16 +5319,6 @@
     "module": "应用落地"
   },
   {
-    "title": "The Future of Scientific Simulations: from Artificial Life to Artificial Cosmogenesis",
-    "link": "https://arxiv.org/abs/0803.1087v3",
-    "summary": "This philosophical paper explores the relation between modern scientific simulations and the future of the universe. We argue that a simulation of an entire universe will result from future scientific activity. This requires us to tackle the challenge of simulating open-ended evolution at all levels in a single simulation. The simulation should encompass not only biological evolution, but also physical evolution (a level below) and cultural evolution (a level above). The simulation would allow us to probe what would happen if we would \"replay the tape of the universe\" with the same or different laws and initial conditions. We also distinguish between real-world and artificial-world modelling. Assuming that intelligent life could indeed simulate an entire universe, this leads to two tentative hypotheses. Some authors have argued that we may already be in a simulation run by an intelligent entity. Or, if such a simulation could be made real, this would lead to the production of a new universe. This last direction is argued with a careful speculative philosophical approach, emphasizing the imperative to find a solution to the heat death problem in cosmology. The reader is invited to consult Annex 1 for an overview of the logical structure of this paper. -- Keywords: far future, future of science, ALife, simulation, realization, cosmology, heat death, fine-tuning, physical eschatology, cosmological natural selection, cosmological artificial selection, artificial cosmogenesis, selfish biocosm hypothesis, meduso-anthropic principle, developmental singularity hypothesis, role of intelligent life.",
-    "author": "Clement Vidal",
-    "published": "2008-03-07T14:42:02Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "前沿探索"
-  },
-  {
     "title": "The Role of Artificial Intelligence Technologies in Crisis Response",
     "link": "https://arxiv.org/abs/0806.1280v1",
     "summary": "Crisis response poses many of the most difficult information technology in crisis management. It requires information and communication-intensive efforts, utilized for reducing uncertainty, calculating and comparing costs and benefits, and managing resources in a fashion beyond those regularly available to handle routine problems. In this paper, we explore the benefits of artificial intelligence technologies in crisis response. This paper discusses the role of artificial intelligence technologies; namely, robotics, ontology and semantic web, and multi-agent systems in crisis response.",
@@ -5334,6 +5327,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "The Future of Scientific Simulations: from Artificial Life to Artificial Cosmogenesis",
+    "link": "https://arxiv.org/abs/0803.1087v3",
+    "summary": "This philosophical paper explores the relation between modern scientific simulations and the future of the universe. We argue that a simulation of an entire universe will result from future scientific activity. This requires us to tackle the challenge of simulating open-ended evolution at all levels in a single simulation. The simulation should encompass not only biological evolution, but also physical evolution (a level below) and cultural evolution (a level above). The simulation would allow us to probe what would happen if we would \"replay the tape of the universe\" with the same or different laws and initial conditions. We also distinguish between real-world and artificial-world modelling. Assuming that intelligent life could indeed simulate an entire universe, this leads to two tentative hypotheses. Some authors have argued that we may already be in a simulation run by an intelligent entity. Or, if such a simulation could be made real, this would lead to the production of a new universe. This last direction is argued with a careful speculative philosophical approach, emphasizing the imperative to find a solution to the heat death problem in cosmology. The reader is invited to consult Annex 1 for an overview of the logical structure of this paper. -- Keywords: far future, future of science, ALife, simulation, realization, cosmology, heat death, fine-tuning, physical eschatology, cosmological natural selection, cosmological artificial selection, artificial cosmogenesis, selfish biocosm hypothesis, meduso-anthropic principle, developmental singularity hypothesis, role of intelligent life.",
+    "author": "Clement Vidal",
+    "published": "2008-03-07T14:42:02Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
   },
   {
     "title": "Questions to Guide the Future of Artificial Intelligence Research",
@@ -5351,6 +5354,16 @@
     "summary": "This paper presents an online system that leverages social media data in real time to identify landslide-related information automatically using state-of-the-art artificial intelligence techniques. The designed system can (i) reduce the information overload by eliminating duplicate and irrelevant content, (ii) identify landslide images, (iii) infer geolocation of the images, and (iv) categorize the user type (organization or person) of the account sharing the information. The system was deployed in February 2020 online at https://landslide-aidr.qcri.org/landslide_system.php to monitor live Twitter data stream and has been running continuously since then to provide time-critical information to partners such as British Geological Survey and European Mediterranean Seismological Centre. We trust this system can both contribute to harvesting of global landslide data for further research and support global landslide maps to facilitate emergency response and decision making.",
     "author": "Ferda Ofli, Umair Qazi, Muhammad Imran, Julien Roch, Catherine Pennington, Vanessa Banks, Remy Bossu",
     "published": "2022-02-14T14:24:57Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Artificial Intelligence Approaches To UCAV Autonomy",
+    "link": "https://arxiv.org/abs/1701.07103v1",
+    "summary": "This paper covers a number of approaches that leverage Artificial Intelligence algorithms and techniques to aid Unmanned Combat Aerial Vehicle (UCAV) autonomy. An analysis of current approaches to autonomous control is provided followed by an exploration of how these techniques can be extended and enriched with AI techniques including Artificial Neural Networks (ANN), Ensembling and Reinforcement Learning (RL) to evolve control strategies for UCAVs.",
+    "author": "Amir Husain, Bruce Porter",
+    "published": "2017-01-24T23:11:15Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5381,16 +5394,6 @@
     "summary": "Counterfactual explanations (CFEs) are a popular approach in explainable artificial intelligence (xAI), highlighting changes to input data necessary for altering a model's output. A CFE can either describe a scenario that is better than the factual state (upward CFE), or a scenario that is worse than the factual state (downward CFE). However, potential benefits and drawbacks of the directionality of CFEs for user behavior in xAI remain unclear. The current user study (N=161) compares the impact of CFE directionality on behavior and experience of participants tasked to extract new knowledge from an automated system based on model predictions and CFEs. Results suggest that upward CFEs provide a significant performance advantage over other forms of counterfactual feedback. Moreover, the study highlights potential benefits of mixed CFEs improving user performance compared to downward CFEs or no explanations. In line with the performance results, users' explicit knowledge of the system is statistically higher after receiving upward CFEs compared to downward comparisons. These findings imply that the alignment between explanation and task at hand, the so-called regulatory fit, may play a crucial role in determining the effectiveness of model explanations, informing future research directions in xAI. To ensure reproducible research, the entire code, underlying models and user data of this study is openly available: https://github.com/ukuhl/DirectionalAlienZoo",
     "author": "Ulrike Kuhl, André Artelt, Barbara Hammer",
     "published": "2023-06-13T09:16:38Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Artificial Intelligence Approaches To UCAV Autonomy",
-    "link": "https://arxiv.org/abs/1701.07103v1",
-    "summary": "This paper covers a number of approaches that leverage Artificial Intelligence algorithms and techniques to aid Unmanned Combat Aerial Vehicle (UCAV) autonomy. An analysis of current approaches to autonomous control is provided followed by an exploration of how these techniques can be extended and enriched with AI techniques including Artificial Neural Networks (ANN), Ensembling and Reinforcement Learning (RL) to evolve control strategies for UCAVs.",
-    "author": "Amir Husain, Bruce Porter",
-    "published": "2017-01-24T23:11:15Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5436,16 +5439,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Defining the Collective Intelligence Supply Chain",
-    "link": "https://arxiv.org/abs/1809.09444v1",
-    "summary": "Organisations are increasingly open to scrutiny, and need to be able to prove that they operate in a fair and ethical way. Accountability should extend to the production and use of the data and knowledge assets used in AI systems, as it would for any raw material or process used in production of physical goods. This paper considers collective intelligence, comprising data and knowledge generated by crowd-sourced workforces, which can be used as core components of AI systems. A proposal is made for the development of a supply chain model for tracking the creation and use of crowdsourced collective intelligence assets, with a blockchain based decentralised architecture identified as an appropriate means of providing validation, accountability and fairness.",
-    "author": "Iain Barclay, Alun Preece, Ian Taylor",
-    "published": "2018-09-25T12:57:30Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "前沿探索"
-  },
-  {
     "title": "Blockchain and Artificial Intelligence",
     "link": "https://arxiv.org/abs/1802.04451v2",
     "summary": "It is undeniable that artificial intelligence (AI) and blockchain concepts are spreading at a phenomenal rate. Both technologies have distinct degree of technological complexity and multi-dimensional business implications. However, a common misunderstanding about blockchain concept, in particular, is that blockchain is decentralized and is not controlled by anyone. But the underlying development of a blockchain system is still attributed to a cluster of core developers. Take smart contract as an example, it is essentially a collection of codes (or functions) and data (or states) that are programmed and deployed on a blockchain (say, Ethereum) by different human programmers. It is thus, unfortunately, less likely to be free of loopholes and flaws. In this article, through a brief overview about how artificial intelligence could be used to deliver bug-free smart contract so as to achieve the goal of blockchain 2.0, we to emphasize that the blockchain implementation can be assisted or enhanced via various AI techniques. The alliance of AI and blockchain is expected to create numerous possibilities.",
@@ -5464,6 +5457,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Defining the Collective Intelligence Supply Chain",
+    "link": "https://arxiv.org/abs/1809.09444v1",
+    "summary": "Organisations are increasingly open to scrutiny, and need to be able to prove that they operate in a fair and ethical way. Accountability should extend to the production and use of the data and knowledge assets used in AI systems, as it would for any raw material or process used in production of physical goods. This paper considers collective intelligence, comprising data and knowledge generated by crowd-sourced workforces, which can be used as core components of AI systems. A proposal is made for the development of a supply chain model for tracking the creation and use of crowdsourced collective intelligence assets, with a blockchain based decentralised architecture identified as an appropriate means of providing validation, accountability and fairness.",
+    "author": "Iain Barclay, Alun Preece, Ian Taylor",
+    "published": "2018-09-25T12:57:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
   },
   {
     "title": "Federated Artificial Intelligence for Unified Credit Assessment",
@@ -5606,11 +5609,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Neuro-Symbolic Artificial Intelligence: Current Trends",
-    "link": "https://arxiv.org/abs/2105.05330v2",
-    "summary": "Neuro-Symbolic Artificial Intelligence -- the combination of symbolic methods with methods that are based on artificial neural networks -- has a long-standing history. In this article, we provide a structured overview of current trends, by means of categorizing recent publications from key conferences. The article is meant to serve as a convenient starting point for research on the general topic.",
-    "author": "Md Kamruzzaman Sarker, Lu Zhou, Aaron Eberhart, Pascal Hitzler",
-    "published": "2021-05-11T20:11:57Z",
+    "title": "B-SMART: A Reference Architecture for Artificially Intelligent Autonomic Smart Buildings",
+    "link": "https://arxiv.org/abs/2211.03219v1",
+    "summary": "The pervasive application of artificial intelligence and machine learning algorithms is transforming many industries and aspects of the human experience. One very important industry trend is the move to convert existing human dwellings to smart buildings, and to create new smart buildings. Smart buildings aim to mitigate climate change by reducing energy consumption and associated carbon emissions. To accomplish this, they leverage artificial intelligence, big data, and machine learning algorithms to learn and optimize system performance. These fields of research are currently very rapidly evolving and advancing, but there has been very little guidance to help engineers and architects working on smart buildings apply artificial intelligence algorithms and technologies in a systematic and effective manner. In this paper we present B-SMART: the first reference architecture for autonomic smart buildings. B-SMART facilitates the application of artificial intelligence techniques and technologies to smart buildings by decoupling conceptually distinct layers of functionality and organizing them into an autonomic control loop. We also present a case study illustrating how B-SMART can be applied to accelerate the introduction of artificial intelligence into an existing smart building.",
+    "author": "Mikhail Genkin, J. J. McArthur",
+    "published": "2022-11-06T20:56:25Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5626,11 +5629,11 @@
     "module": "应用落地"
   },
   {
-    "title": "B-SMART: A Reference Architecture for Artificially Intelligent Autonomic Smart Buildings",
-    "link": "https://arxiv.org/abs/2211.03219v1",
-    "summary": "The pervasive application of artificial intelligence and machine learning algorithms is transforming many industries and aspects of the human experience. One very important industry trend is the move to convert existing human dwellings to smart buildings, and to create new smart buildings. Smart buildings aim to mitigate climate change by reducing energy consumption and associated carbon emissions. To accomplish this, they leverage artificial intelligence, big data, and machine learning algorithms to learn and optimize system performance. These fields of research are currently very rapidly evolving and advancing, but there has been very little guidance to help engineers and architects working on smart buildings apply artificial intelligence algorithms and technologies in a systematic and effective manner. In this paper we present B-SMART: the first reference architecture for autonomic smart buildings. B-SMART facilitates the application of artificial intelligence techniques and technologies to smart buildings by decoupling conceptually distinct layers of functionality and organizing them into an autonomic control loop. We also present a case study illustrating how B-SMART can be applied to accelerate the introduction of artificial intelligence into an existing smart building.",
-    "author": "Mikhail Genkin, J. J. McArthur",
-    "published": "2022-11-06T20:56:25Z",
+    "title": "Neuro-Symbolic Artificial Intelligence: Current Trends",
+    "link": "https://arxiv.org/abs/2105.05330v2",
+    "summary": "Neuro-Symbolic Artificial Intelligence -- the combination of symbolic methods with methods that are based on artificial neural networks -- has a long-standing history. In this article, we provide a structured overview of current trends, by means of categorizing recent publications from key conferences. The article is meant to serve as a convenient starting point for research on the general topic.",
+    "author": "Md Kamruzzaman Sarker, Lu Zhou, Aaron Eberhart, Pascal Hitzler",
+    "published": "2021-05-11T20:11:57Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5696,16 +5699,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Using Scratch to Teach Undergraduate Students' Skills on Artificial Intelligence",
-    "link": "https://arxiv.org/abs/1904.00296v1",
-    "summary": "This paper presents a educational workshop in Scratch that is proposed for the active participation of undergraduate students in contexts of Artificial Intelligence. The main objective of the activity is to demystify the complexity of Artificial Intelligence and its algorithms. For this purpose, students must realize simple exercises of clustering and two neural networks, in Scratch. The detailed methodology to get that is presented in the article.",
-    "author": "Julian Estevez, Gorka Garate, JM Lopez Guede, Manuel Graña",
-    "published": "2019-03-30T21:37:22Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "Artificial Intelligence in the Service of Entrepreneurial Finance: Knowledge Structure and the Foundational Algorithmic Paradigm",
     "link": "https://arxiv.org/abs/2311.13213v1",
     "summary": "While the application of Artificial Intelligence in Finance has a long tradition, its potential in Entrepreneurship has been intensively explored only recently. In this context, Entrepreneurial Finance is a particularly fertile ground for future Artificial Intelligence proliferation. To support the latter, the study provides a bibliometric review of Artificial Intelligence applications in (1) entrepreneurial finance literature, and (2) corporate finance literature with implications for Entrepreneurship. Rigorous search and screening procedures of the scientific database Web of Science Core Collection resulted in the identification of 1890 relevant journal articles subjected to analysis. The bibliometric analysis gives a rich insight into the knowledge field's conceptual, intellectual, and social structure, indicating nascent and underdeveloped research directions. As far as we were able to identify, this is the first study to map and bibliometrically analyze the academic field concerning the relationship between Artificial Intelligence, Entrepreneurship, and Finance, and the first review that deals with Artificial Intelligence methods in Entrepreneurship. According to the results, Artificial Neural Network, Deep Neural Network and Support Vector Machine are highly represented in almost all identified topic niches. At the same time, applying Topic Modeling, Fuzzy Neural Network and Growing Hierarchical Self-organizing Map is quite rare. As an element of the research, and before final remarks, the article deals as well with a discussion of certain gaps in the relationship between Computer Science and Economics. These gaps do represent problems in the application of Artificial Intelligence in Economic Science. As a way to at least in part remedy this situation, the foundational paradigm and the bespoke demonstration of the Monte Carlo randomized algorithm are presented.",
@@ -5724,6 +5717,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Using Scratch to Teach Undergraduate Students' Skills on Artificial Intelligence",
+    "link": "https://arxiv.org/abs/1904.00296v1",
+    "summary": "This paper presents a educational workshop in Scratch that is proposed for the active participation of undergraduate students in contexts of Artificial Intelligence. The main objective of the activity is to demystify the complexity of Artificial Intelligence and its algorithms. For this purpose, students must realize simple exercises of clustering and two neural networks, in Scratch. The detailed methodology to get that is presented in the article.",
+    "author": "Julian Estevez, Gorka Garate, JM Lopez Guede, Manuel Graña",
+    "published": "2019-03-30T21:37:22Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "基础设施与工具"
   },
   {
     "title": "Brain-inspired and Self-based Artificial Intelligence",
@@ -5836,21 +5839,21 @@
     "module": "应用落地"
   },
   {
-    "title": "On the Computability of Artificial General Intelligence",
-    "link": "https://arxiv.org/abs/2512.05212v1",
-    "summary": "In recent years we observed rapid and significant advancements in artificial intelligence (A.I.). So much so that many wonder how close humanity is to developing an A.I. model that can achieve human level of intelligence, also known as artificial general intelligence (A.G.I.). In this work we look at this question and we attempt to define the upper bounds, not just of A.I., but rather of any machine-computable process (a.k.a. an algorithm). To answer this question however, one must first precisely define A.G.I. We borrow prior work's definition of A.G.I. [1] that best describes the sentiment of the term, as used by the leading developers of A.I. That is, the ability to be creative and innovate in some field of study in a way that unlocks new and previously unknown functional capabilities in that field. Based on this definition we draw new bounds on the limits of computation. We formally prove that no algorithm can demonstrate new functional capabilities that were not already present in the initial algorithm itself. Therefore, no algorithm (and thus no A.I. model) can be truly creative in any field of study, whether that is science, engineering, art, sports, etc. In contrast, A.I. models can demonstrate existing functional capabilities, as well as combinations and permutations of existing functional capabilities. We conclude this work by discussing the implications of this proof both as it regards to the future of A.I. development, as well as to what it means for the origins of human intelligence.",
-    "author": "Georgios Mappouras, Charalambos Rossides",
-    "published": "2025-12-04T19:32:31Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "The Emerging Artificial Intelligence Protocol for Hierarchical Information Network",
     "link": "https://arxiv.org/abs/2302.09463v2",
     "summary": "The recent development of artificial intelligence enables a machine to achieve a human level of intelligence. Problem-solving and decision-making are two mental abilities to measure human intelligence. Many scholars have proposed different models. However, there is a gap in establishing an AI-oriented hierarchical model with a multilevel abstraction. This study proposes a novel model known as the emerged AI protocol that consists of seven distinct layers capable of providing an optimal and explainable solution for a given problem.",
     "author": "Caesar Wu, Pascal Bouvry",
     "published": "2023-02-19T02:56:50Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "On the Computability of Artificial General Intelligence",
+    "link": "https://arxiv.org/abs/2512.05212v1",
+    "summary": "In recent years we observed rapid and significant advancements in artificial intelligence (A.I.). So much so that many wonder how close humanity is to developing an A.I. model that can achieve human level of intelligence, also known as artificial general intelligence (A.G.I.). In this work we look at this question and we attempt to define the upper bounds, not just of A.I., but rather of any machine-computable process (a.k.a. an algorithm). To answer this question however, one must first precisely define A.G.I. We borrow prior work's definition of A.G.I. [1] that best describes the sentiment of the term, as used by the leading developers of A.I. That is, the ability to be creative and innovate in some field of study in a way that unlocks new and previously unknown functional capabilities in that field. Based on this definition we draw new bounds on the limits of computation. We formally prove that no algorithm can demonstrate new functional capabilities that were not already present in the initial algorithm itself. Therefore, no algorithm (and thus no A.I. model) can be truly creative in any field of study, whether that is science, engineering, art, sports, etc. In contrast, A.I. models can demonstrate existing functional capabilities, as well as combinations and permutations of existing functional capabilities. We conclude this work by discussing the implications of this proof both as it regards to the future of A.I. development, as well as to what it means for the origins of human intelligence.",
+    "author": "Georgios Mappouras, Charalambos Rossides",
+    "published": "2025-12-04T19:32:31Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5886,31 +5889,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Quantum Artificial Intelligence for the Science of Climate Change",
-    "link": "https://arxiv.org/abs/2108.10855v2",
-    "summary": "Climate change has become one of the biggest global problems increasingly compromising the Earth's habitability. Recent developments such as the extraordinary heat waves in California & Canada, and the devastating floods in Germany point to the role of climate change in the ever-increasing frequency of extreme weather. Numerical modelling of the weather and climate have seen tremendous improvements in the last five decades, yet stringent limitations remain to be overcome. Spatially and temporally localized forecasting is the need of the hour for effective adaptation measures towards minimizing the loss of life and property. Artificial Intelligence-based methods are demonstrating promising results in improving predictions, but are still limited by the availability of requisite hardware and software required to process the vast deluge of data at a scale of the planet Earth. Quantum computing is an emerging paradigm that has found potential applicability in several fields. In this opinion piece, we argue that new developments in Artificial Intelligence algorithms designed for quantum computers - also known as Quantum Artificial Intelligence (QAI) - may provide the key breakthroughs necessary to furthering the science of climate change. The resultant improvements in weather and climate forecasts are expected to cascade to numerous societal benefits.",
-    "author": "Manmeet Singh, Chirag Dhara, Adarsh Kumar, Sukhpal Singh Gill, Steve Uhlig",
-    "published": "2021-07-28T19:00:33Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Mathematics of natural intelligence",
     "link": "https://arxiv.org/abs/2512.10988v1",
     "summary": "In the process of evolution, the brain has achieved such perfection that artificial intelligence systems do not have and which needs its own mathematics. The concept of cognitome, introduced by the academician K.V. Anokhin, as the cognitive structure of the mind -- a high-order structure of the brain and a neural hypernetwork, is considered as the basis for modeling. Consciousness then is a special form of dynamics in this hypernetwork -- a large-scale integration of its cognitive elements. The cognitome, in turn, consists of interconnected COGs (cognitive groups of neurons) of two types -- functional systems and cellular ensembles. K.V. Anokhin sees the task of the fundamental theory of the brain and mind in describing these structures, their origin, functions and processes in them. The paper presents mathematical models of these structures based on new mathematical results, as well as models of different cognitive processes in terms of these models. In addition, it is shown that these models can be derived based on a fairly general principle of the brain works: \\textit{the brain discovers all possible causal relationships in the external world and draws all possible conclusions from them}. Based on these results, the paper presents models of: ``natural\" classification; theory of functional brain systems by P.K. Anokhin; prototypical theory of categorization by E. Roche; theory of causal models by Bob Rehter; theory of consciousness as integrated information by G. Tononi.",
     "author": "Evgenii Vityaev",
     "published": "2025-12-07T10:15:00Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Advances in Artificial Intelligence Require Progress Across all of Computer Science",
-    "link": "https://arxiv.org/abs/1707.04352v1",
-    "summary": "Advances in Artificial Intelligence require progress across all of computer science.",
-    "author": "Gregory D. Hager, Randal Bryant, Eric Horvitz, Maja Mataric, Vasant Honavar",
-    "published": "2017-07-13T23:11:18Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5926,14 +5909,24 @@
     "module": "前沿探索"
   },
   {
-    "title": "Lateralization in Agents' Decision Making: Evidence of Benefits/Costs from Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2302.01542v1",
-    "summary": "Lateralization is ubiquitous in vertebrate brains which, as well as its role in locomotion, is considered an important factor in biological intelligence. Lateralization has been associated with both poor and good performance. It has been hypothesized that lateralization has benefits that may counterbalance its costs. Given that lateralization is ubiquitous, it likely has advantages that can benefit artificial intelligence. In turn, lateralized artificial intelligent systems can be used as tools to advance the understanding of lateralization in biological intelligence. Recently lateralization has been incorporated into artificially intelligent systems to solve complex problems in computer vision and navigation domains. Here we describe and test two novel lateralized artificial intelligent systems that simultaneously represent and address given problems at constituent and holistic levels. The experimental results demonstrate that the lateralized systems outperformed state-of-the-art non-lateralized systems in resolving complex problems. The advantages arise from the abilities, (i) to represent an input signal at both the constituent level and holistic level simultaneously, such that the most appropriate viewpoint controls the system; (ii) to avoid extraneous computations by generating excite and inhibit signals. The computational costs associated with the lateralized AI systems are either less than the conventional AI systems or countered by providing better solutions.",
-    "author": "Abubakar Siddique, Will N. Browne, Gina M. Grimshaw",
-    "published": "2023-02-03T04:34:44Z",
+    "title": "Quantum Artificial Intelligence for the Science of Climate Change",
+    "link": "https://arxiv.org/abs/2108.10855v2",
+    "summary": "Climate change has become one of the biggest global problems increasingly compromising the Earth's habitability. Recent developments such as the extraordinary heat waves in California & Canada, and the devastating floods in Germany point to the role of climate change in the ever-increasing frequency of extreme weather. Numerical modelling of the weather and climate have seen tremendous improvements in the last five decades, yet stringent limitations remain to be overcome. Spatially and temporally localized forecasting is the need of the hour for effective adaptation measures towards minimizing the loss of life and property. Artificial Intelligence-based methods are demonstrating promising results in improving predictions, but are still limited by the availability of requisite hardware and software required to process the vast deluge of data at a scale of the planet Earth. Quantum computing is an emerging paradigm that has found potential applicability in several fields. In this opinion piece, we argue that new developments in Artificial Intelligence algorithms designed for quantum computers - also known as Quantum Artificial Intelligence (QAI) - may provide the key breakthroughs necessary to furthering the science of climate change. The resultant improvements in weather and climate forecasts are expected to cascade to numerous societal benefits.",
+    "author": "Manmeet Singh, Chirag Dhara, Adarsh Kumar, Sukhpal Singh Gill, Steve Uhlig",
+    "published": "2021-07-28T19:00:33Z",
     "tags": [],
     "source": "arXiv",
-    "module": "大模型与基础技术"
+    "module": "应用落地"
+  },
+  {
+    "title": "Advances in Artificial Intelligence Require Progress Across all of Computer Science",
+    "link": "https://arxiv.org/abs/1707.04352v1",
+    "summary": "Advances in Artificial Intelligence require progress across all of computer science.",
+    "author": "Gregory D. Hager, Randal Bryant, Eric Horvitz, Maja Mataric, Vasant Honavar",
+    "published": "2017-07-13T23:11:18Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "A Cyber Science Based Ontology for Artificial General Intelligence Containment",
@@ -5946,31 +5939,21 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "Lateralization in Agents' Decision Making: Evidence of Benefits/Costs from Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2302.01542v1",
+    "summary": "Lateralization is ubiquitous in vertebrate brains which, as well as its role in locomotion, is considered an important factor in biological intelligence. Lateralization has been associated with both poor and good performance. It has been hypothesized that lateralization has benefits that may counterbalance its costs. Given that lateralization is ubiquitous, it likely has advantages that can benefit artificial intelligence. In turn, lateralized artificial intelligent systems can be used as tools to advance the understanding of lateralization in biological intelligence. Recently lateralization has been incorporated into artificially intelligent systems to solve complex problems in computer vision and navigation domains. Here we describe and test two novel lateralized artificial intelligent systems that simultaneously represent and address given problems at constituent and holistic levels. The experimental results demonstrate that the lateralized systems outperformed state-of-the-art non-lateralized systems in resolving complex problems. The advantages arise from the abilities, (i) to represent an input signal at both the constituent level and holistic level simultaneously, such that the most appropriate viewpoint controls the system; (ii) to avoid extraneous computations by generating excite and inhibit signals. The computational costs associated with the lateralized AI systems are either less than the conventional AI systems or countered by providing better solutions.",
+    "author": "Abubakar Siddique, Will N. Browne, Gina M. Grimshaw",
+    "published": "2023-02-03T04:34:44Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Proceedings of the Twenty-Seventh Conference on Uncertainty in Artificial Intelligence (2011)",
     "link": "https://arxiv.org/abs/1205.2596v2",
     "summary": "This is the Proceedings of the Twenty-Seventh Conference on Uncertainty in Artificial Intelligence, which was held in Barcelona, Spain, July 14 - 17 2011.",
     "author": "Fabio Cozman, Avi Pfeffer",
     "published": "2012-05-11T18:35:50Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Artificial Intelligence and its impact on the Fourth Industrial Revolution: A Review",
-    "link": "https://arxiv.org/abs/2011.03044v1",
-    "summary": "Artificial Intelligence may revolutionize everything during the so-called fourth industrial revolution, which carries several emerging technologies and could progress without precedents in human history due to its speed and scope. Government, academia, industry, and civil society show interest in understanding the multidimensional impact of the emerging industrial revolution; however, its development is hard to predict. Experts consider emerging technologies could bring tremendous benefits to humanity; at the same time, they could pose an existential risk. This paper reviews the development and trends in AI, as well as the benefits, risks, and strategies in the field. During the course of the emerging industrial revolution, the common good may be achieved in a collaborative environment of shared interests and the hardest work will be the implementation and monitoring of projects at a global scale.",
-    "author": "Gissel Velarde",
-    "published": "2020-11-05T15:57:34Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ethics of Artificial Intelligence Demarcations",
-    "link": "https://arxiv.org/abs/1904.10239v2",
-    "summary": "In this paper we present a set of key demarcations, particularly important when discussing ethical and societal issues of current AI research and applications. Properly distinguishing issues and concerns related to Artificial General Intelligence and weak AI, between symbolic and connectionist AI, AI methods, data and applications are prerequisites for an informed debate. Such demarcations would not only facilitate much-needed discussions on ethics on current AI technologies and research. In addition sufficiently establishing such demarcations would also enhance knowledge-sharing and support rigor in interdisciplinary research between technical and social sciences.",
-    "author": "Anders Braarud Hanssen, Stefano Nichele",
-    "published": "2019-04-23T10:41:11Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5991,6 +5974,26 @@
     "summary": "This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21 2009.",
     "author": "Jeff Bilmes, Andrew Ng",
     "published": "2012-06-13T16:43:44Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Artificial Intelligence and its impact on the Fourth Industrial Revolution: A Review",
+    "link": "https://arxiv.org/abs/2011.03044v1",
+    "summary": "Artificial Intelligence may revolutionize everything during the so-called fourth industrial revolution, which carries several emerging technologies and could progress without precedents in human history due to its speed and scope. Government, academia, industry, and civil society show interest in understanding the multidimensional impact of the emerging industrial revolution; however, its development is hard to predict. Experts consider emerging technologies could bring tremendous benefits to humanity; at the same time, they could pose an existential risk. This paper reviews the development and trends in AI, as well as the benefits, risks, and strategies in the field. During the course of the emerging industrial revolution, the common good may be achieved in a collaborative environment of shared interests and the hardest work will be the implementation and monitoring of projects at a global scale.",
+    "author": "Gissel Velarde",
+    "published": "2020-11-05T15:57:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ethics of Artificial Intelligence Demarcations",
+    "link": "https://arxiv.org/abs/1904.10239v2",
+    "summary": "In this paper we present a set of key demarcations, particularly important when discussing ethical and societal issues of current AI research and applications. Properly distinguishing issues and concerns related to Artificial General Intelligence and weak AI, between symbolic and connectionist AI, AI methods, data and applications are prerequisites for an informed debate. Such demarcations would not only facilitate much-needed discussions on ethics on current AI technologies and research. In addition sufficiently establishing such demarcations would also enhance knowledge-sharing and support rigor in interdisciplinary research between technical and social sciences.",
+    "author": "Anders Braarud Hanssen, Stefano Nichele",
+    "published": "2019-04-23T10:41:11Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -6026,21 +6029,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Fusion Intelligence: Confluence of Natural and Artificial Intelligence for Enhanced Problem-Solving Efficiency",
-    "link": "https://arxiv.org/abs/2405.09763v1",
-    "summary": "This paper introduces Fusion Intelligence (FI), a bio-inspired intelligent system, where the innate sensing, intelligence and unique actuation abilities of biological organisms such as bees and ants are integrated with the computational power of Artificial Intelligence (AI). This interdisciplinary field seeks to create systems that are not only smart but also adaptive and responsive in ways that mimic the nature. As FI evolves, it holds the promise of revolutionizing the way we approach complex problems, leveraging the best of both biological and digital worlds to create solutions that are more effective, sustainable, and harmonious with the environment. We demonstrate FI's potential to enhance agricultural IoT system performance through a simulated case study on improving insect pollination efficacy (entomophily).",
-    "author": "Rohan Reddy Kalavakonda, Junjun Huan, Peyman Dehghanzadeh, Archit Jaiswal, Soumyajit Mandal, Swarup Bhunia",
-    "published": "2024-05-16T02:10:30Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Artificial Intelligence : from Research to Application ; the Upper-Rhine Artificial Intelligence Symposium (UR-AI 2019)",
     "link": "https://arxiv.org/abs/1903.08495v1",
     "summary": "The TriRhenaTech alliance universities and their partners presented their competences in the field of artificial intelligence and their cross-border cooperations with the industry at the tri-national conference 'Artificial Intelligence : from Research to Application' on March 13th, 2019 in Offenburg. The TriRhenaTech alliance is a network of universities in the Upper Rhine Trinational Metropolitan Region comprising of the German universities of applied sciences in Furtwangen, Kaiserslautern, Karlsruhe, and Offenburg, the Baden-Wuerttemberg Cooperative State University Loerrach, the French university network Alsace Tech (comprised of 14 'grandes écoles' in the fields of engineering, architecture and management) and the University of Applied Sciences and Arts Northwestern Switzerland. The alliance's common goal is to reinforce the transfer of knowledge, research, and technology, as well as the cross-border mobility of students.",
     "author": "Andreas Christ, Franz Quint",
     "published": "2019-03-20T13:18:15Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Fusion Intelligence: Confluence of Natural and Artificial Intelligence for Enhanced Problem-Solving Efficiency",
+    "link": "https://arxiv.org/abs/2405.09763v1",
+    "summary": "This paper introduces Fusion Intelligence (FI), a bio-inspired intelligent system, where the innate sensing, intelligence and unique actuation abilities of biological organisms such as bees and ants are integrated with the computational power of Artificial Intelligence (AI). This interdisciplinary field seeks to create systems that are not only smart but also adaptive and responsive in ways that mimic the nature. As FI evolves, it holds the promise of revolutionizing the way we approach complex problems, leveraging the best of both biological and digital worlds to create solutions that are more effective, sustainable, and harmonious with the environment. We demonstrate FI's potential to enhance agricultural IoT system performance through a simulated case study on improving insect pollination efficacy (entomophily).",
+    "author": "Rohan Reddy Kalavakonda, Junjun Huan, Peyman Dehghanzadeh, Archit Jaiswal, Soumyajit Mandal, Swarup Bhunia",
+    "published": "2024-05-16T02:10:30Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
