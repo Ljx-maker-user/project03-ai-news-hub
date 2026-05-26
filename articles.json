@@ -470,6 +470,37 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+    "link": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+    "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 Wireless headphones. They look very similar to their predecessors, the Momentum 4, with large ear cups and a design that doesn't [&#8230;]",
+    "author": "Andrew Liszewski",
+    "published": "2026-05-25T18:00:00-04:00",
+    "tags": [
+      "Audio",
+      "Gadgets",
+      "Headphones",
+      "News",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ferrari reveals its first EV, with design help from Jony Ive",
+    "link": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+    "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark Newson at their collective LoveFrom. It's also going to be Ferrari's second four-door car and its first [&#8230;]",
+    "author": "Adi Robertson",
+    "published": "2026-05-25T17:33:12-04:00",
+    "tags": [
+      "Electric Cars",
+      "News",
+      "Tech",
+      "Transportation"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Cox Media fined after bragging it spied on users through their phones",
     "link": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
     "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, and 1010 Digital Works would pay a total [&#8230;]",
@@ -589,38 +620,6 @@
       "Autonomous Cars",
       "Report",
       "Transportation"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "Record Club is trying to be Letterboxd for music nerds",
-    "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-    "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
-    "author": "Terrence O’Brien",
-    "published": "2026-05-23T18:41:11-04:00",
-    "tags": [
-      "Culture",
-      "Entertainment",
-      "Internet Culture",
-      "Music",
-      "News"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-    "link": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-    "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless records [&#8230;]",
-    "author": "Terrence O’Brien",
-    "published": "2026-05-23T11:00:00-04:00",
-    "tags": [
-      "Column",
-      "Entertainment",
-      "Interview",
-      "Music",
-      "Report"
     ],
     "source": "https://www.theverge.com",
     "module": "前沿探索"
@@ -765,21 +764,31 @@
     "module": "2025 年最热细分赛道"
   },
   {
-    "title": "Exit IP VPN servers mitigation rollout",
-    "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269580\">Comments</a>",
+    "title": "Using AI to write better code more slowly",
+    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272984\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 17:45:11 +0000",
+    "published": "Mon, 25 May 2026 23:16:59 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "California moves to exempt Linux from its age-verification law after backlash",
-    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269961\">Comments</a>",
+    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+    "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272670\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 18:19:58 +0000",
+    "published": "Mon, 25 May 2026 22:30:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How Shamir's Secret Sharing Works",
+    "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272715\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 22:37:24 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -795,31 +804,51 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Magnifica Humanitas",
-    "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265206\">Comments</a>",
+    "title": "Exit IP VPN servers mitigation rollout",
+    "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269580\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 10:11:29 +0000",
+    "published": "Mon, 25 May 2026 17:45:11 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "C extensions, portability, and alternative compilers",
-    "link": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267126\">Comments</a>",
+    "title": "Ferrari Luce",
+    "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271629\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 14:15:19 +0000",
+    "published": "Mon, 25 May 2026 21:00:38 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality",
-    "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270812\">Comments</a>",
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269961\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 19:43:45 +0000",
+    "published": "Mon, 25 May 2026 18:19:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Squares in Squares",
+    "link": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48257087\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 13:20:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Designing for and against the manufactured normalcy field (2012)",
+    "link": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273597\">Comments</a>",
+    "author": "",
+    "published": "Tue, 26 May 2026 00:36:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -835,41 +864,121 @@
     "module": "应用落地"
   },
   {
-    "title": "Jensen–Shannon Divergence",
-    "link": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48240356\">Comments</a>",
+    "title": "Does Anybody Actually Like React?",
+    "link": "https://jsx.lol",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48274077\">Comments</a>",
     "author": "",
-    "published": "Fri, 22 May 2026 19:27:27 +0000",
+    "published": "Tue, 26 May 2026 01:55:15 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "The bootstrapper's EU stack for under €10 per month",
-    "link": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270111\">Comments</a>",
+    "title": "Hacker News front page as a site",
+    "link": "https://thefrontpage.dev/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271127\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 18:37:05 +0000",
+    "published": "Mon, 25 May 2026 20:12:29 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Everyone Against Us (2023)",
-    "link": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212461\">Comments</a>",
+    "title": "Performance of Rust Language [pdf]",
+    "link": "https://github.com/yugr/rust-slides/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273147\">Comments</a>",
     "author": "",
-    "published": "Wed, 20 May 2026 19:02:53 +0000",
+    "published": "Mon, 25 May 2026 23:37:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-    "link": "https://www.trychert.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267829\">Comments</a>",
+    "title": "Show HN: Write your BPF programs in Go, not C",
+    "link": "https://github.com/boratanrikulu/gobee",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48225338\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 15:12:33 +0000",
+    "published": "Thu, 21 May 2026 16:25:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+    "link": "https://support.apple.com/en-us/127115",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273169\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 23:40:40 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Nobody cracks open a programming book anymore",
+    "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48273030\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 23:21:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What we lost when we stopped letting kids leave the front yard",
+    "link": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267290\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 14:29:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Comma and a Question Mark",
+    "link": "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48234091\">Comments</a>",
+    "author": "",
+    "published": "Fri, 22 May 2026 10:38:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+    "link": "https://github.com/tantara/openbrief",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272393\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 21:50:03 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "link": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48272354\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 21:45:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Mathematical Patterns in African American HAIRSTYLEs",
+    "link": "https://math.buffalo.edu/mad/special/gilmer-gloria_HAIRSTYLES.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48255631\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 08:39:09 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "C extensions, portability, and alternative compilers",
+    "link": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267126\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 14:15:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -885,51 +994,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-    "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48266906\">Comments</a>",
+    "title": "Jensen–Shannon Divergence",
+    "link": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48240356\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 13:56:39 +0000",
+    "published": "Fri, 22 May 2026 19:27:27 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-    "link": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265056\">Comments</a>",
+    "title": "Browser-based file encryption tool using WebCrypto",
+    "link": "https://secvant.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48274018\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 09:43:03 +0000",
+    "published": "Tue, 26 May 2026 01:45:33 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "CPPL: A Circuit Prompt Programming Language",
-    "link": "https://arxiv.org/abs/2605.17892",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48221122\">Comments</a>",
+    "title": "The Lottery – Shirley Jackson (1948)",
+    "link": "https://www.newyorker.com/magazine/1948/06/26/the-lottery",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48243010\">Comments</a>",
     "author": "",
-    "published": "Thu, 21 May 2026 11:50:56 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Yoti age checks share facial photos and device fingerprints with third parties",
-    "link": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271327\">Comments</a>",
-    "author": "",
-    "published": "Mon, 25 May 2026 20:30:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48243666\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 01:37:02 +0000",
+    "published": "Fri, 22 May 2026 23:49:52 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -945,121 +1034,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-    "link": "https://audiomass.co/?multitrack=1",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258015\">Comments</a>",
+    "title": "Yoti age checks share facial photos and device fingerprints with third parties",
+    "link": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48271327\">Comments</a>",
     "author": "",
-    "published": "Sun, 24 May 2026 15:25:43 +0000",
+    "published": "Mon, 25 May 2026 20:30:25 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
-    "link": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48266422\">Comments</a>",
+    "title": "Everyone Against Us (2023)",
+    "link": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48212461\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 13:09:53 +0000",
+    "published": "Wed, 20 May 2026 19:02:53 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256953\">Comments</a>",
+    "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+    "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48270812\">Comments</a>",
     "author": "",
-    "published": "Sun, 24 May 2026 13:02:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "He Lost It at the Movies",
-    "link": "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48218210\">Comments</a>",
-    "author": "",
-    "published": "Thu, 21 May 2026 05:22:07 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Migrating from Go to Rust",
-    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48259808\">Comments</a>",
-    "author": "",
-    "published": "Sun, 24 May 2026 18:31:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Alaska's oil revival sparks a new energy rush Into the Arctic",
-    "link": "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269971\">Comments</a>",
-    "author": "",
-    "published": "Mon, 25 May 2026 18:20:46 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The analog computer museum's online library",
-    "link": "https://www.analogmuseum.org/english/library.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48244547\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 04:04:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Bytecode VMs in surprising places (2024)",
-    "link": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236122\">Comments</a>",
-    "author": "",
-    "published": "Fri, 22 May 2026 14:12:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The physicists who convinced Fermilab to send Brazil's emails",
-    "link": "https://buttondown.com/blog/brazil-fermilab-email",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48219373\">Comments</a>",
-    "author": "",
-    "published": "Thu, 21 May 2026 08:06:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI errno(2) values",
-    "link": "https://www.netmeister.org/blog/ai-errno.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48236816\">Comments</a>",
-    "author": "",
-    "published": "Fri, 22 May 2026 14:56:57 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
-    "link": "https://www.tinyvolt.com/geomatic",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264635\">Comments</a>",
-    "author": "",
-    "published": "Mon, 25 May 2026 08:25:00 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-    "link": "https://ohwr.org/projects/white-rabbit/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48245916\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 08:38:44 +0000",
+    "published": "Mon, 25 May 2026 19:43:45 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1579,6 +1578,22 @@
     "module": "应用落地"
   },
   {
+    "title": "The seven best video doorbells in the UK tried and tested – and Ring isn’t top",
+    "link": "https://www.theguardian.com/thefilter/2024/nov/14/the-8-best-video-doorbells-tried-and-tested",
+    "summary": "<p>Whether you want to improve your home’s security or simply know who’s at the door, the latest generation of smart doorbells will help put your mind at ease</p><p><strong>• </strong><a href=\"https://www.theguardian.com/thefilter/2024/nov/26/best-robot-vacuum-mop\"><strong>The best robot vacuums, tested</strong></a></p><p>Doorbells have evolved. Today, they watch us as we approach, let the people inside the home know we’re coming sooner than our finger can hit the button, and give them a good look at our faces before they open the door. They’re essentially security cameras with a chime function.</p><p>If you haven’t already installed one of these handy tools, there’s a huge array available. Choosing the best video doorbell can be a bewildering task, with various factors to consider, including how much of your doorstep you want to see and whether you’re prepared to pay for a subscription. To help make the decision a little bit easier, I tested eight popular video doorbells to find the best.</p><p><strong>Best video doorbell overall: <br /></strong>Google Nest Doorbell (battery)</p><p><strong>Best budget video doorbell: </strong><br />\n Blink smart video doorbell with Sync Module 2</p> <a href=\"https://www.theguardian.com/thefilter/2024/nov/14/the-8-best-video-doorbells-tried-and-tested\">Continue reading...</a>",
+    "author": "Andy Shaw",
+    "published": "Wed, 20 May 2026 08:57:17 GMT",
+    "tags": [
+      "Technology",
+      "Homes",
+      "Life and style",
+      "Interiors",
+      "Gadgets"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "前沿探索"
+  },
+  {
     "title": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
     "link": "https://www.theguardian.com/technology/2026/may/20/sony-1000xx-the-collexion-headphones-review-supreme-comfort-quiet-luxury",
     "summary": "<p>Special anniversary edition of award-winning headphones are some of the best sounding you can buy, but cost far more than top Sony noise cancellers</p><p>Sony’s latest noise-cancelling headphones are a special anniversary set made to celebrate a decade of its prized 1000X series, designed to be plusher, slimmer, more comfortable and the best sounding yet.</p><p>The original 1000X launched in 2016, igniting a fierce rivalry with the dominant Bose and its <a href=\"https://www.theguardian.com/technology/2016/jun/21/bose-qc35-wireless-bluetooth-noise-cancelling-headphones-review\">QuietComfort line</a>, which would push noise-cancelling technology dramatically forward as each tried to outdo the other with subsequent releases.</p> <a href=\"https://www.theguardian.com/technology/2026/may/20/sony-1000xx-the-collexion-headphones-review-supreme-comfort-quiet-luxury\">Continue reading...</a>",
@@ -1629,25 +1644,6 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "前沿探索"
-  },
-  {
-    "title": "LifeHack review – old-school heist movie updated for the meme age",
-    "link": "https://www.theguardian.com/film/2026/may/14/lifehack-review-old-school-heist-updated-for-the-meme-age",
-    "summary": "<p>Ronan Corrigan levels up a thoroughly beta-tested narrative in this efficiently executed hacker-turned-thief split-screen thriller</p><p>This debut feature from Irish web-and-zeitgeist-surfer Ronan Corrigan continues its producer Timur Bekmambetov’s interest in fashioning entire movies out of virtual space, collaging as it does the screens of phones, laptops and PCs. Narratively, it plays like a web 2.0 update of Iain Softley’s 90s cult film Hackers: a quartet of heavily vaping, tech-savvy gamers decide to take their nightly shitposting to the next level by robbing an obnoxious crypto billionaire (Charlie Creed-Miles), whose motto is “I’m CEO, cunt”. Corrigan’s secret weapon is that his plot points have already been beta-tested offline, so what we’re watching is at source an old-school heist thriller with especially open coding.</p><p>Corrigan does, however, commit far more forcefully than any of his predecessors to this accelerationist digital aesthetic. He casts newish faces with the air of habitual phonecheckers; he establishes their innate restlessness and distractibility in frantically scrolling between tabs; and he pumps the leads’ squabbling banter through the same headset-filter one might strap on to play Call of Duty. Though the script – co-written by the director with Hope Elliott Kemp – wisely renames a bluff podcaster as “Joe Brogan”, these frames-within-frames resemble the real thing: the film’s meme game is strong (if that’s any kind of commendation for a motion picture), and there are no Google substitutes called ridiculous things like Search Rhino or InfoBuzz.</p> <a href=\"https://www.theguardian.com/film/2026/may/14/lifehack-review-old-school-heist-updated-for-the-meme-age\">Continue reading...</a>",
-    "author": "Mike McCahill",
-    "published": "Thu, 14 May 2026 06:00:19 GMT",
-    "tags": [
-      "Film",
-      "Thrillers",
-      "Crime films",
-      "Game culture",
-      "Hacking",
-      "Culture",
-      "Games",
-      "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
   },
   {
     "title": "Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?",
@@ -2195,82 +2191,93 @@
     "module": "应用落地"
   },
   {
-    "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
-    "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
-    "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
-    "author": "David Streitfeld and Natallie Rocha",
-    "published": "Tue, 19 May 2026 00:12:22 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Regulation and Deregulation of Industry",
-      "Courts and the Judiciary",
-      "Innovation",
-      "Decisions and Verdicts",
-      "Corporations",
-      "OpenAI Labs",
-      "Altman, Samuel H",
-      "Musk, Elon",
-      "Oakland (Calif)"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Your old Kindle tablet may have lost update support - but it can still be highly useful (for free)",
+    "link": "https://www.zdnet.com/article/amazon-kindle-ending-support-models-store/",
+    "summary": "Amazon just ended support for these Kindle ereaders and Fire tablets, making them unable to access the Kindle Store.",
+    "author": "",
+    "published": "Tue, 26 May 2026 02:00:36 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
-    "link": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
-    "summary": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
-    "author": "Eli Tan",
-    "published": "Tue, 19 May 2026 00:48:11 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Social Media",
-      "Layoffs and Job Reductions",
-      "Computers and the Internet",
-      "Meta Platforms Inc",
-      "Zuckerberg, Mark E"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Best Buy dropped this 64GB Kingston DDR5 RAM kit by nearly $200 - and I'd consider it",
+    "link": "https://www.zdnet.com/article/kingston-fury-beast-ddr5-ram-deal-memorial-day-2026/",
+    "summary": "The AI-pocalypse might finally have an end in sight with an almost $200 discount on this 64GB Kingston Fury Beast DDR5 RAM kit at Best Buy.",
+    "author": "",
+    "published": "Tue, 26 May 2026 01:22:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
-    "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
-    "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
-    "author": "Cade Metz and Mike Isaac",
-    "published": "Tue, 19 May 2026 22:26:41 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Decisions and Verdicts",
-      "Suits and Litigation (Civil)",
-      "OpenAI Labs",
-      "Altman, Samuel H",
-      "Brockman, Greg",
-      "Gonzalez Rogers, Yvonne (1965- )",
-      "Musk, Elon",
-      "Computers and the Internet",
-      "Oakland (Calif)",
-      "Nonprofit Organizations"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "This Windows tablet will outlast my iPad Pro in the mud and rain - but I can't take it seriously",
+    "link": "https://www.zdnet.com/article/getac-g14-windows-ai-tablet-review/",
+    "summary": "The Getac G140 puts power in the hands of fire & rescue, automotive, and utility workers.",
+    "author": "",
+    "published": "Tue, 26 May 2026 01:13:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
-    "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-    "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
-    "author": "Cade Metz",
-    "published": "Mon, 18 May 2026 22:45:53 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Suits and Litigation (Civil)",
-      "Decisions and Verdicts",
-      "Nonprofit Organizations",
-      "OpenAI Labs",
-      "Musk, Elon",
-      "Altman, Samuel H",
-      "Brockman, Greg"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Home Depot and Lowe's have slashed power tool deals by up to $400 off this Memorial Day",
+    "link": "https://www.zdnet.com/article/best-power-tool-deals-memorial-day-2026/",
+    "summary": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
+    "author": "",
+    "published": "Tue, 26 May 2026 01:11:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Considering plug-in solar? My expert advice after setting up the DIY energy tech at home",
+    "link": "https://www.zdnet.com/article/switch-to-plug-in-solar-my-advice-on-diy-energy-tech/",
+    "summary": "Government regulations remain a major obstacle for this emerging solar technology. Here's where plug-in solar is allowed - and where it isn't.",
+    "author": "",
+    "published": "Tue, 26 May 2026 01:00:45 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Best Buy discounted this Lenovo gaming laptop almost 50% for Memorial Day",
+    "link": "https://www.zdnet.com/article/lenovo-legion-pro-5-deal-memorial-day-2026/",
+    "summary": "Upgrade your gaming laptop with the Lenovo Legion Pro 5, and save some serious cash in the process.",
+    "author": "",
+    "published": "Tue, 26 May 2026 00:34:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "After wearing Sennheiser's Momentum 5, I'll never doubt the company's competitive edge again",
+    "link": "https://www.zdnet.com/article/sennheiser-momentum-5-review/",
+    "summary": "The Sennheiser Momentum 5 returns with several new features, but one major upgrade is what should catch your attention the most.",
+    "author": "",
+    "published": "Mon, 25 May 2026 22:00:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "This Alienware laptop is a gaming powerhouse, and it's $650 off right now",
+    "link": "https://www.zdnet.com/article/alienware-16-area51-memorial-day-deals-2026/",
+    "summary": "The Alienware 16 Area-51 is one of the most powerful gaming laptops on the market right now, and multiple configurations are on sale for Memorial Day.",
+    "author": "",
+    "published": "Mon, 25 May 2026 21:55:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The best Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
+    "link": "https://www.zdnet.com/article/best-memorial-day-laptop-deals-2026/",
+    "summary": "In the market for a new laptop? I've rounded up the best laptop deals live during Memorial Day.",
+    "author": "",
+    "published": "Mon, 25 May 2026 21:22:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
@@ -2379,96 +2386,6 @@
     "summary": "Traveling soon? Scoop up these nifty gadgets ahead of summer travels - and some are on sale for Memorial Day.",
     "author": "",
     "published": "Mon, 25 May 2026 16:04:47 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I found the best Memorial Day outdoor deals: Lawn mowers, power banks, and more",
-    "link": "https://www.zdnet.com/article/best-memorial-day-2026-outdoor-deals/",
-    "summary": "There are many great Memorial Day deals on everything you need to upgrade your outdoor space.",
-    "author": "",
-    "published": "Mon, 25 May 2026 15:48:54 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "14 cheap gadgets we've found to be highly useful (and most are on sale)",
-    "link": "https://www.zdnet.com/article/cheap-gadgets-memorial-day-2026/",
-    "summary": "Memorial Day sales are here, but I'd buy these inexpensive gadgets any time of year. Here's why.",
-    "author": "",
-    "published": "Mon, 25 May 2026 15:43:26 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "These are my favorite Home Depot and Lowe's power tool deals up to $400 off this Memorial Day",
-    "link": "https://www.zdnet.com/article/best-power-tool-deals-memorial-day-2026/",
-    "summary": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
-    "author": "",
-    "published": "Mon, 25 May 2026 15:27:35 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Best Buy and Amazon has dropped major SSDs prices - I found the best storage deals",
-    "link": "https://www.zdnet.com/article/best-memorial-day-2026-ssd-deals/",
-    "summary": "Retailers like Amazon and Best Buy are offering steep discounts on high-capacity SSDs for Memorial Day.",
-    "author": "",
-    "published": "Mon, 25 May 2026 15:22:40 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I found the best Memorial Day Walmart deals: Apple, Dyson, and more on sale",
-    "link": "https://www.zdnet.com/article/best-memorial-day-walmart-deals/",
-    "summary": "Memorial Day is here, and Walmart has slashed prices on top tech.",
-    "author": "",
-    "published": "Mon, 25 May 2026 15:16:30 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
-    "link": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
-    "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've found.",
-    "author": "",
-    "published": "Mon, 25 May 2026 15:04:29 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I found the best Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
-    "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
-    "summary": "Summer is almost here, and you can find deals on all things Apple with these Memorial Day sales.",
-    "author": "",
-    "published": "Mon, 25 May 2026 14:58:16 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The best Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
-    "link": "https://www.zdnet.com/article/best-memorial-day-laptop-deals-2026/",
-    "summary": "In the market for a new laptop? I've rounded up the best laptop deals live during Memorial Day.",
-    "author": "",
-    "published": "Mon, 25 May 2026 14:48:11 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I found the best Memorial Day phone deals: Save big on Samsung, Google, Apple and more",
-    "link": "https://www.zdnet.com/article/best-memorial-day-phones-deals-2026/",
-    "summary": "I've rounded up the best smartphone deals you can shop this Memorial Day. Discounts are live, so now is a great time to save.",
-    "author": "",
-    "published": "Mon, 25 May 2026 14:38:25 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2817,87 +2734,25 @@
     "module": "应用落地"
   },
   {
-    "title": "Huawei claims it will make cutting-edge semiconductors by 2031",
-    "link": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
-    "summary": "The company said its next-gen chips will be \"feasible and affordable.\"",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "published": "Mon, 25 May 2026 16:51:03 +0000",
+    "title": "Sennheiser's Momentum 5 headphones are all about the audio and ANC upgrades",
+    "link": "https://www.engadget.com/2177988/sennheiser-momentum-5-headphones-are-all-about-the-audio-and-anc-upgrades/",
+    "summary": "Sennheiser's latest Momentum headphones offer key audio and ANC improvements, including Dolby Atmos with head tracking.",
+    "author": "staff@engadget.com (Billy Steele)",
+    "published": "Mon, 25 May 2026 22:00:00 +0000",
     "tags": [
-      "Computing"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "AT&T, T-Mobile, and Verizon join forces to eliminate mobile coverage dead zones",
-    "link": "https://www.engadget.com/2172897/att-tmobile-and-verizon-join-forces-to-eliminate-mobile-coverage-dead-zones/",
-    "summary": "The rival carriers will pool resources to improve satellite capacity and boost connectivity in underserved areas.",
-    "author": "staff@engadget.com (Matt Tate)",
-    "published": "Thu, 14 May 2026 15:08:20 +0000",
-    "tags": [
-      "Mobile",
-      "Big Tech"
+      "News"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
   },
   {
-    "title": "Don't Touch the Snail is an anti-cozy game that takes permadeath to the next level",
-    "link": "https://www.engadget.com/2162157/dont-touch-the-snail-is-an-anti-cozy-game-that-takes-permadeath-to-the-next-level/",
-    "summary": "Once you die, you can never play again.",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Thu, 14 May 2026 14:00:00 +0000",
+    "title": "Ferrari Luce unveiled: Here's the first car from Jony Ive's design house",
+    "link": "https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/",
+    "summary": "Our first look at a complete version of Ferrari's upcoming luxury EV that was designed by LoveFrom.",
+    "author": "staff@engadget.com (Tim Stevens)",
+    "published": "Mon, 25 May 2026 20:10:00 +0000",
     "tags": [
-      "PC Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ultrahuman Ring Pro review: The future of smart rings looks a lot like its present",
-    "link": "https://www.engadget.com/2172740/ultrahuman-ring-pro-review/",
-    "summary": "The major innovations on the Ultrahuman Ring Pro are in its charging case.",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "published": "Thu, 14 May 2026 14:00:00 +0000",
-    "tags": [
-      "Wearables"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "We're going to be watching the Legend of Zelda movie sooner than expected",
-    "link": "https://www.engadget.com/2172782/were-going-to-be-watching-the-legend-of-zelda-movie-sooner-than-expected/",
-    "summary": "The Legend of Zelda is now landing in theaters on April 30.",
-    "author": "staff@engadget.com (Matt Tate)",
-    "published": "Thu, 14 May 2026 13:08:21 +0000",
-    "tags": [
-      "Nintendo",
-      "TV & Movies"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
-    "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
-    "summary": "The new models are now available, with prices starting at $1,270.",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "published": "Thu, 14 May 2026 13:00:00 +0000",
-    "tags": [
-      "Laptops"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Star Citizen has raised $1 billion, remains in early access after nine years",
-    "link": "https://www.engadget.com/2180552/star-citizen-has-raised-1-billion-remains-in-early-access-after-nine-years/",
-    "summary": "Single-player spin-off Squadron 42 is \"in the closing stages\" but doesn't have a release date either.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Mon, 25 May 2026 15:39:27 +0000",
-    "tags": [
-      "Gaming"
+      "EVs and Transportation"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2939,13 +2794,38 @@
     "module": "应用落地"
   },
   {
-    "title": "Tether will launch an 'official' stablecoin in Georgia tied to local currency",
-    "link": "https://www.engadget.com/2180540/tether-will-launch-an-official-stablecoin-in-georgia-tied-to-local-currency/",
-    "summary": "The new cryptocurrency will be called GELT and will represent the Georgian Lari.",
+    "title": "Epic Games reveals a first look at Unreal Engine 6 with a Rocket League makeover",
+    "link": "https://www.engadget.com/2180662/epic-games-reveals-first-look-at-unreal-engine-6-with-rocket-league-makeover/",
+    "summary": "We still don't have a release date for the new game engine.",
     "author": "staff@engadget.com (Jackson Chen)",
-    "published": "Mon, 25 May 2026 15:17:27 +0000",
+    "published": "Mon, 25 May 2026 18:06:59 +0000",
     "tags": [
-      "News"
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "We're going to be watching the Legend of Zelda movie sooner than expected",
+    "link": "https://www.engadget.com/2172782/were-going-to-be-watching-the-legend-of-zelda-movie-sooner-than-expected/",
+    "summary": "The Legend of Zelda is now landing in theaters on April 30.",
+    "author": "staff@engadget.com (Matt Tate)",
+    "published": "Thu, 14 May 2026 13:08:21 +0000",
+    "tags": [
+      "Nintendo",
+      "TV & Movies"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Dell's new 14S and 16S are the replacement for its old Plus models",
+    "link": "https://www.engadget.com/2172725/dell-14s-16-s-2026/",
+    "summary": "The new models are now available, with prices starting at $1,270.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Thu, 14 May 2026 13:00:00 +0000",
+    "tags": [
+      "Laptops"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2999,6 +2879,18 @@
     "module": "应用落地"
   },
   {
+    "title": "Huawei claims it will make cutting-edge semiconductors by 2031",
+    "link": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
+    "summary": "The company said its next-gen chips will be \"feasible and affordable.\"",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "published": "Mon, 25 May 2026 16:51:03 +0000",
+    "tags": [
+      "Computing"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "前沿探索"
+  },
+  {
     "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
     "link": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
     "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
@@ -3023,30 +2915,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Ferrari Luce unveiled: Here's the first car from Jony Ive's design house",
-    "link": "https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/",
-    "summary": "Our first look at a complete version of Ferrari's upcoming luxury EV that was designed by LoveFrom.",
-    "author": "staff@engadget.com (Tim Stevens)",
-    "published": "Mon, 25 May 2026 20:10:00 +0000",
-    "tags": [
-      "EVs and Transportation"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Epic Games reveals a first look at Unreal Engine 6 with a Rocket League makeover",
-    "link": "https://www.engadget.com/2180662/epic-games-reveals-first-look-at-unreal-engine-6-with-rocket-league-makeover/",
-    "summary": "We still don't have a release date for the new game engine.",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "published": "Mon, 25 May 2026 18:06:59 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
     "link": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
     "summary": "Copilot features are now available on Edge for mobile.",
@@ -3057,5 +2925,54 @@
     ],
     "source": "https://www.engadget.com",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "KitchenAid launches its first smart thermometer",
+    "link": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
+    "summary": "There are single and dual probe models available.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Wed, 13 May 2026 22:22:37 +0000",
+    "tags": [
+      "News"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Netflix's ad tier now has a whopping 250 million monthly users",
+    "link": "https://www.engadget.com/2172449/netflixs-ad-tier-now-has-a-whopping-250-million-monthly-users/",
+    "summary": "Advertising has become big business for the streamer.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Wed, 13 May 2026 21:21:27 +0000",
+    "tags": [
+      "Streaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Apple may open up the App Store to agentic AI",
+    "link": "https://www.engadget.com/2172378/apple-may-open-up-the-app-store-to-agentic-ai/",
+    "summary": "But doing so could threaten its bottom line.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Wed, 13 May 2026 20:28:01 +0000",
+    "tags": [
+      "AI",
+      "Apple"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Star Citizen has raised $1 billion, remains in early access after nine years",
+    "link": "https://www.engadget.com/2180552/star-citizen-has-raised-1-billion-remains-in-early-access-after-nine-years/",
+    "summary": "Single-player spin-off Squadron 42 is \"in the closing stages\" but doesn't have a release date either.",
+    "author": "staff@engadget.com (Kris Holt)",
+    "published": "Mon, 25 May 2026 15:39:27 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
   }
 ]
