@@ -763,6 +763,36 @@
     "module": "应用落地"
   },
   {
+    "title": "The Structural Barriers to AI Lawyers",
+    "link": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48228728\">Comments</a>",
+    "author": "",
+    "published": "Thu, 21 May 2026 20:51:36 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Melancholy of Slaying Monsters",
+    "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48284711\">Comments</a>",
+    "author": "",
+    "published": "Tue, 26 May 2026 19:25:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What Gets Kept",
+    "link": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258848\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 16:46:25 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Cloudflare Flagship",
     "link": "https://developers.cloudflare.com/flagship/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48287468\">Comments</a>",
@@ -773,7 +803,7 @@
     "module": "应用落地"
   },
   {
-    "title": "Chemistry behind the Garden Grove chemical tank",
+    "title": "That Methyl Methacrylate Tank",
     "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48284712\">Comments</a>",
     "author": "",
@@ -783,11 +813,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Where does next-token prediction leave us?",
-    "link": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288191\">Comments</a>",
+    "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+    "link": "https://badhost.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48277107\">Comments</a>",
     "author": "",
-    "published": "Wed, 27 May 2026 01:10:44 +0000",
+    "published": "Tue, 26 May 2026 09:07:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Cate v1.0 is out: The Infinite canvas workspace for developers",
+    "link": "https://github.com/0-AI-UG/cate",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48265470\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 10:57:57 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -803,7 +843,7 @@
     "module": "应用落地"
   },
   {
-    "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+    "title": "I built a Git-tracked book production pipeline",
     "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48238703\">Comments</a>",
     "author": "",
@@ -813,11 +853,71 @@
     "module": "应用落地"
   },
   {
-    "title": "The Forgotten Art of the LAN Party (2023)",
-    "link": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48250300\">Comments</a>",
+    "title": "The worst job interview I ever had",
+    "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48285344\">Comments</a>",
     "author": "",
-    "published": "Sat, 23 May 2026 19:01:13 +0000",
+    "published": "Tue, 26 May 2026 20:11:49 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Prompt Politeness Affects LLM Accuracy (2025)",
+    "link": "https://arxiv.org/abs/2510.04950",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48276429\">Comments</a>",
+    "author": "",
+    "published": "Tue, 26 May 2026 07:43:22 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A history of obituaries in American newspapers",
+    "link": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48260219\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 19:22:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+    "link": "https://tsduck.io/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288709\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 02:22:59 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "IBM Confidential: System/360 File Organization [video]",
+    "link": "https://www.youtube.com/watch?v=zokKqP0plrM",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48261120\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 21:21:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+    "link": "https://github.com/craigmccaskill/posthorn",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48289624\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 04:26:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+    "link": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256053\">Comments</a>",
+    "author": "",
+    "published": "Sun, 24 May 2026 10:17:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -833,36 +933,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Stripe is friendly to “friendly fraud”",
-    "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287982\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 00:40:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Erin Brockovich made a map to track data centers around the country",
-    "link": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287952\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 00:36:03 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Tunecat: Simple Internet Radio",
-    "link": "https://codeberg.org/lindenii/tunecat/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288174\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 01:08:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
     "link": "https://www.minicor.com/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48280729\">Comments</a>",
@@ -873,31 +943,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Big tech's anti-labor playbook has come for Wikipedia",
-    "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48285592\">Comments</a>",
+    "title": "Tunecat: Simple Internet Radio",
+    "link": "https://codeberg.org/lindenii/tunecat/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288174\">Comments</a>",
     "author": "",
-    "published": "Tue, 26 May 2026 20:33:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
-    "link": "https://gearcommit.nanocorp.app/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48288761\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 02:29:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "From Rust to Ruby",
-    "link": "https://xlii.space/eng/from-rust-to-ruby/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48286561\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 21:57:03 +0000",
+    "published": "Wed, 27 May 2026 01:08:16 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -943,6 +993,16 @@
     "module": "应用落地"
   },
   {
+    "title": "The Forgotten Art of the LAN Party (2023)",
+    "link": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48250300\">Comments</a>",
+    "author": "",
+    "published": "Sat, 23 May 2026 19:01:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "The Steinwinter Supercargo",
     "link": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48251709\">Comments</a>",
@@ -953,81 +1013,41 @@
     "module": "应用落地"
   },
   {
-    "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+    "title": "Erin Brockovich made a map to track data centers around the country",
+    "link": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287952\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 00:36:03 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Splinter Cell veteran says realistic modern lighting has screwed up stealth game",
+    "link": "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48263174\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 03:30:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Stripe is friendly to “friendly fraud”",
+    "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48287982\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 00:40:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Sonny Rollins, jazz saxophonist, has died",
     "link": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48287678\">Comments</a>",
     "author": "",
     "published": "Wed, 27 May 2026 00:03:04 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Use boring languages with LLMs",
-    "link": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48237012\">Comments</a>",
-    "author": "",
-    "published": "Fri, 22 May 2026 15:10:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Liverpool and Manchester Railway",
-    "link": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48258314\">Comments</a>",
-    "author": "",
-    "published": "Sun, 24 May 2026 15:56:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sage Care (YC S24) Is Hiring Software Engineers",
-    "link": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48282478\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 17:00:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The real cost of owning a home",
-    "link": "https://ericturner.dev/posts/cost-of-home-ownership/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48281611\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 16:04:39 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "C64 Basic: Game Map Overhead “Camera View”",
-    "link": "https://retrogamecoders.com/overhead-camera-view/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48279842\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 13:47:39 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Ballad of TIGIT",
-    "link": "https://www.owlposting.com/p/the-ballad-of-tigit",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48281367\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 15:47:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
-    "link": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48256053\">Comments</a>",
-    "author": "",
-    "published": "Sun, 24 May 2026 10:17:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1038,26 +1058,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48281515\">Comments</a>",
     "author": "",
     "published": "Tue, 26 May 2026 15:58:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-    "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48278610\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 12:08:33 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Opaque Types in Python",
-    "link": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247416\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 13:17:39 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -2115,6 +2115,26 @@
     "module": "应用落地"
   },
   {
+    "title": "Does Android Auto make your phone overheat? Try these 8 ways to cool it down",
+    "link": "https://www.zdnet.com/article/how-to-cool-down-phone-overheating-android-auto/",
+    "summary": "Android Auto uses a lot of resources, which can make your phone hot. Here's how to help.",
+    "author": "",
+    "published": "Wed, 27 May 2026 08:00:59 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "These 4 Android Auto settings made my daily commute less distracting - where to find them",
+    "link": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
+    "summary": "Using Android Auto can be as dangerous as using your phone while driving. Fortunately, these built-in safety features can make your rides much safer.",
+    "author": "",
+    "published": "Wed, 27 May 2026 08:00:43 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "I've tried so many Linux email clients - why Aerion just replaced Geary as my top pick",
     "link": "https://www.zdnet.com/article/aerion-my-new-favorite-email-client/",
     "summary": "A cross-platform app for Linux, MacOS and Windows, Aerion supports all the features I need, without any extra clutter.",
@@ -2293,26 +2313,6 @@
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
-  },
-  {
-    "title": "You can easily make Zorin OS look and feel like Windows, MacOS, or Linux - here's how",
-    "link": "https://www.zdnet.com/article/how-to-customize-zorin-os-linux-macos-windows/",
-    "summary": "Zorin OS is one of the most popular Linux distributions. One reason is its flexibility, which makes it easy to customize the desktop's look and feel.",
-    "author": "",
-    "published": "Tue, 26 May 2026 11:55:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "After years of testing robot mowers, I found the specs you can safely ignore (and which ones truly matter)",
-    "link": "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/",
-    "summary": "Robot mowers aren't one-size-fits-all devices - many have overhyped specs you don't even need. Here's what I recommend skipping.",
-    "author": "",
-    "published": "Tue, 26 May 2026 11:30:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "前沿探索"
   },
   {
     "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
@@ -2658,97 +2658,13 @@
     "module": "应用落地"
   },
   {
-    "title": "Sony abruptly shuts down online multiplayer game Destruction AllStars",
-    "link": "https://www.engadget.com/2181738/sony-abruptly-shuts-down-online-multiplayer-game-destruction-allstars/",
-    "summary": "Hope you weren't planning to queue up for the PS5 launch window title.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Tue, 26 May 2026 22:47:56 +0000",
+    "title": "Samsung unions voted in favor of deal that will give chip workers $400,000 in bonuses",
+    "link": "https://www.engadget.com/2181821/samsung-union-bonuses-vote-result/",
+    "summary": "Samsung workers almost went on an 18-day strike over bonuses. Now, chip workers are getting payouts of up to $400,000.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 27 May 2026 05:39:27 +0000",
     "tags": [
-      "PlayStation"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "May's PS Plus Game Catalog additions include Red Dead Redemption 2 and Star Wars Outlaws",
-    "link": "https://www.engadget.com/2172139/may-ps-plus-game-catalog-additions-red-dead-redemption-2-star-wars-outlaws/",
-    "summary": "Premium members are also getting the classic arcade shooter Time Crisis.",
-    "author": "staff@engadget.com (Matt Tate)",
-    "published": "Wed, 13 May 2026 16:54:59 +0000",
-    "tags": [
-      "PlayStation"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Several Overwatch heroes are about to hit Fortnite",
-    "link": "https://www.engadget.com/2172080/several-overwatch-heroes-are-about-to-hit-fortnite/",
-    "summary": "Epic Games might be doing more to mark Overwatch's 10th anniversary than Blizzard is.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Wed, 13 May 2026 16:09:14 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Elon Musk just can't stop (potentially) violating the Clean Air Act",
-    "link": "https://www.engadget.com/2172050/elon-musk-just-cant-stop-potentially-violating-the-clean-air-act/",
-    "summary": "xAI has reportedly added 19 more unpermitted methane gas turbines to its latest data center site.",
-    "author": "staff@engadget.com (Matt Tate)",
-    "published": "Wed, 13 May 2026 15:48:26 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "That awful gold Trump phone will reportedly ship this week",
-    "link": "https://www.engadget.com/2172010/that-awful-gold-trump-phone-will-reportedly-ship-this-week/",
-    "summary": "They were supposed to be made in the US, but instead were \"designed with American values in mind.\"",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Wed, 13 May 2026 15:13:23 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "WhatsApp users can soon have private conversations with Meta AI",
-    "link": "https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/",
-    "summary": "No one other than you will be able to read messages exchanged via Incognito Chat with Meta AI.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Wed, 13 May 2026 14:11:29 +0000",
-    "tags": [
-      "Meta"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sony's A7R VI blends speed with a 67MP stacked sensor",
-    "link": "https://www.engadget.com/2171889/sony-a7r-vi-blends-speed-with-a-67mp-stacked-sensor/",
-    "summary": "It can now shoot at a stellar 30 fps with no blackout and capture 8K 30p video.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Wed, 13 May 2026 14:00:00 +0000",
-    "tags": [
-      "Photography"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "NASA plans for up to three more lunar missions before the end of 2026",
-    "link": "https://www.engadget.com/2181710/nasa-plans-for-up-to-three-more-lunar-missions-before-the-end-of-2026/",
-    "summary": "The missions will deliver payloads to the lunar surface and test equipment from Blue Origin and Astrolab.",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "published": "Tue, 26 May 2026 22:04:25 +0000",
-    "tags": [
-      "Space"
+      "Samsung"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2802,13 +2718,97 @@
     "module": "应用落地"
   },
   {
-    "title": "SpaceX reportedly pressured the Pentagon into paying more for Starlink access",
-    "link": "https://www.engadget.com/2181419/spacex-reportedly-pressured-the-pentagon-into-paying-more-for-starlink-access/",
-    "summary": "SpaceX is reportedly jacking up Starlink prices for the Pentagon.",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "published": "Tue, 26 May 2026 18:12:53 +0000",
+    "title": "Sony abruptly shuts down online multiplayer game Destruction AllStars",
+    "link": "https://www.engadget.com/2181738/sony-abruptly-shuts-down-online-multiplayer-game-destruction-allstars/",
+    "summary": "Hope you weren't planning to queue up for the PS5 launch window title.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Tue, 26 May 2026 22:47:56 +0000",
+    "tags": [
+      "PlayStation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Denon Home 200, 400 and 600 review: Taking on Sonos",
+    "link": "https://www.engadget.com/2171196/denon-home-200-400-and-600-review-taking-on-sonos/",
+    "summary": "One of the best things these speakers have going for them is a reliable app.",
+    "author": "staff@engadget.com (Billy Steele)",
+    "published": "Wed, 13 May 2026 14:00:00 +0000",
+    "tags": [
+      "Home"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "You can now visit Amazon.com on big-screen Echo Show displays",
+    "link": "https://www.engadget.com/2171710/full-amazon-shop-echo-show/",
+    "summary": "The full Amazon experience is available on Echo Show 15 and 21.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 13 May 2026 13:00:00 +0000",
+    "tags": [
+      "Smart Home"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Amazon made a version of Alexa just for shopping",
+    "link": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
+    "summary": "Alexa for Shopping is an 'agentic AI assistant' for Amazon purchases",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 13 May 2026 13:00:00 +0000",
+    "tags": [
+      "Amazon"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Canon's full-frame R6 V vlogging camera shoots up to 7K RAW video",
+    "link": "https://www.engadget.com/2170679/canon-r6-v-full-frame-vlogging-camera/",
+    "summary": "It comes with a flip-out display and in-body stabilization, but no stacked sensor or electronic viewfinder.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Wed, 13 May 2026 13:00:00 +0000",
     "tags": [
       "News"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Sony's Xperia 1 VIII has bigger camera sensors and a new look",
+    "link": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/",
+    "summary": "Once again, Sony doesn't have plans to release it in the US.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 13 May 2026 10:11:33 +0000",
+    "tags": [
+      "Smartphones"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
+    "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
+    "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 13 May 2026 04:07:25 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "NASA plans for up to three more lunar missions before the end of 2026",
+    "link": "https://www.engadget.com/2181710/nasa-plans-for-up-to-three-more-lunar-missions-before-the-end-of-2026/",
+    "summary": "The missions will deliver payloads to the lunar surface and test equipment from Blue Origin and Astrolab.",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "published": "Tue, 26 May 2026 22:04:25 +0000",
+    "tags": [
+      "Space"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2863,13 +2863,13 @@
     "module": "应用落地"
   },
   {
-    "title": "SpaceX's Starlink will soon provide in-flight Wi-Fi for American Airlines",
-    "link": "https://www.engadget.com/2181390/spacexs-starlink-will-soon-provide-in-flight-wi-fi-for-american-airlines/",
-    "summary": "Starlink is coming to (some of) American Airline.",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Tue, 26 May 2026 17:52:56 +0000",
+    "title": "SpaceX reportedly pressured the Pentagon into paying more for Starlink access",
+    "link": "https://www.engadget.com/2181419/spacex-reportedly-pressured-the-pentagon-into-paying-more-for-starlink-access/",
+    "summary": "SpaceX is reportedly jacking up Starlink prices for the Pentagon.",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "published": "Tue, 26 May 2026 18:12:53 +0000",
     "tags": [
-      "EVs and Transportation"
+      "News"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
