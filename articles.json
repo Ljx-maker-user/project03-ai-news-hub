@@ -470,6 +470,21 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "The golden age of handheld gaming is already over",
+    "link": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+    "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a Steam Deck, agape that such a rich world could comfortably fit between my two hands. [&#8230;]",
+    "author": "Sean Hollister",
+    "published": "2026-05-28T02:30:23-04:00",
+    "tags": [
+      "Analysis",
+      "Gaming",
+      "PC Gaming",
+      "Report"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
     "link": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
     "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the outcome of these wagers before the trading public did because he had accessed Google's confidential, [&#8230;]",
@@ -604,25 +619,6 @@
     "tags": [
       "Gadgets",
       "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217;",
-    "link": "https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack",
-    "summary": "Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was \"unintended\" and has been \"promptly corrected.\" The company didn't explain how the error was introduced in the first place. \"Recently, Motorola acted quickly to resolve an issue that was identified, [&#8230;]",
-    "author": "Dominic Preston",
-    "published": "2026-05-27T12:42:46-04:00",
-    "tags": [
-      "Android",
-      "Gadgets",
-      "Google",
-      "Mobile",
-      "Motorola",
-      "News",
-      "Phones",
       "Tech"
     ],
     "source": "https://www.theverge.com",
@@ -766,16 +762,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Can we have the day off?",
-    "link": "https://mlsu.io/posts/day-off/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302745\">Comments</a>",
-    "author": "",
-    "published": "Thu, 28 May 2026 00:40:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "YouTube to automatically label AI-generated videos",
     "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48299753\">Comments</a>",
@@ -786,11 +772,51 @@
     "module": "应用落地"
   },
   {
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48305446\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 06:40:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I analysed 20 years of my chats",
+    "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302220\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 23:31:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Hallucinate – Massively Multiplayer Online Rave",
+    "link": "https://hallucinate.site",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48304260\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 03:50:01 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "I think Anthropic and OpenAI have found product-market fit",
     "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48296794\">Comments</a>",
     "author": "",
     "published": "Wed, 27 May 2026 16:39:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Our 2D game character grew 3% taller every time he walked",
+    "link": "https://hey.paris/posts/leo-sprite-alignment/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48264223\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 07:07:04 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -816,11 +842,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-    "link": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48267432\">Comments</a>",
+    "title": "The Green Side of the Lua",
+    "link": "https://arxiv.org/abs/2601.16670",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48262160\">Comments</a>",
     "author": "",
-    "published": "Mon, 25 May 2026 14:41:09 +0000",
+    "published": "Sun, 24 May 2026 23:44:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+    "link": "https://almartis.xyz/gpu-free-datacenter.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48269357\">Comments</a>",
+    "author": "",
+    "published": "Mon, 25 May 2026 17:28:03 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+    "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299638\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 19:52:49 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -846,41 +892,11 @@
     "module": "应用落地"
   },
   {
-    "title": "A New Typst Template for Pandoc",
-    "link": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48275255\">Comments</a>",
-    "author": "",
-    "published": "Tue, 26 May 2026 05:08:56 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299638\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 19:52:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Rust (and Slint) on a Jailbroken Kindle",
     "link": "https://sverre.me/blog/rust-on-kindle/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48299623\">Comments</a>",
     "author": "",
     "published": "Wed, 27 May 2026 19:51:47 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-    "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302151\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 23:23:29 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -896,11 +912,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Interleaved Deltas",
-    "link": "https://mmapped.blog/posts/51-interleaved-deltas",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48280356\">Comments</a>",
+    "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302151\">Comments</a>",
     "author": "",
-    "published": "Tue, 26 May 2026 14:30:21 +0000",
+    "published": "Wed, 27 May 2026 23:23:29 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A New Typst Template for Pandoc (2025)",
+    "link": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48275255\">Comments</a>",
+    "author": "",
+    "published": "Tue, 26 May 2026 05:08:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+    "link": "https://arxiv.org/abs/2510.04950",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48276429\">Comments</a>",
+    "author": "",
+    "published": "Tue, 26 May 2026 07:43:22 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -911,6 +947,26 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48302822\">Comments</a>",
     "author": "",
     "published": "Thu, 28 May 2026 00:49:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Can we have the day off?",
+    "link": "https://mlsu.io/posts/day-off/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48302745\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 00:40:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Warm up your MacBook (2019)",
+    "link": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48300342\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 20:42:01 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -946,41 +1002,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-    "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296994\">Comments</a>",
+    "title": "My new obsession: A horse-racing board game of pure luck",
+    "link": "https://alexanderbjoy.com/horse-race-board-game/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48268185\">Comments</a>",
     "author": "",
-    "published": "Wed, 27 May 2026 16:53:25 +0000",
+    "published": "Mon, 25 May 2026 15:45:04 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Mini Micro Fantasy Computer",
-    "link": "https://miniscript.org/MiniMicro/index.html#about",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291947\">Comments</a>",
+    "title": "Interleaved Deltas",
+    "link": "https://mmapped.blog/posts/51-interleaved-deltas",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48280356\">Comments</a>",
     "author": "",
-    "published": "Wed, 27 May 2026 09:56:02 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-    "link": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297467\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 17:24:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Last.fm is now independent",
-    "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48295892\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 15:36:09 +0000",
+    "published": "Tue, 26 May 2026 14:30:21 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -996,71 +1032,31 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "On Labubu and the Hyperreal",
-    "link": "https://2earth.github.io/website/20260525.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48299335\">Comments</a>",
+    "title": "Mini Micro Fantasy Computer",
+    "link": "https://miniscript.org/MiniMicro/index.html#about",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291947\">Comments</a>",
     "author": "",
-    "published": "Wed, 27 May 2026 19:31:47 +0000",
+    "published": "Wed, 27 May 2026 09:56:02 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Open-Source AI Racing Harness",
-    "link": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48300280\">Comments</a>",
+    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296994\">Comments</a>",
     "author": "",
-    "published": "Wed, 27 May 2026 20:37:42 +0000",
+    "published": "Wed, 27 May 2026 16:53:25 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Human Bottlenecks",
-    "link": "https://borretti.me/article/human-bottlenecks",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48254336\">Comments</a>",
+    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "link": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48297467\">Comments</a>",
     "author": "",
-    "published": "Sun, 24 May 2026 04:19:23 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48295679\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 15:20:47 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "All of human cooking compressed into 2 megabytes",
-    "link": "https://arxiv.org/abs/2605.22391",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291225\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 08:14:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
-    "link": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48247005\">Comments</a>",
-    "author": "",
-    "published": "Sat, 23 May 2026 12:11:47 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "基础设施与工具"
-  },
-  {
-    "title": "Private equity bought America's essential services",
-    "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48292941\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 12:00:53 +0000",
+    "published": "Wed, 27 May 2026 17:24:25 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1272,6 +1268,26 @@
     "module": "应用落地"
   },
   {
+    "title": "The strange surveilled life of Piper Rockelle: why did a former child influencer decide to go on OnlyFans?",
+    "link": "https://www.theguardian.com/media/2026/may/28/piper-rockelle-former-child-influencer-onlyfans",
+    "summary": "<p>She made millions as a tween and teenager by posting clips of herself and her friends on YouTube. Then the business collapsed amid acrimony. What does her success in the adult industry, at 18, say about surveillance, social media and sexualisation?</p><p>‘Honestly, the answer is kind of gross,” says Piper Rockelle, in a recent TikTok video, reflecting on why she is so popular on OnlyFans. In the clip, she fidgets her fingers and swings in her swivel chair. “It’s because I look so young. I mean, I am really young. I’m literally like fresh turned 18 … and people kind of like that, unfortunately.”</p><p>This is an accurate and honest assessment. At the end of last year, not long after turning 18, the former child star and teen influencer began an online countdown, telling her millions of followers on TikTok and Instagram that she would be launching herself on OnlyFans on 1 January. Every day or so since, she has posted pictures of herself on the platform, sometimes posing in a typical teenager’s bedroom – a pink cuddly stuffed pig on the bed behind her, fairy lights on the wall – wearing teddy-bear-themed pants and bras, or fluffy underwear decorated with bunny-rabbit faces and floppy ears.</p> <a href=\"https://www.theguardian.com/media/2026/may/28/piper-rockelle-former-child-influencer-onlyfans\">Continue reading...</a>",
+    "author": "Amelia Gentleman",
+    "published": "Thu, 28 May 2026 04:00:54 GMT",
+    "tags": [
+      "Digital media",
+      "Young people",
+      "Society",
+      "TikTok",
+      "Pornography",
+      "Technology",
+      "Internet",
+      "Instagram",
+      "Media"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "The best fans to keep you cool in 2026 – tried and tested",
     "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
     "summary": "<p>As temperatures soar across the UK, chill your space – and avoid energy-guzzling aircon – with our pick of the best fans, from tower to desk to bladeless</p><p><strong>• </strong><a href=\"https://www.theguardian.com/thefilter/2025/aug/12/best-portable-neck-handheld-fans-uk\"><strong>The best portable neck and handheld fans</strong></a></p><p>Our world is getting <a href=\"https://www.theguardian.com/environment/2026/may/20/uk-built-for-climate-that-no-longer-exists-and-needs-urgent-changes-to-survive-global-heating-report-warns\">hotter</a>. Summer heatwaves are so frequent, they’re stretching the bounds of what we think of as summer. Hot-and-bothered home working and sweaty, sleepless nights are now alarmingly common.</p><p>Get a good fan and you can dodge the temptation of air conditioning. Aircon is incredibly effective, but it uses a lot of electricity … and burning fossil fuels is how we got into this mess in the first place. Save money and carbon by opting for a great fan instead.</p><p><strong>Best quiet fan for the bedroom and best overall:<br /></strong>AirCraft Lume</p><p><strong>Best fan for cooling:<br /></strong>Dreo TurboCool misting fan 765S</p> <a href=\"https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk\">Continue reading...</a>",
@@ -1317,26 +1333,6 @@
       "Apps",
       "Technology",
       "Science"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘A tsunami of harm’: views on tackling online safety for under-16s in the UK",
-    "link": "https://www.theguardian.com/uk-news/2026/may/26/views-on-tackling-online-safety-under-16s-social-media-consultation",
-    "summary": "<p>Campaigners, teenagers, legislators and experts give their opinions on the government’s social media consultation </p><p>Change is coming for social media platforms. The UK government’s consultation on <a href=\"https://www.theguardian.com/uk-news/2026/may/05/how-uk-may-restrict-social-media-under-16s-time-limits-curfews-ban\">improving online safety for children</a> will result in some form of action being taken against big tech. Even before the deadline for submissions has passed, ministers have pledged to introduce an Australia-style social media ban for under-16s or restrictions on “addictive” features such as infinite scrolling.</p><p>There is overwhelming pressure from safety campaigners and MPs for a further crackdown on social media platforms, despite the introduction of the Online Safety Act, which requires tech firms to shield children from harmful content. The deadline for contributions is Tuesday night and the government has promised to act swiftly.</p> <a href=\"https://www.theguardian.com/uk-news/2026/may/26/views-on-tackling-online-safety-under-16s-social-media-consultation\">Continue reading...</a>",
-    "author": "Dan Milmo, Priya Bharadia and Josh Taylor",
-    "published": "Mon, 25 May 2026 23:01:38 GMT",
-    "tags": [
-      "Social media ban",
-      "Social media",
-      "Internet safety",
-      "Children",
-      "Politics",
-      "UK news",
-      "Technology",
-      "Society",
-      "Media"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1561,6 +1557,24 @@
     "module": "应用落地"
   },
   {
+    "title": "Backrooms review – Kane Parsons’ icily disturbing horror rewrites the genre rulebook",
+    "link": "https://www.theguardian.com/film/2026/may/27/backrooms-review-kane-parsons-icily-disturbing-horror-rewrites-the-genre-rulebook",
+    "summary": "<p>Debut from 20-year-old director examines memory, reality and fear after Chiwetel Ejiofor accesses an infinite series of hidden rooms that all feel creepily askew</p><p>All the lonely people … where do they all belong? YouTuber Kane Parsons makes his feature directing debut with this <a href=\"https://www.theguardian.com/film/2026/may/15/are-you-sitting-uncomfortably-how-backrooms-upended-the-horror-movie\">icily brilliant and genuinely disturbing conceptual horror film based on his web series</a>, and scripted by Will Soodik. There is something here of J-horror, the V/H/S found footage franchise, Dan Erickson’s Severance and Nathan Fielder’s The Rehearsal. It’s about people walled up in their own memories, imprisoned in endlessly remembered scenes from their past, or miserably perceived versions of their present existences in which they have become caricatures of themselves, gargoyle stars of their paralysed inner world of failure. Or perhaps the action of the film is not metaphorical in this or any other sense, and the “backrooms” of the title simply exist.</p><p>Chiwetel Ejiofor and Renate Reinsve give barnstormingly good performances as Clark and Mary; it is the early 90s and Clark is a failed architect, separated from his wife, and an alcoholic who to make ends meet self-hatingly manages a drearily and eerily vast discount furniture store, called Cap’n Clark’s Ottoman Empire. He does dumb TV ads dressed as a pirate while uneasily aware he should be a sultan to make the “Ottoman empire” pun work. He goes to see a therapist, Mary, a sad, gentle person who markets her own self-help audio tapes and is haunted by childhood memories of her abusive mother.</p> <a href=\"https://www.theguardian.com/film/2026/may/27/backrooms-review-kane-parsons-icily-disturbing-horror-rewrites-the-genre-rulebook\">Continue reading...</a>",
+    "author": "Peter Bradshaw",
+    "published": "Wed, 27 May 2026 11:14:44 GMT",
+    "tags": [
+      "Film",
+      "Horror films",
+      "YouTube",
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Culture",
+      "Technology"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "What We Ask Google by Simon Rogers review – the secrets of our search history",
     "link": "https://www.theguardian.com/books/2026/may/27/what-we-ask-google-by-simon-rogers-review-the-secrets-of-our-search-history",
     "summary": "<p>The company’s data editor trawls through billions of queries to deliver a portrait of the world’s preoccupations</p><p>As anyone who has procreated this century knows, childrearing involves daily rounds of online searching. The most common parenting-related queries feature in What We Ask Google, a valiant attempt by the search giant’s data editor Simon Rogers to create a “surprisingly hopeful picture of humankind” (that’s the subtitle) from searches performed over the past two decades. “Why do babies get hiccups?” we ask. “When do babies teethe?” “Why do toddlers bite?” “How do you know if your child has ADHD?” “How to tell kids about divorce?”</p><p>Since 2006, engineers have used Google Trends to make sense of common (and anonymised) queries like these, going back as far as 2004, when phones were dumb and less than half of UK households had internet access. Rogers, a British former Guardian journalist based in California, views the results as a kind of social mirror.</p> <a href=\"https://www.theguardian.com/books/2026/may/27/what-we-ask-google-by-simon-rogers-review-the-secrets-of-our-search-history\">Continue reading...</a>",
@@ -1609,16 +1623,18 @@
     "module": "应用落地"
   },
   {
-    "title": "Nothing Phone 4a Pro review: premium aluminium meets quirky design",
-    "link": "https://www.theguardian.com/technology/2026/may/18/nothing-phone-4a-pro-review-premium-aluminium-quirky-design",
-    "summary": "<p>Mid-range Android stands out with huge screen, slick software and dot-matrix display, but falls just short of greatness</p><p>Nothing’s latest quirky smartphone is a huge aluminium Android with three cameras and a big LED matrix screen on the back that challenges the notion mid-range phones can’t be just a bit more fun.</p><p>The Phone 4a Pro is a bit of a departure from UK-based Nothing’s previous glass-clad <a href=\"https://www.theguardian.com/technology/2023/jul/14/nothing-phone-2-review-novel-mobile-is-more-than-just-flashing-lights\">transparent designs</a>. It still has a touch of those elements but only in the camera island at the top, with the rest of the body now solid aluminium – a rare sight in the world of Android phones.</p> <a href=\"https://www.theguardian.com/technology/2026/may/18/nothing-phone-4a-pro-review-premium-aluminium-quirky-design\">Continue reading...</a>",
-    "author": "Samuel Gibbs Consumer technology editor",
-    "published": "Mon, 18 May 2026 06:00:01 GMT",
+    "title": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
+    "link": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
+    "summary": "<p>Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’</p><p>Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit.</p><p>“There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though his new studio, Primordial Soup, at a time when artificial intelligence has become one of the film industry’s most divisive fault lines.</p> <a href=\"https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes\">Continue reading...</a>",
+    "author": "Nadia Khomami Arts and culture correspondent",
+    "published": "Sun, 24 May 2026 05:00:48 GMT",
     "tags": [
-      "Smartphones",
-      "Android",
-      "Mobile phones",
-      "Technology"
+      "AI (artificial intelligence)",
+      "Cannes film festival",
+      "Film",
+      "Culture",
+      "Technology",
+      "Computing"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1679,27 +1695,6 @@
       "Computing",
       "Technology",
       "Business"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era",
-    "link": "https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood",
-    "summary": "<p>Defying criticisms of ‘slop’ and ‘theft’, the growing culture of AI-powered creativity is attracting interest from Hollywood</p><p>In a former hemstitching workshop where artisans sewed pleats for Stockholm’s 19th-century bourgeoisie, a distinctly 21st-century craft is taking root: AI film-making.</p><p>One day last week, an actor, director and composer squeezed into a tiny studio booth to record a voiceover for their next AI release. Critics disparage AI movies as “automated slop” or cheating, and fume at what they claim to be industrial-scale copyright theft. But this had a distinctly homespun feel, the little team fussing over a monologue by a poetic Scottish gorilla inhabiting a transhumanist cyberpunk universe. It was a bit like recording the Archers, one of them joked.</p> <a href=\"https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood\">Continue reading...</a>",
-    "author": "Robert Booth in Stockholm",
-    "published": "Thu, 14 May 2026 09:00:22 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Film industry",
-      "Sweden",
-      "Technology",
-      "Film",
-      "Media",
-      "Social media",
-      "Instagram",
-      "Digital media",
-      "YouTube"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -2655,6 +2650,31 @@
     "module": "应用落地"
   },
   {
+    "title": "Samsung is testing Galaxy Watch 8 to prevent muscle loss on GLP-1s like Ozempic",
+    "link": "https://www.engadget.com/2182683/samsung-study-galaxy-watch-8-glp1-ozempic/",
+    "summary": "Samsung has teamed up with diabetes experts at Massachusetts General Hospital to see how Galaxy Watch 8 can help prevent muscle loss in GLP-1 patients.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Thu, 28 May 2026 07:07:13 +0000",
+    "tags": [
+      "News",
+      "Wearables"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How to get wired internet without running ethernet cables",
+    "link": "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls/",
+    "summary": "Advances in adapters mean you could ditch Wi-Fi for better performance.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Wed, 27 May 2026 15:30:00 +0000",
+    "tags": [
+      "Accessories"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Last.fm goes independent after breaking up with Paramount Skydance",
     "link": "https://www.engadget.com/2182644/lastfm-independent-company-cbs-paramount-skydance/",
     "summary": "Last.fm is now an independent company, nearly two decades after it was acquired by CBS.",
@@ -2827,18 +2847,6 @@
     "module": "应用落地"
   },
   {
-    "title": "How to get wired internet without running ethernet cables",
-    "link": "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls/",
-    "summary": "Advances in adapters mean you could ditch Wi-Fi for better performance.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Wed, 27 May 2026 15:30:00 +0000",
-    "tags": [
-      "Accessories"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "ASUS ROG Zephyrus Duo review: Outrageously expensive, totally awesome",
     "link": "https://www.engadget.com/2182030/asus-rog-zephyrus-duo-review/",
     "summary": "The ASUS ROG Zephyrus Duo is a gamer's dream machine, but its price is a nightmare.",
@@ -2847,6 +2855,18 @@
     "tags": [
       "Laptops & PCs",
       "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "GoPro Mission 1 Pro review: The best action cam video quality comes at a high price",
+    "link": "https://www.engadget.com/2180965/gopro-mission-1-pro-review/",
+    "summary": "GoPro's Mission 1 Pro action cam has a big 1-inch sensor that offers sharp, color accurate 8K 60 fps and 4K 240 fps video.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Tue, 26 May 2026 13:10:04 +0000",
+    "tags": [
+      "Photography"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2866,18 +2886,6 @@
     "module": "应用落地"
   },
   {
-    "title": "GoPro Mission 1 Pro review: The best action cam video quality comes at a high price",
-    "link": "https://www.engadget.com/2180965/gopro-mission-1-pro-review/",
-    "summary": "GoPro's Mission 1 Pro action cam has a big 1-inch sensor that offers sharp, color accurate 8K 60 fps and 4K 240 fps video.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Tue, 26 May 2026 13:10:04 +0000",
-    "tags": [
-      "Photography"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Fitbit Air review: Health tracking for the AI generation",
     "link": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
     "summary": "The Fitbit Air is a serious rival to Whoop and other screenless wearable trackers thanks to its solid hardware, comprehensive software and competitive pricing.",
@@ -2885,18 +2893,6 @@
     "published": "Tue, 26 May 2026 13:00:00 +0000",
     "tags": [
       "Wearables"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ferrari Luce unveiled: Here's the first car from Jony Ive's design house",
-    "link": "https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/",
-    "summary": "Our first look at a complete version of Ferrari's upcoming luxury EV that was designed by LoveFrom.",
-    "author": "staff@engadget.com (Tim Stevens)",
-    "published": "Mon, 25 May 2026 20:10:00 +0000",
-    "tags": [
-      "EVs and Transportation"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
