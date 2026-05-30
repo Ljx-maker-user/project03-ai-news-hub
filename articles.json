@@ -760,21 +760,51 @@
     "module": "应用落地"
   },
   {
-    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-    "link": "https://www.perryts.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48332151\">Comments</a>",
-    "author": "",
-    "published": "Sat, 30 May 2026 03:14:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "SQLite is all you need for durable workflows",
     "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48326802\">Comments</a>",
     "author": "",
     "published": "Fri, 29 May 2026 17:54:50 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Zig: Build System Reworked",
+    "link": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48334048\">Comments</a>",
+    "author": "",
+    "published": "Sat, 30 May 2026 08:38:28 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+    "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48333820\">Comments</a>",
+    "author": "",
+    "published": "Sat, 30 May 2026 08:00:20 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Algebraic Effects for the Rest of Us",
+    "link": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48283009\">Comments</a>",
+    "author": "",
+    "published": "Tue, 26 May 2026 17:38:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+    "link": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48334283\">Comments</a>",
+    "author": "",
+    "published": "Sat, 30 May 2026 09:18:49 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -790,16 +820,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Math-to-Manim",
-    "link": "https://github.com/HarleyCoops/Math-To-Manim",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48293119\">Comments</a>",
-    "author": "",
-    "published": "Wed, 27 May 2026 12:18:19 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Notes from the Mistral AI Now Summit",
     "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48325340\">Comments</a>",
@@ -810,11 +830,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Naphtha shortages in Japan",
-    "link": "https://www.nippon.com/en/japan-data/h02783/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331786\">Comments</a>",
+    "title": "Quantum dot qubit using High NA EUV lithography",
+    "link": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48291648\">Comments</a>",
     "author": "",
-    "published": "Sat, 30 May 2026 02:20:40 +0000",
+    "published": "Wed, 27 May 2026 09:15:22 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What It Takes to Preserve Floppy Disks",
+    "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48303623\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 02:23:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -840,11 +870,31 @@
     "module": "应用落地"
   },
   {
-    "title": "What It Takes to Preserve Floppy Disks",
-    "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48303623\">Comments</a>",
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "link": "https://www.perryts.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48332151\">Comments</a>",
     "author": "",
-    "published": "Thu, 28 May 2026 02:23:31 +0000",
+    "published": "Sat, 30 May 2026 03:14:25 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A new register allocator for ZJIT",
+    "link": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296946\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 16:50:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Iron-rich immune cells help homing pigeons navigate",
+    "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48333844\">Comments</a>",
+    "author": "",
+    "published": "Sat, 30 May 2026 08:04:57 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -858,6 +908,16 @@
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "前沿探索"
+  },
+  {
+    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 14:13:00 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
   },
   {
     "title": "It's hard to justify buying a Framework 12",
@@ -880,21 +940,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>",
+    "title": "Naphtha shortages in Japan",
+    "link": "https://www.nippon.com/en/japan-data/h02783/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331786\">Comments</a>",
     "author": "",
-    "published": "Thu, 28 May 2026 14:13:00 +0000",
+    "published": "Sat, 30 May 2026 02:20:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-    "link": "https://github.com/jmaczan/tiny-vllm",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48328184\">Comments</a>",
+    "title": "Floor and Ceil versus Denormals on CPU and GPU",
+    "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48279499\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 19:38:27 +0000",
+    "published": "Tue, 26 May 2026 13:22:13 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "基础设施与工具"
@@ -910,11 +970,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-    "link": "https://github.com/secluso/core",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330192\">Comments</a>",
+    "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+    "link": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48333096\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 22:32:29 +0000",
+    "published": "Sat, 30 May 2026 06:00:32 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -930,41 +990,21 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Bijou64: A variable-length integer encoding",
-    "link": "https://www.inkandswitch.com/tangents/bijou64/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48323992\">Comments</a>",
+    "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+    "link": "https://github.com/jmaczan/tiny-vllm",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48328184\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 15:03:32 +0000",
+    "published": "Fri, 29 May 2026 19:38:27 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "应用落地"
+    "module": "基础设施与工具"
   },
   {
-    "title": "A new register allocator for ZJIT",
-    "link": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296946\">Comments</a>",
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "link": "https://github.com/secluso/core",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330192\">Comments</a>",
     "author": "",
-    "published": "Wed, 27 May 2026 16:50:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What Is a Dickover?",
-    "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330882\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 23:54:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ember.js 7.0",
-    "link": "https://blog.emberjs.com/ember-released-7-0/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330902\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 23:57:45 +0000",
+    "published": "Fri, 29 May 2026 22:32:29 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -980,21 +1020,21 @@
     "module": "应用落地"
   },
   {
-    "title": "On Rendering Diffs",
-    "link": "https://pierre.computer/writing/on-rendering-diffs",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48327809\">Comments</a>",
+    "title": "Bijou64: A variable-length integer encoding",
+    "link": "https://www.inkandswitch.com/tangents/bijou64/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48323992\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 19:04:54 +0000",
+    "published": "Fri, 29 May 2026 15:03:32 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "You can just say it",
-    "link": "https://noperator.dev/posts/you-can-just-say-it/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324853\">Comments</a>",
+    "title": "Math-to-Manim",
+    "link": "https://github.com/HarleyCoops/Math-To-Manim",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48293119\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 15:54:28 +0000",
+    "published": "Wed, 27 May 2026 12:18:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1010,51 +1050,11 @@
     "module": "应用落地"
   },
   {
-    "title": "WH proposes rules giving political appointees final approval on research grants",
-    "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331511\">Comments</a>",
+    "title": "On Rendering Diffs",
+    "link": "https://pierre.computer/writing/on-rendering-diffs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48327809\">Comments</a>",
     "author": "",
-    "published": "Sat, 30 May 2026 01:39:52 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GTA 6 Developers Unionize",
-    "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324499\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 15:32:55 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "We should be more tired than the model",
-    "link": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48322118\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 12:12:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
-    "link": "https://tvexplorer.live",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48325624\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 16:39:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Free full BGP feed. IPv4 and IPv6 (2020)",
-    "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330088\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 22:21:58 +0000",
+    "published": "Fri, 29 May 2026 19:04:54 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1071,6 +1071,28 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "2025 年最热细分赛道"
+  },
+  {
+    "title": "‘Like a billionaire on acid’: Star Wars director Gareth Edwards comes out in favour of AI",
+    "link": "https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making",
+    "summary": "<p>Speaking at Amazon’s AI on the Lot event, the Rogue One film-maker Gareth Edwards said ‘it’ll do anything you ask’ and ‘it’s going to be better than CGI’</p><p>Jurassic World Rebirth and Rogue One director Gareth Edwards has enthusiastically endorsed the use of generative AI in film-making, saying “it is a fucking genius at helping you” and “it’s going to be better than CGI”.</p><p>Edwards was speaking at AI on the Lot, an event in Culver City, California, organised by Amazon, and <a href=\"https://www.hollywoodreporter.com/movies/movie-news/gareth-edwards-excited-ai-filmmaking-1236608376/\">in remarks reported by the Hollywood Reporter</a> said: “I can’t see a reason why you wouldn’t become interested in this stuff as a film-maker. It’s so clearly a tool that might be up there with the camera. It’s going to be better than CGI.”</p> <a href=\"https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making\">Continue reading...</a>",
+    "author": "Andrew Pulver",
+    "published": "Fri, 29 May 2026 10:55:01 GMT",
+    "tags": [
+      "Film",
+      "Gareth Edwards",
+      "Paul Schrader",
+      "AI (artificial intelligence)",
+      "Computing",
+      "Culture",
+      "Technology",
+      "California",
+      "US news",
+      "World news",
+      "Amazon"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
   },
   {
     "title": "So dumb it just might work: can these dumbphone evangelists convince you to dump smartphones?",
@@ -1157,22 +1179,6 @@
       "Law (US)",
       "US justice system",
       "US news"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Oura launches Ring 5, world’s smallest smart ring, as it heads towards IPO",
-    "link": "https://www.theguardian.com/technology/2026/may/28/finnish-us-firm-oura-launches-world-smallest-smart-ring-heads-towards-ipo",
-    "summary": "<p>Finnish-US startup has sold 5.5m rings worldwide since it was founded in 2013 and is valued at $11bn</p><p>Stylish Finnish-American smart ring company Oura may be the darling of wearables, adorning the fingers of celebrities and sportspeople, but it is not resting on its laurels as it heads towards an IPO later this year. This week it launched the world’s smallest smart ring, the Ring 5, its latest evolution of the device that defined a whole category.</p><p>The Ring 5 is 40% smaller and with longer battery life than the highly popular <a href=\"https://www.theguardian.com/technology/2024/oct/15/oura-ring-4-review-best-smart-ring-battery-upgrade\">Ring 4</a>. It also promises to squeeze the health-tracking features of a smartwatch into a less techy piece of jewellery just 2.28mm thick, focused on sleep, stress, readiness and heart health.</p> <a href=\"https://www.theguardian.com/technology/2026/may/28/finnish-us-firm-oura-launches-world-smallest-smart-ring-heads-towards-ipo\">Continue reading...</a>",
-    "author": "Samuel Gibbs Consumer technology editor",
-    "published": "Thu, 28 May 2026 12:00:21 GMT",
-    "tags": [
-      "Wearable technology",
-      "Technology",
-      "Gadgets",
-      "Business",
-      "IPOs"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1278,6 +1284,23 @@
     "module": "应用落地"
   },
   {
+    "title": "Are robots nearing their ChatGPT moment? – podcast",
+    "link": "https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast",
+    "summary": "<p>Last month at Beijing’s half marathon, a robot named Lightning beat the human world record by nearly seven minutes. It’s the latest in a string of AI-powered milestones that have got people wondering whether robots are about to enter our everyday lives, just as chatbots have. And the country leading the charge is China, where the government has pledged to invest more than £100bn in robotics over the next 20 years. To find out how robots are already entering the workforce, and what needs to happen to get them cleaning our homes and weeding our gardens, Ian Sample hears from the Guardian’s senior China correspondent, Amy Hawkins, and from Nathan Lepora, professor of robotics and AI at Bristol University, who researches how robots can achieve human-like dexterity</p><p><em>Clips:</em> <em>Global News, BBC, CGTN</em></p> <a href=\"https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast\">Continue reading...</a>",
+    "author": "Presented by Ian Sample with Amy Hawkins, sound design by Joel Cox, the executive producer was Ellie Bury",
+    "published": "Thu, 28 May 2026 04:00:56 GMT",
+    "tags": [
+      "Science",
+      "Robots",
+      "AI (artificial intelligence)",
+      "Technology",
+      "World news",
+      "China"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "前沿探索"
+  },
+  {
     "title": "The strange surveilled life of Piper Rockelle: why did a former child influencer decide to go on OnlyFans?",
     "link": "https://www.theguardian.com/media/2026/may/28/piper-rockelle-former-child-influencer-onlyfans",
     "summary": "<p>She made millions as a tween and teenager by posting clips of herself and her friends on YouTube. Then the business collapsed amid acrimony. What does her success in the adult industry, at 18, say about surveillance, social media and sexualisation?</p><p>‘Honestly, the answer is kind of gross,” says Piper Rockelle, in a recent TikTok video, reflecting on why she is so popular on OnlyFans. In the clip, she fidgets her fingers and swings in her swivel chair. “It’s because I look so young. I mean, I am really young. I’m literally like fresh turned 18 … and people kind of like that, unfortunately.”</p><p>This is an accurate and honest assessment. At the end of last year, not long after turning 18, the former child star and teen influencer began an online countdown, telling her millions of followers on TikTok and Instagram that she would be launching herself on OnlyFans on 1 January. Every day or so since, she has posted pictures of herself on the platform, sometimes posing in a typical teenager’s bedroom – a pink cuddly stuffed pig on the bed behind her, fairy lights on the wall – wearing teddy-bear-themed pants and bras, or fluffy underwear decorated with bunny-rabbit faces and floppy ears.</p> <a href=\"https://www.theguardian.com/media/2026/may/28/piper-rockelle-former-child-influencer-onlyfans\">Continue reading...</a>",
@@ -1309,21 +1332,6 @@
       "Interiors",
       "Gadgets",
       "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘What you see here is a wetland without water’: how the datacentre boom is exacerbating Chile’s mega-drought",
-    "link": "https://www.theguardian.com/global-development/2026/may/26/chile-datacentres-water-tech-companies-mega-drought",
-    "summary": "<p>The country is positioning itself as Latin America’s next technology hub, but communities are pushing back</p><p>The Andes mountains frame what was once a wetland – now a stretch of dry, yellowed grass. Rodrigo Vallejos, a final-year law student, noticed the change five years ago while observing the Quilicura wetland, on the northern outskirts of Santiago. One of <a href=\"https://www.theguardian.com/world/chile\">Chile</a>’s largest swamps, spanning 468.4 hectares (about 1,200 acres) and <a href=\"https://www.cooperativa.cl/noticias/pais/medioambiente/gobierno-declaro-nuevo-humedal-urbano-clave-para-biodiversidad-de-la/2025-04-26/190917.html\">partially protected</a>, was drying up right before his eyes.</p><p>“What you see here is a wetland without water,” says Vallejos, who has investigated the causes alongside activists from the group Resistencia Socioambiental de Quilicura. “I discovered that Quilicura is home to the largest concentration of datacentres in Latin America.”</p> <a href=\"https://www.theguardian.com/global-development/2026/may/26/chile-datacentres-water-tech-companies-mega-drought\">Continue reading...</a>",
-    "author": "Anna Heikkinen in Santiago de Chile. Photographs by Luis Bustamante",
-    "published": "Tue, 26 May 2026 13:00:51 GMT",
-    "tags": [
-      "Chile",
-      "Technology",
-      "World news",
-      "Global development"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1547,6 +1555,21 @@
     "module": "应用落地"
   },
   {
+    "title": "Studio Display XDR review: Apple’s pro display shines very brightly",
+    "link": "https://www.theguardian.com/technology/2026/may/28/studio-display-xdr-review-apple-pro-display-mac-monitor",
+    "summary": "<p>Crisp 27in 5K Mac monitor is packed with features and some of the best HDR performance you can get for work or play</p><p>Apple’s new 27in Studio Display XDR is its best monitor yet, with an exceptionally bright and gorgeous 5K screen that wants to be the pro display for Mac-wielding content creators everywhere, with a price tag to match.</p><p>Built to be paired with the latest or high-end Macs, the Studio Display XDR costs from £2,599 (€3,099/$2,899/A$4,799), although it is a cool £3,000 if you want it with a stand. It sits above the standard £1,499 Studio Display and is £2,000 cheaper than the 2019 Apple Pro Display XDR it replaces.</p> <a href=\"https://www.theguardian.com/technology/2026/may/28/studio-display-xdr-review-apple-pro-display-mac-monitor\">Continue reading...</a>",
+    "author": "Samuel Gibbs Consumer technology editor",
+    "published": "Thu, 28 May 2026 06:00:01 GMT",
+    "tags": [
+      "Apple",
+      "Computing",
+      "Gadgets",
+      "Technology"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Backrooms review – Kane Parsons’ icily disturbing horror rewrites the genre rulebook",
     "link": "https://www.theguardian.com/film/2026/may/27/backrooms-review-kane-parsons-icily-disturbing-horror-rewrites-the-genre-rulebook",
     "summary": "<p>Debut from 20-year-old director examines memory, reality and fear after Chiwetel Ejiofor accesses an infinite series of hidden rooms that all feel creepily askew</p><p>All the lonely people … where do they all belong? YouTuber Kane Parsons makes his feature directing debut with this <a href=\"https://www.theguardian.com/film/2026/may/15/are-you-sitting-uncomfortably-how-backrooms-upended-the-horror-movie\">icily brilliant and genuinely disturbing conceptual horror film based on his web series</a>, and scripted by Will Soodik. There is something here of J-horror, the V/H/S found footage franchise, Dan Erickson’s Severance and Nathan Fielder’s The Rehearsal. It’s about people walled up in their own memories, imprisoned in endlessly remembered scenes from their past, or miserably perceived versions of their present existences in which they have become caricatures of themselves, gargoyle stars of their paralysed inner world of failure. Or perhaps the action of the film is not metaphorical in this or any other sense, and the “backrooms” of the title simply exist.</p><p>Chiwetel Ejiofor and Renate Reinsve give barnstormingly good performances as Clark and Mary; it is the early 90s and Clark is a failed architect, separated from his wife, and an alcoholic who to make ends meet self-hatingly manages a drearily and eerily vast discount furniture store, called Cap’n Clark’s Ottoman Empire. He does dumb TV ads dressed as a pirate while uneasily aware he should be a sultan to make the “Ottoman empire” pun work. He goes to see a therapist, Mary, a sad, gentle person who markets her own self-help audio tapes and is haunted by childhood memories of her abusive mother.</p> <a href=\"https://www.theguardian.com/film/2026/may/27/backrooms-review-kane-parsons-icily-disturbing-horror-rewrites-the-genre-rulebook\">Continue reading...</a>",
@@ -1595,22 +1618,6 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "前沿探索"
-  },
-  {
-    "title": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
-    "link": "https://www.theguardian.com/technology/2026/may/20/sony-1000xx-the-collexion-headphones-review-supreme-comfort-quiet-luxury",
-    "summary": "<p>Special anniversary edition of award-winning headphones are some of the best sounding you can buy, but cost far more than top Sony noise cancellers</p><p>Sony’s latest noise-cancelling headphones are a special anniversary set made to celebrate a decade of its prized 1000X series, designed to be plusher, slimmer, more comfortable and the best sounding yet.</p><p>The original 1000X launched in 2016, igniting a fierce rivalry with the dominant Bose and its <a href=\"https://www.theguardian.com/technology/2016/jun/21/bose-qc35-wireless-bluetooth-noise-cancelling-headphones-review\">QuietComfort line</a>, which would push noise-cancelling technology dramatically forward as each tried to outdo the other with subsequent releases.</p> <a href=\"https://www.theguardian.com/technology/2026/may/20/sony-1000xx-the-collexion-headphones-review-supreme-comfort-quiet-luxury\">Continue reading...</a>",
-    "author": "Samuel Gibbs Consumer technology editor",
-    "published": "Wed, 20 May 2026 06:00:24 GMT",
-    "tags": [
-      "Sony",
-      "Headphones",
-      "Gadgets",
-      "Bluetooth",
-      "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
   },
   {
     "title": "‘It was too easy’: families ask how Kenneth Law enabled so many suicides",
@@ -1751,6 +1758,33 @@
       "Trump, Donald J",
       "Content Type: Personal Profile",
       "internal-open-access-from-nl"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’",
+    "link": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html",
+    "summary": "One is allied with Anthropic. The other is tied to OpenAI. They’re both spending millions to influence the midterms, and they’re leaving a trail of fearful candidates and canceled ads in their wake.",
+    "author": "Theodore Schleifer",
+    "published": "Sat, 30 May 2026 09:01:01 +0000",
+    "tags": [
+      "Artificial Intelligence",
+      "Political Action Committees",
+      "Midterm Elections (2026)",
+      "Lobbying and Lobbyists",
+      "Regulation and Deregulation of Industry",
+      "Campaign Finance",
+      "Political Advertising",
+      "United States Politics and Government",
+      "Anthropic AI LLC",
+      "OpenAI Labs",
+      "Altman, Samuel H",
+      "Amodei, Dario",
+      "Bores, Alex",
+      "Brockman, Greg",
+      "Foushee, Valerie P",
+      "Jackson, Jesse L Jr"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -2053,22 +2087,23 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
-    "link": "https://www.nytimes.com/2026/05/22/podcasts/our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update.html",
-    "summary": "“This is the only recent gathering of a large number of people where mentions of A.I. did not produce a large chorus of boos.”",
-    "author": "Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Alyssa Moxley",
-    "published": "Fri, 22 May 2026 11:11:14 +0000",
-    "tags": [
-      "Science and Technology",
-      "Artificial Intelligence",
-      "Google Inc",
-      "Pichai, Sundar",
-      "Musk, Elon",
-      "Roman Catholic Church",
-      "Meta Platforms Inc",
-      "internal-open-access-audio"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Tired of AI Overviews? I found 9 Google Search alternatives that showed me links again",
+    "link": "https://www.zdnet.com/article/google-search-alternatives-no-ai/",
+    "summary": "Fed up with trying to avoid AI when I search, I went looking for a Google replacement. I found plenty, but not many made the cut.",
+    "author": "",
+    "published": "Sat, 30 May 2026 09:00:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How I stopped Android Auto from overheating my phone - 8 tricks to try",
+    "link": "https://www.zdnet.com/article/how-to-cool-down-phone-overheating-android-auto/",
+    "summary": "Android Auto uses a lot of resources, which can make your phone hot. Here's how to fix it.",
+    "author": "",
+    "published": "Sat, 30 May 2026 08:00:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
@@ -2247,26 +2282,6 @@
     "summary": "Anthropic's latest Claude model isn't just faster or smarter. Opus 4.8 is being pitched as more honest, more careful, and better suited to complex coding projects.",
     "author": "",
     "published": "Thu, 28 May 2026 17:00:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Best Buy is selling the LG C5 OLED for nearly 50% off right now - and I highly recommend it",
-    "link": "https://www.zdnet.com/article/lg-c5-oled-tv-best-buy-deal/",
-    "summary": "It may be a generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price.",
-    "author": "",
-    "published": "Thu, 28 May 2026 16:04:29 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How to force Google AI Overviews to prioritize your favorite news sources",
-    "link": "https://www.zdnet.com/article/how-to-force-google-ai-overviews-to-prioritize-your-favorite-news-sources/",
-    "summary": "Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches.",
-    "author": "",
-    "published": "Thu, 28 May 2026 16:02:42 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
