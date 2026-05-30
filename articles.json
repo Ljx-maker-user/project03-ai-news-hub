@@ -760,31 +760,21 @@
     "module": "应用落地"
   },
   {
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "link": "https://www.perryts.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48332151\">Comments</a>",
+    "author": "",
+    "published": "Sat, 30 May 2026 03:14:25 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "SQLite is all you need for durable workflows",
     "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48326802\">Comments</a>",
     "author": "",
     "published": "Fri, 29 May 2026 17:54:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The dead economy theory",
-    "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324712\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 15:46:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Naphtha Shortages Having a Growing Impact in Japan",
-    "link": "https://www.nippon.com/en/japan-data/h02783/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331786\">Comments</a>",
-    "author": "",
-    "published": "Sat, 30 May 2026 02:20:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -800,11 +790,31 @@
     "module": "应用落地"
   },
   {
+    "title": "Math-to-Manim",
+    "link": "https://github.com/HarleyCoops/Math-To-Manim",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48293119\">Comments</a>",
+    "author": "",
+    "published": "Wed, 27 May 2026 12:18:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Notes from the Mistral AI Now Summit",
     "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48325340\">Comments</a>",
     "author": "",
     "published": "Fri, 29 May 2026 16:22:01 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Naphtha shortages in Japan",
+    "link": "https://www.nippon.com/en/japan-data/h02783/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331786\">Comments</a>",
+    "author": "",
+    "published": "Sat, 30 May 2026 02:20:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -830,6 +840,16 @@
     "module": "应用落地"
   },
   {
+    "title": "What It Takes to Preserve Floppy Disks",
+    "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48303623\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 02:23:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Shift will clean homes for free to train future robots",
     "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48327962\">Comments</a>",
@@ -850,6 +870,26 @@
     "module": "应用落地"
   },
   {
+    "title": "The dead economy theory",
+    "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324712\">Comments</a>",
+    "author": "",
+    "published": "Fri, 29 May 2026 15:46:24 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>",
+    "author": "",
+    "published": "Thu, 28 May 2026 14:13:00 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
     "link": "https://github.com/jmaczan/tiny-vllm",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48328184\">Comments</a>",
@@ -860,11 +900,21 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "WH proposes rules giving political appointees final approval on research grants",
-    "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331511\">Comments</a>",
+    "title": "The Last Technical Interview",
+    "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48328405\">Comments</a>",
     "author": "",
-    "published": "Sat, 30 May 2026 01:39:52 +0000",
+    "published": "Fri, 29 May 2026 19:58:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "link": "https://github.com/secluso/core",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330192\">Comments</a>",
+    "author": "",
+    "published": "Fri, 29 May 2026 22:32:29 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -890,41 +940,11 @@
     "module": "应用落地"
   },
   {
-    "title": "You can just say it",
-    "link": "https://noperator.dev/posts/you-can-just-say-it/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324853\">Comments</a>",
+    "title": "A new register allocator for ZJIT",
+    "link": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48296946\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 15:54:28 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48309233\">Comments</a>",
-    "author": "",
-    "published": "Thu, 28 May 2026 14:13:00 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ember.js 7.0",
-    "link": "https://blog.emberjs.com/ember-released-7-0/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330902\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 23:57:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "On Rendering Diffs",
-    "link": "https://pierre.computer/writing/on-rendering-diffs",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48327809\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 19:04:54 +0000",
+    "published": "Wed, 27 May 2026 16:50:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -940,6 +960,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Ember.js 7.0",
+    "link": "https://blog.emberjs.com/ember-released-7-0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330902\">Comments</a>",
+    "author": "",
+    "published": "Fri, 29 May 2026 23:57:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Is AI causing a repeat of frontend’s lost decade?",
     "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48321631\">Comments</a>",
@@ -950,21 +980,21 @@
     "module": "应用落地"
   },
   {
-    "title": "The Last Technical Interview",
-    "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48328405\">Comments</a>",
+    "title": "On Rendering Diffs",
+    "link": "https://pierre.computer/writing/on-rendering-diffs",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48327809\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 19:58:56 +0000",
+    "published": "Fri, 29 May 2026 19:04:54 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Free full BGP feed. IPv4 and IPv6 (2020)",
-    "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330088\">Comments</a>",
+    "title": "You can just say it",
+    "link": "https://noperator.dev/posts/you-can-just-say-it/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324853\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 22:21:58 +0000",
+    "published": "Fri, 29 May 2026 15:54:28 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -980,11 +1010,11 @@
     "module": "应用落地"
   },
   {
-    "title": "The California state assembly has passed the 'Protect Our Games Act'",
-    "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48328365\">Comments</a>",
+    "title": "WH proposes rules giving political appointees final approval on research grants",
+    "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48331511\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 19:55:56 +0000",
+    "published": "Sat, 30 May 2026 01:39:52 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1000,11 +1030,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Let Equals Equal Equals",
-    "link": "https://bennypowers.dev/posts/let-equals-equal-equals/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48306537\">Comments</a>",
+    "title": "We should be more tired than the model",
+    "link": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48322118\">Comments</a>",
     "author": "",
-    "published": "Thu, 28 May 2026 09:14:36 +0000",
+    "published": "Fri, 29 May 2026 12:12:16 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1020,44 +1050,14 @@
     "module": "应用落地"
   },
   {
-    "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
-    "link": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48326561\">Comments</a>",
+    "title": "Free full BGP feed. IPv4 and IPv6 (2020)",
+    "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48330088\">Comments</a>",
     "author": "",
-    "published": "Fri, 29 May 2026 17:39:49 +0000",
+    "published": "Fri, 29 May 2026 22:21:58 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
-  },
-  {
-    "title": "We should be more tired than the model",
-    "link": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48322118\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 12:12:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "CAPTCHAs can still detect AI agents",
-    "link": "https://research.roundtable.ai/captchas-detect-ai/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48324910\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 15:57:37 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Show HN: Zot – Yet another coding agent harness",
-    "link": "https://www.zot.sh",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48319524\">Comments</a>",
-    "author": "",
-    "published": "Fri, 29 May 2026 05:48:21 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
   },
   {
     "title": "Anthropic reaches valuation of $965bn, beating OpenAI to become world’s most valuable AI firm",
