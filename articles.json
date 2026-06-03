@@ -470,6 +470,71 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
+    "link": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
+    "summary": "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain independent and that he and his cofounder and COO, Christian Yan, will continue to run it. \"Nothing is changing operationally,\" says Chu, adding that there [&#8230;]",
+    "author": "Jennifer Pattison Tuohy",
+    "published": "2026-06-03T08:00:20-04:00",
+    "tags": [
+      "Analysis",
+      "Exclusive",
+      "News",
+      "Report",
+      "Smart Home",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Trans teens have something to say",
+    "link": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
+    "summary": "By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rapid onset of puberty. The changes their body experienced felt frightening and sudden. They developed PMOS, a relatively common hormonal disorder that can lead to hair [&#8230;]",
+    "author": "Grace Byron",
+    "published": "2026-06-03T07:00:00-04:00",
+    "tags": [
+      "Features",
+      "Health",
+      "Science"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "AI has a water problem. Google thinks it has a fix",
+    "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water [&#8230;]",
+    "author": "Lauren Feiner",
+    "published": "2026-06-03T05:00:00-04:00",
+    "tags": [
+      "AI",
+      "Google",
+      "Policy",
+      "Report",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Google must let publishers opt out of AI Search features, rules UK",
+    "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+    "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used [&#8230;]",
+    "author": "Jess Weatherbed",
+    "published": "2026-06-03T04:45:48-04:00",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Policy",
+      "Politics",
+      "Regulation",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "God of War Laufey is coming to the PS5",
     "link": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
     "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch. This time, [&#8230;]",
@@ -563,66 +628,15 @@
     "module": "应用落地"
   },
   {
-    "title": "Trump signs executive order to review AI models before they’re released",
-    "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-    "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this [&#8230;]",
-    "author": "Lauren Feiner",
-    "published": "2026-06-02T14:33:42-04:00",
+    "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+    "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;",
+    "author": "Thomas Macaulay",
+    "published": "Wed, 03 Jun 2026 12:10:00 +0000",
     "tags": [
-      "AI",
-      "Policy",
-      "Politics",
-      "Regulation",
-      "Security",
-      "Tech"
+      "The Download"
     ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
-    "link": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
-    "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft's claims, the software giant is announcing Majorana 2 today, the next generation of its topological quantum chip. Majorana 2 contains qubits, a unit of information in [&#8230;]",
-    "author": "Tom Warren",
-    "published": "2026-06-02T14:15:00-04:00",
-    "tags": [
-      "Microsoft",
-      "Microsoft Build",
-      "News",
-      "Science",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft’s first advanced reasoning AI is here",
-    "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-    "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-06-02T14:12:44-04:00",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "Microsoft Build",
-      "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
-    "link": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
-    "summary": "I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the color blue. The Wonderboom 4 is available in blue at Amazon for $51.49, and at [&#8230;]",
-    "author": "Brad Bourque",
-    "published": "2026-06-02T14:05:35-04:00",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "source": "https://www.theverge.com",
+    "source": "https://www.technologyreview.com",
     "module": "应用落地"
   },
   {
@@ -658,8 +672,7 @@
     "published": "Tue, 02 Jun 2026 09:00:00 +0000",
     "tags": [
       "Artificial intelligence",
-      "App",
-      "aritficial intelligence"
+      "App"
     ],
     "source": "https://www.technologyreview.com",
     "module": "应用落地"
@@ -747,15 +760,53 @@
     "module": "应用落地"
   },
   {
-    "title": "The Download: climate tech goes public and the AI Hype Index returns",
-    "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
-    "author": "Thomas Macaulay",
-    "published": "Thu, 28 May 2026 12:10:00 +0000",
-    "tags": [
-      "The Download"
-    ],
-    "source": "https://www.technologyreview.com",
+    "title": "Hacking your PC using your speaker without ever touching it",
+    "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48382310\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:53:00 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Every Byte Matters",
+    "link": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48382382\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 11:04:04 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+    "link": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374552\">Comments</a>",
+    "author": "",
+    "published": "Tue, 02 Jun 2026 18:52:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Bun Has Been Converted to Rust. Now What?",
+    "link": "https://bytecode.news/posts/2026/06/bun-has-been-converted-to-rust-now-what",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48383018\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 12:20:38 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48351579\">Comments</a>",
+    "author": "",
+    "published": "Mon, 01 Jun 2026 01:18:16 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
@@ -764,6 +815,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48371562\">Comments</a>",
     "author": "",
     "published": "Tue, 02 Jun 2026 15:29:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
+    "link": "https://news.ycombinator.com/item?id=48382853",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48382853\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 12:00:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "PlayStation Architecture",
+    "link": "https://www.copetti.org/writings/consoles/playstation/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48382142\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:24:25 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+    "link": "https://github.com/s-macke/Test-Drive-3-Maps",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48344327\">Comments</a>",
+    "author": "",
+    "published": "Sun, 31 May 2026 09:45:45 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -779,16 +860,6 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Agentic Mfw",
-    "link": "https://agenticmotherfucking.website",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379203\">Comments</a>",
-    "author": "",
-    "published": "Wed, 03 Jun 2026 02:32:48 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "MAI-Code-1-Flash",
     "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48374466\">Comments</a>",
@@ -799,31 +870,91 @@
     "module": "应用落地"
   },
   {
+    "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+    "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379669\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 03:47:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "AI outperforms law professors in Stanford Law study",
+    "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377761\">Comments</a>",
+    "author": "",
+    "published": "Tue, 02 Jun 2026 23:43:12 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What I've learned about the trombone",
+    "link": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48382305\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:51:29 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+    "link": "https://leidendeclaration.ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48380670\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 06:33:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+    "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48345409\">Comments</a>",
+    "author": "",
+    "published": "Sun, 31 May 2026 13:11:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "U of T researchers demonstrate AI worm could target any online device",
+    "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379664\">Comments</a>",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 03:47:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+    "link": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377496\">Comments</a>",
+    "author": "",
+    "published": "Tue, 02 Jun 2026 23:09:09 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "My thoughts after using Clojure for about a month",
+    "link": "https://www.acdw.net/clojure/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375393\">Comments</a>",
+    "author": "",
+    "published": "Tue, 02 Jun 2026 19:56:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "CT scans of BYD car parts",
     "link": "https://www.lumafield.com/scan-of-the-month/byd",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48375824\">Comments</a>",
     "author": "",
     "published": "Tue, 02 Jun 2026 20:30:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The American Missile Crisis",
-    "link": "https://research.contrary.com/report/the-american-missile-crisis",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379551\">Comments</a>",
-    "author": "",
-    "published": "Wed, 03 Jun 2026 03:30:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "HHS is overriding peer review to require changes to research scope, design",
-    "link": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379434\">Comments</a>",
-    "author": "",
-    "published": "Wed, 03 Jun 2026 03:07:48 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -849,91 +980,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Are blue zones real? Answering that question is harder then ever",
-    "link": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48356754\">Comments</a>",
+    "title": "HP re-releases classic computer science calculator: The HP-16C",
+    "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374685\">Comments</a>",
     "author": "",
-    "published": "Mon, 01 Jun 2026 13:40:35 +0000",
+    "published": "Tue, 02 Jun 2026 19:02:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Gmail thinks I'm stupid, so I left",
-    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375016\">Comments</a>",
+    "title": "Writing Portable ARM64 Assembly (2023)",
+    "link": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48347977\">Comments</a>",
     "author": "",
-    "published": "Tue, 02 Jun 2026 19:27:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "My thoughts after using Clojure for about a month",
-    "link": "https://www.acdw.net/clojure/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375393\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 19:56:46 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
-    "link": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377496\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 23:09:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI outperforms law professors in Stanford Law study",
-    "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377761\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 23:43:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Open Repair Data Standard – Open Repair Alliance",
-    "link": "https://openrepair.org/open-data/open-standard/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375150\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 19:37:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Can A.I. produce writing that we want to read?",
-    "link": "https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48378995\">Comments</a>",
-    "author": "",
-    "published": "Wed, 03 Jun 2026 02:08:29 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-    "link": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48369980\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 13:24:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "4K years ago, Mohenjo-daro grew more equal over time",
-    "link": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377140\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 22:22:34 +0000",
+    "published": "Sun, 31 May 2026 17:59:39 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -949,21 +1010,11 @@
     "module": "应用落地"
   },
   {
-    "title": "NLAB: The worlds smallest electronics lab",
-    "link": "https://getnlab.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379005\">Comments</a>",
+    "title": "Gmail thinks I'm stupid, so I left",
+    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375016\">Comments</a>",
     "author": "",
-    "published": "Wed, 03 Jun 2026 02:09:30 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "HP re-releases classic computer science calculator: The HP-16C",
-    "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374685\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 19:02:40 +0000",
+    "published": "Tue, 02 Jun 2026 19:27:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -979,61 +1030,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Loading Sega Games Off a Vinyl Record [video]",
-    "link": "https://www.youtube.com/watch?v=c744iD0_fWU",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48346766\">Comments</a>",
+    "title": "Open Repair Data Standard",
+    "link": "https://openrepair.org/open-data/open-standard/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48375150\">Comments</a>",
     "author": "",
-    "published": "Sun, 31 May 2026 15:58:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "OpenFOV – Webcam head tracking for iRacing",
-    "link": "https://www.openfov.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48336783\">Comments</a>",
-    "author": "",
-    "published": "Sat, 30 May 2026 14:42:55 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Multicore suppport for DOS is real – partly",
-    "link": "https://www.vogons.org/viewtopic.php?t=111336",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48343901\">Comments</a>",
-    "author": "",
-    "published": "Sun, 31 May 2026 08:06:33 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Trump signs downsized AI order after weeks of reversals",
-    "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48372628\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 16:40:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-    "link": "https://github.com/getpaseo/paseo",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48377250\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 22:34:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Expanding Project Glasswing",
-    "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48369863\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 13:15:14 +0000",
+    "published": "Tue, 02 Jun 2026 19:37:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1049,13 +1050,78 @@
     "module": "应用落地"
   },
   {
-    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-    "link": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48370291\">Comments</a>",
+    "title": "OpenFOV – Webcam head tracking for iRacing",
+    "link": "https://www.openfov.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48336783\">Comments</a>",
     "author": "",
-    "published": "Tue, 02 Jun 2026 13:53:52 +0000",
+    "published": "Sat, 30 May 2026 14:42:55 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "UK media websites given power to block Google using their articles in AI search",
+    "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
+    "summary": "<p>Watchdog makes ruling on search summaries after publishers complain about drop in click-through traffic and revenue</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/03/google-uk-publishers-choice-ai-search-summaries-competition-watchdog-business-live-news\">Business live – latest updates</a></p></li></ul><p>Online publishers and news organisations are now able to block their content from appearing in Google’s AI summaries in UK search results, the British competition watchdog has announced.</p><p>The Competition and Markets Authority (CMA) said the new requirement would “put publishers, like news organisations, in a stronger position to negotiate content deals with Google”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries\">Continue reading...</a>",
+    "author": "Joanna Partridge and Dan Milmo",
+    "published": "Wed, 03 Jun 2026 08:43:52 GMT",
+    "tags": [
+      "Competition and Markets Authority",
+      "Google",
+      "Search engines",
+      "AI (artificial intelligence)",
+      "Technology sector",
+      "Regulators",
+      "Alphabet",
+      "Business",
+      "UK news",
+      "Technology",
+      "Media"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
+    "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
+    "summary": "<p>With rivals racing to market to raise ‘eye-popping sums’, the spotlight is now on the AI sector’s one-time ‘poster child’</p><p>A year is a long time in AI. Just 12 months ago, Sam Altman <a href=\"https://blog.samaltman.com/the-gentle-singularity\">was predicting </a>his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is <a href=\"https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/\">walking back</a> those ideas after failing to make money from ads and erotic chatbots.</p><p>Meanwhile, rivals are storming ahead with plans to expand and go public on the stock market, in what is widely expected to be a season of record-setting initial public offerings (IPOs).</p> <a href=\"https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment\">Continue reading...</a>",
+    "author": "Aisha Down",
+    "published": "Wed, 03 Jun 2026 10:38:09 GMT",
+    "tags": [
+      "AI (artificial intelligence)",
+      "OpenAI",
+      "Google",
+      "Alphabet",
+      "IPOs",
+      "Stock markets",
+      "Computing",
+      "Business",
+      "Technology",
+      "Technology sector",
+      "Sam Altman",
+      "SpaceX",
+      "ChatGPT"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
+    "link": "https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
+    "summary": "<p>It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director</p><p>Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called <a href=\"https://www.imdb.com/title/tt42885607/\">Dreams of Violets</a> and is based on journalism, video footage and eyewitness accounts. “I would say 80% of it is a recreation of events that actually happened,” says its Iranian-British director Ash Koosha. But Dreams of Violets is a work of fiction, not a documentary: a drama following a group of strangers caught up in the protests, who meet by chance in an alleyway. How on earth has Koosha managed to pull together a drama about the killings in less than six months?</p><p>The answer, it turns out, is by using artificial intelligence. Every image and character in Dreams of Violets is AI-generated. Koosha says he created the characters by describing their physical appearances, using people he has known in the past as references. It would be too dangerous to base characters on living people in Iran, he says. “Because of the security issue, it would not be safe for the characters to even remotely resemble someone.”</p> <a href=\"https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival\">Continue reading...</a>",
+    "author": "Cath Clarke",
+    "published": "Wed, 03 Jun 2026 04:00:42 GMT",
+    "tags": [
+      "Film",
+      "AI (artificial intelligence)",
+      "Iran",
+      "Computing",
+      "Culture",
+      "Middle East and north Africa",
+      "Technology",
+      "World news"
+    ],
+    "source": "https://www.theguardian.com",
     "module": "应用落地"
   },
   {
@@ -1131,65 +1197,21 @@
     "module": "2025 年最热细分赛道"
   },
   {
-    "title": "Nvidia launches ‘superchip’ putting AI power into laptops and PCs",
-    "link": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
-    "summary": "<p>Firm says its RTX Spark PC chip for Microsoft Windows will let AI agents replace the mouse and keyboard</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates\">Business live – latest updates</a></p></li></ul><p>A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers.</p><p>The $5tn (£3.7tn) US semiconductor company has launched a “superchip” that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows\">Continue reading...</a>",
-    "author": "Julia Kollewe",
-    "published": "Mon, 01 Jun 2026 11:01:59 GMT",
+    "title": "Can autonomous AI-powered killer drones take morality onboard?",
+    "link": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
+    "summary": "<p>While the technology is set to play a growing role in modern warfare, there remains an unresolved ethical challenge</p><p>Should the AI-powered drones of the future have a licence to kill? The question is becoming ever more pressing as governments and the defence industry acknowledge that <a href=\"https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones\">drone systems will play an increasingly crucial role</a> in future warfare.</p><p>With drones being deployed in huge numbers in the Ukraine war and AI being used to assist bombing missions in the Iran conflict, there is an expectation among some observers that weapons will have to operate with increased operational autonomy, which means they will need something approximating a moral framework.</p> <a href=\"https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard\">Continue reading...</a>",
+    "author": "Dan Milmo and Aisha Down",
+    "published": "Wed, 03 Jun 2026 11:00:05 GMT",
     "tags": [
-      "Nvidia",
-      "Microsoft",
-      "Technology sector",
-      "Business",
-      "Arm",
-      "Computing",
-      "Windows",
-      "Technology",
-      "UK news",
-      "US news",
-      "World news"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Charities decry UK plan to use AI to assess age of young asylum seekers",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
-    "summary": "<p>Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilities</p><p>A coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres.</p><p>The warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asylum seekers whose age is disputed.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers\">Continue reading...</a>",
-    "author": "Diane Taylor",
-    "published": "Mon, 01 Jun 2026 05:00:08 GMT",
-    "tags": [
-      "Immigration and asylum",
+      "Drones (military)",
+      "Ethics",
+      "World news",
       "AI (artificial intelligence)",
-      "Home Office",
-      "Young people",
-      "Children",
-      "Politics",
-      "Society",
-      "Technology",
-      "UK news"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
-    "link": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
-    "summary": "<p>Sarah Wynn-Williams did not speak during event after lawyers warned of possible sanctions from tech firm</p><p>Facebook whistleblower Sarah Wynn-Williams was forced to sit in silence on stage at an event at Hay festival, after lawyers advised her not to speak because of ongoing legal action brought by Meta.</p><p>Wynn-Williams, whose bestselling memoir, Careless People, details her years working at Facebook, was due to appear in conversation with the investigative journalist Carole Cadwalladr and academic Tim Wu.</p> <a href=\"https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival\">Continue reading...</a>",
-    "author": "Emma Loffhagen",
-    "published": "Sun, 31 May 2026 17:18:27 GMT",
-    "tags": [
-      "Meta",
-      "Facebook",
-      "Instagram",
       "UK news",
-      "Hay festival",
-      "Media",
-      "Technology",
-      "Business"
+      "Ukraine"
     ],
     "source": "https://www.theguardian.com",
-    "module": "应用落地"
+    "module": "前沿探索"
   },
   {
     "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to ‘cut corners’",
@@ -1241,21 +1263,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Tuesday briefing: Palantir’s rise – and why so many oppose its role in the British state",
-    "link": "https://www.theguardian.com/world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state",
-    "summary": "<p>In today’s newsletter: Its software is used from health services to militaries. But controversies and criticism of the $375bn company are leading some to ask if  Palantir is too powerful</p><p>Good morning. The Peter Mandelson story keeps unfolding. <em><strong>Peter Walker</strong></em> explains <a href=\"https://www.theguardian.com/politics/2026/jun/01/what-is-new-peter-mandelson-documents\">here</a> what is in the latest release of documents, and <em><strong>Henry Dyer</strong></em> takes a look at <a href=\"https://www.theguardian.com/politics/2026/jun/01/what-is-new-peter-mandelson-documents\">the key papers missing</a> from the latest disclosures. Today we are covering another major story: Palantir.</p><p>Few companies attract controversy more than Palantir. Since the pandemic, the US data analytics company has grown voraciously, using its AI-driven software to make sense of intractable datasets for customers around the world. For the NHS, it analyses patient records; for the US military, it’s focused on targets in Iran. Palantir’s products are widely used, with the business now worth $375bn.</p><p><em><strong>UK politics </strong></em>| Peter Mandelson was receiving sensitive security briefings about the Foreign Office’s work, and was in discussions with the head of MI6, before he had completed the developed vetting process, <a href=\"https://www.theguardian.com/politics/2026/jun/01/mandelson-received-sensitive-foreign-office-briefings-before-vetting-finished\">documents reveal</a>.</p><p><em><strong>Ukraine </strong></em>| Russian air raids on major Ukrainian centres including Kyiv, Dnipro and Kharkiv <a href=\"https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv\">killed at least five people</a> and wounded dozens by early morning on Tuesday, authorities said.</p><p><em><strong>Environment </strong></em>| More than a million jobs, higher wages, nearly half a trillion pounds in investment in the pipeline – the UK’s <a href=\"https://www.theguardian.com/environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero\">green economy is powering ahead</a>, according to research by the country’s leading business organisation.</p><p><em><strong>US news </strong></em>| Donald Trump is <a href=\"https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund\">reconsidering whether to</a> keep pressing for a $1.8bn fund to compensate his allies, a person familiar with his thinking said, as the justice department paused the program to comply with a court order.</p><p><em><strong>UK news </strong></em>| Sir Alan Bates has said that the schemes set up to compensate post office operators over the Horizon IT scandal <a href=\"https://www.theguardian.com/uk-news/2026/jun/01/alan-bates-attacks-schemes-compensating-post-office-operators\">have been an “utter disaster” </a>and that the government should not be involved in running them.</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state\">Continue reading...</a>",
-    "author": "Patrick Greenfield",
-    "published": "Tue, 02 Jun 2026 05:46:12 GMT",
+    "title": "‘You can be made a laughing stock to millions’: can gen Z escape the fear of being cringe?",
+    "link": "https://www.theguardian.com/society/2026/jun/03/can-gen-z-escape-fear-cringe-laughing-stock",
+    "summary": "<p>With the constant risk of being recorded, many young people are afraid of showing enthusiasm – let alone doing something so potentially embarrassing as dancing in public. Is there a way to set themselves free?</p><p>In a <a href=\"https://www.tiktok.com/@kqtiewhitney/video/7575268423639305494?lang=en\">video</a> posted to TikTok, where Katie Whitney has 2.5 million followers, she says to camera, bluntly: “This video is for Cynthia Erivo. If you’re not Cynthia Erivo … you can keep on scrolling.” Her demeanour then shifts, her voice becomes softer; more the way a person might talk to their puppy: “Hi Cynthia. Hi baby. Hey baby. How are you?” It’s toe-curling – or, in modern parlance, cringe – to watch. “I feel traumatised,” says one commenter. Others post photos of a stunned-looking Erivo and imagine: “What if the Wicked star were to actually watch this video?” Cringe!</p><p>Now 25, but having started making this kind of content – “weird skits” – at 20, Whitney is part of what is known online as CringeTok, a subsection of the internet that deals in content designed to make your toes curl. It’s in many ways a reaction to a fear of being “cringe”, which is seeping into all parts of life – from social media to classrooms to the workplace.</p> <a href=\"https://www.theguardian.com/society/2026/jun/03/can-gen-z-escape-fear-cringe-laughing-stock\">Continue reading...</a>",
+    "author": "Ellie Violet Bramley",
+    "published": "Wed, 03 Jun 2026 04:00:41 GMT",
     "tags": [
-      "Palantir",
+      "Young people",
+      "TikTok",
       "Technology",
-      "Peter Thiel",
-      "AI (artificial intelligence)",
-      "Computing",
-      "Military",
-      "NHS",
-      "Data protection",
-      "UK news"
+      "Society",
+      "Social media",
+      "Snapchat",
+      "Instagram",
+      "YouTube",
+      "Digital media"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1310,23 +1332,6 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "基础设施与工具"
-  },
-  {
-    "title": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
-    "summary": "<p>A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned</p><p>Sam Altman, the chief executive of OpenAI, took to the Internet a few years ago <a href=\"https://blog.samaltman.com/the-merge\">to propose</a> that homo sapiens would be the first species “to design our own descendants”. In his best case scenario, the “merge” between humans and artificial intelligence occurs at some point over the next 50 years. The alternative, where we remain simply human and the machines follow their own path, is more ominous. “If two different species both want the same thing and only one can have it – in this case, to be the dominant species on the planet and beyond – they are going to have conflict,” he wrote.</p><p>More recently, Elon Musk, the world’s richest man, who at one point last year was granted the power to reconfigure the US federal government, argued <a href=\"https://x.com/elonmusk/status/1907335494607753668?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1907335494607753668%7Ctwgr%5E571450209750a276adba9bc0ce8c1dce931bfa6a%7Ctwcon%5Es1_&amp;ref_url=https://www.news18.com/tech/musk-revisits-his-2019-warning-says-humanity-may-be-just-a-biological-bootloader-for-ai-9285226.html\">on his social media platform, X,</a> that “it increasingly appears that humanity is a biological bootloader for digital superintelligence” – our role in the history of the cosmos reduced to that of the low level code that boots up a computer before you can run sophisticated programs on it.</p> <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai\">Continue reading...</a>",
-    "author": "Eduardo Porter",
-    "published": "Sun, 31 May 2026 13:00:49 GMT",
-    "tags": [
-      "Technology",
-      "OpenAI",
-      "US news",
-      "Elon Musk",
-      "Sam Altman",
-      "AI (artificial intelligence)"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
   },
   {
     "title": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red | Jess Harwood",
@@ -1397,6 +1402,24 @@
     "module": "2025 年最热细分赛道"
   },
   {
+    "title": "From God of War to Until Dawn – seven reveals from last night’s PlayStation event",
+    "link": "https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play",
+    "summary": "<p>The PS5 era has been in some ways disappointing for Sony – on Tuesday, the company revealed a slate of games they hope will change that</p><p>• <a href=\"https://www.theguardian.com/info/ng-interactive/2021/nov/24/sign-up-for-pushing-buttons-keza-macdonalds-weekly-look-at-the-world-of-gaming\"><strong>Don’t get Pushing Buttons delivered to your inbox? Sign up here</strong></a></p><p>PlayStation’s future has looked a little uncertain these past few years. Although the PS5 has sold well and been very profitable, the brand is far from the runaway market leader it was in the PS2 days. Earlier this week, Game File <a href=\"https://www.gamefile.news/p/playstation-first-party-sales-decline\">dug into</a> Sony’s most recent earnings reports to illustrate how PlayStation has been selling fewer and fewer of its own flagship games since a peak during the pandemic. About 54.1m copies of games either developed or published by Sony were sold in the 2018 financial year; in 2025, it sold 32.1m.</p><p>Sony has put out some great homegrown games since the PS5 was released in 2020, from Astro Bot to <a href=\"https://www.theguardian.com/games/2025/oct/02/ghost-of-yotei-review-deliciously-brutal-and-stunningly-beautiful-revenge-quest\">Ghost of Yōtei</a>, but it has also had some expensive and very public failures and cancellations; PlayStation boss Jim Ryan, who retired in 2024, placed big bets on live-service games and only a few panned out (hello, Helldivers). Sony also seems to have rolled back on releasing its single-player PS5 games on PC after a polite interval of time, suggesting it wants to preserve what advantage and exclusivity it has.</p> <a href=\"https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play\">Continue reading...</a>",
+    "author": "Keza MacDonald",
+    "published": "Wed, 03 Jun 2026 11:26:01 GMT",
+    "tags": [
+      "Games",
+      "Culture",
+      "PlayStation",
+      "PlayStation 5",
+      "Marvel",
+      "Puzzle games",
+      "Tomb raider"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Nex Playground: the family game-night gadget that revives the spirit of the Wii",
     "link": "https://www.theguardian.com/games/2026/jun/01/nex-playground-it-outsells-xbox-and-aims-to-end-loneliness-is-this-a-family-game-night-saviour",
     "summary": "<p>Launching in the UK this month, this new pint-sized console revives the motion-controlled video game boom of the 00s – with better, safer tech</p><p>For a wonderful moment in the noughties, video games became a truly universal pursuit. As I witnessed my controller-phobic aunt swing a Wii remote and nail a tennis serve, while my great-grandmother furrowed her brow over sudoku puzzles on her Nintendo DS, it seemed my long-derided hobby had <em>finally </em>gone mainstream. The Nintendo Wii flew off the shelves, inspiring a wave of competitors such as the Xbox Kinect camera that encouraged people to play games by moving their bodies. But the tide turned: outside of still-niche VR gaming and the odd controller-waggler on the Switch, motion-controlled gaming has barely been seen for more than a decade.</p><p>Now, 20 years later, a new console is aiming to get the whole family flailing in front of the TV once again: the Nex Playground. Launching in the UK later this month, the first thing that struck me about this family-friendly device is just how tiny it is. The size of two and a half Rubik’s Cubes taped together, this impressively unintrusive device swaps cumbersome controllers for camera-controlled minigames, putting you and your family directly in the game. Using a wide-angle lens and AI-powered tracking tech, the Nex Playground offers over 50 games that track players’ bodies as they leap, flail and dance about the living room. It’s not hard to see the appeal.</p> <a href=\"https://www.theguardian.com/games/2026/jun/01/nex-playground-it-outsells-xbox-and-aims-to-end-loneliness-is-this-a-family-game-night-saviour\">Continue reading...</a>",
@@ -1458,19 +1481,6 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
-  },
-  {
-    "title": "007 First Light review – a triumphant James Bond game made by obsessive fans",
-    "link": "https://www.theguardian.com/games/2026/may/26/007-first-light-review-james-bond-game-pc-xbox-playstation-5",
-    "summary": "<p><strong>PC, Xbox, PlayStation 5; IO Interactive<br /></strong>The stealth masters behind Hitman go loud for this game about Bond’s brilliant beginnings</p><p>Given that we’ve not had a great James Bond video game in decades – or any Bond film at all in five years – there’s a lot of pressure on 007 First Light to reinvigorate a British cinematic hero. But developer IO Interactive has been auditioning for this role for some time. It’s there in the globetrotting nature of its <a href=\"https://www.theguardian.com/games/2021/jan/22/hitman-3-review-a-wild-bacchanalian-backdrop-to-bloody-escapades\">Hitman</a> assassination games, starring a besuited hero who knows how to turn a soiree to his deadly purpose; then there’s the developer’s evident eye for corporate opulence and brutalist architecture. Even their in-house game engine, Glacier, sounds like a secret codename cooked up in a Bond villain’s lair. All it would take is a slight shift in Hitman’s moral compass – more old boys club, fewer old boys clubbed – to turn IO’s familiar series into a Bond game with minimal fuss.</p><p>007 First Light refuses that easy route. We join young Bond in his pre-00 days, as a petulant, belligerent rule-breaking trainee. Actor Patrick Gibson begins as a cookie-cutter insubordinate, but warms to the role once he’s bouncing off M (herself a green leader looking to make her mark), and an enjoyably urbane Q who drops the frustrated quartermaster routine and introduces Bond to the wonders of vinyl. A scene where he teaches our agent to tie a bow tie is a perfect bit of prequelcraft: arriving at an iconic look through a lovely character touch.</p> <a href=\"https://www.theguardian.com/games/2026/may/26/007-first-light-review-james-bond-game-pc-xbox-playstation-5\">Continue reading...</a>",
-    "author": "Matthew Castle",
-    "published": "Tue, 26 May 2026 12:00:50 GMT",
-    "tags": [
-      "Games",
-      "Culture"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "大模型与基础技术"
   },
   {
     "title": "Why I’m grateful to the Pope for his encyclical on AI | Francine Prose",
@@ -1633,6 +1643,21 @@
     "module": "应用落地"
   },
   {
+    "title": "So dumb it just might work: can these dumbphone evangelists convince you to dump smartphones?",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone",
+    "summary": "<p>As part of a growing anti-tech movement, startup dumb.co is pushing flip phones as a way for young people to find ‘social and spiritual freedom’</p><p>“They aren’t as dumb as they look,” our facilitator said, referring to the dark gray flip phone in his hand. He just as easily could have been talking about us, the 28 New York residents before him who had signed up to use the device for the entire month of March. He explained that the relic was loaded with WhatsApp, iMessage, Google Maps, Uber, Microsoft 2FA – nothing like my seventh-grade flip phone.</p><p>We each had paid $75 to participate in Month Offline, or MO, a program that challenged us to swear off our smartphones entirely. Another $25 went to dumb.co, the company behind MO, for the so-called dumbphones we would use as we navigated daily life.</p> <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone\">Continue reading...</a>",
+    "author": "Grace Klara Marshall",
+    "published": "Thu, 28 May 2026 15:01:03 GMT",
+    "tags": [
+      "Technology",
+      "Mobile phones",
+      "Smartphones",
+      "Young people"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "2025 年最热细分赛道"
+  },
+  {
     "title": "Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up",
     "link": "https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo",
     "summary": "<p>As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future</p><p>Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Let’s recap a whirlwind five days that may determine the future of AI.</p><p><a href=\"https://www.theguardian.com/science/2026/may/20/spacex-finances-stock-market-debut\">SpaceX reveals plan for $1.75tn stock market debut that could make Musk a trillionaire</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details\">Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors</a></p><p><a href=\"https://www.theguardian.com/science/2026/may/21/elon-musk-trillion-dollar-spacex-flotation-takeaways\">The main takeaways from Elon Musk’s plans for $1.75tn SpaceX flotation</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers\">Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/20/nvidia-revenue-ai-boom\">Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates</a></p><p><a href=\"https://www.theguardian.com/media/2026/may/20/incoming-ofcom-chair-vows-to-take-on-tech-bros\">Incoming Ofcom chair vows to take on ‘tech bros’</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough\">OpenAI makes breakthrough on 80-year-old maths problem</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools\">Meta settles major social media addiction lawsuit with school district</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode\">Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’</a></p> <a href=\"https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo\">Continue reading...</a>",
@@ -1660,23 +1685,6 @@
       "US education",
       "Graduation",
       "Students"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
-    "link": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
-    "summary": "<p>Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’</p><p>Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit.</p><p>“There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though his new studio, Primordial Soup, at a time when artificial intelligence has become one of the film industry’s most divisive fault lines.</p> <a href=\"https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes\">Continue reading...</a>",
-    "author": "Nadia Khomami Arts and culture correspondent",
-    "published": "Sun, 24 May 2026 05:00:48 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Cannes film festival",
-      "Film",
-      "Culture",
-      "Technology",
-      "Computing"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1738,6 +1746,29 @@
       "Amodei, Dario",
       "Musk, Elon",
       "internal-open-access-from-nl"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
+    "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+    "summary": "The 27-nation European Union outlined how it hopes to expand the region’s data centers, semiconductors and cloud computing capabilities.",
+    "author": "Adam Satariano",
+    "published": "Wed, 03 Jun 2026 12:21:06 +0000",
+    "tags": [
+      "Computers and the Internet",
+      "Cloud Computing",
+      "Artificial Intelligence",
+      "Regulation and Deregulation of Industry",
+      "Data Centers",
+      "Computer Chips",
+      "United States International Relations",
+      "Protectionism (Trade)",
+      "European Commission",
+      "European Union",
+      "von der Leyen, Ursula",
+      "Brussels (Belgium)"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -2066,22 +2097,113 @@
     "module": "应用落地"
   },
   {
-    "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
-    "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
-    "summary": "A Mad Hatter and a giant rabbit sit around a table discussing an A.I. start-up. This is normal behavior around the Bay Area these days.",
-    "author": "Natallie Rocha and Mike Kai Chen",
-    "published": "Wed, 27 May 2026 21:14:51 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Start-ups",
-      "Social Media",
-      "Video Recordings, Downloads and Streaming",
-      "Advertising and Marketing",
-      "Venture Capital",
-      "Computers and the Internet",
-      "San Francisco Bay Area (Calif)"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "The best early Prime Day smartwatch and smart ring deals I'd recommend",
+    "link": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
+    "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and health tracker deals I've found ahead of Prime Day.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 12:00:49 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How to get your files off an Android phone with a broken screen - for free",
+    "link": "https://www.zdnet.com/article/dead-touchscreen-android-tool-adb-extract-files/",
+    "summary": "If you've ever broken your phone's screen but still wanted to get data or files from it, you know how painful that can be, but there is a way to do it.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 11:59:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How I used a $170 sports watch as my training coach to help me avoid injuries",
+    "link": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
+    "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in just weeks.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 11:00:42 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "I've tested a lot of tablets - these are the best tablet deals I found ahead of Prime Day",
+    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-tablet-deals-2026/",
+    "summary": "We found the best early deals on iPads, Samsung tablets, and more, ahead of Amazon's Prime Day sale later this month.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:30:44 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Why I'm sticking with Firefox as my browser - after years of using Chrome, Edge, and Safari",
+    "link": "https://www.zdnet.com/article/why-firefox-is-the-better-browser-for-most-users/",
+    "summary": "Firefox is alive and well - and offering a fast, customizable, bloat-free, private, secure browsing experience from developers who care.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:00:45 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "The first settings I immediately change on every new iPhone - and why",
+    "link": "https://www.zdnet.com/article/new-iphone-settings-i-immediately-change-why/",
+    "summary": "A new iPhone is very good out of the box. It's even better once you fix the default settings and turn on a few features.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:00:44 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How AI agents will transform your customer service - despite 3 hurdles",
+    "link": "https://www.zdnet.com/article/how-ai-agents-are-transforming-customer-service/",
+    "summary": "A new survey of 6,500 service pros shows investments in agentic AI are essential for business success.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:00:42 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "The best rechargeable batteries of 2026: Expert recommended",
+    "link": "https://www.zdnet.com/article/best-rechargeable-batteries/",
+    "summary": "These are our picks for the best rechargeable batteries that are a smarter, longer-lasting alternative to disposables.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 10:00:27 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I stopped waiting 30 days for my Android phone to delete files automatically - here's why",
+    "link": "https://www.zdnet.com/article/never-let-android-recycling-bin-sit-full-how-to-empty/",
+    "summary": "Android keeps deleted files in the Trash for a month's time, but I don't wait that long. Here's why I clear them manually.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 09:01:08 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
+    "link": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
+    "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 09:00:48 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "8 ways I optimize Zorin OS for peak performance - from a decades-long Linux user",
+    "link": "https://www.zdnet.com/article/my-favorite-zorin-os-settings/",
+    "summary": "Like most Linux distributions, Zorin OS offers a lot, especially in terms of customization. These are my favorite tweaks, and why you should do them, too.",
+    "author": "",
+    "published": "Wed, 03 Jun 2026 08:00:48 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
@@ -2170,116 +2292,6 @@
     "summary": "Today's vehicles know where we live, how much we weigh, and what we had for dinner. Here's what happens to all that information, and how you can reduce the data flow.",
     "author": "",
     "published": "Tue, 02 Jun 2026 16:43:22 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I'm a phone reviewer - these are the 5 early Prime Day phone deals I'd recommend",
-    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-phone-deals-2026/",
-    "summary": "Amazon Prime Day is still weeks away, but top phone deals from Samsung, Google, and Motorola are already live.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 16:41:54 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Amazon has discounted this 75-inch Hisense TV by over $500 - and I highly recommend it",
-    "link": "https://www.zdnet.com/article/hisense-u6-pro-amazon-deal/",
-    "summary": "The Hisense U6 Pro is a solid midrange Mini LED TV, and an even better buy at this price.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 15:55:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Forget Amazon - these are the best Costco deals I've found this week",
-    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
-    "summary": "Prime Day may be coming soon, but Costco already has great discounts live on home essentials, top tech, and more.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 15:51:40 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I found 15 Amazon deals on editor-approved tech already live for Prime Day",
-    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-deals-2026/",
-    "summary": "Amazon's Prime Day sale returns this month. These are our favorite early deals you can shop now.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 15:00:18 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Amazon Prime Day is June 23-26: Everything to know about start times, deals, and more",
-    "link": "https://www.zdnet.com/article/amazon-prime-day-2026-everything-you-need-to-know/",
-    "summary": "Here's everything we know about Amazon's June Prime event - including confirmed dates, how to prep for early deals, and how it compares to previous July sales.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 14:16:58 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ubuntu 26.04 is the OS for the AI agentic era, says Canonical's Mark Shuttleworth - here's why",
-    "link": "https://www.zdnet.com/article/ubuntu-26-04-is-os-for-ai-agentic-era-says-canonical-mark-shuttleworth-why/",
-    "summary": "Canonical's pitch starts with snaps and security.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 14:07:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Why I never let my Android recycling bin sit full for 30 days - and how I empty it",
-    "link": "https://www.zdnet.com/article/never-let-android-recycling-bin-sit-full-how-to-empty/",
-    "summary": "Android keeps deleted files in the Trash for 30 days, but I don't wait that long. Here's why I clear them manually.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 14:04:44 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Best Buy slashed this 64GB Kingston DDR5 RAM kit by almost $200 - and I recommend it",
-    "link": "https://www.zdnet.com/article/kingston-fury-beast-ddr5-ram-deal/",
-    "summary": "This 64GB Kingston Fury Beast DDR5 RAM kit is the latest memory deal that I've actually considered at Best Buy.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 13:54:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Prime Day 2026 is coming in June and will be 4 days long - here's what Amazon just unveiled",
-    "link": "https://www.zdnet.com/article/amazon-prime-day-2026-dates/",
-    "summary": "The retailer just revealed the sale dates for Amazon Prime Day, which is set to kick off June 23.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 13:03:51 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "This easy prompt trick gave me better AI-generated images - no matter the model",
-    "link": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-    "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Try this foolproof prompt.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I finally bought the Transmit MacOS app, and that 16x faster transfer speed is just the beginning",
-    "link": "https://www.zdnet.com/article/transmit-is-one-of-the-best-macos-file-transfer-tools-on-the-market/",
-    "summary": "If you spend a good amount of time transferring files to and from your MacOS machine, do yourself a favor and grab a copy of Transmit.",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 10:00:33 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2629,17 +2641,16 @@
     "module": "应用落地"
   },
   {
-    "title": "Meta will reportedly let employees take 30-minute breaks from its tracking program",
-    "link": "https://www.engadget.com/2186261/meta-will-reportedly-let-employees-take-30-minute-breaks-from-its-tracking-program/",
-    "summary": "Workers can pause the all-seeing eye when they need to \"check something personal.\"",
-    "author": "staff@engadget.com (Karissa Bell)",
-    "published": "Wed, 03 Jun 2026 00:03:09 +0000",
+    "title": "Google pledges to replenish more water than it uses at data centers by 2030",
+    "link": "https://www.engadget.com/2186418/google-pledges-to-replenish-water-data-centers-by-2030/",
+    "summary": "Google has expanded its water stewardship projects in the midst of growing unrest over data centers' water usage.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 03 Jun 2026 12:23:10 +0000",
     "tags": [
-      "AI",
-      "Meta"
+      "Google"
     ],
     "source": "https://www.engadget.com",
-    "module": "应用落地"
+    "module": "前沿探索"
   },
   {
     "title": "Trump signs scaled-back AI cybersecurity order",
@@ -2691,13 +2702,37 @@
     "module": "应用落地"
   },
   {
-    "title": "Until Dawn 2 looks like Cabin in the Woods, but in a jungle",
-    "link": "https://www.engadget.com/2186245/until-dawn-2-looks-like-cabin-in-the-woods-but-in-a-jungle/",
-    "summary": "The sequel is headed to PS5 in 2027.",
+    "title": "Amazon kills plans for Stargate series reboot",
+    "link": "https://www.engadget.com/2186409/amazon-kills-plans-for-stargate-series-reboot/",
+    "summary": "Amazon's Stargate series greenlit last year has been cancelled.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Wed, 03 Jun 2026 11:42:25 +0000",
+    "tags": [
+      "Entertainment"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Insomniac Games' Wolverine looks comically violent",
+    "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+    "summary": "The first gameplay trailer shows off bloody melee combat.",
     "author": "staff@engadget.com (Jessica Conditt)",
-    "published": "Tue, 02 Jun 2026 23:09:21 +0000",
+    "published": "Tue, 02 Jun 2026 21:22:42 +0000",
     "tags": [
       "PlayStation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Meta took down over a million scam accounts in joint operation with Microsoft, SpaceX and DOJ",
+    "link": "https://www.engadget.com/2186397/meta-took-down-over-a-million-scam-accounts-in-joint-operation-with-microsoft-spacex-and-doj/",
+    "summary": "Meta, Microsoft, SpaceX, Coinbase, the DOJ and international law enforcement partners collaborated in an operation that focused on scam networks in SE Asia.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 03 Jun 2026 11:00:00 +0000",
+    "tags": [
+      "Big Tech"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2739,6 +2774,18 @@
     "module": "应用落地"
   },
   {
+    "title": "Researchers show how AI-powered worms could wreak havoc on the internet",
+    "link": "https://www.engadget.com/2186363/researchers-show-how-ai-powered-worms-could-wreak-havoc-on-the-internet/",
+    "summary": "Researchers created an AI-powered worm that that can spread through networks with no human intervention.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Wed, 03 Jun 2026 09:19:03 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Mina the Hollower, a Sims alternative and other new indie games worth checking out",
     "link": "https://www.engadget.com/2183989/mina-the-hollower-a-sims-alternative-and-other-new-indie-games-worth-checking-out/",
     "summary": "Indie Game Roundup: Mina the Hollower, a Sims alternative and more",
@@ -2746,30 +2793,6 @@
     "published": "Sat, 30 May 2026 11:30:00 +0000",
     "tags": [
       "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Onimusha: Way of the Sword arrives September 25 but there's a demo today",
-    "link": "https://www.engadget.com/2186239/onimusha-way-of-the-sword-arrives-september-25-but-there-s-a-demo-today/",
-    "summary": "Capcom's latest game is looking sharp.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Tue, 02 Jun 2026 22:56:40 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Insomniac Games' Wolverine looks comically violent",
-    "link": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
-    "summary": "The first gameplay trailer shows off bloody melee combat.",
-    "author": "staff@engadget.com (Jessica Conditt)",
-    "published": "Tue, 02 Jun 2026 21:22:42 +0000",
-    "tags": [
-      "PlayStation"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2800,18 +2823,6 @@
     "module": "应用落地"
   },
   {
-    "title": "God of War Laufey stars the wife of Kratos and a jelly cube",
-    "link": "https://www.engadget.com/2186230/god-of-war-laufey-stars-the-wife-of-kratos/",
-    "summary": "After playing as Kratos and Atreus, now we get to be Faye.",
-    "author": "staff@engadget.com (Nathan Ingraham)",
-    "published": "Tue, 02 Jun 2026 22:32:54 +0000",
-    "tags": [
-      "PlayStation"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Everything to know before putting your car key on an Android phone",
     "link": "https://www.engadget.com/2182547/how-to-store-car-keys-on-android-phone/",
     "summary": "They're more secure than you might think.",
@@ -2819,6 +2830,30 @@
     "published": "Fri, 29 May 2026 13:30:00 +0000",
     "tags": [
       "EVs and Transportation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
+    "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
+    "summary": "Google has released 2D CAD drawings of the Fitbit Air.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 03 Jun 2026 08:17:26 +0000",
+    "tags": [
+      "Wearables"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Poland wants to ban phones and smartwatches in schools",
+    "link": "https://www.engadget.com/2186323/poland-classroom-phone-ban-online-porn-age-check-bills/",
+    "summary": "The Polish government has approved several bills, including one that would ban phones in the classroom.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 03 Jun 2026 05:58:15 +0000",
+    "tags": [
+      "News"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2844,30 +2879,6 @@
     "tags": [
       "AI",
       "Apple"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How to run a local AI chatbot on your iPhone",
-    "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
-    "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy.",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "published": "Thu, 28 May 2026 13:30:00 +0000",
-    "tags": [
-      "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Control Resonant will bend your reality on September 24, 2026",
-    "link": "https://www.engadget.com/2186215/control-resonant-will-bend-your-reality-on-september-24-2026/",
-    "summary": "You can pre-order the Faden siblings' next adventure now.",
-    "author": "staff@engadget.com (Nathan Ingraham)",
-    "published": "Tue, 02 Jun 2026 22:06:47 +0000",
-    "tags": [
-      "PlayStation"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
