@@ -751,6 +751,16 @@
     "module": "应用落地"
   },
   {
+    "title": "C++: The Documentary",
+    "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408016\">Comments</a>",
+    "author": "",
+    "published": "Fri, 05 Jun 2026 04:37:01 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Meta enables ADB on deprecated Portal devices [video]",
     "link": "https://fb.watch/HxPu0fSyeH/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48406640\">Comments</a>",
@@ -761,11 +771,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Do transformers need three projections? Systematic study of QKV variants",
-    "link": "https://arxiv.org/abs/2606.04032",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405931\">Comments</a>",
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "link": "https://passo.uno/fine-tuning-docs-llm/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408442\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 23:11:56 +0000",
+    "published": "Fri, 05 Jun 2026 05:46:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -781,6 +791,16 @@
     "module": "应用落地"
   },
   {
+    "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+    "link": "https://isupmap.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48408067\">Comments</a>",
+    "author": "",
+    "published": "Fri, 05 Jun 2026 04:44:48 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Open Code Review – An AI-powered code review CLI tool",
     "link": "https://github.com/alibaba/open-code-review",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48406358\">Comments</a>",
@@ -791,21 +811,21 @@
     "module": "应用落地"
   },
   {
-    "title": "VoidZero Is Joining Cloudflare",
-    "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48398055\">Comments</a>",
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "link": "https://arxiv.org/abs/2606.04032",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405931\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 13:00:51 +0000",
+    "published": "Thu, 04 Jun 2026 23:11:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-    "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48400842\">Comments</a>",
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+    "link": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407499\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 16:20:17 +0000",
+    "published": "Fri, 05 Jun 2026 03:14:28 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -821,11 +841,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-    "link": "https://github.com/tarpediem/zenvision-linux",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48368338\">Comments</a>",
+    "title": "Watching a Z80 from an RP2350",
+    "link": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48374049\">Comments</a>",
     "author": "",
-    "published": "Tue, 02 Jun 2026 10:29:01 +0000",
+    "published": "Tue, 02 Jun 2026 18:18:01 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "WiFi Time",
+    "link": "https://mitxela.com/projects/wifi_time",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48370775\">Comments</a>",
+    "author": "",
+    "published": "Tue, 02 Jun 2026 14:30:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Go Experiments Explained",
+    "link": "https://www.alexedwards.net/blog/go-experiments-explained",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48354136\">Comments</a>",
+    "author": "",
+    "published": "Mon, 01 Jun 2026 08:39:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -841,34 +881,44 @@
     "module": "应用落地"
   },
   {
-    "title": "Ian's Secure Shoelace Knot",
-    "link": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48397028\">Comments</a>",
+    "title": "Linear Cosine Palettes(2025)",
+    "link": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407653\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 11:17:34 +0000",
+    "published": "Fri, 05 Jun 2026 03:40:02 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-    "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48406198\">Comments</a>",
+    "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
+    "link": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407368\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 23:45:56 +0000",
+    "published": "Fri, 05 Jun 2026 02:48:44 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Queen bees emerge from special wax chambers",
-    "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48404905\">Comments</a>",
+    "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+    "link": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48402116\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 21:31:31 +0000",
+    "published": "Thu, 04 Jun 2026 17:51:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
+  },
+  {
+    "title": "Magenta RealTime 2: Open and Local Live Music Models",
+    "link": "https://magenta.withgoogle.com/magenta-realtime-2",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407815\">Comments</a>",
+    "author": "",
+    "published": "Fri, 05 Jun 2026 04:09:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
   },
   {
     "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
@@ -876,6 +926,16 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48405718\">Comments</a>",
     "author": "",
     "published": "Thu, 04 Jun 2026 22:48:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+    "link": "https://github.com/tarpediem/zenvision-linux",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48368338\">Comments</a>",
+    "author": "",
+    "published": "Tue, 02 Jun 2026 10:29:01 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -891,11 +951,21 @@
     "module": "应用落地"
   },
   {
-    "title": "The Causes of Long Covid",
-    "link": "https://www.science.org/content/blog-post/causes-long-covid",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407451\">Comments</a>",
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48400842\">Comments</a>",
     "author": "",
-    "published": "Fri, 05 Jun 2026 03:04:28 +0000",
+    "published": "Thu, 04 Jun 2026 16:20:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Queen bees emerge from special wax chambers",
+    "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48404905\">Comments</a>",
+    "author": "",
+    "published": "Thu, 04 Jun 2026 21:31:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -911,21 +981,21 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Retro-Tech Parenting",
-    "link": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48400588\">Comments</a>",
+    "title": "VoidZero Is Joining Cloudflare",
+    "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48398055\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 16:02:35 +0000",
+    "published": "Thu, 04 Jun 2026 13:00:51 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
-    "link": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407401\">Comments</a>",
+    "title": "Retro-Tech Parenting",
+    "link": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48400588\">Comments</a>",
     "author": "",
-    "published": "Fri, 05 Jun 2026 02:54:33 +0000",
+    "published": "Thu, 04 Jun 2026 16:02:35 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -941,6 +1011,26 @@
     "module": "应用落地"
   },
   {
+    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48406198\">Comments</a>",
+    "author": "",
+    "published": "Thu, 04 Jun 2026 23:45:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "WSL 2 is getting faster Windows file system access",
+    "link": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48403377\">Comments</a>",
+    "author": "",
+    "published": "Thu, 04 Jun 2026 19:21:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Castor: CERN Advanced STORage Manager",
     "link": "https://castor.web.cern.ch/content/home.html",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48403753\">Comments</a>",
@@ -951,103 +1041,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-    "link": "https://www.mercek.dev/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48404732\">Comments</a>",
+    "title": "The Causes of Long Covid",
+    "link": "https://www.science.org/content/blog-post/causes-long-covid",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48407451\">Comments</a>",
     "author": "",
-    "published": "Thu, 04 Jun 2026 21:15:16 +0000",
+    "published": "Fri, 05 Jun 2026 03:04:28 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-    "link": "https://arxiv.org/abs/2604.24881",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405841\">Comments</a>",
-    "author": "",
-    "published": "Thu, 04 Jun 2026 23:01:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Making Debian or Fedora persistent live images",
-    "link": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48360414\">Comments</a>",
-    "author": "",
-    "published": "Mon, 01 Jun 2026 18:02:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-    "link": "https://uruky.com/?il=en",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48396004\">Comments</a>",
-    "author": "",
-    "published": "Thu, 04 Jun 2026 08:56:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-    "link": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48401433\">Comments</a>",
-    "author": "",
-    "published": "Thu, 04 Jun 2026 17:00:37 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Meta's ships facial recognition on smart glasses",
-    "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48403588\">Comments</a>",
-    "author": "",
-    "published": "Thu, 04 Jun 2026 19:36:48 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "U.S. Army Corps of Engineers Bay Model",
-    "link": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48373642\">Comments</a>",
-    "author": "",
-    "published": "Tue, 02 Jun 2026 17:50:00 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "IPv6 zones in URLs are a mistake",
-    "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48405019\">Comments</a>",
-    "author": "",
-    "published": "Thu, 04 Jun 2026 21:42:34 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Gaussian Point Splatting",
-    "link": "https://momentsingraphics.de/Siggraph2026.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48396792\">Comments</a>",
-    "author": "",
-    "published": "Thu, 04 Jun 2026 10:48:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "External Clock Generation on RTX 50 Series",
-    "link": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48379580\">Comments</a>",
-    "author": "",
-    "published": "Wed, 03 Jun 2026 03:35:54 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
+    "title": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
+    "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
+    "summary": "<p>Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI tool</p><p>New claimants have come forward to take legal action against Elon Musk’s company xAI after the Labour MP Jess Asato <a href=\"https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images\">launched a test case against the firm</a> over demeaning sexualised material created by its Grok AI tool.</p><p>A handful of complainants contacted Asato’s lawyer on Thursday in response to coverage of the MP’s decision to sue Musk’s company for damages over its creation and circulation of fake images of her in a bikini and an AI-created video that she said showed her “being chloroformed and prepared for a sexual assault”.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit\">Continue reading...</a>",
+    "author": "Amelia Gentleman",
+    "published": "Fri, 05 Jun 2026 06:00:28 GMT",
+    "tags": [
+      "Grok AI",
+      "X",
+      "Elon Musk",
+      "AI (artificial intelligence)",
+      "Politics",
+      "UK news",
+      "Technology"
+    ],
+    "source": "https://www.theguardian.com",
     "module": "应用落地"
   },
   {
@@ -1164,23 +1182,50 @@
     "module": "应用落地"
   },
   {
-    "title": "UK media websites given power to block Google using their articles in AI search",
-    "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
-    "summary": "<p>Watchdog makes ruling on search summaries after publishers complain about drop in click-through traffic and revenue</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/03/google-uk-publishers-choice-ai-search-summaries-competition-watchdog-business-live-news\">Business live – latest updates</a></p></li></ul><p>Online publishers and news organisations are now able to block their content from appearing in Google’s AI summaries in UK search results, the British competition watchdog has announced.</p><p>The Competition and Markets Authority (CMA) said the new requirement would “put publishers, like news organisations, in a stronger position to negotiate content deals with Google”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries\">Continue reading...</a>",
-    "author": "Joanna Partridge and Dan Milmo",
-    "published": "Wed, 03 Jun 2026 08:43:52 GMT",
+    "title": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
+    "link": "https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
+    "summary": "<p>PM says Britons are ‘reasonable, tolerant people’ and backs MP’s legal action against Grok firm over fake sexualised images</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/jun/04/henry-nowak-death-policing-justice-farage-jenrick-reform-badenoch-burnham-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Elon Musk is “interfering in our politics” and attempting to create division, Keir Starmer has said, in a significant toughening of government language about the X owner.</p><p>The prime minister’s comments come after weeks of posts by Musk on his social media platform about <a href=\"https://www.theguardian.com/uk-news/2026/jun/01/southampton-man-jailed-life-murder-student-religious-knife-vickrum-digwa-henry-nowak\">the murder of Henry Nowak</a>, many of which have used far-right themes and talking points.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak\">Continue reading...</a>",
+    "author": "Peter Walker Senior political correspondent",
+    "published": "Thu, 04 Jun 2026 18:06:38 GMT",
     "tags": [
-      "Competition and Markets Authority",
-      "Google",
-      "Search engines",
-      "AI (artificial intelligence)",
-      "Technology sector",
-      "Regulators",
-      "Alphabet",
-      "Business",
-      "UK news",
+      "Keir Starmer",
+      "Elon Musk",
+      "Police",
+      "Politics",
+      "The far right",
+      "Social media",
+      "Grok AI",
+      "Hampshire",
+      "Southampton",
+      "X",
       "Technology",
-      "Media"
+      "AI (artificial intelligence)",
+      "UK news",
+      "Online abuse",
+      "Society",
+      "Digital media"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "SpaceX targets biggest ever stock market debut, putting Musk on course to be trillionaire",
+    "link": "https://www.theguardian.com/science/2026/jun/03/spacex-ipo-stock-musk",
+    "summary": "<p>IPO could raise up to $75bn, giving SpaceX market value of $1.77tn as it sets up Musk for extraordinary wealth</p><p>Elon Musk’s SpaceX is looking to raise $75bn (£55bn) from its blockbuster stock market listing next week as the rocket company aims for the largest initial public offering ever.</p><p>If the stock market launch – primed for 12 June – goes as planned, founder Musk, the world’s wealthiest person, could make history as the first trillionaire.</p> <a href=\"https://www.theguardian.com/science/2026/jun/03/spacex-ipo-stock-musk\">Continue reading...</a>",
+    "author": "Uwa Ede-Osifo,  Lauren Almeida and Dan Milmo",
+    "published": "Thu, 04 Jun 2026 14:27:20 GMT",
+    "tags": [
+      "SpaceX",
+      "Elon Musk",
+      "Stock markets",
+      "Technology",
+      "Business",
+      "US news",
+      "IPOs",
+      "Technology sector",
+      "Aerospace industry",
+      "Space",
+      "AI (artificial intelligence)"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1217,45 +1262,6 @@
       "US news",
       "Energy",
       "Environment"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
-    "link": "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing",
-    "summary": "<p>Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers</p><p>Colorado’s governor vetoed a bill on Tuesday that would have banned companies from using surveillance pricing to set workers’ wages and prices for consumer goods.</p><p>The measure would have been the strongest in the nation against algorithmic pricing. While Maryland became the first state to approve a law <a href=\"https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing\">banning</a> surveillance pricing in grocery stores in April, Colorado’s proposed measure was more expansive.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing\">Continue reading...</a>",
-    "author": "Sanya Mansoor",
-    "published": "Wed, 03 Jun 2026 19:12:19 GMT",
-    "tags": [
-      "Technology",
-      "US politics",
-      "US news",
-      "World news",
-      "AI (artificial intelligence)",
-      "Colorado"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
-    "link": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
-    "summary": "<p>Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures</p><p>A Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year.</p><p>Jess Asato, the MP for Lowestoft, <a href=\"https://www.bbc.co.uk/news/articles/c0ke3pjkxvpo\">said</a> in January that seeing herself portrayed by the AI tool as wearing a bikini without her consent was “violating”.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images\">Continue reading...</a>",
-    "author": "Peter Walker Senior political correspondent",
-    "published": "Wed, 03 Jun 2026 17:48:06 GMT",
-    "tags": [
-      "Grok AI",
-      "Internet safety",
-      "AI (artificial intelligence)",
-      "Sexual harassment",
-      "X",
-      "Politics",
-      "UK news",
-      "Technology",
-      "Internet",
-      "Privacy",
-      "Law"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
