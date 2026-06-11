@@ -470,156 +470,222 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Deezer launches an AI music detector for other streaming services",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-    "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
-    "author": "Terrence O’Brien",
-    "published": "2026-06-11T04:00:00-04:00",
+    "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
+    "link": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
+    "summary": "Elon Musk, on the verge of becoming the world's first trillionaire, is whipping up anti-immigration tensions amid ongoing riots in Belfast, Northern Ireland. Following a knife attack in the city on Monday, Musk declared support for Restore Britain, a hard-right populist political party that advocates for large-scale migrant deportation in the UK. He reposted statements [&#8230;]",
+    "author": "Jess Weatherbed",
+    "published": "2026-06-11T11:51:27-04:00",
+    "tags": [
+      "Elon Musk",
+      "News",
+      "Policy",
+      "Politics",
+      "Social Media",
+      "Tech",
+      "Twitter - X"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Is Apple TV the new HBO?",
+    "link": "https://www.theverge.com/column/948295/apple-tv-new-hbo",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Severance. Pachinko. Silo. Ted Lasso. Over the past couple of years, a number of Apple TV shows have become hits with audiences and critics alike. And yet, compared to the [&#8230;]",
+    "author": "Janko Roettgers",
+    "published": "2026-06-11T11:30:00-04:00",
+    "tags": [
+      "Column",
+      "Lowpass",
+      "Streaming"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Nintendo Switch 2 is $15 off at Woot",
+    "link": "https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot",
+    "summary": "Woot is hosting a small, but welcome deal on the Nintendo Switch 2 through June 19th. New customers can save $15 on the $449.99 console with the code NEW15 used at checkout. Sure, these are microscopic savings, but come September, the Switch 2 will rise in price to $499.99, so any deal is worth telling [&#8230;]",
+    "author": "Cameron Faulkner",
+    "published": "2026-06-11T11:03:49-04:00",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Gaming",
+      "Nintendo",
+      "Verge Shopping"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Weather Channel app now predicts bad allergy days",
+    "link": "https://www.theverge.com/tech/948363/weather-channel-mobile-app-ios-android-pollen-forecast",
+    "summary": "The Weather Company announced an \"enhanced allergy experience\" now available through its The Weather Channel app designed to help allergy sufferers better understand when their symptoms might flare up, and what's causing them. While the app already provides static pollen counts, its \"Health &#38; Wellness\" section is being expanded to take into account other factors [&#8230;]",
+    "author": "Andrew Liszewski",
+    "published": "2026-06-11T11:02:33-04:00",
+    "tags": [
+      "Apps",
+      "News",
+      "Science",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "With the World Cup looming, there’s still no clear replacement for sports Twitter",
+    "link": "https://www.theverge.com/entertainment/947956/world-cup-2026-social-media",
+    "summary": "Three years ago, when the women's World Cup kicked off in Australia and New Zealand, my social feeds were in a strange place. Twitter had just transformed into X, newcomer Threads was seemingly ascendant, and places like Bluesky had yet to garner much momentum. It left me with an odd, and admittedly silly, dilemma: I [&#8230;]",
+    "author": "Andrew Webster",
+    "published": "2026-06-11T10:30:00-04:00",
+    "tags": [
+      "Analysis",
+      "Entertainment",
+      "Report",
+      "Social Media",
+      "Sports",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "Cash App’s launching a phone service",
+    "link": "https://www.theverge.com/tech/948181/cash-app-mobile",
+    "summary": "Cash App's AT&#38;T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees. The new mobile service is powered by Gigs, the same firm behind the Klarna mobile service that launched last year with the same pricing and is \"rolling out to select users, with broader availability planned in [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-06-11T09:00:00-04:00",
+    "tags": [
+      "AT&T",
+      "Mobile",
+      "News",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I went to the woods to drink surprisingly great espresso",
+    "link": "https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review",
+    "summary": "With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew. I've tried every imaginable coffee gadget in my half-century of camping. These range from [&#8230;]",
+    "author": "Thomas Ricker",
+    "published": "2026-06-11T08:30:00-04:00",
+    "tags": [
+      "Accessory Reviews",
+      "Food",
+      "Reviews",
+      "Science",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Boox’s new e-reader could replace your Kindle, Kobo, and digital notepad",
+    "link": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
+    "summary": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now supports Boox's InkSense Plus stylus, which [&#8230;]",
+    "author": "Andrew Liszewski",
+    "published": "2026-06-11T08:00:00-04:00",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
+    "author": "Robert Hart",
+    "published": "2026-06-11T07:40:43-04:00",
     "tags": [
       "AI",
-      "Entertainment",
-      "Music",
+      "Anthropic",
       "News"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "Bluesky is getting ‘communities’",
-    "link": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
-    "summary": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the decentralized AT Protocol that underpins Bluesky, with Benzer saying that \"it's a [&#8230;]",
+    "title": "The library rules (and so do library streaming services)",
+    "link": "https://www.theverge.com/tech/942657/library-ebook-borrowing-stream-tv-movies-hoopla-kanopy-overdrive",
+    "summary": "Summer is almost here, and that means getting outside, having fun in the sun, and touching grass. But if you need to cool down for a bit, allow me to sing the praises of the library. If your local library system is anything like mine, it probably offers a lot of great things for you [&#8230;]",
     "author": "Jay Peters",
-    "published": "2026-06-10T20:05:48-04:00",
-    "tags": [
-      "News",
-      "Social Media",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Framework delays its first Laptop 13 Pro shipments by a month",
-    "link": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
-    "summary": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop 13 Pro shifts from [&#8230;]",
-    "author": "Antonio G. Di Benedetto",
-    "published": "2026-06-10T19:12:51-04:00",
-    "tags": [
-      "Gadgets",
-      "Intel",
-      "Laptops",
-      "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple’s new Siri AI knows when to shut up",
-    "link": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-    "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-06-10T18:52:17-04:00",
-    "tags": [
-      "Apple",
-      "Report",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
-    "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-    "summary": "Typing a few letters and numbers into my web browser, I find myself gaping at the identity documents of complete strangers. The passport of a young woman from Germany. The passport of a man from Spain with glasses resting on his head. The front and back of another man's driver's license, a stereotypically goofy expression [&#8230;]",
-    "author": "Sean Hollister",
-    "published": "2026-06-10T17:55:00-04:00",
-    "tags": [
-      "Report",
-      "Security",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
-    "link": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
-    "summary": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources suggest the cuts could even involve a studio closure, or changes to the [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-06-10T17:28:53-04:00",
+    "published": "2026-06-11T07:30:00-04:00",
     "tags": [
       "Entertainment",
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Xbox"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple, Google add support for Thread 1.4",
-    "link": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
-    "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for these devices, which serve [&#8230;]",
-    "author": "Jennifer Pattison Tuohy",
-    "published": "2026-06-10T16:25:46-04:00",
-    "tags": [
-      "Matter",
-      "News",
-      "Smart Home",
       "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "Kalshi adds required employment verification for some prediction market bets",
-    "link": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
-    "summary": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal would establish a structured framework for evaluating whether such contracts involve an activity enumerated in Section [&#8230;]",
-    "author": "Stevie Bonifield",
-    "published": "2026-06-10T16:18:16-04:00",
+    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+    "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the&#8230;",
+    "author": "Thomas Macaulay",
+    "published": "Thu, 11 Jun 2026 12:10:00 +0000",
     "tags": [
-      "Business",
-      "News",
-      "Policy",
-      "Tech"
+      "The Download"
     ],
-    "source": "https://www.theverge.com",
+    "source": "https://www.technologyreview.com",
     "module": "应用落地"
   },
   {
-    "title": "Claude Fable won’t answer basic biology questions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-    "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
-    "author": "Robert Hart",
-    "published": "2026-06-10T14:43:34-04:00",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
+    "author": "Will Douglas Heaven",
+    "published": "Thu, 11 Jun 2026 11:00:45 +0000",
     "tags": [
-      "AI",
-      "Anthropic",
-      "Report",
-      "Science"
+      "Artificial intelligence",
+      "App",
+      "Summary"
     ],
-    "source": "https://www.theverge.com",
-    "module": "基础设施与工具"
+    "source": "https://www.technologyreview.com",
+    "module": "大模型与基础技术"
   },
   {
-    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-    "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
-    "author": "Mia Sato",
-    "published": "2026-06-10T13:45:11-04:00",
+    "title": "Job titles of the future: Nature’s drug designer",
+    "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+    "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was increasingly concerned about&#8230;",
+    "author": "Anna Gibbs",
+    "published": "Thu, 11 Jun 2026 10:00:00 +0000",
     "tags": [
-      "AI",
+      "Climate change and energy",
+      "App"
+    ],
+    "source": "https://www.technologyreview.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Inside soccer’s data renaissance",
+    "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+    "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were Jesse&#8230;",
+    "author": "Andrew Zaleski",
+    "published": "Thu, 11 Jun 2026 10:00:00 +0000",
+    "tags": [
       "Culture",
-      "Entertainment",
-      "Internet Culture",
-      "Microsoft",
-      "News",
-      "Tech"
+      "App"
     ],
-    "source": "https://www.theverge.com",
+    "source": "https://www.technologyreview.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Why China is betting on big nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+    "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Meanwhile, the US has built just two reactors in that&#8230;",
+    "author": "Casey Crownhart",
+    "published": "Thu, 11 Jun 2026 10:00:00 +0000",
+    "tags": [
+      "Climate change and energy",
+      "App",
+      "Summary",
+      "The Spark"
+    ],
+    "source": "https://www.technologyreview.com",
     "module": "应用落地"
   },
   {
@@ -689,67 +755,53 @@
     "module": "应用落地"
   },
   {
-    "title": "Five things you need to know about AI",
-    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
-    "author": "Will Douglas Heaven",
-    "published": "Tue, 09 Jun 2026 09:16:45 +0000",
-    "tags": [
-      "Artificial intelligence",
-      "App"
-    ],
-    "source": "https://www.technologyreview.com",
+    "title": "MiMo Code Is Now Released and Open-Source",
+    "link": "https://mimo.xiaomi.com/mimocode",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490826\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:27:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-    "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first&#8230;",
-    "author": "Thomas Macaulay",
-    "published": "Mon, 08 Jun 2026 12:10:00 +0000",
-    "tags": [
-      "The Download"
-    ],
-    "source": "https://www.technologyreview.com",
+    "title": "Lines of Code Got a Better Publicist",
+    "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 12:26:42 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Why this year’s World Cup ball may not fly as far",
-    "link": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
-    "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a&#8230;",
-    "author": "Jenna Ahart",
-    "published": "Mon, 08 Jun 2026 09:00:00 +0000",
-    "tags": [
-      "Humans and technology",
-      "App"
-    ],
-    "source": "https://www.technologyreview.com",
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "link": "https://github.com/icitry/FPS.cob",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491486\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 15:13:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-    "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was&#8230;",
-    "author": "Thomas Macaulay",
-    "published": "Fri, 05 Jun 2026 12:10:00 +0000",
-    "tags": [
-      "The Download"
-    ],
-    "source": "https://www.technologyreview.com",
-    "module": "大模型与基础技术"
+    "title": "MapComplete – Contibute to OpenStreetMaps",
+    "link": "https://mapcomplete.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490532\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:04:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
   },
   {
-    "title": "Are AI chatbots making us lose control of our brains?",
-    "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-    "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early&#8230;",
-    "author": "Jessica Hamzelou",
-    "published": "Fri, 05 Jun 2026 09:00:00 +0000",
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "Summary"
-    ],
-    "source": "https://www.technologyreview.com",
+    "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "link": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490715\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:17:47 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
@@ -758,6 +810,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48487029\">Comments</a>",
     "author": "",
     "published": "Thu, 11 Jun 2026 06:42:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Open Reproduction of DeepSeek-R1",
+    "link": "https://github.com/huggingface/open-r1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489917\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 13:14:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+    "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490057\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 13:26:59 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Queues Don't Fix Overload (2014)",
+    "link": "https://ferd.ca/queues-don-t-fix-overload.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48456279\">Comments</a>",
+    "author": "",
+    "published": "Tue, 09 Jun 2026 04:10:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -773,11 +855,21 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Macaroni – a single HTML file messenger",
-    "link": "https://github.com/vanyapr/makaroshki",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48486944\">Comments</a>",
+    "title": "Why Thermodynamics Rules Future Orbital Data Centers",
+    "link": "https://spectrum.ieee.org/orbital-data-centers-heat",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490094\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 06:32:33 +0000",
+    "published": "Thu, 11 Jun 2026 13:29:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Web Browsers on Video Game Consoles",
+    "link": "https://vale.rocks/posts/game-console-browsers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487897\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 08:47:36 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -813,6 +905,96 @@
     "module": "应用落地"
   },
   {
+    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+    "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48461635\">Comments</a>",
+    "author": "",
+    "published": "Tue, 09 Jun 2026 14:29:34 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Show HN: Open-source API Key server written in Go by Ory",
+    "link": "https://github.com/ory/talos/tree/master",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491426\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 15:09:42 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Driving in America Is Headlight Hell",
+    "link": "https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491214\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:55:59 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Supporting Exchange and beyond",
+    "link": "https://brendan.abolivier.bzh/exchange-pt-2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48453949\">Comments</a>",
+    "author": "",
+    "published": "Mon, 08 Jun 2026 23:34:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "US-Canada border library gets new Quebec-only entrance",
+    "link": "https://www.bbc.com/news/videos/clyrvrde160o",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490245\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 13:42:42 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Euro-Office: First version of the open-source web office is here",
+    "link": "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490564\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:06:43 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Linux latency measurements and compositor tuning",
+    "link": "https://farnoy.dev/posts/linux-latency",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48458895\">Comments</a>",
+    "author": "",
+    "published": "Tue, 09 Jun 2026 09:50:50 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+    "link": "https://news.ycombinator.com/item?id=48477135",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48477135\">Comments</a>",
+    "author": "",
+    "published": "Wed, 10 Jun 2026 14:47:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "2025 年最热细分赛道"
+  },
+  {
+    "title": "Why AI hasn't replaced software engineers, and won't",
+    "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487540\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 07:51:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Starfish by Peter Watts (1999)",
     "link": "https://www.rifters.com/real/STARFISH.htm#prelude",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48455145\">Comments</a>",
@@ -833,41 +1015,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Linux latency measurements and compositor tuning",
-    "link": "https://farnoy.dev/posts/linux-latency",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48458895\">Comments</a>",
-    "author": "",
-    "published": "Tue, 09 Jun 2026 09:50:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Sequoyah’s syllabary created a written language for the Cherokee",
     "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48483387\">Comments</a>",
     "author": "",
     "published": "Wed, 10 Jun 2026 22:07:52 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "link": "https://news.ycombinator.com/item?id=48477135",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48477135\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 14:47:52 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "2025 年最热细分赛道"
-  },
-  {
-    "title": "Vacuum-Form Signage",
-    "link": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48470748\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 02:48:20 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -893,26 +1045,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Klondike Solitaire game for curses in 5k of C",
-    "link": "https://nanochess.org/klondike_in_c.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48450024\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 19:08:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GeoLibre 1.0",
-    "link": "https://geolibre.app/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48479852\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 17:39:47 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "L'Affaire Siloxane",
     "link": "https://mceglowski.substack.com/p/laffaire-siloxane",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48456808\">Comments</a>",
@@ -923,133 +1055,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-    "link": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487435\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 07:35:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Road to the WASM Component Model 1.0",
-    "link": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48448083\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 17:12:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-    "link": "https://www.extend.ai/ui",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48478469\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 16:09:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "CSS: Unavoidable Bad Parts",
-    "link": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48459678\">Comments</a>",
-    "author": "",
-    "published": "Tue, 09 Jun 2026 11:30:20 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Who's the smartest corvid?",
-    "link": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48464484\">Comments</a>",
-    "author": "",
-    "published": "Tue, 09 Jun 2026 17:37:11 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "World Capitals Voronoi",
-    "link": "https://www.jasondavies.com/maps/voronoi/capitals/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48446532\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 15:20:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Building an HTML-first site doubled our users overnight",
-    "link": "https://mohkohn.co.uk/writing/html-first/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48475483\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 12:45:47 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Raspberry Pi 5 – 16GB RAM",
-    "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48481857\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 20:05:21 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What is it like to be a bat? (1974) [pdf]",
-    "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48482293\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 20:35:07 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Are insecure code completions in PyCharm a vulnerability?",
-    "link": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48485160\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 01:26:03 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: HelixDB – A graph database built on object storage",
-    "link": "https://github.com/HelixDB/helix-db/tree/main",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48478148\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 15:47:31 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "link": "https://burr.apache.org/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48477400\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 15:01:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-    "link": "https://jivx.com/eki",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48475100\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 12:11:28 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
+    "title": "AI absolutism is breaking our brains. The apocalyptic future we’re being sold isn’t inevitable",
+    "link": "https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future",
+    "summary": "<p>Nor is the dreamy promise that this tech will unlock boundless potential and productivity</p><p>Everything we hear about artificial intelligence is conflicting, and hearing about it feels inescapable. AI is terrible. AI is wonderful. It will break the world. It will transform the future. It’s essential to embrace it. It’s a moral imperative to abstain from using it.</p><p>Already, AI is projected to generate nearly unfathomable amounts of revenue. In the last quarter of 2025, it represented nearly <a href=\"https://www.barrons.com/articles/ai-investment-gdp-economy-e19c6d70\">60% of the growth</a> in the US economy. Already, pundits and economists wring their hands about <a href=\"https://www.wired.com/story/ai-bubble-will-burst/\">what calamity will befall us</a> if and when the AI bubble bursts.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future\">Continue reading...</a>",
+    "author": "Samantha Oltman",
+    "published": "Thu, 11 Jun 2026 10:30:19 GMT",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Technology",
+      "US work & careers",
+      "Work & careers",
+      "US economy",
+      "Computing",
+      "ChatGPT"
+    ],
+    "source": "https://www.theguardian.com",
     "module": "应用落地"
   },
   {
@@ -1175,27 +1195,6 @@
     "module": "应用落地"
   },
   {
-    "title": "All signs point to Trump pushing AI growth",
-    "link": "https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic",
-    "summary": "<p>Also: Anthropic advocates for a ‘pause’ on AI advancement – days after filing to go public on the US stock market</p><p>Hello, and welcome to TechScape. I’m your host, Blake Montgomery, the US tech editor at the Guardian. Today we’re discussing Donald Trump’s neediness for AI and the contradictions of Anthropic’s safety-first posture.</p><p><a href=\"https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market\">OpenAI confidentially files for initial public offering on US stock market</a></p><p><a href=\"https://www.theguardian.com/technology/2026/jun/08/apple-debuts-siri-ai-child-safety-features-wwdc\">Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads</a></p><p><a href=\"https://www.theguardian.com/commentisfree/2026/jun/08/the-guardian-view-on-children-and-the-internet-rolling-back-big-techs-untrammelled-power\">The Guardian view on children and the internet: rolling back big tech’s untrammelled power | Editorial</a></p><p><a href=\"https://www.theguardian.com/politics/2026/jun/08/silicon-valley-meta-maga-politics-nick-clegg\">Silicon Valley including Meta has embraced Maga politics, says Nick Clegg</a></p><p><a href=\"https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan\">Bernie Sanders’ AI sovereign wealth fund plan is good. But we think this is better | Nathan E Sanders and Bruce Schneier</a></p><p><a href=\"https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water\">Majority of US’s new AI datacenters to be built on drought-hit land</a></p><p><a href=\"https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts\">Billions spent and hypothetical returns: the AI boom explained with six charts</a></p><p><a href=\"https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence\">‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism</a></p> <a href=\"https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic\">Continue reading...</a>",
-    "author": "Blake Montgomery",
-    "published": "Tue, 09 Jun 2026 13:06:03 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Donald Trump",
-      "Trump administration",
-      "Technology",
-      "US news",
-      "Computing",
-      "US politics",
-      "World news",
-      "Business",
-      "Technology sector"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Florida lawsuit alleges wrongful arrest after AI facial recognition error",
     "link": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
     "summary": "<p>Robert Dillon was arrested at home in Florida despite living 300 miles away from where a crime was committed</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>A <a href=\"https://www.theguardian.com/us-news/florida\">Florida</a> man is suing several law enforcement agencies for his arrest and prosecution for allegedly luring a child after he was wrongly identified using faulty AI facial recognition software.</p><p>According to the Jacksonville Beach police department, an algorithm returned a 93% probability that Robert Dillon was the man caught on security cameras at a McDonald’s in the town attempting to persuade an unaccompanied girl, aged younger than 12, to leave with him.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition\">Continue reading...</a>",
@@ -1246,22 +1245,19 @@
     "module": "应用落地"
   },
   {
-    "title": "World’s first wind-powered underwater datacentre starts operating in China",
-    "link": "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
-    "summary": "<p>Datacentre off Shanghai coast uses less power and water than land-based equivalent </p><p>The world’s first wind-powered underwater datacentre has started operations off the coast of Shanghai, as China presses forwards with solutions for energy challenges created by the country’s artificial intelligence boom.</p><p>The Shanghai Lingang undersea datacentre demonstration project, which launched in May, has a capacity of 24 megawatts. It is a joint effort between HiCloud Technology and China Communications Construction, a state-owned company.</p> <a href=\"https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china\">Continue reading...</a>",
-    "author": "Amy Hawkins in Shanghai",
-    "published": "Tue, 09 Jun 2026 05:00:45 GMT",
+    "title": "The best robot vacuums in the UK to keep your home clean and dust free, tested",
+    "link": "https://www.theguardian.com/thefilter/2024/nov/26/best-robot-vacuum-mop",
+    "summary": "<p>Looking for hands-free cleaning? We trialled the most powerful robot vacuums – some of which even mop your floors – to find the best</p><p><strong>• </strong><a href=\"https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested\"><strong>The best vacuum cleaners, tested</strong></a></p><p>Robot vacuum cleaners take the drudge work out of cleaning your floors and carpets. No more tiresome weekly stints of vacuuming, and no more last-minute panic when you have visitors on the way. Instead, your compact robot chum regularly trundles out from its dock, sucking up dust, hair and debris to leave your floors looking spick and span.</p><p>Over the past few years, robot vacuums have become much more affordable, with basic units starting at about £150. They’re also doing more than they used to: mopping hard floors and charging in sophisticated cleaning stations that empty their dust collectors and clean their mop pads for you.</p><p><strong>Best robot vacuum cleaner overall:<br /></strong>Eufy X10 Pro Omni</p><p><strong>Best budget robot vacuum for small homes:</strong><br />\n Roborock Q7 L5+</p> <a href=\"https://www.theguardian.com/thefilter/2024/nov/26/best-robot-vacuum-mop\">Continue reading...</a>",
+    "author": "Stuart Andrews",
+    "published": "Thu, 11 Jun 2026 09:00:07 GMT",
     "tags": [
-      "China",
-      "AI (artificial intelligence)",
       "Technology",
-      "Energy",
-      "World news",
-      "Computing",
-      "Environment"
+      "Homes",
+      "Life and style",
+      "Interiors"
     ],
     "source": "https://www.theguardian.com",
-    "module": "应用落地"
+    "module": "前沿探索"
   },
   {
     "title": "Should you send that midnight text? 11 essential rules for phone etiquette",
@@ -1308,24 +1304,6 @@
       "Technology",
       "Life and style",
       "Health & wellbeing"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’",
-    "link": "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art",
-    "summary": "<p>In response to AI’s hyperrealism, artists and creatives are gravitating toward the homespun and imperfect</p><p>Earlier this year, a group of film-makers, commercial directors and AI industry influencers gathered in New York City for the Runway AI Summit – a daylong hype-fest, trumping up the potential of this new technology. During one talk, Rob Wrubel, co-founder and managing partner at San Francisco ad firm Silverside, talked up his work on the Coca-Cola company’s AI-generated 2025 <a href=\"https://www.youtube.com/watch?v=Yy6fByUmPuE\">Holiday Caravan ad</a>. “What’s incredible about AI,” Wrubel said, “is that you can go from script to production is just two weeks!”</p><p>What Wrubel failed to mention was that the ad – with its computerized polar bears and fake-looking trundling delivery trucks – was widely despised by pretty much anyone who saw it. Indeed, the public distaste for the campaign became its own news story, spawning headlines like <a href=\"https://mashable.com/article/the-internet-hates-coca-cola-ai-generated-holiday-commercial\">“People really don’t like Coke’s AI holiday commercial”</a> and <a href=\"https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025\">“Coca-Cola’s New AI Holiday Ad is a Sloppy Eyesore”</a>. It may indeed have been quickly conceived – and it looked like it. Reached for comment about the backlash, Wrubel admits: “The conversation around the ad became almost as important as the ad itself because it surfaced questions the entire creative industry is wrestling with right now.”</p> <a href=\"https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art\">Continue reading...</a>",
-    "author": "John Semley",
-    "published": "Mon, 08 Jun 2026 13:00:25 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Advertising",
-      "Media",
-      "Art",
-      "Technology",
-      "Art and design",
-      "Culture"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1405,6 +1383,25 @@
     "module": "应用落地"
   },
   {
+    "title": "The 7th Guest Remake Review – a spirited reboot of a ghost story classic",
+    "link": "https://www.theguardian.com/games/2026/jun/11/the-7th-guest-remake-review",
+    "summary": "<p><strong>PC, PlayStation 5, Xbox, Nintendo Switch; Vertigo Games</strong><br />This clever update captures the 1990s magic of the original… including some of the technical issues</p><p>The 90s were a gold rush for adventure games. LucasArts kicked off the decade with its legendarily irreverent <a href=\"https://www.theguardian.com/games/2020/oct/01/the-secret-of-monkey-island\">Monkey Island</a> games. Then, Cyan Worlds materialised to deliver a series of atmospheric and boundary-pushing odysseys with Myst and <a href=\"https://www.theguardian.com/games/article/2024/jul/13/riven-review-reboot-of-90s-classic-myst-ronan-farrow-cyan-worlds\">Riven</a>. Nestled between these primary genre texts is The 7th Guest, a lesser-known but still notorious adventure that earned plaudits for its unique FMV visual style, blending live-action filmed footage with pre-rendered 3D backgrounds. It was remade originally for VR, and now has been reconfigured into something playable on PC and consoles, its digital cobwebs cleared and tricky puzzles tinkered with for a fresh (or nostalgic) audience.</p><p>We are dropped into the ectoplasmic shoes of an amnesiac apparition, arriving at the gloomy haunted home of a toy-maker. Armed with a time-bending lantern and a Ouija board-shaped map, your job is to solve a historical whodunnit by literally illuminating events from the past. It’s a melodramatic, surprisingly campy adventure that effectively evokes the overzealous CD-Rom horror of its original era.</p> <a href=\"https://www.theguardian.com/games/2026/jun/11/the-7th-guest-remake-review\">Continue reading...</a>",
+    "author": "Sarah Thwaites",
+    "published": "Thu, 11 Jun 2026 12:00:22 GMT",
+    "tags": [
+      "Games",
+      "Culture",
+      "Adventure games",
+      "Puzzle games",
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "AI backlash, single-player epics and Y2K nostalgia: eight trends from Summer Game Fest",
     "link": "https://www.theguardian.com/games/2026/jun/10/eight-trends-from-summer-game-fest-nintendo-playstation-xbox",
     "summary": "<p>From horror galore to Chinese action games, the key trends, trailers and surprises from Summer Game Fest’s many, many hours of streams and broadcasts</p><p>• <a href=\"https://www.theguardian.com/info/ng-interactive/2021/nov/24/sign-up-for-pushing-buttons-keza-macdonalds-weekly-look-at-the-world-of-gaming\"><strong>Don’t get Pushing Buttons delivered to your inbox? Sign up here</strong></a></p><p>Did <em>you</em> spend hours of your weekend watching a relentless series of video game adverts? No? I don’t blame you – Summer Game Fest, the collection of livestreams that has arisen in place of the giant annual E3 video game expo in Los Angeles, is extremely overwhelming. There are the bigger, longer shows: the PlayStation and Xbox streams, the main SGF show hosted by Geoff Keighley and Lucy James, Future’s duet of the Future Games Show and the PC Gaming Show. Each show is two hours long. Then there are all the indie showcases: cosy games, women-led games, Black voices in gaming, Day of the Devs. Between them, they show off hundreds of games that might pique your interest.</p><p>I picked out <a href=\"https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill\">exactly 34 highlights here</a>: the biggest news, the most interesting-looking smaller games. But from the barrage of trailers I was also able to discern some trends. Here’s what we can learn.</p> <a href=\"https://www.theguardian.com/games/2026/jun/10/eight-trends-from-summer-game-fest-nintendo-playstation-xbox\">Continue reading...</a>",
@@ -1469,24 +1466,6 @@
       "PlayStation",
       "Nintendo",
       "Steam"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Goals review – disruptor football game attempts to smash the competition",
-    "link": "https://www.theguardian.com/games/2026/jun/08/goals-review-disruptor-football-game-attempts-to-smash-the-competition",
-    "summary": "<p>Released just before the World Cup kicks off, this upstart football game is positioning itself as a credible alternative to EA Sports FC</p><p>This month something extremely unusual happened in the video game world: someone launched a new football game. It used to be that the market could support a vast array of contenders, from arcade kickabouts such as Super Sidekicks and Hat Trick Hero, to serious simulations named Actua Soccer or This Is Football, to eccentric oddities such as Namco’s LiberoGrande which made you experience the whole match as a single onfield player.</p><p>For the past decade plus, however, the scene has been dominated EA’s Fifa series, now EA Sports FC. With the exception of Konami’s Pro Evolution Soccer, now eFootball, there have been few competitors – and few plucky upstarts.</p> <a href=\"https://www.theguardian.com/games/2026/jun/08/goals-review-disruptor-football-game-attempts-to-smash-the-competition\">Continue reading...</a>",
-    "author": "Keith Stuart",
-    "published": "Mon, 08 Jun 2026 10:40:22 GMT",
-    "tags": [
-      "Games",
-      "Culture",
-      "Football",
-      "Sports games",
-      "PlayStation 5",
-      "PC",
-      "Mobile games"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1633,6 +1612,25 @@
     "module": "应用落地"
   },
   {
+    "title": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
+    "link": "https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai",
+    "summary": "<p>In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment. Some of it was useful, some not – but it was her time with a chatbot companion that really shook her</p><p>For a year, <a href=\"https://joannastern.com/\">Joanna Stern</a> decided to turn herself into a “lab rat” – the object of her own experiment. Throughout 2025, she invited artificial intelligence into “every corner” of her life. She let AI answer her texts, decide what she ate and cooked, mow her lawn, fold her washing, drive her places, parse her mammograms and even, in the darkness of a burner phone, be her lover. The resulting book, I&nbsp;Am Not a Robot: My Year Using AI to Do (Almost) Everything, asks all the big questions, including: what happens when AI can do everything humans can do? And what comes after that?</p><p>If anyone can produce answers, surely it’s Stern. Last February, she ended a 12-year stint as a personal technology columnist at the Wall Street Journal. During her tenure, she won an Emmy for her short documentary E-Ternal: A Tech Quest to “Live” Forever, which explored digital legacies, and built a reputation for product reviews that were outlandishly creative and fiendishly stringent. She once took an Apple watch jetskiing on the Hudson river to evaluate its&nbsp;connectivity.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai\">Continue reading...</a>",
+    "author": "Paula Cocozza",
+    "published": "Thu, 04 Jun 2026 04:00:25 GMT",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Technology",
+      "Wall Street Journal",
+      "Media",
+      "Newspapers & magazines",
+      "US press and publishing",
+      "Newspapers",
+      "Computing"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "前沿探索"
+  },
+  {
     "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
     "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
     "summary": "<p>With rivals racing to market to raise ‘eye-popping sums’, the spotlight is now on the AI sector’s one-time ‘poster child’</p><p>A year is a long time in AI. Just 12 months ago, Sam Altman <a href=\"https://blog.samaltman.com/the-gentle-singularity\">was predicting </a>his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is <a href=\"https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/\">walking back</a> those ideas after failing to make money from ads and erotic chatbots.</p><p>Meanwhile, rivals are storming ahead with plans to expand and go public on the stock market, in what is widely expected to be a season of record-setting initial public offerings (IPOs).</p> <a href=\"https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment\">Continue reading...</a>",
@@ -1689,16 +1687,72 @@
     "module": "2025 年最热细分赛道"
   },
   {
-    "title": "Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up",
-    "link": "https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo",
-    "summary": "<p>As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future</p><p>Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Let’s recap a whirlwind five days that may determine the future of AI.</p><p><a href=\"https://www.theguardian.com/science/2026/may/20/spacex-finances-stock-market-debut\">SpaceX reveals plan for $1.75tn stock market debut that could make Musk a trillionaire</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details\">Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors</a></p><p><a href=\"https://www.theguardian.com/science/2026/may/21/elon-musk-trillion-dollar-spacex-flotation-takeaways\">The main takeaways from Elon Musk’s plans for $1.75tn SpaceX flotation</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers\">Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/20/nvidia-revenue-ai-boom\">Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates</a></p><p><a href=\"https://www.theguardian.com/media/2026/may/20/incoming-ofcom-chair-vows-to-take-on-tech-bros\">Incoming Ofcom chair vows to take on ‘tech bros’</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough\">OpenAI makes breakthrough on 80-year-old maths problem</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools\">Meta settles major social media addiction lawsuit with school district</a></p><p><a href=\"https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode\">Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’</a></p> <a href=\"https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo\">Continue reading...</a>",
-    "author": "Blake Montgomery",
-    "published": "Tue, 26 May 2026 12:01:26 GMT",
+    "title": "Jeff Bezos Wants to Build an ‘Artificial General Engineer’",
+    "link": "https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html",
+    "summary": "As co-chief executive of the start-up Prometheus, the Amazon founder is using A.I. to improve how devices ranging from computers to jet engines are made.",
+    "author": "Cade Metz",
+    "published": "Thu, 11 Jun 2026 14:00:06 +0000",
     "tags": [
-      "Elon Musk",
-      "Sam Altman"
+      "Artificial Intelligence",
+      "Computers and the Internet",
+      "Start-ups",
+      "Amazon.com Inc",
+      "Project Prometheus",
+      "Bezos, Jeffrey P",
+      "Bajaj, Vikas",
+      "Innovation",
+      "Blue Origin"
     ],
-    "source": "https://www.theguardian.com",
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O.",
+    "link": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html",
+    "summary": "Investors who bought the automaker’s shares in its initial public offering became rich. As a result, many have a deep faith in Elon Musk, the chief executive of Tesla and SpaceX.",
+    "author": "Jack Ewing",
+    "published": "Thu, 11 Jun 2026 15:15:44 +0000",
+    "tags": [
+      "Electric and Hybrid Vehicles",
+      "Rocket Science and Propulsion",
+      "Space and Astronomy",
+      "Stocks and Bonds",
+      "Initial Public Offerings",
+      "Tesla Motors Inc",
+      "X.ai Inc",
+      "Space Exploration Technologies Corp",
+      "Musk, Elon",
+      "Automobiles",
+      "Private Spaceflight",
+      "High Net Worth Individuals",
+      "Social Media",
+      "Prices (Fares, Fees and Rates)",
+      "Banking and Financial Institutions",
+      "Ford Motor Co",
+      "General Motors",
+      "X (Formerly Twitter)",
+      "Cramer, James J"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.",
+    "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
+    "summary": "At The New York Times’s Hard Fork Live event, Mr. Nadella addressed the backlash against artificial intelligence and President Trump’s comments about Americans sharing in the wealth of A.I. companies",
+    "author": "Emmy Martin",
+    "published": "Thu, 11 Jun 2026 10:48:04 +0000",
+    "tags": [
+      "Nadella, Satya",
+      "Microsoft Corp",
+      "Artificial Intelligence",
+      "San Francisco (Calif)",
+      "Hard Fork (Radio Program)",
+      "Computers and the Internet",
+      "Cloud Computing",
+      "Start-ups"
+    ],
+    "source": "https://rss.nytimes.com",
     "module": "应用落地"
   },
   {
@@ -1717,6 +1771,27 @@
       "Altman, Samuel H",
       "Sanders, Bernard",
       "Trump, Donald J"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
+    "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
+    "summary": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
+    "author": "Megan Specia",
+    "published": "Thu, 11 Jun 2026 00:54:24 +0000",
+    "tags": [
+      "Great Britain",
+      "Social Media",
+      "Starmer, Keir",
+      "Children and Childhood",
+      "Politics and Government",
+      "Regulation and Deregulation of Industry",
+      "Teenagers and Adolescence",
+      "Smartphones",
+      "Labour Party (Great Britain)",
+      "Australia"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -1744,11 +1819,24 @@
     "module": "应用落地"
   },
   {
+    "title": "They Tried To Catch a Child Predator on a Livestream. They Trapped Themselves Instead.",
+    "link": "https://www.nytimes.com/2026/06/10/technology/predator-catcher-vitaly-mistake.html",
+    "summary": "What happened when livestreaming vigilantes ambushed an innocent man.",
+    "author": "Kashmir Hill and Aric Toler",
+    "published": "Wed, 10 Jun 2026 17:59:42 +0000",
+    "tags": [
+      "Video Recordings, Downloads and Streaming",
+      "Social Media"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
     "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
     "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
-    "summary": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to the change the lives of its current and former employees, too.",
+    "summary": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
     "author": "Kirsten Grind",
-    "published": "Wed, 10 Jun 2026 19:10:10 +0000",
+    "published": "Thu, 11 Jun 2026 15:14:50 +0000",
     "tags": [
       "Private Spaceflight",
       "Space and Astronomy",
@@ -1779,59 +1867,6 @@
       "Mobile Applications",
       "Computers and the Internet",
       "Content Type: Service"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.",
-    "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
-    "summary": "At The New York Times’s Hard Fork Live event, Mr. Nadella addressed the backlash against artificial intelligence and President Trump’s comments about Americans sharing in the wealth of A.I. companies",
-    "author": "Emmy Martin",
-    "published": "Thu, 11 Jun 2026 03:53:06 +0000",
-    "tags": [
-      "Nadella, Satya",
-      "Microsoft Corp",
-      "Artificial Intelligence",
-      "San Francisco (Calif)",
-      "Hard Fork (Radio Program)",
-      "Computers and the Internet",
-      "Cloud Computing",
-      "Start-ups"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
-    "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
-    "summary": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
-    "author": "Megan Specia",
-    "published": "Thu, 11 Jun 2026 00:54:24 +0000",
-    "tags": [
-      "Great Britain",
-      "Social Media",
-      "Starmer, Keir",
-      "Children and Childhood",
-      "Politics and Government",
-      "Regulation and Deregulation of Industry",
-      "Teenagers and Adolescence",
-      "Smartphones",
-      "Labour Party (Great Britain)",
-      "Australia"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "They Tried To Catch a Child Predator on a Livestream. They Trapped Themselves Instead.",
-    "link": "https://www.nytimes.com/2026/06/10/technology/predator-catcher-vitaly-mistake.html",
-    "summary": "What happened when livestreaming vigilantes ambushed an innocent man.",
-    "author": "Kashmir Hill and Aric Toler",
-    "published": "Wed, 10 Jun 2026 17:59:42 +0000",
-    "tags": [
-      "Video Recordings, Downloads and Streaming",
-      "Social Media"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -2260,167 +2295,63 @@
     "module": "应用落地"
   },
   {
-    "title": "What Are A.I. Agents Actually Doing?",
-    "link": "https://www.nytimes.com/2026/06/04/technology/ai-agents-arena.html",
-    "summary": "A San Francisco start-up called Arena found that people are most likely to use A.I. agents on the job, particularly if they are in the tech industry.",
-    "author": "Cade Metz",
-    "published": "Thu, 04 Jun 2026 16:00:08 +0000",
-    "tags": [
-      "Arena (Artificial Intelligence Co)",
-      "Artificial Intelligence",
-      "Computers and the Internet",
-      "Start-ups"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "How LinkedIn Found Its Social Platform Era",
-    "link": "https://www.nytimes.com/2026/06/04/business/linkedin-social-media-influencers.html",
-    "summary": "Celebrities and paid influencers have transformed the career-focused platform, which for some users, has become a job unto itself.",
-    "author": "Isabella Kwai",
-    "published": "Thu, 04 Jun 2026 17:23:06 +0000",
-    "tags": [
-      "LinkedIn Corporation",
-      "Video Recordings, Downloads and Streaming",
-      "Social Media",
-      "Computers and the Internet",
-      "Careers and Professions"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Microsoft patches record 206 Windows bugs in June update - and 3 are zero days",
+    "link": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
+    "summary": "Among the 206 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:02:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "Who’s Excited for SpaceX’s I.P.O.? Space Nerds.",
-    "link": "https://www.nytimes.com/2026/06/04/technology/space-nerds-spacex-ipo.html",
-    "summary": "Few are as delighted by the pending market debut as the vibrant community of space enthusiasts who want to push discovery of the final frontier.",
-    "author": "Sheera Frenkel",
-    "published": "Thu, 04 Jun 2026 14:08:43 +0000",
-    "tags": [
-      "Space Exploration Technologies Corp",
-      "Initial Public Offerings",
-      "Podcasts",
-      "Private Spaceflight",
-      "Space and Astronomy",
-      "Starlink Satellite Constellation (SpaceX)",
-      "Satellites",
-      "Artificial Intelligence",
-      "Musk, Elon"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Best Buy has better gaming deals right now than Amazon's early Prime Day sale",
+    "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
+    "summary": "Disappointed in Amazon's selection of gaming deals ahead of the Prime Day 2026 sale? Best Buy has you covered.",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:02:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand",
-    "link": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
-    "summary": "Gwynne Shotwell, the president and chief operating officer, is the adult-in-the-room foil to Mr. Musk as SpaceX prepares for a blockbuster initial public offering.",
-    "author": "Ryan Mac",
-    "published": "Thu, 04 Jun 2026 17:32:10 +0000",
-    "tags": [
-      "Shotwell, Gwynne",
-      "Space Exploration Technologies Corp",
-      "Musk, Elon",
-      "Women and Girls",
-      "Private Spaceflight",
-      "Satellites",
-      "Space and Astronomy",
-      "Artificial Intelligence",
-      "Starlink Satellite Constellation (SpaceX)",
-      "Content Type: Personal Profile"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "The best Sam's Club deals to compete with Prime Day (including half off membership)",
+    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-sams-club-deals-2026/",
+    "summary": "You may want to check Sam's Club first before filling your Amazon cart this Prime Day.",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 13:55:39 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "The Do’s and Don’ts of Buying Used Tech Gadgets",
-    "link": "https://www.nytimes.com/2026/06/04/technology/personaltech/used-tech-refurbished.html",
-    "summary": "With a shortage of some components driving up costs of consumer electronics, refurbished devices are an attractive alternative to buying new.",
-    "author": "Brian X. Chen",
-    "published": "Thu, 04 Jun 2026 09:03:49 +0000",
-    "tags": [
-      "Computers and the Internet",
-      "E-Commerce",
-      "Prices (Fares, Fees and Rates)",
-      "iPhone",
-      "Laptop Computers",
-      "Electronics",
-      "Apple Inc",
-      "Amazon.com Inc",
-      "Facebook Inc",
-      "Content Type: Service"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "12 home solar power myths you shouldn't fall for in 2026",
+    "link": "https://www.zdnet.com/article/home-solar-power-myths-debunked/",
+    "summary": "Knowing the facts on home solar power can help you make informed choices, save money, and stay safe.",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 13:20:24 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "The Small-Business Owners Managing Whole Armies of A.I. Employees",
-    "link": "https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html",
-    "summary": "When you turn A.I. agents loose on your finances, email and customers, what could possibly go wrong?",
-    "author": "Clive Thompson",
-    "published": "Thu, 04 Jun 2026 09:00:51 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "OpenClaw (MyClaw) (Artificial Intelligence Co)",
-      "Small Business",
-      "Computers and the Internet",
-      "Labor and Jobs",
-      "Productivity",
-      "Anthropic AI LLC",
-      "OpenAI Labs"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Can These ChatGPT Ads Make You Love A.I.?",
-    "link": "https://www.nytimes.com/2026/06/04/style/chatgpt-advertising-campaign-artificial-intelligence.html",
-    "summary": "ChatGPT goes with heartwarming retro vibes to sell a product that has become a source of concern for most Americans.",
-    "author": "Steven Kurutz",
-    "published": "Sun, 07 Jun 2026 16:28:59 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Advertising and Marketing",
-      "OpenAI Labs",
-      "ChatGPT",
-      "Online Advertising",
-      "Outdoor Advertising"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
+    "link": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
+    "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 09:30:15 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
-    "title": "‘Teachers Are Going to Hate It’: How Social Media Apps Hooked Teens at School",
-    "link": "https://www.nytimes.com/2026/06/04/us/social-media-schools.html",
-    "summary": "Internal documents show how tech giants grabbed children’s attention throughout the day, a strategy that schools say has undermined education.",
-    "author": "Jennifer Valentino-DeVries",
-    "published": "Tue, 09 Jun 2026 18:56:43 +0000",
-    "tags": [
-      "Social Media",
-      "Teenagers and Adolescence",
-      "Screen Time (Device)",
-      "Liability for Products",
-      "Computers and the Internet",
-      "E-Learning",
-      "Parent-Teacher Associations",
-      "Mobile Applications",
-      "Children and Childhood",
-      "Education (K-12)",
-      "Video Recordings, Downloads and Streaming",
-      "Google Inc",
-      "Facebook Inc",
-      "Instagram Inc",
-      "Meta Platforms Inc",
-      "TikTok (ByteDance)",
-      "Snap Inc",
-      "YouTube.com",
-      "Breathitt County (Ky)",
-      "United States",
-      "Suits and Litigation (Civil)",
-      "Smartphones",
-      "Mental Health and Disorders",
-      "internal-open-access-from-nl"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "The best time-tracking software of 2026: Expert tested",
+    "link": "https://www.zdnet.com/article/best-time-tracking-software/",
+    "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 09:00:43 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
@@ -2559,66 +2490,6 @@
     "summary": "We found the best deals on iPads, Surface Pros, and more, ahead of Amazon's Prime Day sale later this month.",
     "author": "",
     "published": "Wed, 10 Jun 2026 15:24:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The 8 best early Prime Day headphone deals: Sales on new models I'd upgrade to immediately",
-    "link": "https://www.zdnet.com/article/best-early-prime-day-headphone-deals-2026/",
-    "summary": "Prime Day is right around the corner, and I've found the best headphone deals - many of which are recent, flagship releases from Apple, Sony, Bose, and more.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 15:19:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "15 of the best Prime Day laptop deals (I'd actually buy myself)",
-    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-laptop-deals-2026/",
-    "summary": "Prime Day is earlier this year, so I've rounded up some of the best early laptop deals live now, including the latest MacBooks and gaming laptops.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 14:35:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft patches record 198 Windows bugs in June update - and 3 are zero days",
-    "link": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
-    "summary": "Among the 198 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 14:31:37 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I've tested so many desktop AI tools, but Hermes with Ollama is my new favorite - here's why",
-    "link": "https://www.zdnet.com/article/hermes-ollama-hands-on-desktop-ai-tool/",
-    "summary": "Local AI is the way to go, and Hermes with open-source Ollama is my preferred setup right now.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 14:18:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The best early Prime Day robot vacuum deals I'd buy now, after testing dozens of them",
-    "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-robot-vacuum-deals-2026/",
-    "summary": "Amazon Prime Day is right around the corner, and I found the best robot vacuum deals that are actually a great deal.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 13:48:10 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "7+ phone privacy settings to check and turn off ASAP - to avoid exposing your personal data",
-    "link": "https://www.zdnet.com/article/phone-privacy-settings-to-disable-review-avoid-exposing-data/",
-    "summary": "Your phone holds a lot of personal information, from where you go to who you talk to every day. Here's how to limit what can access your data and when.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 12:34:30 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2964,6 +2835,152 @@
     "module": "应用落地"
   },
   {
+    "title": "Summer Game Fest 2026 roundup: All the shows, trailers, news and reviews",
+    "link": "https://www.engadget.com/2192216/summer-game-fest-2026-roundup-all-the-shows-trailers-news-and-reviews/",
+    "summary": "So long and thanks for all the cool new video games.",
+    "author": "staff@engadget.com (Jessica Conditt)",
+    "published": "Thu, 11 Jun 2026 15:30:00 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Spyro: A Realm Beyond sees the '90s purple dragon make a big comeback",
+    "link": "https://www.engadget.com/2191068/spyro-a-realm-beyond-sees-the-90s-purple-dragon-make-a-big-comeback/",
+    "summary": "We learned some new details about the upcoming revival for the classic 3D platformer.",
+    "author": "staff@engadget.com (Alessandro Fillari)",
+    "published": "Thu, 11 Jun 2026 15:00:00 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Stranger than Heaven hands-on: Harder than Yakuza?",
+    "link": "https://www.engadget.com/2191763/stranger-than-heaven-hands-on-harder-than-yakuza/",
+    "summary": "Set across mid-twentieth century Japan, RGG's latest has an entirely new fighting system.",
+    "author": "staff@engadget.com (Mat Smith)",
+    "published": "Thu, 11 Jun 2026 14:00:00 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I'm glad Apple isn't hyping up agentic AI (yet)",
+    "link": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet/",
+    "summary": "Apple is more focused on delivering usable features with Siri AI, instead of hyping up agentic AI. That's a good thing.",
+    "author": "staff@engadget.com (Devindra Hardawar)",
+    "published": "Thu, 11 Jun 2026 13:45:51 +0000",
+    "tags": [
+      "AI",
+      "Apple"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Artemis III's life support: How a spacesuit keeps astronauts alive on the moon",
+    "link": "https://www.engadget.com/2191840/artemis-iii-s-life-support-how-a-spacesuit-keeps-astronauts-alive-on-the-moon/",
+    "summary": "The spaceman wears Prada.",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "published": "Thu, 11 Jun 2026 13:30:00 +0000",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Former Fitbit executive unveils new necklace that tracks UV exposure",
+    "link": "https://www.engadget.com/2191594/former-fitbit-executive-unveils-new-necklace-that-tracks-uv-exposure/",
+    "summary": "The Gem necklace can track your UV exposure.",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "published": "Thu, 11 Jun 2026 13:00:00 +0000",
+    "tags": [
+      "Wearables"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Tomb Raider: Legacy of Atlantis is a vivid, high-pace remake of a classic",
+    "link": "https://www.engadget.com/2189096/tomb-raider-legacy-of-atlantis-is-a-vivid-high-pace-remake-of-a-classic/",
+    "summary": "Lara get your gun(s).",
+    "author": "staff@engadget.com (Mat Smith)",
+    "published": "Thu, 11 Jun 2026 13:00:00 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Engadget's favorite Game Boy Advance games",
+    "link": "https://www.engadget.com/2191800/engadget-s-favorite-game-boy-advance-games/",
+    "summary": "Join us for a trip down memory lane on the 25th anniversary of the GBA's US release.",
+    "author": "staff@engadget.com (Igor Bonifacic)",
+    "published": "Thu, 11 Jun 2026 12:00:00 +0000",
+    "tags": [
+      "Nintendo"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Bluesky will launch Reddit-style communities this year",
+    "link": "https://www.engadget.com/2192047/bluesky-will-launch-communities-this-year/",
+    "summary": "Bluesky is launching a communities feature this year, according to its head of product.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Thu, 11 Jun 2026 11:10:27 +0000",
+    "tags": [
+      "Social Media"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Deezer now helps users find AI music on other streaming platforms",
+    "link": "https://www.engadget.com/2192024/deezer-ai-music-detector/",
+    "summary": "Deezer will now help you find AI slop in your music playlists even if you're on another platform.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Thu, 11 Jun 2026 10:09:51 +0000",
+    "tags": [
+      "Entertainment"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Framework delays Laptop 13 Pro shipments by a month",
+    "link": "https://www.engadget.com/2192019/framework-delays-laptop-13-pro-shipments/",
+    "summary": "Framework is pushing back shipments of its new Laptop 13 Pro to address issues with its haptic touchpad and display found in the run-up to mass production.",
+    "author": "staff@engadget.com (Daniel Cooper)",
+    "published": "Thu, 11 Jun 2026 09:50:31 +0000",
+    "tags": [
+      "Laptops"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Anthropic backtracks on policy that 'sabotaged' researchers' work",
+    "link": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/",
+    "summary": "Anthropic is walking back a hidden policy that researchers say sabotaged their work.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Thu, 11 Jun 2026 09:00:29 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "YouTube expands direct messaging to the US",
     "link": "https://www.engadget.com/2191994/youtube-direct-messaging/",
     "summary": "YouTube is testing DMs in its mobile app, and US is now part of the experiment.",
@@ -3060,150 +3077,6 @@
     "published": "Wed, 10 Jun 2026 20:00:00 +0000",
     "tags": [
       "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Amazon's 'Story So Far' feature is finally rolling out to Kindles",
-    "link": "https://www.engadget.com/2191716/amazon-story-so-far-feature-is-finally-rolling-out-to-kindles/",
-    "summary": "Amazon's \"Story So Far\" feature is hitting Kindle hardware and the iOS app, but sadly not the Android version just yet.",
-    "author": "staff@engadget.com (Sam Rutherford)",
-    "published": "Wed, 10 Jun 2026 19:01:08 +0000",
-    "tags": [
-      "Amazon"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Take a deep look at Halo: Campaign Evolved before it launches next month",
-    "link": "https://www.engadget.com/2191709/take-a-deep-look-at-halo-campaign-evolved-before-it-launches-next-month/",
-    "summary": "This remake of the first Halo game's hits consoles on July 28.",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Wed, 10 Jun 2026 18:55:11 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
-    "link": "https://www.engadget.com/2191695/you-can-personalize-your-instagram-algorithm-now/",
-    "summary": "Instagram has expanded its algorithm personalization features to its main feed.",
-    "author": "staff@engadget.com (Karissa Bell)",
-    "published": "Wed, 10 Jun 2026 18:44:26 +0000",
-    "tags": [
-      "Apps"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ubisoft reportedly shuts down more studios and lays off staff in Barcelona and San Francisco",
-    "link": "https://www.engadget.com/2191677/ubisoft-reportedly-shuts-down-more-studios-and-lays-off-staff-in-barcelona-and-san-francisco/",
-    "summary": "Ubisoft is reportedly trying to cut costs without leaving key franchises like Rainbow Six: Siege in the lurch with a new round of layoffs.",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "published": "Wed, 10 Jun 2026 18:37:55 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "After Belfast riots, UK reminds social platforms they're obligated to remove hateful content",
-    "link": "https://www.engadget.com/2191553/after-belfast-riots-uk-reminds-social-platforms-theyre-obligated-to-remove-hateful-content/",
-    "summary": "The UK's communications regulator has reminded social media platforms they have a duty to minimize hateful content, not encourage it.",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "published": "Wed, 10 Jun 2026 17:12:52 +0000",
-    "tags": [
-      "Social Media"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Final Fantasy 16 headlines the PlayStation Plus Game Catalog additions for June",
-    "link": "https://www.engadget.com/2191550/final-fantasy-16-headlines-the-playstation-plus-game-catalog-additions-for-june/",
-    "summary": "Sony is starting to spread its PS Plus Game Catalog updates throughout the month.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Wed, 10 Jun 2026 17:11:53 +0000",
-    "tags": [
-      "PlayStation"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Engadget Podcast: WWDC 2026 thoughts from Apple Park",
-    "link": "https://www.engadget.com/2191473/engadget-podcast-wwdc-2026-thoughts-from-apple-park/",
-    "summary": "We dive into our initial thoughts on Siri AI and Tim Cook's legacy.",
-    "author": "staff@engadget.com (Devindra Hardawar)",
-    "published": "Wed, 10 Jun 2026 16:12:16 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "German court holds Google liable for false AI Overview answers",
-    "link": "https://www.engadget.com/2191469/german-court-holds-google-liable-for-false-ai-overview-answers/",
-    "summary": "A recent study found that Google's AI Overviews regularly provide incorrect information and contain facts not supported by cited sources.",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Wed, 10 Jun 2026 16:10:45 +0000",
-    "tags": [
-      "Big Tech"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Honor Magic V6 review: A mechanical marvel",
-    "link": "https://www.engadget.com/2190531/honor-magic-v6-review/",
-    "summary": "There's a lot of impressive engineering inside Honor's Magic V6, but it's let down by software that desperately needs polish.",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-    "tags": [
-      "Smartphones"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Gemini in Chrome expands further to Latin America and the Middle East",
-    "link": "https://www.engadget.com/2191174/gemini-in-chrome-expands-to-latin-america-middle-east/",
-    "summary": "Gemini in Chrome continues to roll out and has now landed in Latin America, the Middle East and Africa.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-    "tags": [
-      "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Saw: Genesis looks the most fun when you're the murderous mastermind",
-    "link": "https://www.engadget.com/2190010/saw-genesis-looks-the-most-fun-when-you-re-the-murderous-mastermind/",
-    "summary": "Get ready to wince.",
-    "author": "staff@engadget.com (Mat Smith)",
-    "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft Office 2019 for Mac will become read-only next month",
-    "link": "https://www.engadget.com/2191349/microsoft-office-2019-for-mac-will-become-read-only-next-month/",
-    "summary": "Microsoft Office 2019 for Mac will effectively become useless next month.",
-    "author": "staff@engadget.com (Matt Tate)",
-    "published": "Wed, 10 Jun 2026 14:38:18 +0000",
-    "tags": [
-      "Computing"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -3379,16 +3252,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Bias Amplification in Artificial Intelligence Systems",
-    "link": "https://arxiv.org/abs/1809.07842v1",
-    "summary": "As Artificial Intelligence (AI) technologies proliferate, concern has centered around the long-term dangers of job loss or threats of machines causing harm to humans. All of this concern, however, detracts from the more pertinent and already existing threats posed by AI today: its ability to amplify bias found in training datasets, and swiftly impact marginalized populations at scale. Government and public sector institutions have a responsibility to citizens to establish a dialogue with technology developers and release thoughtful policy around data standards to ensure diverse representation in datasets to prevent bias amplification and ensure that AI systems are built with inclusion in mind.",
-    "author": "Kirsten Lloyd",
-    "published": "2018-09-20T20:29:56Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
     "link": "https://arxiv.org/abs/2310.09243v1",
     "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
@@ -3397,6 +3260,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Bias Amplification in Artificial Intelligence Systems",
+    "link": "https://arxiv.org/abs/1809.07842v1",
+    "summary": "As Artificial Intelligence (AI) technologies proliferate, concern has centered around the long-term dangers of job loss or threats of machines causing harm to humans. All of this concern, however, detracts from the more pertinent and already existing threats posed by AI today: its ability to amplify bias found in training datasets, and swiftly impact marginalized populations at scale. Government and public sector institutions have a responsibility to citizens to establish a dialogue with technology developers and release thoughtful policy around data standards to ensure diverse representation in datasets to prevent bias amplification and ensure that AI systems are built with inclusion in mind.",
+    "author": "Kirsten Lloyd",
+    "published": "2018-09-20T20:29:56Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "基础设施与工具"
   },
   {
     "title": "Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds",
@@ -3439,16 +3312,6 @@
     "module": "前沿探索"
   },
   {
-    "title": "Enabling Integration and Interaction for Decentralized Artificial Intelligence in Airline Disruption Management",
-    "link": "https://arxiv.org/abs/2104.03349v4",
-    "summary": "Airline disruption management traditionally seeks to address three problem dimensions: aircraft scheduling, crew scheduling, and passenger scheduling, in that order. However, current efforts have, at most, only addressed the first two problem dimensions concurrently and do not account for the propagative effects that uncertain scheduling outcomes in one dimension can have on another dimension. In addition, existing approaches for airline disruption management include human specialists who decide on necessary corrective actions for airline schedule disruptions on the day of operation. However, human specialists are limited in their ability to process copious amounts of information imperative for making robust decisions that simultaneously address all problem dimensions during disruption management. Therefore, there is a need to augment the decision-making capabilities of a human specialist with quantitative and qualitative tools that can rationalize complex interactions amongst all dimensions in airline disruption management, and provide objective insights to the specialists in the airline operations control center. To that effect, we provide a discussion and demonstration of an agnostic and systematic paradigm for enabling expeditious simultaneously-integrated recovery of all problem dimensions during airline disruption management, through an intelligent multi-agent system that employs principles from artificial intelligence and distributed ledger technology. Results indicate that our paradigm for simultaneously-integrated recovery executes in polynomial time and is effective when all the flights in the airline route network are disrupted.",
-    "author": "Kolawole Ogunsina, Daniel DeLaurentis",
-    "published": "2021-04-07T18:59:02Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Why Artificial Intelligence Needs a Task Theory --- And What It Might Look Like",
     "link": "https://arxiv.org/abs/1604.04660v2",
     "summary": "The concept of \"task\" is at the core of artificial intelligence (AI): Tasks are used for training and evaluating AI systems, which are built in order to perform and automatize tasks we deem useful. In other fields of engineering theoretical foundations allow thorough evaluation of designs by methodical manipulation of well understood parameters with a known role and importance; this allows an aeronautics engineer, for instance, to systematically assess the effects of wind speed on an airplane's performance and stability. No framework exists in AI that allows this kind of methodical manipulation: Performance results on the few tasks in current use (cf. board games, question-answering) cannot be easily compared, however similar or different. The issue is even more acute with respect to artificial *general* intelligence systems, which must handle unanticipated tasks whose specifics cannot be known beforehand. A *task theory* would enable addressing tasks at the *class* level, bypassing their specifics, providing the appropriate formalization and classification of tasks, environments, and their parameters, resulting in more rigorous ways of measuring, comparing, and evaluating intelligent behavior. Even modest improvements in this direction would surpass the current ad-hoc nature of machine learning and AI evaluation. Here we discuss the main elements of the argument for a task theory and present an outline of what it might look like for physical tasks.",
@@ -3457,6 +3320,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "基础设施与工具"
+  },
+  {
+    "title": "Enabling Integration and Interaction for Decentralized Artificial Intelligence in Airline Disruption Management",
+    "link": "https://arxiv.org/abs/2104.03349v4",
+    "summary": "Airline disruption management traditionally seeks to address three problem dimensions: aircraft scheduling, crew scheduling, and passenger scheduling, in that order. However, current efforts have, at most, only addressed the first two problem dimensions concurrently and do not account for the propagative effects that uncertain scheduling outcomes in one dimension can have on another dimension. In addition, existing approaches for airline disruption management include human specialists who decide on necessary corrective actions for airline schedule disruptions on the day of operation. However, human specialists are limited in their ability to process copious amounts of information imperative for making robust decisions that simultaneously address all problem dimensions during disruption management. Therefore, there is a need to augment the decision-making capabilities of a human specialist with quantitative and qualitative tools that can rationalize complex interactions amongst all dimensions in airline disruption management, and provide objective insights to the specialists in the airline operations control center. To that effect, we provide a discussion and demonstration of an agnostic and systematic paradigm for enabling expeditious simultaneously-integrated recovery of all problem dimensions during airline disruption management, through an intelligent multi-agent system that employs principles from artificial intelligence and distributed ledger technology. Results indicate that our paradigm for simultaneously-integrated recovery executes in polynomial time and is effective when all the flights in the airline route network are disrupted.",
+    "author": "Kolawole Ogunsina, Daniel DeLaurentis",
+    "published": "2021-04-07T18:59:02Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Certifiable Artificial Intelligence Through Data Fusion",
@@ -3629,21 +3502,21 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "A Classification of Artificial Intelligence Systems for Mathematics Education",
-    "link": "https://arxiv.org/abs/2107.06015v2",
-    "summary": "This chapter provides an overview of the different Artificial Intelligence (AI) systems that are being used in contemporary digital tools for Mathematics Education (ME). It is aimed at researchers in AI and Machine Learning (ML), for whom we shed some light on the specific technologies that are being used in educational applications; and at researchers in ME, for whom we clarify: i) what the possibilities of the current AI technologies are, ii) what is still out of reach and iii) what is to be expected in the near future. We start our analysis by establishing a high-level taxonomy of AI tools that are found as components in digital ME applications. Then, we describe in detail how these AI tools, and in particular ML, are being used in two key applications, specifically AI-based calculators and intelligent tutoring systems. We finish the chapter with a discussion about student modeling systems and their relationship to artificial general intelligence.",
-    "author": "Steven Van Vaerenbergh, Adrián Pérez-Suay",
-    "published": "2021-07-13T12:09:10Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "An Introductory Review of Spiking Neural Network and Artificial Neural Network: From Biological Intelligence to Artificial Intelligence",
     "link": "https://arxiv.org/abs/2204.07519v1",
     "summary": "Recently, stemming from the rapid development of artificial intelligence, which has gained expansive success in pattern recognition, robotics, and bioinformatics, neuroscience is also gaining tremendous progress. A kind of spiking neural network with biological interpretability is gradually receiving wide attention, and this kind of neural network is also regarded as one of the directions toward general artificial intelligence. This review introduces the following sections, the biological background of spiking neurons and the theoretical basis, different neuronal models, the connectivity of neural circuits, the mainstream neural network learning mechanisms and network architectures, etc. This review hopes to attract different researchers and advance the development of brain-inspired intelligence and artificial intelligence.",
     "author": "Shengjie Zheng, Lang Qian, Pingsheng Li, Chenggang He, Xiaoqin Qin, Xiaojian Li",
     "published": "2022-04-09T09:34:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Classification of Artificial Intelligence Systems for Mathematics Education",
+    "link": "https://arxiv.org/abs/2107.06015v2",
+    "summary": "This chapter provides an overview of the different Artificial Intelligence (AI) systems that are being used in contemporary digital tools for Mathematics Education (ME). It is aimed at researchers in AI and Machine Learning (ML), for whom we shed some light on the specific technologies that are being used in educational applications; and at researchers in ME, for whom we clarify: i) what the possibilities of the current AI technologies are, ii) what is still out of reach and iii) what is to be expected in the near future. We start our analysis by establishing a high-level taxonomy of AI tools that are found as components in digital ME applications. Then, we describe in detail how these AI tools, and in particular ML, are being used in two key applications, specifically AI-based calculators and intelligent tutoring systems. We finish the chapter with a discussion about student modeling systems and their relationship to artificial general intelligence.",
+    "author": "Steven Van Vaerenbergh, Adrián Pérez-Suay",
+    "published": "2021-07-13T12:09:10Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3749,21 +3622,21 @@
     "module": "应用落地"
   },
   {
-    "title": "The Next Decade of Telecommunications Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2101.09163v6",
-    "summary": "It has been an exciting journey since the mobile communications and artificial intelligence were conceived 37 years and 64 years ago. While both fields evolved independently and profoundly changed communications and computing industries, the rapid convergence of 5G and deep learning is beginning to significantly transform the core communication infrastructure, network management and vertical applications. The paper first outlines the individual roadmaps of mobile communications and artificial intelligence in the early stage, with a concentration to review the era from 3G to 5G when AI and mobile communications started to converge. With regard to telecommunications artificial intelligence, the paper further introduces in detail the progress of artificial intelligence in the ecosystem of mobile communications. The paper then summarizes the classifications of AI in telecom ecosystems along with its evolution paths specified by various international telecommunications standardization bodies. Towards the next decade, the paper forecasts the prospective roadmap of telecommunications artificial intelligence. In line with 3GPP and ITU-R timeline of 5G & 6G, the paper further explores the network intelligence following 3GPP and ORAN routes respectively, experience and intention driven network management and operation, network AI signalling system, intelligent middle-office based BSS, intelligent customer experience management and policy control driven by BSS and OSS convergence, evolution from SLA to ELA, and intelligent private network for verticals. The paper is concluded with the vision that AI will reshape the future B5G or 6G landscape and we need pivot our R&D, standardizations, and ecosystem to fully take the unprecedented opportunities.",
-    "author": "Ye Ouyang, Lilei Wang, Aidong Yang, Maulik Shah, David Belanger, Tongqing Gao, Leping Wei, Yaqin Zhang",
-    "published": "2021-01-19T07:33:44Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Specification Overfitting in Artificial Intelligence",
     "link": "https://arxiv.org/abs/2403.08425v3",
     "summary": "Machine learning (ML) and artificial intelligence (AI) approaches are often criticized for their inherent bias and for their lack of control, accountability, and transparency. Consequently, regulatory bodies struggle with containing this technology's potential negative side effects. High-level requirements such as fairness and robustness need to be formalized into concrete specification metrics, imperfect proxies that capture isolated aspects of the underlying requirements. Given possible trade-offs between different metrics and their vulnerability to over-optimization, integrating specification metrics in system development processes is not trivial. This paper defines specification overfitting, a scenario where systems focus excessively on specified metrics to the detriment of high-level requirements and task performance. We present an extensive literature survey to categorize how researchers propose, measure, and optimize specification metrics in several AI fields (e.g., natural language processing, computer vision, reinforcement learning). Using a keyword-based search on papers from major AI conferences and journals between 2018 and mid-2023, we identify and analyze 74 papers that propose or optimize specification metrics. We find that although most papers implicitly address specification overfitting (e.g., by reporting more than one specification metric), they rarely discuss which role specification metrics should play in system development or explicitly define the scope and assumptions behind metric formulations.",
     "author": "Benjamin Roth, Pedro Henrique Luz de Araujo, Yuxi Xia, Saskia Kaltenbrunner, Christoph Korab",
     "published": "2024-03-13T11:20:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Next Decade of Telecommunications Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2101.09163v6",
+    "summary": "It has been an exciting journey since the mobile communications and artificial intelligence were conceived 37 years and 64 years ago. While both fields evolved independently and profoundly changed communications and computing industries, the rapid convergence of 5G and deep learning is beginning to significantly transform the core communication infrastructure, network management and vertical applications. The paper first outlines the individual roadmaps of mobile communications and artificial intelligence in the early stage, with a concentration to review the era from 3G to 5G when AI and mobile communications started to converge. With regard to telecommunications artificial intelligence, the paper further introduces in detail the progress of artificial intelligence in the ecosystem of mobile communications. The paper then summarizes the classifications of AI in telecom ecosystems along with its evolution paths specified by various international telecommunications standardization bodies. Towards the next decade, the paper forecasts the prospective roadmap of telecommunications artificial intelligence. In line with 3GPP and ITU-R timeline of 5G & 6G, the paper further explores the network intelligence following 3GPP and ORAN routes respectively, experience and intention driven network management and operation, network AI signalling system, intelligent middle-office based BSS, intelligent customer experience management and policy control driven by BSS and OSS convergence, evolution from SLA to ELA, and intelligent private network for verticals. The paper is concluded with the vision that AI will reshape the future B5G or 6G landscape and we need pivot our R&D, standardizations, and ecosystem to fully take the unprecedented opportunities.",
+    "author": "Ye Ouyang, Lilei Wang, Aidong Yang, Maulik Shah, David Belanger, Tongqing Gao, Leping Wei, Yaqin Zhang",
+    "published": "2021-01-19T07:33:44Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3849,16 +3722,6 @@
     "module": "应用落地"
   },
   {
-    "title": "False Sense of Security in Explainable Artificial Intelligence (XAI)",
-    "link": "https://arxiv.org/abs/2405.03820v2",
-    "summary": "A cautious interpretation of AI regulations and policy in the EU and the USA place explainability as a central deliverable of compliant AI systems. However, from a technical perspective, explainable AI (XAI) remains an elusive and complex target where even state of the art methods often reach erroneous, misleading, and incomplete explanations. \"Explainability\" has multiple meanings which are often used interchangeably, and there are an even greater number of XAI methods - none of which presents a clear edge. Indeed, there are multiple failure modes for each XAI method, which require application-specific development and continuous evaluation. In this paper, we analyze legislative and policy developments in the United States and the European Union, such as the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the AI Act, the AI Liability Directive, and the General Data Protection Regulation (GDPR) from a right to explanation perspective. We argue that these AI regulations and current market conditions threaten effective AI governance and safety because the objective of trustworthy, accountable, and transparent AI is intrinsically linked to the questionable ability of AI operators to provide meaningful explanations. Unless governments explicitly tackle the issue of explainability through clear legislative and policy statements that take into account technical realities, AI governance risks becoming a vacuous \"box-ticking\" exercise where scientific standards are replaced with legalistic thresholds, providing only a false sense of security in XAI.",
-    "author": "Neo Christopher Chung, Hongkyou Chung, Hearim Lee, Lennart Brocki, Hongbeom Chung, George Dyer",
-    "published": "2024-05-06T20:02:07Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "前沿探索"
-  },
-  {
     "title": "On the Limits of Design: What Are the Conceptual Constraints on Designing Artificial Intelligence for Social Good?",
     "link": "https://arxiv.org/abs/2111.04165v1",
     "summary": "Artificial intelligence AI can bring substantial benefits to society by helping to reduce costs, increase efficiency and enable new solutions to complex problems. Using Floridi's notion of how to design the 'infosphere' as a starting point, in this chapter I consider the question: what are the limits of design, i.e. what are the conceptual constraints on designing AI for social good? The main argument of this chapter is that while design is a useful conceptual tool to shape technologies and societies, collective efforts towards designing future societies are constrained by both internal and external factors. Internal constraints on design are discussed by evoking Hardin's thought experiment regarding 'the Tragedy of the Commons'. Further, Hayek's classical distinction between 'cosmos' and 'taxis' is used to demarcate external constraints on design. Finally, five design principles are presented which are aimed at helping policymakers manage the internal and external constraints on design. A successful approach to designing future societies needs to account for the emergent properties of complex systems by allowing space for serendipity and socio-technological coevolution.",
@@ -3867,6 +3730,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "False Sense of Security in Explainable Artificial Intelligence (XAI)",
+    "link": "https://arxiv.org/abs/2405.03820v2",
+    "summary": "A cautious interpretation of AI regulations and policy in the EU and the USA place explainability as a central deliverable of compliant AI systems. However, from a technical perspective, explainable AI (XAI) remains an elusive and complex target where even state of the art methods often reach erroneous, misleading, and incomplete explanations. \"Explainability\" has multiple meanings which are often used interchangeably, and there are an even greater number of XAI methods - none of which presents a clear edge. Indeed, there are multiple failure modes for each XAI method, which require application-specific development and continuous evaluation. In this paper, we analyze legislative and policy developments in the United States and the European Union, such as the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the AI Act, the AI Liability Directive, and the General Data Protection Regulation (GDPR) from a right to explanation perspective. We argue that these AI regulations and current market conditions threaten effective AI governance and safety because the objective of trustworthy, accountable, and transparent AI is intrinsically linked to the questionable ability of AI operators to provide meaningful explanations. Unless governments explicitly tackle the issue of explainability through clear legislative and policy statements that take into account technical realities, AI governance risks becoming a vacuous \"box-ticking\" exercise where scientific standards are replaced with legalistic thresholds, providing only a false sense of security in XAI.",
+    "author": "Neo Christopher Chung, Hongkyou Chung, Hearim Lee, Lennart Brocki, Hongbeom Chung, George Dyer",
+    "published": "2024-05-06T20:02:07Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
   },
   {
     "title": "Protection of an information system by artificial intelligence: a three-phase approach based on behaviour analysis to detect a hostile scenario",
@@ -3929,21 +3802,21 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Ethical Artificial Intelligence Principles and Guidelines for the Governance and Utilization of Highly Advanced Large Language Models",
-    "link": "https://arxiv.org/abs/2401.10745v2",
-    "summary": "Given the success of ChatGPT, LaMDA and other large language models (LLMs), there has been an increase in development and usage of LLMs within the technology sector and other sectors. While the level in which LLMs has not reached a level where it has surpassed human intelligence, there will be a time when it will. Such LLMs can be referred to as advanced LLMs. Currently, there are limited usage of ethical artificial intelligence (AI) principles and guidelines addressing advanced LLMs due to the fact that we have not reached that point yet. However, this is a problem as once we do reach that point, we will not be adequately prepared to deal with the aftermath of it in an ethical and optimal way, which will lead to undesired and unexpected consequences. This paper addresses this issue by discussing what ethical AI principles and guidelines can be used to address highly advanced LLMs.",
-    "author": "Soaad Hossain, Syed Ishtiaque Ahmed",
-    "published": "2023-12-19T06:28:43Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Building Ethics into Artificial Intelligence",
     "link": "https://arxiv.org/abs/1812.02953v1",
     "summary": "As artificial intelligence (AI) systems become increasingly ubiquitous, the topic of AI governance for ethical decision-making by AI has captured public imagination. Within the AI research community, this topic remains less familiar to many researchers. In this paper, we complement existing surveys, which largely focused on the psychological, social and legal discussions of the topic, with an analysis of recent advances in technical solutions for AI governance. By reviewing publications in leading AI conferences including AAAI, AAMAS, ECAI and IJCAI, we propose a taxonomy which divides the field into four areas: 1) exploring ethical dilemmas; 2) individual ethical decision frameworks; 3) collective ethical decision frameworks; and 4) ethics in human-AI interactions. We highlight the intuitions and key techniques used in each approach, and discuss promising future research directions towards successful integration of ethical AI systems into human societies.",
     "author": "Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Victor R. Lesser, Qiang Yang",
     "published": "2018-12-07T09:18:01Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ethical Artificial Intelligence Principles and Guidelines for the Governance and Utilization of Highly Advanced Large Language Models",
+    "link": "https://arxiv.org/abs/2401.10745v2",
+    "summary": "Given the success of ChatGPT, LaMDA and other large language models (LLMs), there has been an increase in development and usage of LLMs within the technology sector and other sectors. While the level in which LLMs has not reached a level where it has surpassed human intelligence, there will be a time when it will. Such LLMs can be referred to as advanced LLMs. Currently, there are limited usage of ethical artificial intelligence (AI) principles and guidelines addressing advanced LLMs due to the fact that we have not reached that point yet. However, this is a problem as once we do reach that point, we will not be adequately prepared to deal with the aftermath of it in an ethical and optimal way, which will lead to undesired and unexpected consequences. This paper addresses this issue by discussing what ethical AI principles and guidelines can be used to address highly advanced LLMs.",
+    "author": "Soaad Hossain, Syed Ishtiaque Ahmed",
+    "published": "2023-12-19T06:28:43Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4039,21 +3912,21 @@
     "module": "前沿探索"
   },
   {
-    "title": "Neuromorphic Computing for Low-Power Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2604.04727v1",
-    "summary": "Classical computing is beginning to encounter fundamental limits of energy efficiency. This presents a challenge that can no longer be solved by strategies such as increasing circuit density or refining standard semiconductor processes. The growing computational and memory demands of artificial intelligence (AI) require disruptive innovation in how information is represented, stored, communicated, and processed. By leveraging novel device modalities and compute-in-memory (CIM), in addition to analog dynamics and sparse communication inspired by the brain, neuromorphic computing offers a promising path toward improvements in the energy efficiency and scalability of current AI systems. But realizing this potential is not a matter of replacing one chip with another; rather, it requires a co-design effort, spanning new materials and non-volatile device structures, novel mixed-signal circuits and architectures, and learning algorithms tailored to the physics of these substrates. This article surveys the key limitations of classical complementary metal-oxide-semiconductor (CMOS) technology and outlines how such cross-layer neuromorphic approaches may overcome them.",
-    "author": "Keshava Katti, Pratik Chaudhari, Deep Jariwala",
-    "published": "2026-04-06T14:52:05Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "An Experience Report of Executive-Level Artificial Intelligence Education in the United Arab Emirates",
     "link": "https://arxiv.org/abs/2202.01281v1",
     "summary": "Teaching artificial intelligence (AI) is challenging. It is a fast moving field and therefore difficult to keep people updated with the state-of-the-art. Educational offerings for students are ever increasing, beyond university degree programs where AI education traditionally lay. In this paper, we present an experience report of teaching an AI course to business executives in the United Arab Emirates (UAE). Rather than focusing only on theoretical and technical aspects, we developed a course that teaches AI with a view to enabling students to understand how to incorporate it into existing business processes. We present an overview of our course, curriculum and teaching methods, and we discuss our reflections on teaching adult learners, and to students in the UAE.",
     "author": "David Johnson, Mohammad Alsharid, Rasheed El-Bouri, Nigel Mehdi, Farah Shamout, Alexandre Szenicer, David Toman, Saqr Binghalib",
     "published": "2022-02-02T20:59:53Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Neuromorphic Computing for Low-Power Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2604.04727v1",
+    "summary": "Classical computing is beginning to encounter fundamental limits of energy efficiency. This presents a challenge that can no longer be solved by strategies such as increasing circuit density or refining standard semiconductor processes. The growing computational and memory demands of artificial intelligence (AI) require disruptive innovation in how information is represented, stored, communicated, and processed. By leveraging novel device modalities and compute-in-memory (CIM), in addition to analog dynamics and sparse communication inspired by the brain, neuromorphic computing offers a promising path toward improvements in the energy efficiency and scalability of current AI systems. But realizing this potential is not a matter of replacing one chip with another; rather, it requires a co-design effort, spanning new materials and non-volatile device structures, novel mixed-signal circuits and architectures, and learning algorithms tailored to the physics of these substrates. This article surveys the key limitations of classical complementary metal-oxide-semiconductor (CMOS) technology and outlines how such cross-layer neuromorphic approaches may overcome them.",
+    "author": "Keshava Katti, Pratik Chaudhari, Deep Jariwala",
+    "published": "2026-04-06T14:52:05Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4189,21 +4062,21 @@
     "module": "应用落地"
   },
   {
-    "title": "An existing, ecologically-successful genus of collectively intelligent artificial creatures",
-    "link": "https://arxiv.org/abs/1204.4116v1",
-    "summary": "People sometimes worry about the Singularity [Vinge, 1993; Kurzweil, 2005], or about the world being taken over by artificially intelligent robots. I believe the risks of these are very small. However, few people recognize that we already share our world with artificial creatures that participate as intelligent agents in our society: corporations. Our planet is inhabited by two distinct kinds of intelligent beings --- individual humans and corporate entities --- whose natures and interests are intimately linked. To co-exist well, we need to find ways to define the rights and responsibilities of both individual humans and corporate entities, and to find ways to ensure that corporate entities behave as responsible members of society.",
-    "author": "Benjamin Kuipers",
-    "published": "2012-04-18T16:02:59Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Language Games as the Pathway to Artificial Superhuman Intelligence",
     "link": "https://arxiv.org/abs/2501.18924v1",
     "summary": "The evolution of large language models (LLMs) toward artificial superhuman intelligence (ASI) hinges on data reproduction, a cyclical process in which models generate, curate and retrain on novel data to refine capabilities. Current methods, however, risk getting stuck in a data reproduction trap: optimizing outputs within fixed human-generated distributions in a closed loop leads to stagnation, as models merely recombine existing knowledge rather than explore new frontiers. In this paper, we propose language games as a pathway to expanded data reproduction, breaking this cycle through three mechanisms: (1) \\textit{role fluidity}, which enhances data diversity and coverage by enabling multi-agent systems to dynamically shift roles across tasks; (2) \\textit{reward variety}, embedding multiple feedback criteria that can drive complex intelligent behaviors; and (3) \\textit{rule plasticity}, iteratively evolving interaction constraints to foster learnability, thereby injecting continual novelty. By scaling language games into global sociotechnical ecosystems, human-AI co-evolution generates unbounded data streams that drive open-ended exploration. This framework redefines data reproduction not as a closed loop but as an engine for superhuman intelligence.",
     "author": "Ying Wen, Ziyu Wan, Shao Zhang",
     "published": "2025-01-31T07:10:40Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "An existing, ecologically-successful genus of collectively intelligent artificial creatures",
+    "link": "https://arxiv.org/abs/1204.4116v1",
+    "summary": "People sometimes worry about the Singularity [Vinge, 1993; Kurzweil, 2005], or about the world being taken over by artificially intelligent robots. I believe the risks of these are very small. However, few people recognize that we already share our world with artificial creatures that participate as intelligent agents in our society: corporations. Our planet is inhabited by two distinct kinds of intelligent beings --- individual humans and corporate entities --- whose natures and interests are intimately linked. To co-exist well, we need to find ways to define the rights and responsibilities of both individual humans and corporate entities, and to find ways to ensure that corporate entities behave as responsible members of society.",
+    "author": "Benjamin Kuipers",
+    "published": "2012-04-18T16:02:59Z",
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
@@ -5189,16 +5062,6 @@
     "module": "应用落地"
   },
   {
-    "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2003.08316v2",
-    "summary": "Neuro-symbolic and statistical relational artificial intelligence both integrate frameworks for learning with logical reasoning. This survey identifies several parallels across seven different dimensions between these two fields. These cannot only be used to characterize and position neuro-symbolic artificial intelligence approaches but also to identify a number of directions for further research.",
-    "author": "Luc De Raedt, Sebastijan Dumančić, Robin Manhaeve, Giuseppe Marra",
-    "published": "2020-03-18T16:15:46Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Guidelines for Artificial Intelligence Containment",
     "link": "https://arxiv.org/abs/1707.08476v1",
     "summary": "With almost daily improvements in capabilities of artificial intelligence it is more important than ever to develop safety software for use by the AI research community. Building on our previous work on AI Containment Problem we propose a number of guidelines which should help AI safety researchers to develop reliable sandboxing software for intelligent programs of all levels. Such safety container software will make it possible to study and analyze intelligent artificial agent while maintaining certain level of safety against information leakage, social engineering attacks and cyberattacks from within the container.",
@@ -5207,6 +5070,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2003.08316v2",
+    "summary": "Neuro-symbolic and statistical relational artificial intelligence both integrate frameworks for learning with logical reasoning. This survey identifies several parallels across seven different dimensions between these two fields. These cannot only be used to characterize and position neuro-symbolic artificial intelligence approaches but also to identify a number of directions for further research.",
+    "author": "Luc De Raedt, Sebastijan Dumančić, Robin Manhaeve, Giuseppe Marra",
+    "published": "2020-03-18T16:15:46Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "The case for psychometric artificial general intelligence",
@@ -6114,6 +5987,76 @@
     "summary": "This paper introduces Fusion Intelligence (FI), a bio-inspired intelligent system, where the innate sensing, intelligence and unique actuation abilities of biological organisms such as bees and ants are integrated with the computational power of Artificial Intelligence (AI). This interdisciplinary field seeks to create systems that are not only smart but also adaptive and responsive in ways that mimic the nature. As FI evolves, it holds the promise of revolutionizing the way we approach complex problems, leveraging the best of both biological and digital worlds to create solutions that are more effective, sustainable, and harmonious with the environment. We demonstrate FI's potential to enhance agricultural IoT system performance through a simulated case study on improving insect pollination efficacy (entomophily).",
     "author": "Rohan Reddy Kalavakonda, Junjun Huan, Peyman Dehghanzadeh, Archit Jaiswal, Soumyajit Mandal, Swarup Bhunia",
     "published": "2024-05-16T02:10:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Intelligent Human Machine Interface Design for Advanced Product Life Cycle Management Systems",
+    "link": "https://arxiv.org/abs/1008.1338v1",
+    "summary": "Designing and implementing an intelligent and user friendly human machine interface for any kind of software or hardware oriented application is always be a challenging task for the designers and developers because it is very difficult to understand the psychology of the user, nature of the work and best suit of the environment. This research paper is basically about to propose an intelligent, flexible and user friendly machine interface for Product Life Cycle Management products or PDM Systems since studies show that usability and human computer interaction issues are a major cause of acceptance problems introducing or using such systems. Going into details of the proposition, we present prototype implementations about theme based on design requirements, designed designs and technologies involved for the development of human machine interface.",
+    "author": "Zeeshan Ahmed",
+    "published": "2010-08-07T12:58:13Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Review on Objective-Driven Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2308.10135v1",
+    "summary": "While advancing rapidly, Artificial Intelligence still falls short of human intelligence in several key aspects due to inherent limitations in current AI technologies and our understanding of cognition. Humans have an innate ability to understand context, nuances, and subtle cues in communication, which allows us to comprehend jokes, sarcasm, and metaphors. Machines struggle to interpret such contextual information accurately. Humans possess a vast repository of common-sense knowledge that helps us make logical inferences and predictions about the world. Machines lack this innate understanding and often struggle with making sense of situations that humans find trivial. In this article, we review the prospective Machine Intelligence candidates, a review from Prof. Yann LeCun, and other work that can help close this gap between human and machine intelligence. Specifically, we talk about what's lacking with the current AI techniques such as supervised learning, reinforcement learning, self-supervised learning, etc. Then we show how Hierarchical planning-based approaches can help us close that gap and deep-dive into energy-based, latent-variable methods and Joint embedding predictive architecture methods.",
+    "author": "Apoorv Singh",
+    "published": "2023-08-20T02:07:42Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Data-Centric Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2212.11854v4",
+    "summary": "Data-centric artificial intelligence (data-centric AI) represents an emerging paradigm emphasizing that the systematic design and engineering of data is essential for building effective and efficient AI-based systems. The objective of this article is to introduce practitioners and researchers from the field of Information Systems (IS) to data-centric AI. We define relevant terms, provide key characteristics to contrast the data-centric paradigm to the model-centric one, and introduce a framework for data-centric AI. We distinguish data-centric AI from related concepts and discuss its longer-term implications for the IS community.",
+    "author": "Johannes Jakubik, Michael Vössing, Niklas Kühl, Jannis Walk, Gerhard Satzger",
+    "published": "2022-12-22T16:41:03Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Research Priorities for Robust and Beneficial Artificial Intelligence",
+    "link": "https://arxiv.org/abs/1602.03506v1",
+    "summary": "Success in the quest for artificial intelligence has the potential to bring unprecedented benefits to humanity, and it is therefore worthwhile to investigate how to maximize these benefits while avoiding potential pitfalls. This article gives numerous examples (which should by no means be construed as an exhaustive list) of such worthwhile research aimed at ensuring that AI remains robust and beneficial.",
+    "author": "Stuart Russell, Daniel Dewey, Max Tegmark",
+    "published": "2016-02-10T20:29:25Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Understanding in Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2101.06573v1",
+    "summary": "Current Artificial Intelligence (AI) methods, most based on deep learning, have facilitated progress in several fields, including computer vision and natural language understanding. The progress of these AI methods is measured using benchmarks designed to solve challenging tasks, such as visual question answering. A question remains of how much understanding is leveraged by these methods and how appropriate are the current benchmarks to measure understanding capabilities. To answer these questions, we have analysed existing benchmarks and their understanding capabilities, defined by a set of understanding capabilities, and current research streams. We show how progress has been made in benchmark development to measure understanding capabilities of AI methods and we review as well how current methods develop understanding capabilities.",
+    "author": "Stefan Maetschke, David Martinez Iraola, Pieter Barnard, Elaheh ShafieiBavani, Peter Zhong, Ying Xu, Antonio Jimeno Yepes",
+    "published": "2021-01-17T02:29:50Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Evidence of interrelated cognitive-like capabilities in large language models: Indications of artificial general intelligence or achievement?",
+    "link": "https://arxiv.org/abs/2310.11616v3",
+    "summary": "Large language models (LLMs) are advanced artificial intelligence (AI) systems that can perform a variety of tasks commonly found in human intelligence tests, such as defining words, performing calculations, and engaging in verbal reasoning. There are also substantial individual differences in LLM capacities. Given the consistent observation of a positive manifold and general intelligence factor in human samples, along with group-level factors (e.g., crystallized intelligence), we hypothesized that LLM test scores may also exhibit positive intercorrelations, which could potentially give rise to an artificial general ability (AGA) factor and one or more group-level factors. Based on a sample of 591 LLMs and scores from 12 tests aligned with fluid reasoning (Gf), domain-specific knowledge (Gkn), reading/writing (Grw), and quantitative knowledge (Gq), we found strong empirical evidence for a positive manifold and a general factor of ability. Additionally, we identified a combined Gkn/Grw group-level factor. Finally, the number of LLM parameters correlated positively with both general factor of ability and Gkn/Grw factor scores, although the effects showed diminishing returns. We interpreted our results to suggest that LLMs, like human cognitive abilities, may share a common underlying efficiency in processing information and solving problems, though whether LLMs manifest primarily achievement/expertise rather than intelligence remains to be determined. Finally, while models with greater numbers of parameters exhibit greater general cognitive-like abilities, akin to the connection between greater neuronal density and human general intelligence, other characteristics must also be involved.",
+    "author": "David Ilić, Gilles E. Gignac",
+    "published": "2023-10-17T22:42:12Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Artificial Intelligence ordered 3D vertex importance",
+    "link": "https://arxiv.org/abs/2012.10232v1",
+    "summary": "Ranking vertices of multidimensional networks is crucial in many areas of research, including selecting and determining the importance of decisions. Some decisions are significantly more important than others, and their weight categorization is also imortant. This paper defines a completely new method for determining the weight decisions using artificial intelligence for importance ranking of three-dimensional network vertices, improving the existing Ordered Statistics Vertex Extraction and Tracking Algorithm (OSVETA) based on modulation of quantized indices (QIM) and error correction codes. The technique we propose in this paper offers significant improvements the efficiency of determination the importance of network vertices in relation to statistical OSVETA criteria, replacing heuristic methods with methods of precise prediction of modern neural networks. The new artificial intelligence technique enables a significantly better definition of the 3D meshes and a better assessment of their topological features. The new method contributions result in a greater precision in defining stable vertices, significantly reducing the probability of deleting mesh vertices.",
+    "author": "Iva Vasic, Bata Vasic, Zorica Nikolic",
+    "published": "2020-12-17T06:54:59Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
