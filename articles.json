@@ -470,6 +470,22 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+    "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+    "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-06-11T18:06:32-04:00",
+    "tags": [
+      "Amazon",
+      "Amazon Alexa",
+      "News",
+      "Smart Home",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
     "link": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
     "summary": "The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a unique second scroll wheel near the left thumb that’s surprisingly useful for horizontal scrolling in spreadsheets. You [&#8230;]",
@@ -611,27 +627,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
-    "link": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
-    "summary": "Elon Musk, on the verge of becoming the world's first trillionaire, is whipping up anti-immigration tensions amid ongoing riots in Belfast, Northern Ireland. Following a knife attack in the city on Monday, Musk declared support for Restore Britain, a hard-right populist political party that advocates for large-scale migrant deportation in the UK. He reposted statements [&#8230;]",
-    "author": "Jess Weatherbed",
-    "published": "2026-06-11T11:51:27-04:00",
-    "tags": [
-      "Elon Musk",
-      "News",
-      "Policy",
-      "Politics",
-      "Science",
-      "Social Media",
-      "Space",
-      "SpaceX",
-      "Tech",
-      "Twitter - X"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
     "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
     "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the&#8230;",
@@ -765,31 +760,31 @@
     "module": "应用落地"
   },
   {
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498385\">Comments</a>",
+    "author": "",
+    "published": "Fri, 12 Jun 2026 00:38:11 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Claude Fable is relentlessly proactive",
+    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498573\">Comments</a>",
+    "author": "",
+    "published": "Fri, 12 Jun 2026 01:06:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Show HN: Homebrew 6.0.0",
     "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48490024\">Comments</a>",
     "author": "",
     "published": "Thu, 11 Jun 2026 13:24:29 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-    "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495575\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 19:54:54 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "MiMo Code is now released and open-source",
-    "link": "https://mimo.xiaomi.com/mimocode",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490826\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 14:27:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -805,11 +800,91 @@
     "module": "应用落地"
   },
   {
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "link": "https://tombedor.dev/human-attention-and-human-effort/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497609\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 23:01:55 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "MiMo Code is now released and open-source",
+    "link": "https://mimo.xiaomi.com/mimocode",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490826\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:27:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489229\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 12:05:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Petition to Withdraw Canada's Bill C-22",
     "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48491830\">Comments</a>",
     "author": "",
     "published": "Thu, 11 Jun 2026 15:37:23 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A jacket that harvests drinking water from the air",
+    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497576\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 22:59:22 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A greyscale iPhone setup that works in everyday life",
+    "link": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487229\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 07:06:40 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ear Training Practice",
+    "link": "https://tonedear.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447598\">Comments</a>",
+    "author": "",
+    "published": "Mon, 08 Jun 2026 16:38:07 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "Software is made between commits",
+    "link": "https://zed.dev/blog/introducing-deltadb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492533\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 16:28:24 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48462070\">Comments</a>",
+    "author": "",
+    "published": "Tue, 09 Jun 2026 15:01:43 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -835,91 +910,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Travel Locally, Where You Are",
-    "link": "https://www.ssp.sh/brain/travel-where-you-are/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495751\">Comments</a>",
+    "title": "Lines of code got a better publicist",
+    "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 20:08:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Boo – screen-style terminal multiplexer built on libghostty",
-    "link": "https://github.com/coder/boo",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496250\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 20:52:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ear Training Practice Exercises",
-    "link": "https://tonedear.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48447598\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 16:38:07 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "基础设施与工具"
-  },
-  {
-    "title": "Software Is Made Between Commits",
-    "link": "https://zed.dev/blog/introducing-deltadb",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492533\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 16:28:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Waymo Premier",
-    "link": "https://waymo.com/blog/2026/06/waymo-premier/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492304\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 16:10:02 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48452001\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 21:02:01 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-    "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48462070\">Comments</a>",
-    "author": "",
-    "published": "Tue, 09 Jun 2026 15:01:43 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487029\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 06:42:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Open Reproduction of DeepSeek-R1",
-    "link": "https://github.com/huggingface/open-r1",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489917\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 13:14:31 +0000",
+    "published": "Thu, 11 Jun 2026 12:26:42 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -935,51 +930,81 @@
     "module": "应用落地"
   },
   {
-    "title": "Lines of code got a better publicist",
-    "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489402\">Comments</a>",
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48452001\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 12:26:42 +0000",
+    "published": "Mon, 08 Jun 2026 21:02:01 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-    "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48493564\">Comments</a>",
+    "title": "Faking keyword arguments to functions in C++",
+    "link": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48459999\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 17:35:19 +0000",
+    "published": "Tue, 09 Jun 2026 12:05:12 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
-    "link": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48428959\">Comments</a>",
+    "title": "WikiLambda the Ultimate",
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48493218\">Comments</a>",
     "author": "",
-    "published": "Sat, 06 Jun 2026 21:00:31 +0000",
+    "published": "Thu, 11 Jun 2026 17:14:42 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Solar generates more energy in US than coal for first time",
-    "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492306\">Comments</a>",
+    "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+    "link": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48479314\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 16:10:05 +0000",
+    "published": "Wed, 10 Jun 2026 17:03:48 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
-    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495197\">Comments</a>",
+    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+    "link": "https://github.com/coder/boo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496250\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 19:23:52 +0000",
+    "published": "Thu, 11 Jun 2026 20:52:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Making a vintage LLM from scratch",
+    "link": "https://crlf.link/log/entries/260525-1/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48487829\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 08:38:00 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Waymo Premier",
+    "link": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492304\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 16:10:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How a new DSL may survive in the era of LLMs",
+    "link": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490939\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:35:41 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -995,71 +1020,41 @@
     "module": "应用落地"
   },
   {
-    "title": "Fully autonomous drones have killed human soldiers for the first time",
-    "link": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48476214\">Comments</a>",
+    "title": "Removing 'um' from a recording is harder than it sounds",
+    "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48498421\">Comments</a>",
     "author": "",
-    "published": "Wed, 10 Jun 2026 13:46:14 +0000",
+    "published": "Fri, 12 Jun 2026 00:42:11 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Programming a GBA Game on an iPhone",
-    "link": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48468495\">Comments</a>",
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48493564\">Comments</a>",
     "author": "",
-    "published": "Tue, 09 Jun 2026 22:12:20 +0000",
+    "published": "Thu, 11 Jun 2026 17:35:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Claw Patrol, a security firewall for agents",
-    "link": "https://github.com/denoland/clawpatrol",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48462928\">Comments</a>",
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "link": "https://mtgautodeck.com/articles/mtg-bench/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492177\">Comments</a>",
     "author": "",
-    "published": "Tue, 09 Jun 2026 16:06:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Doing nothing at work",
-    "link": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48442880\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 08:57:11 +0000",
+    "published": "Thu, 11 Jun 2026 16:01:01 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "A new era for software testing",
-    "link": "https://antirez.com/news/168",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48433351\">Comments</a>",
+    "title": "Open Reproduction of DeepSeek-R1",
+    "link": "https://github.com/huggingface/open-r1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48489917\">Comments</a>",
     "author": "",
-    "published": "Sun, 07 Jun 2026 09:57:18 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Pozzo: A Fast Lucky Number Checker",
-    "link": "https://github.com/Robert-Cunningham/pozzo",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48452174\">Comments</a>",
-    "author": "",
-    "published": "Mon, 08 Jun 2026 21:13:33 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-    "link": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496396\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 21:04:47 +0000",
+    "published": "Thu, 11 Jun 2026 13:14:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1277,7 +1272,7 @@
   {
     "title": "Playing with payphones: how the ubiquitous orange booths have been gamified by fans",
     "link": "https://www.theguardian.com/society/2026/jun/12/payphones-phone-booths-free-calls-australia-resurgence",
-    "summary": "<p>Quaint and often overlooked, payphones continue to provide an essential public service, with millions of free calls being placed each year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man I’ve never met stands at a payphone in Sydney’s CBD.</p><p>“A serene small park directly to the right of the payphone,” he says poetically into the receiver. “There’s a man with an interesting cap sitting down there, and an ibis. I guess they’ll be immortalised in this phone voicemail forever.”</p> <a href=\"https://www.theguardian.com/society/2026/jun/12/payphones-phone-booths-free-calls-australia-resurgence\">Continue reading...</a>",
+    "summary": "<p>Quaint and often overlooked, payphones continue to provide an essential public service, with millions of free calls being placed each year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man I’ve never met stands at a payphone in Sydney’s central business district.</p><p>“A serene small park directly to the right of the payphone,” he says poetically into the receiver. “There’s a man with an interesting cap sitting down there, and an ibis. I guess they’ll be immortalised in this phone voicemail forever.”</p> <a href=\"https://www.theguardian.com/society/2026/jun/12/payphones-phone-booths-free-calls-australia-resurgence\">Continue reading...</a>",
     "author": "Caitlin Cassidy",
     "published": "Thu, 11 Jun 2026 15:00:20 GMT",
     "tags": [
@@ -2087,13 +2082,13 @@
     "published": "Tue, 09 Jun 2026 09:00:38 +0000",
     "tags": [
       "Artificial Intelligence",
+      "Labor and Jobs",
       "Layoffs and Job Reductions",
       "Amazon.com Inc",
       "Innovation",
       "Acemoglu, Daron",
       "Shih, Clara",
       "Wasik, Bill",
-      "Labor and Jobs",
       "Ball, Dean W",
       "internal-open-access-from-nl"
     ],
@@ -2384,6 +2379,16 @@
     "module": "前沿探索"
   },
   {
+    "title": "Treat your AI agents like eager but misguided human interns - before you lose control",
+    "link": "https://www.zdnet.com/article/treat-your-ai-agents-like-interns-before-you-lose-control/",
+    "summary": "Think twice about what permissions you are providing your AI agents and what actions they can take on your behalf.",
+    "author": "",
+    "published": "Fri, 12 Jun 2026 01:00:48 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Best Buy has a 98-inch Hisense TV on sale for nearly 60% off right now",
     "link": "https://www.zdnet.com/article/hisense-qd5-98-inch-deal-best-buy-amazon-prime-day-2026/",
     "summary": "Right now at Best Buy, you can snag a 98-inch Hisense QD5 QLED TV for just under $1,000.",
@@ -2494,9 +2499,9 @@
     "module": "应用落地"
   },
   {
-    "title": "Microsoft patches record 206 Windows bugs in June update - and 3 are zero days",
-    "link": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
-    "summary": "Among the 206 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
+    "title": "Best Buy has better gaming deals right now than Amazon's early Prime Day sale",
+    "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
+    "summary": "Disappointed in Amazon's selection of gaming deals ahead of the Prime Day 2026 sale? Best Buy has you covered.",
     "author": "",
     "published": "Thu, 11 Jun 2026 14:02:00 GMT",
     "tags": [],
@@ -2504,9 +2509,9 @@
     "module": "应用落地"
   },
   {
-    "title": "Best Buy has better gaming deals right now than Amazon's early Prime Day sale",
-    "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
-    "summary": "Disappointed in Amazon's selection of gaming deals ahead of the Prime Day 2026 sale? Best Buy has you covered.",
+    "title": "Microsoft patches record 206 Windows bugs in June update - and 3 are zero days",
+    "link": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
+    "summary": "Among the 206 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
     "author": "",
     "published": "Thu, 11 Jun 2026 14:02:00 GMT",
     "tags": [],
@@ -2569,16 +2574,6 @@
     "summary": "Amazon Prime Day is still weeks away, but great deals on Samsung phones, smartwatches, and TVs are already live.",
     "author": "",
     "published": "Wed, 10 Jun 2026 19:54:38 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Everything announced at Apple WWDC 2026 - including Siri, iOS 27 dev beta, and more",
-    "link": "https://www.zdnet.com/article/everything-announced-at-apple-wwdc-2026-including-siri-ios-27-dev-beta-and-more/",
-    "summary": "We reported live from Apple Park to cover the company's developer conference. Here's everything you need to know.",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 19:19:00 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2924,6 +2919,18 @@
     "module": "应用落地"
   },
   {
+    "title": "Researchers are developing textiles that can produce drinking water from the air",
+    "link": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
+    "summary": "How very Dune.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Thu, 11 Jun 2026 22:50:44 +0000",
+    "tags": [
+      "Science"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Overwatch's latest hero will throw a bike at your head",
     "link": "https://www.engadget.com/2192702/overwatch-latest-damage-hero-shion-will-throw-a-bike-at-your-head/",
     "summary": "Shion arrives when Season 3 starts on June 16.",
@@ -3154,18 +3161,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Anthropic backtracks on policy that 'sabotaged' researchers' work",
-    "link": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/",
-    "summary": "Anthropic is walking back a hidden policy that researchers say sabotaged their work.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Thu, 11 Jun 2026 09:00:29 +0000",
-    "tags": [
-      "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
     "link": "https://arxiv.org/abs/2110.01831v1",
     "summary": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
@@ -3336,16 +3331,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Bias Amplification in Artificial Intelligence Systems",
-    "link": "https://arxiv.org/abs/1809.07842v1",
-    "summary": "As Artificial Intelligence (AI) technologies proliferate, concern has centered around the long-term dangers of job loss or threats of machines causing harm to humans. All of this concern, however, detracts from the more pertinent and already existing threats posed by AI today: its ability to amplify bias found in training datasets, and swiftly impact marginalized populations at scale. Government and public sector institutions have a responsibility to citizens to establish a dialogue with technology developers and release thoughtful policy around data standards to ensure diverse representation in datasets to prevent bias amplification and ensure that AI systems are built with inclusion in mind.",
-    "author": "Kirsten Lloyd",
-    "published": "2018-09-20T20:29:56Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
     "link": "https://arxiv.org/abs/2310.09243v1",
     "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
@@ -3354,6 +3339,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Bias Amplification in Artificial Intelligence Systems",
+    "link": "https://arxiv.org/abs/1809.07842v1",
+    "summary": "As Artificial Intelligence (AI) technologies proliferate, concern has centered around the long-term dangers of job loss or threats of machines causing harm to humans. All of this concern, however, detracts from the more pertinent and already existing threats posed by AI today: its ability to amplify bias found in training datasets, and swiftly impact marginalized populations at scale. Government and public sector institutions have a responsibility to citizens to establish a dialogue with technology developers and release thoughtful policy around data standards to ensure diverse representation in datasets to prevent bias amplification and ensure that AI systems are built with inclusion in mind.",
+    "author": "Kirsten Lloyd",
+    "published": "2018-09-20T20:29:56Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "基础设施与工具"
   },
   {
     "title": "Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds",
@@ -3806,16 +3801,6 @@
     "module": "应用落地"
   },
   {
-    "title": "On the Limits of Design: What Are the Conceptual Constraints on Designing Artificial Intelligence for Social Good?",
-    "link": "https://arxiv.org/abs/2111.04165v1",
-    "summary": "Artificial intelligence AI can bring substantial benefits to society by helping to reduce costs, increase efficiency and enable new solutions to complex problems. Using Floridi's notion of how to design the 'infosphere' as a starting point, in this chapter I consider the question: what are the limits of design, i.e. what are the conceptual constraints on designing AI for social good? The main argument of this chapter is that while design is a useful conceptual tool to shape technologies and societies, collective efforts towards designing future societies are constrained by both internal and external factors. Internal constraints on design are discussed by evoking Hardin's thought experiment regarding 'the Tragedy of the Commons'. Further, Hayek's classical distinction between 'cosmos' and 'taxis' is used to demarcate external constraints on design. Finally, five design principles are presented which are aimed at helping policymakers manage the internal and external constraints on design. A successful approach to designing future societies needs to account for the emergent properties of complex systems by allowing space for serendipity and socio-technological coevolution.",
-    "author": "Jakob Mokander",
-    "published": "2021-11-07T19:56:13Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "False Sense of Security in Explainable Artificial Intelligence (XAI)",
     "link": "https://arxiv.org/abs/2405.03820v2",
     "summary": "A cautious interpretation of AI regulations and policy in the EU and the USA place explainability as a central deliverable of compliant AI systems. However, from a technical perspective, explainable AI (XAI) remains an elusive and complex target where even state of the art methods often reach erroneous, misleading, and incomplete explanations. \"Explainability\" has multiple meanings which are often used interchangeably, and there are an even greater number of XAI methods - none of which presents a clear edge. Indeed, there are multiple failure modes for each XAI method, which require application-specific development and continuous evaluation. In this paper, we analyze legislative and policy developments in the United States and the European Union, such as the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the AI Act, the AI Liability Directive, and the General Data Protection Regulation (GDPR) from a right to explanation perspective. We argue that these AI regulations and current market conditions threaten effective AI governance and safety because the objective of trustworthy, accountable, and transparent AI is intrinsically linked to the questionable ability of AI operators to provide meaningful explanations. Unless governments explicitly tackle the issue of explainability through clear legislative and policy statements that take into account technical realities, AI governance risks becoming a vacuous \"box-ticking\" exercise where scientific standards are replaced with legalistic thresholds, providing only a false sense of security in XAI.",
@@ -3824,6 +3809,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
+  },
+  {
+    "title": "On the Limits of Design: What Are the Conceptual Constraints on Designing Artificial Intelligence for Social Good?",
+    "link": "https://arxiv.org/abs/2111.04165v1",
+    "summary": "Artificial intelligence AI can bring substantial benefits to society by helping to reduce costs, increase efficiency and enable new solutions to complex problems. Using Floridi's notion of how to design the 'infosphere' as a starting point, in this chapter I consider the question: what are the limits of design, i.e. what are the conceptual constraints on designing AI for social good? The main argument of this chapter is that while design is a useful conceptual tool to shape technologies and societies, collective efforts towards designing future societies are constrained by both internal and external factors. Internal constraints on design are discussed by evoking Hardin's thought experiment regarding 'the Tragedy of the Commons'. Further, Hayek's classical distinction between 'cosmos' and 'taxis' is used to demarcate external constraints on design. Finally, five design principles are presented which are aimed at helping policymakers manage the internal and external constraints on design. A successful approach to designing future societies needs to account for the emergent properties of complex systems by allowing space for serendipity and socio-technological coevolution.",
+    "author": "Jakob Mokander",
+    "published": "2021-11-07T19:56:13Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Protection of an information system by artificial intelligence: a three-phase approach based on behaviour analysis to detect a hostile scenario",
@@ -5146,16 +5141,6 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "A Review of Explainable Artificial Intelligence in Manufacturing",
-    "link": "https://arxiv.org/abs/2107.02295v1",
-    "summary": "The implementation of Artificial Intelligence (AI) systems in the manufacturing domain enables higher production efficiency, outstanding performance, and safer operations, leveraging powerful tools such as deep learning and reinforcement learning techniques. Despite the high accuracy of these models, they are mostly considered black boxes: they are unintelligible to the human. Opaqueness affects trust in the system, a factor that is critical in the context of decision-making. We present an overview of Explainable Artificial Intelligence (XAI) techniques as a means of boosting the transparency of models. We analyze different metrics to evaluate these techniques and describe several application scenarios in the manufacturing domain.",
-    "author": "Georgios Sofianidis, Jože M. Rožanec, Dunja Mladenić, Dimosthenis Kyriazis",
-    "published": "2021-07-05T21:59:55Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Guidelines for Artificial Intelligence Containment",
     "link": "https://arxiv.org/abs/1707.08476v1",
     "summary": "With almost daily improvements in capabilities of artificial intelligence it is more important than ever to develop safety software for use by the AI research community. Building on our previous work on AI Containment Problem we propose a number of guidelines which should help AI safety researchers to develop reliable sandboxing software for intelligent programs of all levels. Such safety container software will make it possible to study and analyze intelligent artificial agent while maintaining certain level of safety against information leakage, social engineering attacks and cyberattacks from within the container.",
@@ -5164,6 +5149,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "A Review of Explainable Artificial Intelligence in Manufacturing",
+    "link": "https://arxiv.org/abs/2107.02295v1",
+    "summary": "The implementation of Artificial Intelligence (AI) systems in the manufacturing domain enables higher production efficiency, outstanding performance, and safer operations, leveraging powerful tools such as deep learning and reinforcement learning techniques. Despite the high accuracy of these models, they are mostly considered black boxes: they are unintelligible to the human. Opaqueness affects trust in the system, a factor that is critical in the context of decision-making. We present an overview of Explainable Artificial Intelligence (XAI) techniques as a means of boosting the transparency of models. We analyze different metrics to evaluate these techniques and describe several application scenarios in the manufacturing domain.",
+    "author": "Georgios Sofianidis, Jože M. Rožanec, Dunja Mladenić, Dimosthenis Kyriazis",
+    "published": "2021-07-05T21:59:55Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
@@ -5466,16 +5461,6 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Dynamic Cognition Applied to Value Learning in Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2005.05538v6",
-    "summary": "Experts in Artificial Intelligence (AI) development predict that advances in the development of intelligent systems and agents will reshape vital areas in our society. Nevertheless, if such an advance isn't done with prudence, it can result in negative outcomes for humanity. For this reason, several researchers in the area are trying to develop a robust, beneficial, and safe concept of artificial intelligence. Currently, several of the open problems in the field of AI research arise from the difficulty of avoiding unwanted behaviors of intelligent agents, and at the same time specifying what we want such systems to do. It is of utmost importance that artificial intelligent agents have their values aligned with human values, given the fact that we cannot expect an AI to develop our moral preferences simply because of its intelligence, as discussed in the Orthogonality Thesis. Perhaps this difficulty comes from the way we are addressing the problem of expressing objectives, values, and ends, using representational cognitive methods. A solution to this problem would be the dynamic cognitive approach proposed by Dreyfus, whose phenomenological philosophy defends that the human experience of being-in-the-world cannot be represented by the symbolic or connectionist cognitive methods. A possible approach to this problem would be to use theoretical models such as SED (situated embodied dynamics) to address the values learning problem in AI.",
-    "author": "Nythamar de Oliveira, Nicholas Kluge Corrêa",
-    "published": "2020-05-12T03:58:52Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Artificial Cognitively-inspired Generation of the Notion of Topological Group in the Context of Artificial Mathematical Intelligence",
     "link": "https://arxiv.org/abs/2112.02457v1",
     "summary": "The new computational paradigm of conceptual computation has been introduced in the research program of Artificial Mathematical Intelligence. We provide the explicit artificial generation (or conceptual computation) for the fundamental mathematical notion of topological groups. Specifically, we start with two basic notions belonging to topology and abstract algebra, and we describe recursively formal specifications in the Common Algebraic Specification Language (CASL). The notion of conceptual blending between such conceptual spaces can be materialized computationally in the Heterogeneous Tool Set (HETS). The fundamental notion of topological groups is explicitly generated through three different artificial specifications based on conceptual blending and conceptual identification, starting with the concepts of continuous functions and mathematical groups (described with minimal set-theoretical conditions). This constitutes in additional heuristic evidence for the third pillar of Artificial Mathematical Intelligence.",
@@ -5484,6 +5469,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Dynamic Cognition Applied to Value Learning in Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2005.05538v6",
+    "summary": "Experts in Artificial Intelligence (AI) development predict that advances in the development of intelligent systems and agents will reshape vital areas in our society. Nevertheless, if such an advance isn't done with prudence, it can result in negative outcomes for humanity. For this reason, several researchers in the area are trying to develop a robust, beneficial, and safe concept of artificial intelligence. Currently, several of the open problems in the field of AI research arise from the difficulty of avoiding unwanted behaviors of intelligent agents, and at the same time specifying what we want such systems to do. It is of utmost importance that artificial intelligent agents have their values aligned with human values, given the fact that we cannot expect an AI to develop our moral preferences simply because of its intelligence, as discussed in the Orthogonality Thesis. Perhaps this difficulty comes from the way we are addressing the problem of expressing objectives, values, and ends, using representational cognitive methods. A solution to this problem would be the dynamic cognitive approach proposed by Dreyfus, whose phenomenological philosophy defends that the human experience of being-in-the-world cannot be represented by the symbolic or connectionist cognitive methods. A possible approach to this problem would be to use theoretical models such as SED (situated embodied dynamics) to address the values learning problem in AI.",
+    "author": "Nythamar de Oliveira, Nicholas Kluge Corrêa",
+    "published": "2020-05-12T03:58:52Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Using Side Channel Information and Artificial Intelligence for Malware Detection",
@@ -5856,21 +5851,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Diversity and Inclusion in Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2305.12728v1",
-    "summary": "To date, there has been little concrete practical advice about how to ensure that diversity and inclusion considerations should be embedded within both specific Artificial Intelligence (AI) systems and the larger global AI ecosystem. In this chapter, we present a clear definition of diversity and inclusion in AI, one which positions this concept within an evolving and holistic ecosystem. We use this definition and conceptual framing to present a set of practical guidelines primarily aimed at AI technologists, data scientists and project leaders.",
-    "author": "Didar Zowghi, Francesca da Rimini",
-    "published": "2023-05-22T05:33:34Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Proceedings of the Twentieth Conference on Uncertainty in Artificial Intelligence (2004)",
     "link": "https://arxiv.org/abs/1208.5161v2",
     "summary": "This is the Proceedings of the Twentieth Conference on Uncertainty in Artificial Intelligence, which was held in Banff, Canada, July 7 - 11 2004.",
     "author": "Max Chickering, Joseph Halpern",
     "published": "2012-08-25T18:48:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Diversity and Inclusion in Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2305.12728v1",
+    "summary": "To date, there has been little concrete practical advice about how to ensure that diversity and inclusion considerations should be embedded within both specific Artificial Intelligence (AI) systems and the larger global AI ecosystem. In this chapter, we present a clear definition of diversity and inclusion in AI, one which positions this concept within an evolving and holistic ecosystem. We use this definition and conceptual framing to present a set of practical guidelines primarily aimed at AI technologists, data scientists and project leaders.",
+    "author": "Didar Zowghi, Francesca da Rimini",
+    "published": "2023-05-22T05:33:34Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
