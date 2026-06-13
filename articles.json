@@ -470,6 +470,38 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "X-Men ’97 has what Master of the Universe is missing",
+    "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+    "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. [&#8230;]",
+    "author": "Charles Pulliam-Moore",
+    "published": "2026-06-13T16:00:00-04:00",
+    "tags": [
+      "Analysis",
+      "Disney",
+      "Entertainment",
+      "Film",
+      "Report",
+      "Streaming",
+      "TV Shows"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Sealed Super Mario Bros. sells for a record $3 million",
+    "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+    "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction [&#8230;]",
+    "author": "Terrence O’Brien",
+    "published": "2026-06-13T14:37:21-04:00",
+    "tags": [
+      "Gaming",
+      "News",
+      "Nintendo"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Microsoft hasn’t ruled out spinning off Xbox",
     "link": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
     "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has [&#8230;]",
@@ -591,39 +623,6 @@
       "iPhone",
       "Tech",
       "WWDC 2026"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A better way to manage all your screenshots",
-    "link": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
-    "summary": "Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.) This week, I've been preparing for a month of getting absolutely nothing done during the World Cup. [&#8230;]",
-    "author": "David Pierce",
-    "published": "2026-06-13T08:00:00-04:00",
-    "tags": [
-      "Apps",
-      "Gadgets",
-      "Installer",
-      "Social Media",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-    "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;]",
-    "author": "Charles Pulliam-Moore",
-    "published": "2026-06-13T07:00:00-04:00",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Film",
-      "Google",
-      "OpenAI",
-      "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -763,11 +762,21 @@
     "module": "应用落地"
   },
   {
-    "title": "US bans differential privacy in Census data",
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
     "link": "https://desfontain.es/blog/banning-noise.html",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48517377\">Comments</a>",
     "author": "",
     "published": "Sat, 13 Jun 2026 13:54:56 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "GameBoy Workboy",
+    "link": "https://tcrf.net/Workboy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519552\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 17:43:02 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -783,21 +792,31 @@
     "module": "应用落地"
   },
   {
-    "title": "AI Coding at Home Without Going Broke",
-    "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48518969\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 16:45:03 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Every Frame Perfect",
     "link": "https://tonsky.me/blog/every-frame-perfect/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>",
     "author": "",
     "published": "Sat, 13 Jun 2026 11:40:20 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "link": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48520080\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 18:32:22 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519092\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 16:57:49 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -813,21 +832,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
-    "link": "https://lr0.org/blog/p/arabic/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516710\">Comments</a>",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip",
+    "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519011\">Comments</a>",
     "author": "",
-    "published": "Sat, 13 Jun 2026 12:40:16 +0000",
+    "published": "Sat, 13 Jun 2026 16:49:42 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-    "link": "https://github.com/tensorzero/tensorzero",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516504\">Comments</a>",
+    "title": "Codex for open source",
+    "link": "https://openai.com/form/codex-for-oss/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497195\">Comments</a>",
     "author": "",
-    "published": "Sat, 13 Jun 2026 12:10:47 +0000",
+    "published": "Thu, 11 Jun 2026 22:20:03 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -843,21 +862,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire",
-    "link": "https://new.roman-names.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48481400\">Comments</a>",
+    "title": "Orthodox C++ (2016)",
+    "link": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48517412\">Comments</a>",
     "author": "",
-    "published": "Wed, 10 Jun 2026 19:28:49 +0000",
+    "published": "Sat, 13 Jun 2026 13:58:46 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Electric motors with no rare earths",
-    "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48510010\">Comments</a>",
+    "title": "GLM 5.2 Is Out",
+    "link": "https://twitter.com/jietang/status/2065784751345287314",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>",
     "author": "",
-    "published": "Fri, 12 Jun 2026 22:08:03 +0000",
+    "published": "Sat, 13 Jun 2026 16:18:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The experience of rendering Arabic typography and its technical debt",
+    "link": "https://lr0.org/blog/p/arabic/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516710\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 12:40:16 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -873,61 +902,61 @@
     "module": "应用落地"
   },
   {
+    "title": "AI coding at home without going broke",
+    "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48518969\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 16:45:03 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "link": "https://github.com/tensorzero/tensorzero",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516504\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 12:10:47 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)",
+    "link": "https://taoofmac.com/space/reviews/2026/06/11/1830",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48494270\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 18:14:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "C47/R47 Calculators",
+    "link": "https://47calc.com/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48481385\">Comments</a>",
+    "author": "",
+    "published": "Wed, 10 Jun 2026 19:27:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48520807\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 19:54:55 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "The state of building user interfaces in Rust",
     "link": "https://areweguiyet.com/#ecosystem",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48479008\">Comments</a>",
     "author": "",
     "published": "Wed, 10 Jun 2026 16:44:23 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The adder at the heart of Intel's 8087 floating-point chip",
-    "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519011\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 16:49:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48505231\">Comments</a>",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 15:15:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What about OpenCL and CUDA C++ alternatives?",
-    "link": "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48462577\">Comments</a>",
-    "author": "",
-    "published": "Tue, 09 Jun 2026 15:41:21 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-    "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516573\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 12:20:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-    "link": "https://www.anthropic.com/news/fable-mythos-access",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48511072\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 00:51:30 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -943,6 +972,46 @@
     "module": "应用落地"
   },
   {
+    "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+    "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516573\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 12:20:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+    "link": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48514560\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 07:45:39 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+    "link": "https://new.roman-names.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48481400\">Comments</a>",
+    "author": "",
+    "published": "Wed, 10 Jun 2026 19:28:49 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What Happens to an Economy When It's Too Hot to Work?",
+    "link": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48520110\">Comments</a>",
+    "author": "",
+    "published": "Sat, 13 Jun 2026 18:35:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
     "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48516379\">Comments</a>",
@@ -953,64 +1022,14 @@
     "module": "应用落地"
   },
   {
-    "title": "GLM 5.2 Is Out",
-    "link": "https://digg.com/tech/ii9xibgn",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>",
+    "title": "Automating myself out of development",
+    "link": "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48465890\">Comments</a>",
     "author": "",
-    "published": "Sat, 13 Jun 2026 16:18:31 +0000",
+    "published": "Tue, 09 Jun 2026 18:59:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
-  },
-  {
-    "title": "Orthodox C++",
-    "link": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48517412\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 13:58:46 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Open source AI must win",
-    "link": "https://opensourceaimustwin.com/?share=v2",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48511908\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 02:14:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-    "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519092\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 16:57:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-    "link": "https://hallucinate.site/gallery",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516510\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 12:11:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How to setup a local coding agent on macOS",
-    "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48507020\">Comments</a>",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 17:34:55 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
   },
   {
     "title": "The computer science degree isn’t dead",
@@ -1023,41 +1042,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-    "link": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48513728\">Comments</a>",
+    "title": "PwC Report: AI Making Medical Bills Higher",
+    "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519519\">Comments</a>",
     "author": "",
-    "published": "Sat, 13 Jun 2026 05:44:46 +0000",
+    "published": "Sat, 13 Jun 2026 17:39:14 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Putt.day a daily mini golf game",
-    "link": "https://putt.day/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48510341\">Comments</a>",
+    "title": "Trophic memory, deer, and a unique scientific object",
+    "link": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48468352\">Comments</a>",
     "author": "",
-    "published": "Fri, 12 Jun 2026 22:56:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-    "link": "https://twitter.com/jsrailton/status/2064661778978533571",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48495928\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 20:24:18 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Leaving Mozilla",
-    "link": "https://blog.unitedheroes.net/5751",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48513806\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 05:57:14 +0000",
+    "published": "Tue, 09 Jun 2026 21:59:41 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -2341,29 +2340,23 @@
     "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
     "summary": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.",
     "author": "Rebecca F. Elliott",
-    "published": "Tue, 09 Jun 2026 15:06:06 +0000",
+    "published": "Tue, 09 Jun 2026 15:06:07 +0000",
     "tags": [
-      "United States Politics and Government",
-      "International Relations",
       "US and Israeli Attack on Iran (2026)",
+      "Russian Invasion of Ukraine (2022)",
       "International Trade and World Market",
-      "Natural Gas",
-      "Oil (Petroleum) and Gasoline",
-      "Electric and Hybrid Vehicles",
       "Politics and Government",
-      "United States International Relations",
-      "Nuclear Energy",
-      "Prices (Fares, Fees and Rates)",
       "Alternative and Renewable Energy",
+      "Oil (Petroleum) and Gasoline",
+      "Natural Gas",
+      "Electric and Hybrid Vehicles",
+      "Nuclear Energy",
       "Nationalization of Industry",
       "Automobiles",
       "Electric Light and Power",
       "Solar Energy",
       "Shortages",
-      "Batteries",
       "Stockpiling",
-      "Russian Invasion of Ukraine (2022)",
-      "International Energy Agency",
       "Strait of Hormuz",
       "Southeast Asia",
       "South America",
@@ -2372,7 +2365,9 @@
       "Belgium",
       "Europe",
       "Guyana",
-      "Taiwan"
+      "Taiwan",
+      "Russia",
+      "Iran"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -4643,16 +4638,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Explainable Artificial Intelligence for Dependent Features: Additive Effects of Collinearity",
-    "link": "https://arxiv.org/abs/2411.00846v1",
-    "summary": "Explainable Artificial Intelligence (XAI) emerged to reveal the internal mechanism of machine learning models and how the features affect the prediction outcome. Collinearity is one of the big issues that XAI methods face when identifying the most informative features in the model. Current XAI approaches assume the features in the models are independent and calculate the effect of each feature toward model prediction independently from the rest of the features. However, such assumption is not realistic in real life applications. We propose an Additive Effects of Collinearity (AEC) as a novel XAI method that aim to considers the collinearity issue when it models the effect of each feature in the model on the outcome. AEC is based on the idea of dividing multivariate models into several univariate models in order to examine their impact on each other and consequently on the outcome. The proposed method is implemented using simulated and real data to validate its efficiency comparing with the a state of arts XAI method. The results indicate that AEC is more robust and stable against the impact of collinearity when it explains AI models compared with the state of arts XAI method.",
-    "author": "Ahmed M Salih",
-    "published": "2024-10-30T07:00:30Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Open Ended Intelligence: The individuation of Intelligent Agents",
     "link": "https://arxiv.org/abs/1505.06366v2",
     "summary": "Artificial General Intelligence is a field of research aiming to distill the principles of intelligence that operate independently of a specific problem domain or a predefined context and utilize these principles in order to synthesize systems capable of performing any intellectual task a human being is capable of and eventually go beyond that. While \"narrow\" artificial intelligence which focuses on solving specific problems such as speech recognition, text comprehension, visual pattern recognition, robotic motion, etc. has shown quite a few impressive breakthroughs lately, understanding general intelligence remains elusive. In the paper we offer a novel theoretical approach to understanding general intelligence. We start with a brief introduction of the current conceptual approach. Our critique exposes a number of serious limitations that are traced back to the ontological roots of the concept of intelligence. We then propose a paradigm shift from intelligence perceived as a competence of individual agents defined in relation to an a priori given problem domain or a goal, to intelligence perceived as a formative process of self-organization by which intelligent agents are individuated. We call this process open-ended intelligence. Open-ended intelligence is developed as an abstraction of the process of cognitive development so its application can be extended to general agents and systems. We introduce and discuss three facets of the idea: the philosophical concept of individuation, sense-making and the individuation of general cognitive agents. We further show how open-ended intelligence can be framed in terms of a distributed, self-organizing network of interacting elements and how such process is scalable. The framework highlights an important relation between coordination and intelligence and a new understanding of values. We conclude with a number of questions for future research.",
@@ -4661,6 +4646,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Explainable Artificial Intelligence for Dependent Features: Additive Effects of Collinearity",
+    "link": "https://arxiv.org/abs/2411.00846v1",
+    "summary": "Explainable Artificial Intelligence (XAI) emerged to reveal the internal mechanism of machine learning models and how the features affect the prediction outcome. Collinearity is one of the big issues that XAI methods face when identifying the most informative features in the model. Current XAI approaches assume the features in the models are independent and calculate the effect of each feature toward model prediction independently from the rest of the features. However, such assumption is not realistic in real life applications. We propose an Additive Effects of Collinearity (AEC) as a novel XAI method that aim to considers the collinearity issue when it models the effect of each feature in the model on the outcome. AEC is based on the idea of dividing multivariate models into several univariate models in order to examine their impact on each other and consequently on the outcome. The proposed method is implemented using simulated and real data to validate its efficiency comparing with the a state of arts XAI method. The results indicate that AEC is more robust and stable against the impact of collinearity when it explains AI models compared with the state of arts XAI method.",
+    "author": "Ahmed M Salih",
+    "published": "2024-10-30T07:00:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Comprehensible Artificial Intelligence on Knowledge Graphs: A survey",
@@ -4963,21 +4958,21 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Dynamic Agentic AI Expert Profiler System Architecture for Multidomain Intelligence Modeling",
-    "link": "https://arxiv.org/abs/2604.05345v1",
-    "summary": "In today's artificial intelligence driven world, modern systems communicate with people from diverse backgrounds and skill levels. For human-machine interaction to be meaningful, systems must be aware of context and user expertise. This study proposes an agentic AI profiler that classifies natural language responses into four levels: Novice, Basic, Advanced, and Expert. The system uses a modular layered architecture built on LLaMA v3.1 (8B), with components for text preprocessing, scoring, aggregation, and classification. Evaluation was conducted in two phases: a static phase using pre-recorded transcripts from 82 participants, and a dynamic phase with 402 live interviews conducted by an agentic AI interviewer. In both phases, participant self-ratings were compared with profiler predictions. In the dynamic phase, expertise was assessed after each response rather than at the end of the interview. Across domains, 83% to 97% of profiler evaluations matched participant self-assessments. Remaining differences were due to self-rating bias, unclear responses, and occasional misinterpretation of nuanced expertise by the language model.",
-    "author": "Aisvarya Adeseye, Jouni Isoaho, Seppo Virtanen, Mohammad Tahir",
-    "published": "2026-04-07T02:30:45Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence",
     "link": "https://arxiv.org/abs/2505.06897v1",
     "summary": "The ultimate goal of artificial intelligence (AI) is to achieve Artificial General Intelligence (AGI). Embodied Artificial Intelligence (EAI), which involves intelligent systems with physical presence and real-time interaction with the environment, has emerged as a key research direction in pursuit of AGI. While advancements in deep learning, reinforcement learning, large-scale language models, and multimodal technologies have significantly contributed to the progress of EAI, most existing reviews focus on specific technologies or applications. A systematic overview, particularly one that explores the direct connection between EAI and AGI, remains scarce. This paper examines EAI as a foundational approach to AGI, systematically analyzing its four core modules: perception, intelligent decision-making, action, and feedback. We provide a detailed discussion of how each module contributes to the six core principles of AGI. Additionally, we discuss future trends, challenges, and research directions in EAI, emphasizing its potential as a cornerstone for AGI development. Our findings suggest that EAI's integration of dynamic learning and real-world interaction is essential for bridging the gap between narrow AI and AGI.",
     "author": "Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, Feng-Qi Cui, Erbao Dong",
     "published": "2025-05-11T08:29:20Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Dynamic Agentic AI Expert Profiler System Architecture for Multidomain Intelligence Modeling",
+    "link": "https://arxiv.org/abs/2604.05345v1",
+    "summary": "In today's artificial intelligence driven world, modern systems communicate with people from diverse backgrounds and skill levels. For human-machine interaction to be meaningful, systems must be aware of context and user expertise. This study proposes an agentic AI profiler that classifies natural language responses into four levels: Novice, Basic, Advanced, and Expert. The system uses a modular layered architecture built on LLaMA v3.1 (8B), with components for text preprocessing, scoring, aggregation, and classification. Evaluation was conducted in two phases: a static phase using pre-recorded transcripts from 82 participants, and a dynamic phase with 402 live interviews conducted by an agentic AI interviewer. In both phases, participant self-ratings were compared with profiler predictions. In the dynamic phase, expertise was assessed after each response rather than at the end of the interview. Across domains, 83% to 97% of profiler evaluations matched participant self-assessments. Remaining differences were due to self-rating bias, unclear responses, and occasional misinterpretation of nuanced expertise by the language model.",
+    "author": "Aisvarya Adeseye, Jouni Isoaho, Seppo Virtanen, Mohammad Tahir",
+    "published": "2026-04-07T02:30:45Z",
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
