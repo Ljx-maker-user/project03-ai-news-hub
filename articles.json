@@ -470,6 +470,37 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "The impossible dream of the universal remote",
+    "link": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+    "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much closer than most. It was called the Harmony, [&#8230;]",
+    "author": "David Pierce",
+    "published": "2026-06-14T09:42:07-04:00",
+    "tags": [
+      "Gadgets",
+      "Podcasts",
+      "Tech",
+      "Version History"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Solid-state batteries still aren’t ready, but gels are",
+    "link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Lithium-ion batteries are everywhere as we [&#8230;]",
+    "author": "Thomas Ricker",
+    "published": "2026-06-14T08:00:00-04:00",
+    "tags": [
+      "Column",
+      "Electric Bikes",
+      "Rideables",
+      "The Stepback",
+      "Transportation"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
     "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
     "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
@@ -596,36 +627,6 @@
     "published": "2026-06-13T09:00:00-04:00",
     "tags": [
       "AI"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-    "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
-    "author": "Terrence O’Brien",
-    "published": "2026-06-13T08:55:49-04:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "News",
-      "Policy",
-      "Politics"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
-    "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
-    "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical MacGuffins. But [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-06-13T08:00:00-04:00",
-    "tags": [
-      "Entertainment",
-      "Games Review",
-      "Gaming"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -765,11 +766,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Honda Civics and the Evil Valet",
-    "link": "https://juniperspring.org/posts/honda-evil-valet/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>",
+    "title": "The Birth and Death of JavaScript (2014)",
+    "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526661\">Comments</a>",
     "author": "",
-    "published": "Sun, 14 Jun 2026 00:49:46 +0000",
+    "published": "Sun, 14 Jun 2026 12:38:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Firewood Splitting Simulator",
+    "link": "https://screen.toys/firewood/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48471638\">Comments</a>",
+    "author": "",
+    "published": "Wed, 10 Jun 2026 05:01:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -785,11 +796,61 @@
     "module": "应用落地"
   },
   {
+    "title": "Honda Civics and the Evil Valet",
+    "link": "https://juniperspring.org/posts/honda-evil-valet/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 00:49:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How did Atari apply side art to Arcade Cabinets?",
+    "link": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526793\">Comments</a>",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 12:57:33 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How to Earn a Billion Dollars",
+    "link": "https://paulgraham.com/earn.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526360\">Comments</a>",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 11:50:48 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "GLM 5.2 Is Out",
     "link": "https://twitter.com/jietang/status/2065784751345287314",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>",
     "author": "",
     "published": "Sat, 13 Jun 2026 16:18:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Windows 1.0 and the WinAPI, 40 Years Later",
+    "link": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48492366\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 16:14:55 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Historic co-determination helps monasteries navigate digital change",
+    "link": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48499348\">Comments</a>",
+    "author": "",
+    "published": "Fri, 12 Jun 2026 02:58:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -805,26 +866,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Cooling in Space",
-    "link": "https://guille.site/posts/space-cooling/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48496156\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 20:43:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
-    "link": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48499348\">Comments</a>",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 02:58:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Every Frame Perfect",
     "link": "https://tonsky.me/blog/every-frame-perfect/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>",
@@ -835,7 +876,17 @@
     "module": "应用落地"
   },
   {
-    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+    "title": "Lisp's Influence on Ruby",
+    "link": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48491048\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 14:43:11 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "New pancreatic cancer drug might open the door to much longer survival times",
     "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48517199\">Comments</a>",
     "author": "",
@@ -855,6 +906,26 @@
     "module": "应用落地"
   },
   {
+    "title": "Pac-Man, but you're the ghost",
+    "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524135\">Comments</a>",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 04:18:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Can't Stop the Signal. Poison It",
+    "link": "https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48526472\">Comments</a>",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 12:15:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Tribblix: The retro Illumos distribution",
     "link": "http://tribblix.org/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48524434\">Comments</a>",
@@ -865,11 +936,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Beagle: Git, URIs and all the dirty words",
-    "link": "https://replicated.wiki/blog/uris.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48494135\">Comments</a>",
+    "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "link": "https://github.com/kekcleader/FreeOberon",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490927\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 18:05:52 +0000",
+    "published": "Thu, 11 Jun 2026 14:34:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Codex for open source",
+    "link": "https://openai.com/form/codex-for-oss/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497195\">Comments</a>",
+    "author": "",
+    "published": "Thu, 11 Jun 2026 22:20:03 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -895,21 +976,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Pac-Man, but you're the ghost",
-    "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524135\">Comments</a>",
+    "title": "Python 3.14 garbage collection rigamarole",
+    "link": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503009\">Comments</a>",
     "author": "",
-    "published": "Sun, 14 Jun 2026 04:18:45 +0000",
+    "published": "Fri, 12 Jun 2026 11:59:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-    "link": "https://github.com/kekcleader/FreeOberon",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48490927\">Comments</a>",
+    "title": "A low-carbon computing platform from your retired phones",
+    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48515336\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 14:34:46 +0000",
+    "published": "Sat, 13 Jun 2026 09:38:32 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -935,41 +1016,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Codex for open source",
-    "link": "https://openai.com/form/codex-for-oss/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48497195\">Comments</a>",
+    "title": "GameBoy Workboy",
+    "link": "https://tcrf.net/Workboy",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519552\">Comments</a>",
     "author": "",
-    "published": "Thu, 11 Jun 2026 22:20:03 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "LaserWriter seeds",
-    "link": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48483841\">Comments</a>",
-    "author": "",
-    "published": "Wed, 10 Jun 2026 22:47:46 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Weave: Merging based on language structure and not lines",
-    "link": "https://ataraxy-labs.github.io/weave/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48523705\">Comments</a>",
-    "author": "",
-    "published": "Sun, 14 Jun 2026 02:45:38 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A low-carbon computing platform from your retired phones",
-    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48515336\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 09:38:32 +0000",
+    "published": "Sat, 13 Jun 2026 17:43:02 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -985,21 +1036,11 @@
     "module": "应用落地"
   },
   {
-    "title": "GameBoy Workboy",
-    "link": "https://tcrf.net/Workboy",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48519552\">Comments</a>",
+    "title": "LaserWriter seeds",
+    "link": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48483841\">Comments</a>",
     "author": "",
-    "published": "Sat, 13 Jun 2026 17:43:02 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-    "link": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48520080\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 18:32:22 +0000",
+    "published": "Wed, 10 Jun 2026 22:47:46 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1015,51 +1056,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Appreciating Exif",
-    "link": "https://brentfitzgerald.com/posts/appreciating-exif/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48467437\">Comments</a>",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "link": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48520080\">Comments</a>",
     "author": "",
-    "published": "Tue, 09 Jun 2026 20:41:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-    "link": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48522486\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 23:22:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Python 3.14 garbage collection rigamarole",
-    "link": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48503009\">Comments</a>",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 11:59:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The experience of rendering Arabic typography and its technical debt",
-    "link": "https://lr0.org/blog/p/arabic/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48516710\">Comments</a>",
-    "author": "",
-    "published": "Sat, 13 Jun 2026 12:40:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Software Architecture Guide (2019)",
-    "link": "https://martinfowler.com/architecture/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48524084\">Comments</a>",
-    "author": "",
-    "published": "Sun, 14 Jun 2026 04:07:37 +0000",
+    "published": "Sat, 13 Jun 2026 18:32:22 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1276,9 +1277,45 @@
     "module": "应用落地"
   },
   {
+    "title": "Readers reply: Experts say we should use passkeys, but can a smartphone pin really be safer than a password?",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jun/14/readers-reply-experts-say-we-should-use-passkeys-but-can-a-smartphone-pin-really-be-safer-than-a-password",
+    "summary": "<p>The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts</p><ul><li><p>This week’s question: <a href=\"https://www.theguardian.com/lifeandstyle/2026/jun/14/ripen-at-home-fruit-supermarkets\">Is ‘ripen at home’ fruit the supermarkets’ idea of a joke?</a></p><p></p></li></ul><p>I’ve been struggling to get my head around the idea that a passkey, which can be a pin on your phone, or facial recognition, can be safer than using a complicated password and two-factor authentication.</p><p>I get that having something unique to your device, not stored on a company’s server, is unphishable and less hackable by cybercrims, but what if your phone is nicked and someone guesses the password? And what if you lose your phone?</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/jun/14/readers-reply-experts-say-we-should-use-passkeys-but-can-a-smartphone-pin-really-be-safer-than-a-password\">Continue reading...</a>",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 13:00:45 GMT",
+    "tags": [
+      "Life and style",
+      "Technology",
+      "Smartphones",
+      "Data and computer security",
+      "Mobile phones",
+      "Telecoms"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "‘Have I been influenced, or is this actually me?’ How personal taste fell out of fashion",
+    "link": "https://www.theguardian.com/media/2026/jun/14/have-i-been-influenced-personal-taste-out-of-fashion-algorithm",
+    "summary": "<p>Our favourite music, clothes and books used to be markers of individuality – but the algorithm has made us all sheep. Meet the style rebels fighting back</p><p>What are you into? What floats your boat? What music, films, clothes, art, books – anything, really – do you actually like? Do you find these&nbsp;questions more difficult to answer than you would have done 10 years ago? How about 20? You do? You’re not alone.</p><p>It has become impossible to ignore: personal taste has been seriously debased – if not completely destroyed – by technological advancement. We know the internet has radically altered the way we form our opinions and beliefs. Now we’re waking up to&nbsp;another sobering truth: it has wrecked our capacity to form our own preferences.</p> <a href=\"https://www.theguardian.com/media/2026/jun/14/have-i-been-influenced-personal-taste-out-of-fashion-algorithm\">Continue reading...</a>",
+    "author": "Rachel Aroesti",
+    "published": "Sun, 14 Jun 2026 11:00:42 GMT",
+    "tags": [
+      "Social media",
+      "AI (artificial intelligence)",
+      "Technology",
+      "Digital media",
+      "Media",
+      "Fashion",
+      "Life and style",
+      "Society"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
     "link": "https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
-    "summary": "<p>After falling for a scam call, ‘The Tech Chap’ host Tom Honeyands realised he’d given away vital details in social media posts</p><p>When Tom Honeyands realised he had been defrauded out of £70,000 he was furious and embarrassed – and left wondering if he had given away too many details on his social media vidoes.</p><p>Honeyands was on a work trip to Tokyo when he got a call from someone claiming to be from Lloyds bank. The caller asked if he had made a recent transaction in Singapore and when he said no, the scammer said his account had been compromised and that security details needed to be reset.</p> <a href=\"https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call\">Continue reading...</a>",
+    "summary": "<p>After falling for a scam call, ‘The Tech Chap’ host Tom Honeyands realised he’d given away vital details in social media posts</p><p>When Tom Honeyands realised he had been defrauded out of £70,000 he was furious and embarrassed – and left wondering if he had given away too many details on his social media videos.</p><p>Honeyands was on a work trip to Tokyo when he got a call from someone claiming to be from Lloyds bank. The caller asked if he had made a recent transaction in Singapore and when he said no, the scammer said his account had been compromised and that security details needed to be reset.</p> <a href=\"https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call\">Continue reading...</a>",
     "author": "Shane Hickey",
     "published": "Sun, 14 Jun 2026 06:00:36 GMT",
     "tags": [
@@ -1311,52 +1348,6 @@
       "University of the Arts London",
       "Education",
       "Research"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "UK parents support an under-16 social media ban – but what do their children think?",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/13/parents-teenagers-children-under-16-social-media-ban-tiktok-instagram",
-    "summary": "<p>These young people recognise dangers of ‘addictive’ social media but have differing views on a total crackdown</p><p>Nine in 10 parents in the UK support an under-16 social media ban, but the feeling among the children it would affect is more mixed. Or at least it is for a group of 10 preteens and teenagers who talked to the Guardian at a location in west London this week.</p><p>The 12- to 16-year-olds were well versed in the debate, with a set of views ranging from mandatory time limits to tougher controls and a full ban for under-16s. All those options have been <a href=\"https://www.theguardian.com/uk-news/2026/may/05/how-uk-may-restrict-social-media-under-16s-time-limits-curfews-ban\">under consideration</a> in a government consultation on children’s online safety that is due to deliver an outcome next week, with an under-16 age limit expected for “high-risk” platforms, and restrictions on features such as livestreaming for others.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jun/13/parents-teenagers-children-under-16-social-media-ban-tiktok-instagram\">Continue reading...</a>",
-    "author": "Dan Milmo Global technology editor",
-    "published": "Sat, 13 Jun 2026 06:00:06 GMT",
-    "tags": [
-      "Social media ban",
-      "Social media",
-      "Digital media",
-      "Internet safety",
-      "Children",
-      "TikTok",
-      "Instagram",
-      "Snapchat",
-      "Media",
-      "UK news",
-      "Society",
-      "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/13/online-racism-mental-health-first-nations-australians-social-media-ntwnfb",
-    "summary": "<p>Australian Human Rights Commission has called for a digital duty of care to prevent social media algorithms from incentivising ‘racist’ content</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>For the past week and half, the social media feeds of many Aboriginal and Torres Strait Islander people have been flooded with clips from the same video, posted by a self-declared Australian comedian.</p><p>This video shows a white woman wearing a fur coat with white dot painting on her face. She refers to herself as “Aunty Lisa”, and claims that she is Aboriginal, after ticking yes on an Aboriginal identity form. At the end of the video, she says, “I am Aboriginal, end of story”, before sniffing a red jerry can, in an apparent reference to petrol sniffing, a serious issue affecting some Indigenous communities.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/13/online-racism-mental-health-first-nations-australians-social-media-ntwnfb\">Continue reading...</a>",
-    "author": "Douglas Smith and Sarah Collard",
-    "published": "Fri, 12 Jun 2026 15:00:50 GMT",
-    "tags": [
-      "Indigenous Australians",
-      "Australia news",
-      "Social media",
-      "Victoria",
-      "Digital media",
-      "Mental health",
-      "Instagram",
-      "Facebook",
-      "TikTok",
-      "Race",
-      "Meta",
-      "Technology"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1473,22 +1464,6 @@
     "module": "应用落地"
   },
   {
-    "title": "‘The enormity of the idea helped me’: how Patrick Gibson became gaming’s new James Bond",
-    "link": "https://www.theguardian.com/games/2026/jun/10/patrick-gibson-gamings-new-james-bond-007-first-light",
-    "summary": "<p>As Hollywood searches for its next iteration of the superspy, the actor explains how he earned pop culture’s most sought-after role – and how he’s taking 007 back to basics</p><ul><li><p><a href=\"https://www.guardian.co.uk/games/2026/jun/10/they-expect-you-to-die-the-history-of-james-bond-video-games-from-the-good-to-the-bad-to-the-downright-ugly\">They expect you to die! The history of Bond in video games, from the good to the bad</a></p></li></ul><p>Is any acting gig more contested than James Bond? Each week seems to bring a din of audition speculation so loud that it must be exhausting for the Elordis, Cavills and Dickinsons who are at the centre of it all. But when one of them does finally bag the role, perhaps they should seek the counsel of the actor who has quietly played the part for the last five years: Patrick Gibson. He’s the star of 007 First Light, the video game that has sold <a href=\"https://www.gamesindustry.biz/007-first-light-officially-sells-27-million-copies-probably-at-three-million\">2.7m copies</a> since it was released two weeks ago.</p><p>As a computerised Bond, Gibson is the first video game actor to lend both his voice and likeness to the role. With endorsement from both Amazon MGM and previous brand guardians Eon there’s a case to be made that he is the seventh official Bond (and the second Irish one). Not that he knew this when submitting a self-tape to Danish developers IO Interactive. “There was talk of martinis in the audition sides that gave me an inkling,” says Gibson. “Although at that point I didn’t believe there was any way it could be that.”</p> <a href=\"https://www.theguardian.com/games/2026/jun/10/patrick-gibson-gamings-new-james-bond-007-first-light\">Continue reading...</a>",
-    "author": "Matthew Castle",
-    "published": "Wed, 10 Jun 2026 11:00:19 GMT",
-    "tags": [
-      "Games",
-      "Culture",
-      "James Bond",
-      "Action games",
-      "Adventure games"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
     "title": "They expect you to die! The history of James Bond video games, from the good to the bad to the downright ugly",
     "link": "https://www.theguardian.com/games/2026/jun/10/they-expect-you-to-die-the-history-of-james-bond-video-games-from-the-good-to-the-bad-to-the-downright-ugly",
     "summary": "<p>Interactive takes on MI6’s globetrotting spy have been around almost as long as the films, but that doesn’t mean all of them were a success. Here’s 007’s chequered past of hits, flops and oddities</p><ul><li><p><a href=\"https://www.guardian.co.uk/games/2026/jun/10/patrick-gibson-gamings-new-james-bond-007-first-light\">‘The enormity of the idea helped me’: how Patrick Gibson became gaming’s new James Bond</a></p></li></ul><p>Bond finally arrived in an official video game capacity in 1984, courtesy of Parker Brothers. The game grouped several 007 adventures (Diamonds Are Forever, The Spy Who Loved Me, Moonraker and For Your Eyes Only) together. Yet despite including elements from each movie, it was essentially the same game throughout: an unsatisfying and tricky mashup of the arcade games Moon Patrol and Scramble, with the player controlling Bond’s amphibious Lotus from The Spy Who Loved Me. Obscure pub trivia fact: due to the dispute between Bond producers Eon and screenwriter Kevin McClory, the Diamonds Are Forever segment replaced Blofeld with a villain named Seraffino.</p> <a href=\"https://www.theguardian.com/games/2026/jun/10/they-expect-you-to-die-the-history-of-james-bond-video-games-from-the-good-to-the-bad-to-the-downright-ugly\">Continue reading...</a>",
@@ -1501,6 +1476,22 @@
       "GoldenEye",
       "Casino Royale",
       "Quantum of Solace"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "‘The enormity of the idea helped me’: how Patrick Gibson became gaming’s new James Bond",
+    "link": "https://www.theguardian.com/games/2026/jun/10/patrick-gibson-gamings-new-james-bond-007-first-light",
+    "summary": "<p>As Hollywood searches for its next iteration of the superspy, the actor explains how he earned pop culture’s most sought-after role – and how he’s taking 007 back to basics</p><ul><li><p><a href=\"https://www.guardian.co.uk/games/2026/jun/10/they-expect-you-to-die-the-history-of-james-bond-video-games-from-the-good-to-the-bad-to-the-downright-ugly\">They expect you to die! The history of Bond in video games, from the good to the bad</a></p></li></ul><p>Is any acting gig more contested than James Bond? Each week seems to bring a din of audition speculation so loud that it must be exhausting for the Elordis, Cavills and Dickinsons who are at the centre of it all. But when one of them does finally bag the role, perhaps they should seek the counsel of the actor who has quietly played the part for the last five years: Patrick Gibson. He’s the star of 007 First Light, the video game that has sold <a href=\"https://www.gamesindustry.biz/007-first-light-officially-sells-27-million-copies-probably-at-three-million\">2.7m copies</a> since it was released two weeks ago.</p><p>As a computerised Bond, Gibson is the first video game actor to lend both his voice and likeness to the role. With endorsement from both Amazon MGM and previous brand guardians Eon there’s a case to be made that he is the seventh official Bond (and the second Irish one). Not that he knew this when submitting a self-tape to Danish developers IO Interactive. “There was talk of martinis in the audition sides that gave me an inkling,” says Gibson. “Although at that point I didn’t believe there was any way it could be that.”</p> <a href=\"https://www.theguardian.com/games/2026/jun/10/patrick-gibson-gamings-new-james-bond-007-first-light\">Continue reading...</a>",
+    "author": "Matthew Castle",
+    "published": "Wed, 10 Jun 2026 11:00:19 GMT",
+    "tags": [
+      "Games",
+      "Culture",
+      "James Bond",
+      "Action games",
+      "Adventure games"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -2467,6 +2458,46 @@
     "module": "应用落地"
   },
   {
+    "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+    "link": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+    "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 12:30:48 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "3 telltale signs someone is stealing your Wi-Fi - and how to stop them",
+    "link": "https://www.zdnet.com/article/signs-someone-is-using-your-wi-fi-how-to-kick-them-off/",
+    "summary": "If you suspect someone may be on your Wi-Fi network without your permission, here's what you can do to get to the bottom of it.",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 12:01:03 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Most drivers overlook these 6 Android Auto apps - but off-roaders definitely shouldn't",
+    "link": "https://www.zdnet.com/article/6-android-auto-apps-let-explore-the-outdoors/",
+    "summary": "Android Auto isn't just for city streets anymore. Here are the apps that help me get more done when I'm off-road.",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 12:00:47 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "After a month with a foldable phone, I can't justify buying an 'Ultra' model anymore",
+    "link": "https://www.zdnet.com/article/motorolas-razr-plus-is-heavily-underrated/",
+    "summary": "Motorola's Razr+ is not the awkward middle child of its series; it arguably offers the best balance of features, performance, and value.",
+    "author": "",
+    "published": "Sun, 14 Jun 2026 11:00:10 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "This is the most unique Bluetooth tracker I've tested by far - and it outlasts the AirTag",
     "link": "https://www.zdnet.com/article/ugreen-finetrack-2-tracker-tag-review/",
     "summary": "The Ugreen FineTrack 2 has several unique features that make it stand out against Apple's AirTags.",
@@ -2625,46 +2656,6 @@
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "大模型与基础技术"
-  },
-  {
-    "title": "Your iPhone is getting enhanced Bluetooth tracking with iOS 27 - but there's a catch",
-    "link": "https://www.zdnet.com/article/iphone-enhanced-bluetooth-tracking-with-ios-27-theres-a-catch/",
-    "summary": "One less-discussed iOS 27 feature announced at Apple's WWDC is support for Channel Sounding. Look for it whenever you see Bluetooth 6.3 devices.",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 15:37:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How I customized my Android Auto in 7 ways to make it more useful when I'm driving",
-    "link": "https://www.zdnet.com/article/android-auto-6-ways-to-customize/",
-    "summary": "You can customize Android Auto to make it more tailored to your ideal driving experience - all for free.",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 15:10:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Are Facebook and Instagram down? What to know about the Meta outage",
-    "link": "https://www.zdnet.com/article/is-facebook-instagram-messenger-whatsapp-down/",
-    "summary": "Even Messenger and WhatsApp appear to be impacted on Friday morning.",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 15:02:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I use Blink cameras at home, and this 65% off 5-camera bundle is hard to ignore",
-    "link": "https://www.zdnet.com/article/blink-outdoor-4-amazon-prime-day-deal-2026/",
-    "summary": "Amazon Prime Day is coming up, and these five Blink Outdoor 4 security cameras are already on sale for $21 each - the lowest price we've ever seen.",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 14:59:02 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
   },
   {
     "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
@@ -3008,6 +2999,18 @@
     "module": "应用落地"
   },
   {
+    "title": "Apple TV 4K multiview: How to watch four live sports feeds at once",
+    "link": "https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/",
+    "summary": "Our expert sports fan made a detailed guide on what sports you can watch on Apple TV in multiview and how to do so. Plus, some tips for non-Apple TV users too.",
+    "author": "staff@engadget.com (Billy Steele)",
+    "published": "Sun, 14 Jun 2026 13:30:00 +0000",
+    "tags": [
+      "Streaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Apple Watch alternatives that will last for 7 days on a charge",
     "link": "https://www.engadget.com/2192635/apple-watch-alternatives-7-day-battery/",
     "summary": "Here are some wearables that will last longer than a mere two days while offering some of the features you might be looking for.",
@@ -3230,18 +3233,6 @@
     "summary": "The finance world is excited for SpaceX's IPO, but how can you square that with Elon Musk's ongoing racism?",
     "author": "staff@engadget.com (Devindra Hardawar)",
     "published": "Fri, 12 Jun 2026 13:27:38 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Gemini can now adjust your picture settings on Google TV",
-    "link": "https://www.engadget.com/2192907/gemini-can-now-adjust-your-picture-settings-on-google-tv/",
-    "summary": "Gemini can - at least on some TCL models - adjust your TV's picture settings.",
-    "author": "staff@engadget.com (Matt Tate)",
-    "published": "Fri, 12 Jun 2026 12:38:12 +0000",
     "tags": [
       "News"
     ],
@@ -5389,16 +5380,6 @@
     "module": "应用落地"
   },
   {
-    "title": "The Role of Artificial Intelligence Technologies in Crisis Response",
-    "link": "https://arxiv.org/abs/0806.1280v1",
-    "summary": "Crisis response poses many of the most difficult information technology in crisis management. It requires information and communication-intensive efforts, utilized for reducing uncertainty, calculating and comparing costs and benefits, and managing resources in a fashion beyond those regularly available to handle routine problems. In this paper, we explore the benefits of artificial intelligence technologies in crisis response. This paper discusses the role of artificial intelligence technologies; namely, robotics, ontology and semantic web, and multi-agent systems in crisis response.",
-    "author": "Khaled M. Khalil, M. Abdel-Aziz, Taymour T. Nazmy, Abdel-Badeeh M. Salem",
-    "published": "2008-06-07T12:46:56Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "The Opaque Law of Artificial Intelligence",
     "link": "https://arxiv.org/abs/2310.13192v3",
     "summary": "The purpose of this paper is to analyse the opacity of algorithms, contextualized in the open debate on responsibility for artificial intelligence causation; with an experimental approach by which, applying the proposed conversational methodology of the Turing Test, we expect to evaluate the performance of one of the best existing NLP model of generative AI (Chat-GPT) to see how far it can go right now and how the shape of a legal regulation of it could be. The analysis of the problem will be supported by a comment of Italian classical law categories such as causality, intent and fault to understand the problem of the usage of AI, focusing in particular on the human-machine interaction. On the computer science side, for a technical point of view of the logic used to craft these algorithms, in the second chapter will be proposed a practical interrogation of Chat-GPT aimed at finding some critical points of the functioning of AI. The end of the paper will concentrate on some existing legal solutions which can be applied to the problem, plus a brief description of the approach proposed by EU Artificial Intelligence act.",
@@ -5407,6 +5388,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "The Role of Artificial Intelligence Technologies in Crisis Response",
+    "link": "https://arxiv.org/abs/0806.1280v1",
+    "summary": "Crisis response poses many of the most difficult information technology in crisis management. It requires information and communication-intensive efforts, utilized for reducing uncertainty, calculating and comparing costs and benefits, and managing resources in a fashion beyond those regularly available to handle routine problems. In this paper, we explore the benefits of artificial intelligence technologies in crisis response. This paper discusses the role of artificial intelligence technologies; namely, robotics, ontology and semantic web, and multi-agent systems in crisis response.",
+    "author": "Khaled M. Khalil, M. Abdel-Aziz, Taymour T. Nazmy, Abdel-Badeeh M. Salem",
+    "published": "2008-06-07T12:46:56Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Questions to Guide the Future of Artificial Intelligence Research",
@@ -5559,11 +5550,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Cooperative Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2202.09859v1",
-    "summary": "In the future, artificial learning agents are likely to become increasingly widespread in our society. They will interact with both other learning agents and humans in a variety of complex settings including social dilemmas. We argue that there is a need for research on the intersection between game theory and artificial intelligence, with the goal of achieving cooperative artificial intelligence that can navigate social dilemmas well. We consider the problem of how an external agent can promote cooperation between artificial learners by distributing additional rewards and punishments based on observing the actions of the learners. We propose a rule for automatically learning how to create the right incentives by considering the anticipated parameter updates of each agent. Using this learning rule leads to cooperation with high social welfare in matrix games in which the agents would otherwise learn to defect with high probability. We show that the resulting cooperative outcome is stable in certain games even if the planning agent is turned off after a given number of episodes, while other games require ongoing intervention to maintain mutual cooperation. Finally, we reflect on what the goals of multi-agent reinforcement learning should be in the first place, and discuss the necessary building blocks towards the goal of building cooperative AI.",
-    "author": "Tobias Baumann",
-    "published": "2022-02-20T16:50:37Z",
+    "title": "Dynamic Cognition Applied to Value Learning in Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2005.05538v6",
+    "summary": "Experts in Artificial Intelligence (AI) development predict that advances in the development of intelligent systems and agents will reshape vital areas in our society. Nevertheless, if such an advance isn't done with prudence, it can result in negative outcomes for humanity. For this reason, several researchers in the area are trying to develop a robust, beneficial, and safe concept of artificial intelligence. Currently, several of the open problems in the field of AI research arise from the difficulty of avoiding unwanted behaviors of intelligent agents, and at the same time specifying what we want such systems to do. It is of utmost importance that artificial intelligent agents have their values aligned with human values, given the fact that we cannot expect an AI to develop our moral preferences simply because of its intelligence, as discussed in the Orthogonality Thesis. Perhaps this difficulty comes from the way we are addressing the problem of expressing objectives, values, and ends, using representational cognitive methods. A solution to this problem would be the dynamic cognitive approach proposed by Dreyfus, whose phenomenological philosophy defends that the human experience of being-in-the-world cannot be represented by the symbolic or connectionist cognitive methods. A possible approach to this problem would be to use theoretical models such as SED (situated embodied dynamics) to address the values learning problem in AI.",
+    "author": "Nythamar de Oliveira, Nicholas Kluge Corrêa",
+    "published": "2020-05-12T03:58:52Z",
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
@@ -5579,24 +5570,14 @@
     "module": "应用落地"
   },
   {
-    "title": "Dynamic Cognition Applied to Value Learning in Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2005.05538v6",
-    "summary": "Experts in Artificial Intelligence (AI) development predict that advances in the development of intelligent systems and agents will reshape vital areas in our society. Nevertheless, if such an advance isn't done with prudence, it can result in negative outcomes for humanity. For this reason, several researchers in the area are trying to develop a robust, beneficial, and safe concept of artificial intelligence. Currently, several of the open problems in the field of AI research arise from the difficulty of avoiding unwanted behaviors of intelligent agents, and at the same time specifying what we want such systems to do. It is of utmost importance that artificial intelligent agents have their values aligned with human values, given the fact that we cannot expect an AI to develop our moral preferences simply because of its intelligence, as discussed in the Orthogonality Thesis. Perhaps this difficulty comes from the way we are addressing the problem of expressing objectives, values, and ends, using representational cognitive methods. A solution to this problem would be the dynamic cognitive approach proposed by Dreyfus, whose phenomenological philosophy defends that the human experience of being-in-the-world cannot be represented by the symbolic or connectionist cognitive methods. A possible approach to this problem would be to use theoretical models such as SED (situated embodied dynamics) to address the values learning problem in AI.",
-    "author": "Nythamar de Oliveira, Nicholas Kluge Corrêa",
-    "published": "2020-05-12T03:58:52Z",
+    "title": "Cooperative Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2202.09859v1",
+    "summary": "In the future, artificial learning agents are likely to become increasingly widespread in our society. They will interact with both other learning agents and humans in a variety of complex settings including social dilemmas. We argue that there is a need for research on the intersection between game theory and artificial intelligence, with the goal of achieving cooperative artificial intelligence that can navigate social dilemmas well. We consider the problem of how an external agent can promote cooperation between artificial learners by distributing additional rewards and punishments based on observing the actions of the learners. We propose a rule for automatically learning how to create the right incentives by considering the anticipated parameter updates of each agent. Using this learning rule leads to cooperation with high social welfare in matrix games in which the agents would otherwise learn to defect with high probability. We show that the resulting cooperative outcome is stable in certain games even if the planning agent is turned off after a given number of episodes, while other games require ongoing intervention to maintain mutual cooperation. Finally, we reflect on what the goals of multi-agent reinforcement learning should be in the first place, and discuss the necessary building blocks towards the goal of building cooperative AI.",
+    "author": "Tobias Baumann",
+    "published": "2022-02-20T16:50:37Z",
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
-  },
-  {
-    "title": "Using Side Channel Information and Artificial Intelligence for Malware Detection",
-    "link": "https://arxiv.org/abs/2012.03750v1",
-    "summary": "Cybersecurity continues to be a difficult issue for society especially as the number of networked systems grows. Techniques to protect these systems range from rules-based to artificial intelligence-based intrusion detection systems and anti-virus tools. These systems rely upon the information contained in the network packets and download executables to function. Side channel information leaked from hardware has been shown to reveal secret information in systems such as encryption keys. This work demonstrates that side channel information can be used to detect malware running on a computing platform without access to the code involved.",
-    "author": "Paul Maxwell, David Niblick, Daniel C. Ruiz",
-    "published": "2020-12-03T18:38:53Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
   },
   {
     "title": "The Virtual Doctor: An Interactive Artificial Intelligence based on Deep Learning for Non-Invasive Prediction of Diabetes",
@@ -5617,6 +5598,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
+  },
+  {
+    "title": "Using Side Channel Information and Artificial Intelligence for Malware Detection",
+    "link": "https://arxiv.org/abs/2012.03750v1",
+    "summary": "Cybersecurity continues to be a difficult issue for society especially as the number of networked systems grows. Techniques to protect these systems range from rules-based to artificial intelligence-based intrusion detection systems and anti-virus tools. These systems rely upon the information contained in the network packets and download executables to function. Side channel information leaked from hardware has been shown to reveal secret information in systems such as encryption keys. This work demonstrates that side channel information can be used to detect malware running on a computing platform without access to the code involved.",
+    "author": "Paul Maxwell, David Niblick, Daniel C. Ruiz",
+    "published": "2020-12-03T18:38:53Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "To Root Artificial Intelligence Deeply in Basic Science for a New Generation of AI",
@@ -6019,21 +6010,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
-    "link": "https://arxiv.org/abs/1304.3852v1",
-    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
-    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
-    "published": "2013-04-13T21:10:50Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Explainable Artificial Intelligence Approaches: A Survey",
     "link": "https://arxiv.org/abs/2101.09429v1",
     "summary": "The lack of explainability of a decision from an Artificial Intelligence (AI) based \"black box\" system/model, despite its superiority in many real-world applications, is a key stumbling block for adopting AI in many high stakes applications of different domain or industry. While many popular Explainable Artificial Intelligence (XAI) methods or approaches are available to facilitate a human-friendly explanation of the decision, each has its own merits and demerits, with a plethora of open challenges. We demonstrate popular XAI methods with a mutual case study/task (i.e., credit default prediction), analyze for competitive advantages from multiple perspectives (e.g., local, global), provide meaningful insight on quantifying explainability, and recommend paths towards responsible or human-centered AI using XAI as a medium. Practitioners can use this work as a catalog to understand, compare, and correlate competitive advantages of popular XAI methods. In addition, this survey elicits future research directions towards responsible or human-centric AI systems, which is crucial to adopt AI in high stakes applications.",
     "author": "Sheikh Rabiul Islam, William Eberle, Sheikh Khaled Ghafoor, Mohiuddin Ahmed",
     "published": "2021-01-23T06:15:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
+    "link": "https://arxiv.org/abs/1304.3852v1",
+    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
+    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
+    "published": "2013-04-13T21:10:50Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -6149,11 +6140,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Intelligent Human Machine Interface Design for Advanced Product Life Cycle Management Systems",
-    "link": "https://arxiv.org/abs/1008.1338v1",
-    "summary": "Designing and implementing an intelligent and user friendly human machine interface for any kind of software or hardware oriented application is always be a challenging task for the designers and developers because it is very difficult to understand the psychology of the user, nature of the work and best suit of the environment. This research paper is basically about to propose an intelligent, flexible and user friendly machine interface for Product Life Cycle Management products or PDM Systems since studies show that usability and human computer interaction issues are a major cause of acceptance problems introducing or using such systems. Going into details of the proposition, we present prototype implementations about theme based on design requirements, designed designs and technologies involved for the development of human machine interface.",
-    "author": "Zeeshan Ahmed",
-    "published": "2010-08-07T12:58:13Z",
+    "title": "2021 Drexel Society of Artificial Intelligence Research Conference",
+    "link": "https://arxiv.org/abs/2110.05263v3",
+    "summary": "The 2021 Drexel Society of Artificial Intelligence Research Conference highlights papers focused on a broad set of papers in machine learning. This was our organizations' first annual conference. It was conducted virtually via Zoom. The highlights are currently posted on YouTube.",
+    "author": "Ethan Jacob Moyer, Yigit Can Alparslan",
+    "published": "2021-08-25T14:59:56Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
