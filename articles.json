@@ -470,6 +470,51 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Facebook’s new AI Mode search gets its info from public posts",
+    "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-06-15T17:15:08-04:00",
+    "tags": [
+      "AI",
+      "Facebook",
+      "Meta",
+      "News",
+      "Social Media",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Xbox is closing down Hellblade creator Ninja Theory",
+    "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+    "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Compulsion Games and Double Fine, are in [&#8230;]",
+    "author": "Tom Warren",
+    "published": "2026-06-15T17:13:35-04:00",
+    "tags": [
+      "Gaming",
+      "News",
+      "Xbox"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Fox wants to take over your TV — and the tech inside it",
+    "link": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+    "summary": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into services like Netflix, Disney Plus, Hulu, and more. The $22 billion deal may not change Roku's familiar purple interface, [&#8230;]",
+    "author": "Emma Roth",
+    "published": "2026-06-15T16:04:29-04:00",
+    "tags": [
+      "Entertainment",
+      "Report",
+      "Streaming"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Amazon&#8217;s Smart Thermostat is on sale for just $58",
     "link": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
     "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It&#8217;s down to just $57.99 at Amazon as a part of Amazon’s early Prime Day sale, which is the best price we’ve seen since Black [&#8230;]",
@@ -576,50 +621,6 @@
       "Gaming",
       "News",
       "Xbox"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Roblox exec says ticking a box for age verification is &#8216;not enough anymore&#8217;",
-    "link": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-    "summary": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC invited a group of kids to try out Roblox's new video selfie [&#8230;]",
-    "author": "Stevie Bonifield",
-    "published": "2026-06-15T11:52:17-04:00",
-    "tags": [
-      "Gaming",
-      "News",
-      "PC Gaming",
-      "Privacy",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "My favorite Qi2 power bank is cheaper than ever for Verge readers",
-    "link": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
-    "summary": "I recently published a buying guide on the best Qi2 power banks. Out of seven feature-packed batteries, I really dug the Baseus AM52 10,000mAh power bank that has a built-in USB-C cable. It’s fast at Qi2.2 wireless charging for iPhones, and it’s quick with wired charging, too. And now, it’s an unbeatable value thanks to [&#8230;]",
-    "author": "Cameron Faulkner",
-    "published": "2026-06-15T10:39:24-04:00",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Verge’s Father’s Day 2026 gift guide",
-    "link": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
-    "summary": "With Father's Day on the horizon, happening June 21st, it's time to start thinking about what kind of gifts you want to buy for the fathers you care about. You know your dad best - he may be a man of simple pleasures who wants nothing more than to share a meal or drinks with [&#8230;]",
-    "author": "Cameron Faulkner",
-    "published": "2026-06-15T10:23:21-04:00",
-    "tags": [
-      "Gadgets",
-      "Gift Guides",
-      "Verge Shopping"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -760,11 +761,51 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "A backdoor in a LinkedIn job offer",
+    "link": "https://roman.pt/posts/linkedin-backdoor/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546294\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 20:00:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "US battery manufacturing output continues to break records",
+    "link": "https://fred.stlouisfed.org/series/IPG33591S",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546616\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 20:28:24 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Iroh 1.0",
     "link": "https://www.iroh.computer/blog/v1",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48542480\">Comments</a>",
     "author": "",
     "published": "Mon, 15 Jun 2026 15:13:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Techno-libertarians are flocking to the Caribbean",
+    "link": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547271\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 21:30:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I Love the Computer",
+    "link": "https://michaelenger.com/blog/i-love-the-computer/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546441\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 20:14:15 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -790,31 +831,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Typst 0.15.0",
-    "link": "https://typst.app/docs/changelog/0.15.0/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544396\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 17:24:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "My Homelab AI Dev Platform",
     "link": "https://rsgm.dev/post/ai-dev-platform/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48542433\">Comments</a>",
     "author": "",
     "published": "Mon, 15 Jun 2026 15:09:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How TimescaleDB compresses time-series data",
-    "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544451\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 17:29:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -830,6 +851,36 @@
     "module": "应用落地"
   },
   {
+    "title": "Hetzner Price Adjustment",
+    "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48540844\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 13:19:39 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Dead Economy Theory",
+    "link": "https://gmalandrakis.com/writings/ad-economicum.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547062\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 21:10:36 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How TimescaleDB compresses time-series data",
+    "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544451\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 17:29:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
     "link": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48503509\">Comments</a>",
@@ -840,11 +891,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Hetzner Price Adjustment",
-    "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48540844\">Comments</a>",
+    "title": "What every coder should know about Gamma Correction",
+    "link": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48521925\">Comments</a>",
     "author": "",
-    "published": "Mon, 15 Jun 2026 13:19:39 +0000",
+    "published": "Sat, 13 Jun 2026 22:01:29 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+    "link": "https://grassdx.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544823\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 17:56:00 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -860,16 +921,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Making glass-to-metal seals for home­made vacuum tubes",
-    "link": "https://maurycyz.com/projects/glass/1/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48528587\">Comments</a>",
-    "author": "",
-    "published": "Sun, 14 Jun 2026 15:52:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Fox to buy Roku",
     "link": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48540499\">Comments</a>",
@@ -880,31 +931,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-    "link": "https://news.ycombinator.com/item?id=48543908",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543908\">Comments</a>",
+    "title": "Making glass-to-metal seals for home­made vacuum tubes",
+    "link": "https://maurycyz.com/projects/glass/1/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48528587\">Comments</a>",
     "author": "",
-    "published": "Mon, 15 Jun 2026 16:47:21 +0000",
+    "published": "Sun, 14 Jun 2026 15:52:09 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Claude Corps",
-    "link": "https://www.anthropic.com/news/claude-corps",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544637\">Comments</a>",
+    "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive",
+    "link": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48520793\">Comments</a>",
     "author": "",
-    "published": "Mon, 15 Jun 2026 17:41:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Boot Naked Linux",
-    "link": "https://nick.zoic.org/art/boot-naked-linux/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543269\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 16:03:26 +0000",
+    "published": "Sat, 13 Jun 2026 19:53:41 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -920,11 +961,71 @@
     "module": "前沿探索"
   },
   {
-    "title": "Your ePub Is fine",
-    "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>",
+    "title": "Why I Email Complete Strangers",
+    "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48547566\">Comments</a>",
     "author": "",
-    "published": "Sun, 14 Jun 2026 22:54:55 +0000",
+    "published": "Mon, 15 Jun 2026 21:57:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What job interviews taught me about Kubernetes",
+    "link": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546428\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 20:12:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How memory safety CVEs differ between Rust and C/C++",
+    "link": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543392\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 16:11:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Boot Naked Linux",
+    "link": "https://nick.zoic.org/art/boot-naked-linux/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543269\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 16:03:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A calculator that doesn't round",
+    "link": "https://constructive-calculator.dimview.org/writeup.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506023\">Comments</a>",
+    "author": "",
+    "published": "Fri, 12 Jun 2026 16:18:20 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+    "link": "https://news.ycombinator.com/item?id=48543908",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48543908\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 16:47:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Typst 0.15.0",
+    "link": "https://typst.app/docs/changelog/0.15.0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48544396\">Comments</a>",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 17:24:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -940,11 +1041,11 @@
     "module": "应用落地"
   },
   {
-    "title": "CrankGPT",
-    "link": "https://crankgpt.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48540854\">Comments</a>",
+    "title": "Commander Keen Games (free book)",
+    "link": "https://forgottenbytes.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48546648\">Comments</a>",
     "author": "",
-    "published": "Mon, 15 Jun 2026 13:20:13 +0000",
+    "published": "Mon, 15 Jun 2026 20:30:37 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -955,106 +1056,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48543245\">Comments</a>",
     "author": "",
     "published": "Mon, 15 Jun 2026 16:01:43 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Can Europe train a frontier AI model on the compute it owns?",
-    "link": "https://github.com/sammysltd/euromesh",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48541014\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 13:31:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Around 200 Stanford students walk out as Google CEO takes stage",
-    "link": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48545260\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 18:34:14 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Openrouter Fusion API",
-    "link": "https://openrouter.ai/openrouter/fusion",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48537641\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 07:10:57 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
-    "link": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48485527\">Comments</a>",
-    "author": "",
-    "published": "Thu, 11 Jun 2026 02:22:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Even more batteries included with Emacs",
-    "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48535886\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 02:30:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Alaska Server",
-    "link": "https://serialport.org/blog/the-alaska-server/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48545293\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 18:37:27 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
-    "link": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48537512\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 06:52:21 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-    "link": "https://v1c.rocks/log/exploiting-slack-video/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48542970\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 15:43:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
-    "link": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48537556\">Comments</a>",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 07:00:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ported my C game to WASM, here's every bug that I hit",
-    "link": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48506980\">Comments</a>",
-    "author": "",
-    "published": "Fri, 12 Jun 2026 17:30:57 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1757,8 +1758,8 @@
     "title": "SpaceX’s Stock Surges on First Full Day of Trading",
     "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
     "summary": "The company’s shares jumped on Monday, and executives announced that they had raised even more money in an already record-breaking initial offering.",
-    "author": "Lauren McCarthy and Ryan Mac",
-    "published": "Mon, 15 Jun 2026 18:51:05 +0000",
+    "author": "Lauren McCarthy, Ryan Mac and Joe Rennison",
+    "published": "Mon, 15 Jun 2026 20:24:46 +0000",
     "tags": [
       "Initial Public Offerings",
       "Artificial Intelligence",
@@ -2366,56 +2367,13 @@
     "module": "应用落地"
   },
   {
-    "title": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
-    "link": "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html",
-    "summary": "The company hopes to raise billions in a highly anticipated public offering that could unlock a new generation of tech industry wealth.",
-    "author": "Cade Metz",
-    "published": "Mon, 08 Jun 2026 21:58:32 +0000",
-    "tags": [
-      "OpenAI Labs",
-      "Artificial Intelligence",
-      "Initial Public Offerings",
-      "Anthropic AI LLC",
-      "Space Exploration Technologies Corp"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant",
-    "link": "https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html",
-    "summary": "The iPhone maker revealed its new artificial intelligence products at its developer conference, the last with Tim Cook as chief executive.",
-    "author": "Kalley Huang",
-    "published": "Mon, 08 Jun 2026 20:46:39 +0000",
-    "tags": [
-      "Apple Inc",
-      "iPhone",
-      "Artificial Intelligence",
-      "Cook, Timothy D",
-      "Computers and the Internet",
-      "Cloud Computing",
-      "Google Inc"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sam Bankman-Fried Has Applied for a Pardon From Trump",
-    "link": "https://www.nytimes.com/2026/06/08/technology/sam-bankman-fried-pardon-trump.html",
-    "summary": "Mr. Bankman-Fried is serving a 25-year prison sentence for fraud related to the collapse of his cryptocurrency exchange, FTX.",
-    "author": "David McCabe",
-    "published": "Mon, 08 Jun 2026 21:31:25 +0000",
-    "tags": [
-      "Bankman-Fried, Sam",
-      "United States Politics and Government",
-      "Virtual Currency",
-      "HK FTX Trading Ltd (Futures Exchange)",
-      "Amnesties, Commutations and Pardons",
-      "Presidents and Presidency (US)",
-      "Justice Department",
-      "Trump, Donald J"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "iOS 27 envy? 4 features you can already use on an Android phone (including Samsung models)",
+    "link": "https://www.zdnet.com/article/android-has-ios-27-features-but-i-want-these-next/",
+    "summary": "If you're a believer in 'Android had it first,' wait until you see iOS 27.",
+    "author": "",
+    "published": "Mon, 15 Jun 2026 19:57:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
@@ -2599,19 +2557,9 @@
     "module": "应用落地"
   },
   {
-    "title": "Android already has these 4 iOS 27 features - but I wish it'd steal these 2 next",
-    "link": "https://www.zdnet.com/article/android-has-ios-27-features-but-i-want-these-next/",
-    "summary": "If you're a believer in 'Android had it first,' wait until you see iOS 27.",
-    "author": "",
-    "published": "Mon, 15 Jun 2026 13:34:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Windows Subsystem for Linux 3 gives developers a compelling reason to stick with Microsoft - here's why",
+    "title": "Windows Subsystem for Linux gives developers a compelling reason to stick with Microsoft - here's why",
     "link": "https://www.zdnet.com/article/windows-subsystem-for-linux-3-for-developers-sticking-with-microsoft/",
-    "summary": "WSL 3 makes staying on Windows easier, especially for developers building or running Linux-based AI, container, or dev workloads.",
+    "summary": "Changes to WSL make staying on Windows easier, especially for developers building or running Linux-based AI, container, or dev workloads.",
     "author": "",
     "published": "Mon, 15 Jun 2026 13:21:00 GMT",
     "tags": [],
@@ -2963,6 +2911,42 @@
     "module": "应用落地"
   },
   {
+    "title": "Google Earth's flight simulator mode is now available in your browser",
+    "link": "https://www.engadget.com/2194884/google-earths-flight-simulator-mode-is-now-available-in-your-browser/",
+    "summary": "Up, up and away! (Just try not to crash.)",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Mon, 15 Jun 2026 21:50:11 +0000",
+    "tags": [
+      "Google"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Samsung expands its Galaxy Book 6 lineup with a Snapdragon X2 Elite-powered model",
+    "link": "https://www.engadget.com/2194830/samsung-expands-its-galaxy-book-6-lineup-with-a-snapdragon-x2-elite-powered-model/",
+    "summary": "The Galaxy Book 6 Edge comes with 1TB of storage and 16GB of RAM, and it costs $2,100.",
+    "author": "staff@engadget.com (Kris Holt)",
+    "published": "Mon, 15 Jun 2026 20:51:38 +0000",
+    "tags": [
+      "Laptops"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Investigation by The Atlantic reveals many millions of songs used for AI music training",
+    "link": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
+    "summary": "Taylor Swift, Bad Bunny and many, many more artists have had their work fed into AI models.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Mon, 15 Jun 2026 20:24:59 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "基础设施与工具"
+  },
+  {
     "title": "Anthropic hit with lawsuit over its Claude Max usage limits",
     "link": "https://www.engadget.com/2194626/anthropic-hit-with-lawsuit-over-its-claude-max-usage-limits/",
     "summary": "Anthropic is being sued over Claude Max usage limits",
@@ -3169,42 +3153,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Apple TV 4K multiview: How to watch four live sports feeds at once",
-    "link": "https://www.engadget.com/2192442/apple-tv-4k-multiview-sports-live-events/",
-    "summary": "Our expert sports fan made a detailed guide on what sports you can watch on Apple TV in multiview and how to do so. Plus, some tips for non-Apple TV users too.",
-    "author": "staff@engadget.com (Billy Steele)",
-    "published": "Sun, 14 Jun 2026 13:30:00 +0000",
-    "tags": [
-      "Streaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple Watch alternatives that will last for 7 days on a charge",
-    "link": "https://www.engadget.com/2192635/apple-watch-alternatives-7-day-battery/",
-    "summary": "Here are some wearables that will last longer than a mere two days while offering some of the features you might be looking for.",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Sat, 13 Jun 2026 18:30:00 +0000",
-    "tags": [
-      "Wearables"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Creepshow video game is coming out this summer",
-    "link": "https://www.engadget.com/2193718/creepshow-shudder-video-game-adaptation-is-coming-out-this-summer/",
-    "summary": "The point-and-click adventure game based on the horror anthology series arrives in August.",
-    "author": "staff@engadget.com (Cheyenne MacDonald)",
-    "published": "Sat, 13 Jun 2026 16:26:56 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
     "link": "https://arxiv.org/abs/2110.01831v1",
     "summary": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
@@ -3375,16 +3323,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
-    "link": "https://arxiv.org/abs/2310.09243v1",
-    "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
-    "author": "Pirouz Nourian, Shervin Azadi, Roy Uijtendaal, Nan Bai",
-    "published": "2023-10-13T16:47:35Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Bias Amplification in Artificial Intelligence Systems",
     "link": "https://arxiv.org/abs/1809.07842v1",
     "summary": "As Artificial Intelligence (AI) technologies proliferate, concern has centered around the long-term dangers of job loss or threats of machines causing harm to humans. All of this concern, however, detracts from the more pertinent and already existing threats posed by AI today: its ability to amplify bias found in training datasets, and swiftly impact marginalized populations at scale. Government and public sector institutions have a responsibility to citizens to establish a dialogue with technology developers and release thoughtful policy around data standards to ensure diverse representation in datasets to prevent bias amplification and ensure that AI systems are built with inclusion in mind.",
@@ -3393,6 +3331,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "基础设施与工具"
+  },
+  {
+    "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
+    "link": "https://arxiv.org/abs/2310.09243v1",
+    "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
+    "author": "Pirouz Nourian, Shervin Azadi, Roy Uijtendaal, Nan Bai",
+    "published": "2023-10-13T16:47:35Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Conceptual Modeling and Artificial Intelligence: Mutual Benefits from Complementary Worlds",
@@ -5295,16 +5243,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
-    "link": "https://arxiv.org/abs/1807.08195v1",
-    "summary": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored.",
-    "author": "Bo Xing, Tshilidzi Marwala",
-    "published": "2018-07-21T19:37:25Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Artificial Intelligence Techniques for Steam Generator Modelling",
     "link": "https://arxiv.org/abs/0811.1711v1",
     "summary": "This paper investigates the use of different Artificial Intelligence methods to predict the values of several continuous variables from a Steam Generator. The objective was to determine how the different artificial intelligence methods performed in making predictions on the given dataset. The artificial intelligence methods evaluated were Neural Networks, Support Vector Machines, and Adaptive Neuro-Fuzzy Inference Systems. The types of neural networks investigated were Multi-Layer Perceptions, and Radial Basis Function. Bayesian and committee techniques were applied to these neural networks. Each of the AI methods considered was simulated in Matlab. The results of the simulations showed that all the AI methods were capable of predicting the Steam Generator data reasonably accurately. However, the Adaptive Neuro-Fuzzy Inference system out performed the other methods in terms of accuracy and ease of implementation, while still achieving a fast execution time as well as a reasonable training time.",
@@ -5313,6 +5251,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "基础设施与工具"
+  },
+  {
+    "title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
+    "link": "https://arxiv.org/abs/1807.08195v1",
+    "summary": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored.",
+    "author": "Bo Xing, Tshilidzi Marwala",
+    "published": "2018-07-21T19:37:25Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Evolution of Artificial Intelligent Plane",
@@ -5345,16 +5293,6 @@
     "module": "应用落地"
   },
   {
-    "title": "The Role of Artificial Intelligence Technologies in Crisis Response",
-    "link": "https://arxiv.org/abs/0806.1280v1",
-    "summary": "Crisis response poses many of the most difficult information technology in crisis management. It requires information and communication-intensive efforts, utilized for reducing uncertainty, calculating and comparing costs and benefits, and managing resources in a fashion beyond those regularly available to handle routine problems. In this paper, we explore the benefits of artificial intelligence technologies in crisis response. This paper discusses the role of artificial intelligence technologies; namely, robotics, ontology and semantic web, and multi-agent systems in crisis response.",
-    "author": "Khaled M. Khalil, M. Abdel-Aziz, Taymour T. Nazmy, Abdel-Badeeh M. Salem",
-    "published": "2008-06-07T12:46:56Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "The Opaque Law of Artificial Intelligence",
     "link": "https://arxiv.org/abs/2310.13192v3",
     "summary": "The purpose of this paper is to analyse the opacity of algorithms, contextualized in the open debate on responsibility for artificial intelligence causation; with an experimental approach by which, applying the proposed conversational methodology of the Turing Test, we expect to evaluate the performance of one of the best existing NLP model of generative AI (Chat-GPT) to see how far it can go right now and how the shape of a legal regulation of it could be. The analysis of the problem will be supported by a comment of Italian classical law categories such as causality, intent and fault to understand the problem of the usage of AI, focusing in particular on the human-machine interaction. On the computer science side, for a technical point of view of the logic used to craft these algorithms, in the second chapter will be proposed a practical interrogation of Chat-GPT aimed at finding some critical points of the functioning of AI. The end of the paper will concentrate on some existing legal solutions which can be applied to the problem, plus a brief description of the approach proposed by EU Artificial Intelligence act.",
@@ -5363,6 +5301,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "The Role of Artificial Intelligence Technologies in Crisis Response",
+    "link": "https://arxiv.org/abs/0806.1280v1",
+    "summary": "Crisis response poses many of the most difficult information technology in crisis management. It requires information and communication-intensive efforts, utilized for reducing uncertainty, calculating and comparing costs and benefits, and managing resources in a fashion beyond those regularly available to handle routine problems. In this paper, we explore the benefits of artificial intelligence technologies in crisis response. This paper discusses the role of artificial intelligence technologies; namely, robotics, ontology and semantic web, and multi-agent systems in crisis response.",
+    "author": "Khaled M. Khalil, M. Abdel-Aziz, Taymour T. Nazmy, Abdel-Badeeh M. Salem",
+    "published": "2008-06-07T12:46:56Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Questions to Guide the Future of Artificial Intelligence Research",
@@ -5515,6 +5463,16 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "Dynamic Cognition Applied to Value Learning in Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2005.05538v6",
+    "summary": "Experts in Artificial Intelligence (AI) development predict that advances in the development of intelligent systems and agents will reshape vital areas in our society. Nevertheless, if such an advance isn't done with prudence, it can result in negative outcomes for humanity. For this reason, several researchers in the area are trying to develop a robust, beneficial, and safe concept of artificial intelligence. Currently, several of the open problems in the field of AI research arise from the difficulty of avoiding unwanted behaviors of intelligent agents, and at the same time specifying what we want such systems to do. It is of utmost importance that artificial intelligent agents have their values aligned with human values, given the fact that we cannot expect an AI to develop our moral preferences simply because of its intelligence, as discussed in the Orthogonality Thesis. Perhaps this difficulty comes from the way we are addressing the problem of expressing objectives, values, and ends, using representational cognitive methods. A solution to this problem would be the dynamic cognitive approach proposed by Dreyfus, whose phenomenological philosophy defends that the human experience of being-in-the-world cannot be represented by the symbolic or connectionist cognitive methods. A possible approach to this problem would be to use theoretical models such as SED (situated embodied dynamics) to address the values learning problem in AI.",
+    "author": "Nythamar de Oliveira, Nicholas Kluge Corrêa",
+    "published": "2020-05-12T03:58:52Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Use of Artificial Intelligence Techniques / Applications in Cyber Defense",
     "link": "https://arxiv.org/abs/1905.12556v1",
     "summary": "Nowadays, considering the speed of the processes and the amount of data used in cyber defense, it cannot be expected to have an effective defense by using only human power without the help of automation systems. However, for the effective defense against dynamically evolving attacks on networks, it is difficult to develop software with conventional fixed algorithms. This can be achieved by using artificial intelligence methods that provide flexibility and learning capability. The likelihood of developing cyber defense capabilities through increased intelligence of defense systems is quite high. Given the problems associated with cyber defense in real life, it is clear that many cyber defense problems can be successfully solved only when artificial intelligence methods are used. In this article, the current artificial intelligence practices and techniques are reviewed and the use and importance of artificial intelligence in cyber defense systems is mentioned. The aim of this article is to be able to explain the use of these methods in the field of cyber defense with current examples by considering and analyzing the artificial intelligence technologies and methodologies that are currently being developed and integrating them with the role and adaptation of the technology and methodology in the defense of cyberspace.",
@@ -5535,31 +5493,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Dynamic Cognition Applied to Value Learning in Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2005.05538v6",
-    "summary": "Experts in Artificial Intelligence (AI) development predict that advances in the development of intelligent systems and agents will reshape vital areas in our society. Nevertheless, if such an advance isn't done with prudence, it can result in negative outcomes for humanity. For this reason, several researchers in the area are trying to develop a robust, beneficial, and safe concept of artificial intelligence. Currently, several of the open problems in the field of AI research arise from the difficulty of avoiding unwanted behaviors of intelligent agents, and at the same time specifying what we want such systems to do. It is of utmost importance that artificial intelligent agents have their values aligned with human values, given the fact that we cannot expect an AI to develop our moral preferences simply because of its intelligence, as discussed in the Orthogonality Thesis. Perhaps this difficulty comes from the way we are addressing the problem of expressing objectives, values, and ends, using representational cognitive methods. A solution to this problem would be the dynamic cognitive approach proposed by Dreyfus, whose phenomenological philosophy defends that the human experience of being-in-the-world cannot be represented by the symbolic or connectionist cognitive methods. A possible approach to this problem would be to use theoretical models such as SED (situated embodied dynamics) to address the values learning problem in AI.",
-    "author": "Nythamar de Oliveira, Nicholas Kluge Corrêa",
-    "published": "2020-05-12T03:58:52Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "The Virtual Doctor: An Interactive Artificial Intelligence based on Deep Learning for Non-Invasive Prediction of Diabetes",
     "link": "https://arxiv.org/abs/1903.12069v1",
     "summary": "Artificial intelligence (AI) will pave the way to a new era in medicine. However, currently available AI systems do not interact with a patient, e.g., for anamnesis, and thus are only used by the physicians for predictions in diagnosis or prognosis. However, these systems are widely used, e.g., in diabetes or cancer prediction. In the current study, we developed an AI that is able to interact with a patient (virtual doctor) by using a speech recognition and speech synthesis system and thus can autonomously interact with the patient, which is particularly important for, e.g., rural areas, where the availability of primary medical care is strongly limited by low population densities. As a proof-of-concept, the system is able to predict type 2 diabetes mellitus (T2DM) based on non-invasive sensors and deep neural networks. Moreover, the system provides an easy-to-interpret probability estimation for T2DM for a given patient. Besides the development of the AI, we further analyzed the acceptance of young people for AI in healthcare to estimate the impact of such system in the future.",
     "author": "Sebastian Spänig, Agnes Emberger-Klein, Jan-Peter Sowa, Ali Canbay, Klaus Menrad, Dominik Heider",
     "published": "2019-03-09T13:41:46Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Using Side Channel Information and Artificial Intelligence for Malware Detection",
-    "link": "https://arxiv.org/abs/2012.03750v1",
-    "summary": "Cybersecurity continues to be a difficult issue for society especially as the number of networked systems grows. Techniques to protect these systems range from rules-based to artificial intelligence-based intrusion detection systems and anti-virus tools. These systems rely upon the information contained in the network packets and download executables to function. Side channel information leaked from hardware has been shown to reveal secret information in systems such as encryption keys. This work demonstrates that side channel information can be used to detect malware running on a computing platform without access to the code involved.",
-    "author": "Paul Maxwell, David Niblick, Daniel C. Ruiz",
-    "published": "2020-12-03T18:38:53Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5573,6 +5511,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
+  },
+  {
+    "title": "Using Side Channel Information and Artificial Intelligence for Malware Detection",
+    "link": "https://arxiv.org/abs/2012.03750v1",
+    "summary": "Cybersecurity continues to be a difficult issue for society especially as the number of networked systems grows. Techniques to protect these systems range from rules-based to artificial intelligence-based intrusion detection systems and anti-virus tools. These systems rely upon the information contained in the network packets and download executables to function. Side channel information leaked from hardware has been shown to reveal secret information in systems such as encryption keys. This work demonstrates that side channel information can be used to detect malware running on a computing platform without access to the code involved.",
+    "author": "Paul Maxwell, David Niblick, Daniel C. Ruiz",
+    "published": "2020-12-03T18:38:53Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "To Root Artificial Intelligence Deeply in Basic Science for a New Generation of AI",
@@ -5885,21 +5833,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence (1998)",
-    "link": "https://arxiv.org/abs/1304.3844v2",
-    "summary": "This is the Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence, which was held in Madison, WI, July 24-26, 1998",
-    "author": "Gregory Cooper, Serafin Moral",
-    "published": "2013-04-13T20:34:30Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Diversity and Inclusion in Artificial Intelligence",
     "link": "https://arxiv.org/abs/2305.12728v1",
     "summary": "To date, there has been little concrete practical advice about how to ensure that diversity and inclusion considerations should be embedded within both specific Artificial Intelligence (AI) systems and the larger global AI ecosystem. In this chapter, we present a clear definition of diversity and inclusion in AI, one which positions this concept within an evolving and holistic ecosystem. We use this definition and conceptual framing to present a set of practical guidelines primarily aimed at AI technologists, data scientists and project leaders.",
     "author": "Didar Zowghi, Francesca da Rimini",
     "published": "2023-05-22T05:33:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence (1998)",
+    "link": "https://arxiv.org/abs/1304.3844v2",
+    "summary": "This is the Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence, which was held in Madison, WI, July 24-26, 1998",
+    "author": "Gregory Cooper, Serafin Moral",
+    "published": "2013-04-13T20:34:30Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -6105,6 +6053,16 @@
     "module": "应用落地"
   },
   {
+    "title": "2021 Drexel Society of Artificial Intelligence Research Conference",
+    "link": "https://arxiv.org/abs/2110.05263v3",
+    "summary": "The 2021 Drexel Society of Artificial Intelligence Research Conference highlights papers focused on a broad set of papers in machine learning. This was our organizations' first annual conference. It was conducted virtually via Zoom. The highlights are currently posted on YouTube.",
+    "author": "Ethan Jacob Moyer, Yigit Can Alparslan",
+    "published": "2021-08-25T14:59:56Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Intelligent Human Machine Interface Design for Advanced Product Life Cycle Management Systems",
     "link": "https://arxiv.org/abs/1008.1338v1",
     "summary": "Designing and implementing an intelligent and user friendly human machine interface for any kind of software or hardware oriented application is always be a challenging task for the designers and developers because it is very difficult to understand the psychology of the user, nature of the work and best suit of the environment. This research paper is basically about to propose an intelligent, flexible and user friendly machine interface for Product Life Cycle Management products or PDM Systems since studies show that usability and human computer interaction issues are a major cause of acceptance problems introducing or using such systems. Going into details of the proposition, we present prototype implementations about theme based on design requirements, designed designs and technologies involved for the development of human machine interface.",
@@ -6115,11 +6073,31 @@
     "module": "应用落地"
   },
   {
-    "title": "2021 Drexel Society of Artificial Intelligence Research Conference",
-    "link": "https://arxiv.org/abs/2110.05263v3",
-    "summary": "The 2021 Drexel Society of Artificial Intelligence Research Conference highlights papers focused on a broad set of papers in machine learning. This was our organizations' first annual conference. It was conducted virtually via Zoom. The highlights are currently posted on YouTube.",
-    "author": "Ethan Jacob Moyer, Yigit Can Alparslan",
-    "published": "2021-08-25T14:59:56Z",
+    "title": "Fusion Intelligence: Confluence of Natural and Artificial Intelligence for Enhanced Problem-Solving Efficiency",
+    "link": "https://arxiv.org/abs/2405.09763v1",
+    "summary": "This paper introduces Fusion Intelligence (FI), a bio-inspired intelligent system, where the innate sensing, intelligence and unique actuation abilities of biological organisms such as bees and ants are integrated with the computational power of Artificial Intelligence (AI). This interdisciplinary field seeks to create systems that are not only smart but also adaptive and responsive in ways that mimic the nature. As FI evolves, it holds the promise of revolutionizing the way we approach complex problems, leveraging the best of both biological and digital worlds to create solutions that are more effective, sustainable, and harmonious with the environment. We demonstrate FI's potential to enhance agricultural IoT system performance through a simulated case study on improving insect pollination efficacy (entomophily).",
+    "author": "Rohan Reddy Kalavakonda, Junjun Huan, Peyman Dehghanzadeh, Archit Jaiswal, Soumyajit Mandal, Swarup Bhunia",
+    "published": "2024-05-16T02:10:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Review on Objective-Driven Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2308.10135v1",
+    "summary": "While advancing rapidly, Artificial Intelligence still falls short of human intelligence in several key aspects due to inherent limitations in current AI technologies and our understanding of cognition. Humans have an innate ability to understand context, nuances, and subtle cues in communication, which allows us to comprehend jokes, sarcasm, and metaphors. Machines struggle to interpret such contextual information accurately. Humans possess a vast repository of common-sense knowledge that helps us make logical inferences and predictions about the world. Machines lack this innate understanding and often struggle with making sense of situations that humans find trivial. In this article, we review the prospective Machine Intelligence candidates, a review from Prof. Yann LeCun, and other work that can help close this gap between human and machine intelligence. Specifically, we talk about what's lacking with the current AI techniques such as supervised learning, reinforcement learning, self-supervised learning, etc. Then we show how Hierarchical planning-based approaches can help us close that gap and deep-dive into energy-based, latent-variable methods and Joint embedding predictive architecture methods.",
+    "author": "Apoorv Singh",
+    "published": "2023-08-20T02:07:42Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Data-Centric Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2212.11854v4",
+    "summary": "Data-centric artificial intelligence (data-centric AI) represents an emerging paradigm emphasizing that the systematic design and engineering of data is essential for building effective and efficient AI-based systems. The objective of this article is to introduce practitioners and researchers from the field of Information Systems (IS) to data-centric AI. We define relevant terms, provide key characteristics to contrast the data-centric paradigm to the model-centric one, and introduce a framework for data-centric AI. We distinguish data-centric AI from related concepts and discuss its longer-term implications for the IS community.",
+    "author": "Johannes Jakubik, Michael Vössing, Niklas Kühl, Jannis Walk, Gerhard Satzger",
+    "published": "2022-12-22T16:41:03Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
