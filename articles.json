@@ -470,6 +470,37 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "This motor could be the future of e-bikes",
+    "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+    "summary": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control? No problem, you can have as [&#8230;]",
+    "author": "Thomas Ricker",
+    "published": "2026-06-30T06:30:04-04:00",
+    "tags": [
+      "Electric Bikes",
+      "News",
+      "Rideables",
+      "Transportation"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Our best look yet at Samsung’s new wide foldable",
+    "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+    "summary": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models and the Galaxy Z [&#8230;]",
+    "author": "Jess Weatherbed",
+    "published": "2026-06-30T05:54:44-04:00",
+    "tags": [
+      "Foldable Phones",
+      "Mobile",
+      "News",
+      "Samsung",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "T-Mobile is booting customers from its oldest plans",
     "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
     "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect. Affected customers began sharing screenshots of the text on reddit and [&#8230;]",
@@ -521,7 +552,7 @@
     "module": "应用落地"
   },
   {
-    "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
     "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
     "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's [&#8230;]",
     "author": "Andrew Liszewski",
@@ -598,31 +629,16 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "WhatsApp is launching usernames: here’s how to reserve yours",
-    "link": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
-    "summary": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch \"later this year,\" in a move to make the communications platform \"even more private,\" allowing you to keep your phone number concealed from people who aren't already in your contacts. Usernames are available [&#8230;]",
-    "author": "Jess Weatherbed",
-    "published": "2026-06-29T12:00:00-04:00",
+    "title": "Building tech in the world’s secret R&D hub",
+    "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
+    "author": "Greater Zurich Area",
+    "published": "Tue, 30 Jun 2026 10:23:30 +0000",
     "tags": [
-      "Meta",
-      "News",
-      "Tech"
+      "Business",
+      "sponsored"
     ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Lawmakers want to ban AI companies from selling your health data",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-    "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location [&#8230;]",
-    "author": "Hayden Field",
-    "published": "2026-06-29T12:00:00-04:00",
-    "tags": [
-      "AI",
-      "Policy",
-      "Report"
-    ],
-    "source": "https://www.theverge.com",
+    "source": "https://www.technologyreview.com",
     "module": "应用落地"
   },
   {
@@ -747,25 +763,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Europe’s extreme heat is shutting down power plants",
-    "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-    "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
-    "author": "Casey Crownhart",
-    "published": "Wed, 24 Jun 2026 15:25:28 +0000",
-    "tags": [
-      "Climate change and energy",
-      "App",
-      "Summary"
-    ],
-    "source": "https://www.technologyreview.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Qwen 3.6 27B is the sweet spot for local development",
-    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>",
+    "title": "Building a custom octocopter from scratch with no prior hardware experience",
+    "link": "https://karolina.mgdubiel.com/drone/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48704289\">Comments</a>",
     "author": "",
-    "published": "Mon, 29 Jun 2026 17:05:16 +0000",
+    "published": "Sun, 28 Jun 2026 04:17:44 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -776,6 +778,26 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48683098\">Comments</a>",
     "author": "",
     "published": "Fri, 26 Jun 2026 06:35:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Antares Achieves Criticality of Mark-0 Reactor",
+    "link": "https://antaresindustries.com/updates/antares-achieves-criticality",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730246\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 09:15:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48721903\">Comments</a>",
+    "author": "",
+    "published": "Mon, 29 Jun 2026 17:05:16 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -801,14 +823,24 @@
     "module": "应用落地"
   },
   {
-    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "link": "https://longcat.chat/blog/longcat-2.0/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727116\">Comments</a>",
+    "title": "I spent 6 days building my VDOM library as I hated how React handles memo",
+    "link": "https://vflash.github.io/Tyaff/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730720\">Comments</a>",
     "author": "",
-    "published": "Tue, 30 Jun 2026 00:30:11 +0000",
+    "published": "Tue, 30 Jun 2026 10:35:29 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
+    "module": "应用落地"
+  },
+  {
+    "title": "The operating cost starts after the demo",
+    "link": "https://twoheads.net/the-promise-is-unattended-work/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679762\">Comments</a>",
+    "author": "",
+    "published": "Thu, 25 Jun 2026 21:58:08 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
   },
   {
     "title": "Memory Safe Context Switching",
@@ -821,11 +853,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Old Computer Challenge",
-    "link": "http://occ.sdf.org/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702320\">Comments</a>",
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "link": "https://longcat.chat/blog/longcat-2.0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727116\">Comments</a>",
     "author": "",
-    "published": "Sat, 27 Jun 2026 22:18:50 +0000",
+    "published": "Tue, 30 Jun 2026 00:30:11 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Rocketlab acquires Iridium",
+    "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>",
+    "author": "",
+    "published": "Mon, 29 Jun 2026 14:09:24 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -841,21 +883,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Rocketlab acquires Iridium",
-    "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48719485\">Comments</a>",
+    "title": "Old Computer Challenge",
+    "link": "http://occ.sdf.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702320\">Comments</a>",
     "author": "",
-    "published": "Mon, 29 Jun 2026 14:09:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The end of the AArch64 desktop experiment",
-    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728599\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 04:51:12 +0000",
+    "published": "Sat, 27 Jun 2026 22:18:50 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -871,16 +903,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Popping the GPU Bubble",
-    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728729\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 05:14:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "link": "https://github.com/deepreinforce-ai/Ornith-1",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48722052\">Comments</a>",
@@ -889,26 +911,6 @@
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "大模型与基础技术"
-  },
-  {
-    "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-    "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728740\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 05:17:02 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720924\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 15:54:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
   },
   {
     "title": "One million passports leaked online",
@@ -931,121 +933,21 @@
     "module": "应用落地"
   },
   {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720924\">Comments</a>",
+    "author": "",
+    "published": "Mon, 29 Jun 2026 15:54:24 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
     "link": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48698781\">Comments</a>",
     "author": "",
     "published": "Sat, 27 Jun 2026 14:49:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Zig – SPIR-V Backend Progress",
-    "link": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679809\">Comments</a>",
-    "author": "",
-    "published": "Thu, 25 Jun 2026 22:03:14 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710325\">Comments</a>",
-    "author": "",
-    "published": "Sun, 28 Jun 2026 18:56:46 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "link": "https://arxiv.org/abs/2606.22283",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702825\">Comments</a>",
-    "author": "",
-    "published": "Sat, 27 Jun 2026 23:30:14 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A native graphical shell for SSH",
-    "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720758\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 15:42:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Dark Sky Lighting",
-    "link": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48675653\">Comments</a>",
-    "author": "",
-    "published": "Thu, 25 Jun 2026 16:19:19 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-    "link": "https://humphri.es/blog/WATaBoy/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720190\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 15:02:00 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Kb – Prolog Knowledge Base",
-    "link": "https://github.com/mat-mgm/kb-prolog",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697599\">Comments</a>",
-    "author": "",
-    "published": "Sat, 27 Jun 2026 12:16:27 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "What happens when you run a CUDA kernel?",
-    "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718863\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 13:11:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48726102\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 22:21:00 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "Working With AI: A concrete example",
-    "link": "https://htmx.org/essays/working-with-ai/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720064\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 14:53:41 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-    "link": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48683475\">Comments</a>",
-    "author": "",
-    "published": "Fri, 26 Jun 2026 07:29:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1061,7 +963,107 @@
     "module": "应用落地"
   },
   {
-    "title": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind",
+    "title": "Zig – SPIR-V Backend Progress",
+    "link": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679809\">Comments</a>",
+    "author": "",
+    "published": "Thu, 25 Jun 2026 22:03:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "link": "https://arxiv.org/abs/2606.22283",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702825\">Comments</a>",
+    "author": "",
+    "published": "Sat, 27 Jun 2026 23:30:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Dark Sky Lighting",
+    "link": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48675653\">Comments</a>",
+    "author": "",
+    "published": "Thu, 25 Jun 2026 16:19:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A native graphical shell for SSH",
+    "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720758\">Comments</a>",
+    "author": "",
+    "published": "Mon, 29 Jun 2026 15:42:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What happens when you run a CUDA kernel?",
+    "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48718863\">Comments</a>",
+    "author": "",
+    "published": "Mon, 29 Jun 2026 13:11:08 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "link": "https://humphri.es/blog/WATaBoy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720190\">Comments</a>",
+    "author": "",
+    "published": "Mon, 29 Jun 2026 15:02:00 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Popping the GPU Bubble",
+    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48728729\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 05:14:35 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710325\">Comments</a>",
+    "author": "",
+    "published": "Sun, 28 Jun 2026 18:56:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Kb – Prolog Knowledge Base",
+    "link": "https://github.com/mat-mgm/kb-prolog",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697599\">Comments</a>",
+    "author": "",
+    "published": "Sat, 27 Jun 2026 12:16:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+    "link": "https://lucassifoni.info/blog/hiking-with-wallace/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48683475\">Comments</a>",
+    "author": "",
+    "published": "Fri, 26 Jun 2026 07:29:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI",
     "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
     "summary": "<p>Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference?</p><p>In 2017, a 33-year-old political philosopher named Iason Gabriel was told by a friend that he ought to apply for a job at DeepMind, the London-based subsidiary of Google where much of its AI research was concentrated. The suggestion was not an obvious one.</p><p>Gabriel was a cheerful but intense junior academic with a passion for Vipassana meditation and what his brother calls “enthusiastic” rock climbing. The eldest son of a Greek management professor and a British documentary maker, Gabriel split his time between teaching and international development work. At the University of Oxford, where he was a fellow at St John’s College, Gabriel taught courses on political theory and wrote papers on the moral contortions of “yuppie ethics” and the ethical blind spots of effective altruism. When he wasn’t there, he did crisis work for the United Nations Development Programme in Sudan and Lebanon.</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind\">Continue reading...</a>",
     "author": "Robert P Baird",
@@ -1409,6 +1411,21 @@
     "module": "应用落地"
   },
   {
+    "title": "‘I felt like Orpheus’: how the designer of Gears of War bounced back from studio closure by producing Hadestown",
+    "link": "https://www.theguardian.com/games/2026/jun/30/designer-gears-of-war-hadestown-cliff-bleszinski",
+    "summary": "<p>After suffering the schadenfreude of gamers online, the Tony-winning Broadway musical offered redemption to Cliff Bleszinski</p><p>‘It was utterly heartbreaking, to be honest, and it certainly didn’t help with my drinking. I’ll leave it at that.” Cliff Bleszinski is recalling the launch of LawBreakers, the arena first-person shooter he put out in 2017. It had been his first project as the CEO of his own studio, Boss Key Productions. Before that, he was the creative figurehead behind hugely successful sci-fi shooter series, Gears of War, when he was known to millions of gamers as CliffyB.</p><p>“I retired from Epic and all of it, and I missed making neat stuff,” he says. “And my agent at the time was needling me: ‘Come on, you want to get back in, have your own studio? Look at what [Hideo] Kojima’s doing.’ And I was like: ‘OK, if Kojima can do it, so can I.’ Such hubris, right?”</p> <a href=\"https://www.theguardian.com/games/2026/jun/30/designer-gears-of-war-hadestown-cliff-bleszinski\">Continue reading...</a>",
+    "author": "Jeremy Peel",
+    "published": "Tue, 30 Jun 2026 08:30:43 GMT",
+    "tags": [
+      "Games",
+      "Culture",
+      "Xbox",
+      "Musicals"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Behold, the most realistic golf game ever  | Dominik Diamond",
     "link": "https://www.theguardian.com/games/2026/jun/26/normal-golf-game-steam-dominik-diamond",
     "summary": "<p>Normal Golf Game takes a tiresomely easy genre and makes it infernally difficult. Which deserves a round of applause</p><p>I have always struggled playing golf. I wish I didn’t. It’s a beautiful game in concept. A leisurely walk in the sunshine, slapping a ball around, sandwiches and beer consumed during and after play. Sure, you have to dress like Huggy Bear from Starsky and Hutch, and getting membership of an actual club is more complex than joining the Freemasons (although many offer a two for one deal with this), but you don’t have to be fit, you don’t have to even run. It is the only outdoor sport where a fat dad can be the best in the world.</p><p>The premise couldn’t be simpler: get the ball in the hole. But there is nothing worse in sport than knowing what you have to do and not being able to do it. Just ask amateur parachutists.</p> <a href=\"https://www.theguardian.com/games/2026/jun/26/normal-golf-game-steam-dominik-diamond\">Continue reading...</a>",
@@ -1465,21 +1482,6 @@
     "tags": [
       "Games",
       "Culture"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘They kill games, we fight back’: the activists campaigning to keep video games playable",
-    "link": "https://www.theguardian.com/games/2026/jun/19/stop-killing-games-activists-campaigning-online-gaming",
-    "summary": "<p>When a company decided to shut down an online game’s servers, there wasn’t much the players who had bought that title could do – until a group called Stop Killing Games began lobbying for new consumer protection laws</p><p>You can never be sure how long an online video game will last. Developer BioWare shut off sci-fi shooter Anthem’s servers in January, after seven years. Electronic Arts discontinued access to The Sims Mobile the same month. Wildlight Entertainment shuttered its Highguard servers in March, mere months after the game’s release. Activision Blizzard took Call of Duty: Warzone Mobile offline in April. <a href=\"https://gamerant.com/games-shut-down-2026-list-highguard-anthem/\">Dozens more</a> games have had their servers shut down in the first six months of 2026, adding to an already long list of video games that are no longer playable.</p><p>There is little that players can do when a company decides to stop supporting online play. Communities work hard to keep their favourite games online, sometimes <a href=\"https://kotaku.com/anthem-revival-private-servers-shutdown-bioware-fan-2000661358\">keeping dead games running on private servers</a>, though that may not necessarily be entirely legal. Generally, though, when a game goes offline it is dead and it’s not coming back.</p> <a href=\"https://www.theguardian.com/games/2026/jun/19/stop-killing-games-activists-campaigning-online-gaming\">Continue reading...</a>",
-    "author": "Nicole Carpenter",
-    "published": "Fri, 19 Jun 2026 09:00:27 GMT",
-    "tags": [
-      "Online multiplayer games",
-      "Games",
-      "Culture",
-      "Consumer rights"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -2135,26 +2137,44 @@
     "module": "应用落地"
   },
   {
-    "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
-    "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
-    "summary": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
-    "author": "Don Clark",
-    "published": "Tue, 23 Jun 2026 09:02:27 +0000",
-    "tags": [
-      "China",
-      "Supercomputers",
-      "Artificial Intelligence",
-      "Computer Chips",
-      "International Relations",
-      "Innovation",
-      "Cloud Computing",
-      "Computers and the Internet",
-      "ARM Holdings PLC",
-      "Shenzhen (China)",
-      "internal-open-access-from-nl"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Why 'countdown mode' is the task manager feature I can't live without",
+    "link": "https://www.zdnet.com/article/ticktick-task-manager-feature-countdown-mode/",
+    "summary": "This setting meshes perfectly with how my brain works, and I don't miss deadlines anymore.",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 10:16:29 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
+  },
+  {
+    "title": "Too many junk files on your Windows PC? This free tool can remove them in one click",
+    "link": "https://www.zdnet.com/article/junk-files-windows-free-fluent-cleaner/",
+    "summary": "A utility called Fluent Cleaner will analyze your Windows environment to find and remove junk files, temp files, unused Registry entries, and other clutter - for free. Here's how to use it.",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 09:10:16 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I tried the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's what happened",
+    "link": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
+    "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories.",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 09:00:30 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "AI agents are your new colleagues - how to get the best results",
+    "link": "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/",
+    "summary": "The future of work is likely to require a careful blend of human skills and AI agents. Here's how to work successfully with your agentic counterparts.",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 09:00:14 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "大模型与基础技术"
   },
   {
     "title": "I always keep these 3 devices plugged into my power station - here's why",
@@ -2312,46 +2332,6 @@
     "summary": "Raspberry Pi boards have gotten expensive, so I found a cheap alternative in a tiny ESP32-S3 board.",
     "author": "",
     "published": "Mon, 29 Jun 2026 01:00:39 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Years of living with solar power taught me these 12 myths are simply wrong",
-    "link": "https://www.zdnet.com/article/home-solar-power-myths-debunked/",
-    "summary": "Knowing the facts about home solar power can help you make better-informed choices, save money, and stay safe.",
-    "author": "",
-    "published": "Sun, 28 Jun 2026 13:00:46 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I looked into OBD2 fuel savers, and found a much safer solution to save car gas instead",
-    "link": "https://www.zdnet.com/article/dont-buy-fake-fuel-savers/",
-    "summary": "No, there's no cheap dongle that you can plug into your car to save you money. Here's the truth.",
-    "author": "",
-    "published": "Sun, 28 Jun 2026 12:00:54 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I tested two of the best location-sharing apps for a month - this one was most accurate",
-    "link": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
-    "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space competes.",
-    "author": "",
-    "published": "Sun, 28 Jun 2026 11:00:41 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The E Ink tablet that successfully replaced my iPad and Kindle is still 30% off on Amazon right now",
-    "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-amazon-prime-day-2026-deal/",
-    "summary": "If you're in the market for a tablet, you literally need look no further than the TCL Nxtpaper 11 Plus, especially at this price.",
-    "author": "",
-    "published": "Sat, 27 Jun 2026 16:00:23 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2694,6 +2674,18 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "Proton's privacy-focused Lumo chatbot gets image generation",
+    "link": "https://www.engadget.com/2204704/proton-lumo-2-0-image-generation/",
+    "summary": "Proton has launched a major upgrade for its Lumo chatbot, giving it image generation and editing capabilities.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Tue, 30 Jun 2026 10:00:00 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
     "link": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
     "summary": "Some of Apple's corporate secrets aren't so secret any more.",
@@ -2920,18 +2912,6 @@
     "published": "Mon, 29 Jun 2026 11:03:14 +0000",
     "tags": [
       "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "DJI's Osmo Pocket 4P promises 17 stops of dynamic range",
-    "link": "https://www.engadget.com/2203535/dji-osmo-pocket-4p-promises-17-stops-of-dynamic-range/",
-    "summary": "DJI's Osmo Pocket 4P introduces a new D-Log2 format and promises 17 stops of dynamic range.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Mon, 29 Jun 2026 08:13:42 +0000",
-    "tags": [
-      "News"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -4197,16 +4177,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Measuring Intelligence and Growth Rate: Variations on Hibbard's Intelligence Measure",
-    "link": "https://arxiv.org/abs/2101.12047v1",
-    "summary": "In 2011, Hibbard suggested an intelligence measure for agents who compete in an adversarial sequence prediction game. We argue that Hibbard's idea should actually be considered as two separate ideas: first, that the intelligence of such agents can be measured based on the growth rates of the runtimes of the competitors that they defeat; and second, one specific (somewhat arbitrary) method for measuring said growth rates. Whereas Hibbard's intelligence measure is based on the latter growth-rate-measuring method, we survey other methods for measuring function growth rates, and exhibit the resulting Hibbard-like intelligence measures and taxonomies. Of particular interest, we obtain intelligence taxonomies based on Big-O and Big-Theta notation systems, which taxonomies are novel in that they challenge conventional notions of what an intelligence measure should look like. We discuss how intelligence measurement of sequence predictors can indirectly serve as intelligence measurement for agents with Artificial General Intelligence (AGIs).",
-    "author": "Samuel Alexander, Bill Hibbard",
-    "published": "2021-01-25T01:54:08Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Towards deep observation: A systematic survey on artificial intelligence techniques to monitor fetus via Ultrasound Images",
     "link": "https://arxiv.org/abs/2201.07935v2",
     "summary": "Developing innovative informatics approaches aimed to enhance fetal monitoring is a burgeoning field of study in reproductive medicine. Several reviews have been conducted regarding Artificial intelligence (AI) techniques to improve pregnancy outcomes. They are limited by focusing on specific data such as mother's care during pregnancy. This systematic survey aims to explore how artificial intelligence (AI) can assist with fetal growth monitoring via Ultrasound (US) image. We used eight medical and computer science bibliographic databases, including PubMed, Embase, PsycINFO, ScienceDirect, IEEE explore, ACM Library, Google Scholar, and the Web of Science. We retrieved studies published between 2010 to 2021. Data extracted from studies were synthesized using a narrative approach. Out of 1269 retrieved studies, we included 107 distinct studies from queries that were relevant to the topic in the survey. We found that 2D ultrasound images were more popular (n=88) than 3D and 4D ultrasound images (n=19). Classification is the most used method (n=42), followed by segmentation (n=31), classification integrated with segmentation (n=16) and other miscellaneous such as object-detection, regression and reinforcement learning (n=18). The most common areas within the pregnancy domain were the fetus head (n=43), then fetus body (n=31), fetus heart (n=13), fetus abdomen (n=10), and lastly the fetus face (n=10). In the most recent studies, deep learning techniques were primarily used (n=81), followed by machine learning (n=16), artificial neural network (n=7), and reinforcement learning (n=2). AI techniques played a crucial role in predicting fetal diseases and identifying fetus anatomy structures during pregnancy. More research is required to validate this technology from a physician's perspective, such as pilot studies and randomized controlled trials on AI and its applications in a hospital setting.",
@@ -4215,6 +4185,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Measuring Intelligence and Growth Rate: Variations on Hibbard's Intelligence Measure",
+    "link": "https://arxiv.org/abs/2101.12047v1",
+    "summary": "In 2011, Hibbard suggested an intelligence measure for agents who compete in an adversarial sequence prediction game. We argue that Hibbard's idea should actually be considered as two separate ideas: first, that the intelligence of such agents can be measured based on the growth rates of the runtimes of the competitors that they defeat; and second, one specific (somewhat arbitrary) method for measuring said growth rates. Whereas Hibbard's intelligence measure is based on the latter growth-rate-measuring method, we survey other methods for measuring function growth rates, and exhibit the resulting Hibbard-like intelligence measures and taxonomies. Of particular interest, we obtain intelligence taxonomies based on Big-O and Big-Theta notation systems, which taxonomies are novel in that they challenge conventional notions of what an intelligence measure should look like. We discuss how intelligence measurement of sequence predictors can indirectly serve as intelligence measurement for agents with Artificial General Intelligence (AGIs).",
+    "author": "Samuel Alexander, Bill Hibbard",
+    "published": "2021-01-25T01:54:08Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "When Side-Channel Attacks Break the Black-Box Property of Embedded Artificial Intelligence",
@@ -4637,16 +4617,6 @@
     "module": "应用落地"
   },
   {
-    "title": "What Artificial Intelligence can do for High-Performance Computing systems?",
-    "link": "https://arxiv.org/abs/2602.00014v1",
-    "summary": "High-performance computing (HPC) centers consume substantial power, incurring environmental and operational costs. This review assesses how artificial intelligence (AI), including machine learning (ML) and optimization, improves the efficiency of operational HPC systems. Approximately 1,800 publications from 2019 to 2025 were manually screened using predefined inclusion/exclusion criteria; 74 \"AI for HPC\" papers were retained and grouped into six application areas: performance estimation, performance optimization, scheduling, surrogate modeling, fault detection, and language-model-based automation.\n  Scheduling is the most active area, spanning research-oriented reinforcement-learning schedulers to production-friendly hybrids that combine ML with heuristics. Supervised performance estimation is foundational for both scheduling and optimization. Graph neural networks and time-series models strengthen anomaly detection by capturing spatio-temporal dependencies in production telemetry. Domain-specialized language models for HPC can outperform general-purpose LLMs on targeted coding and automation tasks. Together, these findings highlight integration opportunities such as LLM-based operating-system concepts and underscore the need for advances in MLOps, standardization of AI components, and benchmarking methodology.",
-    "author": "Pierrick Pochelu, Hyacinthe Cartiaux, Julien Schleich",
-    "published": "2026-01-03T19:25:23Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "First Place Solution of 2023 Global Artificial Intelligence Technology Innovation Competition Track 1",
     "link": "https://arxiv.org/abs/2407.01271v2",
     "summary": "In this paper, we present our champion solution to the Global Artificial Intelligence Technology Innovation Competition Track 1: Medical Imaging Diagnosis Report Generation. We select CPT-BASE as our base model for the text generation task. During the pre-training stage, we delete the mask language modeling task of CPT-BASE and instead reconstruct the vocabulary, adopting a span mask strategy and gradually increasing the number of masking ratios to perform the denoising auto-encoder pre-training task. In the fine-tuning stage, we design iterative retrieval augmentation and noise-aware similarity bucket prompt strategies. The retrieval augmentation constructs a mini-knowledge base, enriching the input information of the model, while the similarity bucket further perceives the noise information within the mini-knowledge base, guiding the model to generate higher-quality diagnostic reports based on the similarity prompts. Surprisingly, our single model has achieved a score of 2.321 on leaderboard A, and the multiple model fusion scores are 2.362 and 2.320 on the A and B leaderboards respectively, securing first place in the rankings.",
@@ -4655,6 +4625,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
+  },
+  {
+    "title": "What Artificial Intelligence can do for High-Performance Computing systems?",
+    "link": "https://arxiv.org/abs/2602.00014v1",
+    "summary": "High-performance computing (HPC) centers consume substantial power, incurring environmental and operational costs. This review assesses how artificial intelligence (AI), including machine learning (ML) and optimization, improves the efficiency of operational HPC systems. Approximately 1,800 publications from 2019 to 2025 were manually screened using predefined inclusion/exclusion criteria; 74 \"AI for HPC\" papers were retained and grouped into six application areas: performance estimation, performance optimization, scheduling, surrogate modeling, fault detection, and language-model-based automation.\n  Scheduling is the most active area, spanning research-oriented reinforcement-learning schedulers to production-friendly hybrids that combine ML with heuristics. Supervised performance estimation is foundational for both scheduling and optimization. Graph neural networks and time-series models strengthen anomaly detection by capturing spatio-temporal dependencies in production telemetry. Domain-specialized language models for HPC can outperform general-purpose LLMs on targeted coding and automation tasks. Together, these findings highlight integration opportunities such as LLM-based operating-system concepts and underscore the need for advances in MLOps, standardization of AI components, and benchmarking methodology.",
+    "author": "Pierrick Pochelu, Hyacinthe Cartiaux, Julien Schleich",
+    "published": "2026-01-03T19:25:23Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Theory of Mind for Explainable Human-Robot Interaction",
@@ -5727,16 +5707,6 @@
     "module": "前沿探索"
   },
   {
-    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
-    "link": "https://arxiv.org/abs/1304.3852v1",
-    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
-    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
-    "published": "2013-04-13T21:10:50Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence (2010)",
     "link": "https://arxiv.org/abs/1205.2597v2",
     "summary": "This is the Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence, which was held on Catalina Island, CA, July 8 - 11 2010.",
@@ -5752,6 +5722,16 @@
     "summary": "This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21 2009.",
     "author": "Jeff Bilmes, Andrew Ng",
     "published": "2012-06-13T16:43:44Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
+    "link": "https://arxiv.org/abs/1304.3852v1",
+    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
+    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
+    "published": "2013-04-13T21:10:50Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5972,6 +5952,16 @@
     "summary": "A recent issue of a popular computing journal asked which laws would apply if a self-driving car killed a pedestrian. This paper considers the question of legal liability for artificially intelligent computer systems. It discusses whether criminal liability could ever apply; to whom it might apply; and, under civil law, whether an AI program is a product that is subject to product design legislation or a service to which the tort of negligence applies. The issue of sales warranties is also considered. A discussion of some of the practical limitations that AI systems are subject to is also included.",
     "author": "John Kingston",
     "published": "2018-02-21T20:11:28Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Survey of Hybrid Human-Artificial Intelligence for Social Computing",
+    "link": "https://arxiv.org/abs/2103.15558v1",
+    "summary": "Along with the development of modern computing technology and social sciences, both theoretical research and practical applications of social computing have been continuously extended. In particular with the boom of artificial intelligence (AI), social computing is significantly influenced by AI. However, the conventional technologies of AI have drawbacks in dealing with more complicated and dynamic problems. Such deficiency can be rectified by hybrid human-artificial intelligence (H-AI) which integrates both human intelligence and AI into one unity, forming a new enhanced intelligence. H-AI in dealing with social problems shows the advantages that AI can not surpass. This paper firstly introduces the concept of H-AI. AI is the intelligence in the transition stage of H-AI, so the latest research progresses of AI in social computing are reviewed. Secondly, it summarizes typical challenges faced by AI in social computing, and makes it possible to introduce H-AI to solve these challenges. Finally, the paper proposes a holistic framework of social computing combining with H-AI, which consists of four layers: object layer, base layer, analysis layer, and application layer. It represents H-AI has significant advantages over AI in solving social problems.",
+    "author": "Wenxi Wang, Huansheng Ning, Feifei Shi, Sahraoui Dhelim, Weishan Zhang, Liming Chen",
+    "published": "2021-03-17T08:39:44Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
