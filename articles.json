@@ -470,166 +470,152 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Meet the lawyer who beat Elon Musk — twice",
-    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-    "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
-    "author": "Elizabeth Lopatto",
-    "published": "2026-06-30T08:00:00-04:00",
+    "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
+    "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+    "summary": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola&#8217;s site at a special $19.99 launch price (originally $29.99). There are plenty of trackers for Android owners to consider, but [&#8230;]",
+    "author": "Cameron Faulkner",
+    "published": "2026-06-30T13:38:23-04:00",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline [&#8230;]",
+    "author": "Richard Lawler",
+    "published": "2026-06-30T13:19:15-04:00",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Netflix",
+      "News",
+      "Streaming",
+      "Trailers",
+      "TV Shows"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+    "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+    "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a move accused of being \"union busting.\" According to the release, IWGB members [&#8230;]",
+    "author": "Jay Peters",
+    "published": "2026-06-30T13:04:14-04:00",
+    "tags": [
+      "Gaming",
+      "Labor",
+      "News",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Google&#8217;s killing off Tenor GIF searches in other apps",
+    "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+    "summary": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms like X, Discord, Bluesky, and WhatsApp that previously integrated the API are now having to migrate [&#8230;]",
+    "author": "Jess Weatherbed",
+    "published": "2026-06-30T13:00:05-04:00",
+    "tags": [
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+    "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+    "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios, and canceled games. I understand Microsoft is currently weighing closing at least five studios, including the [&#8230;]",
+    "author": "Tom Warren",
+    "published": "2026-06-30T13:00:00-04:00",
+    "tags": [
+      "Exclusive",
+      "Gaming",
+      "Microsoft",
+      "Report",
+      "Tech",
+      "Xbox"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
+    "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
+    "summary": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soundstage that impressed us in our review. It&#8217;s great for the outdoors thanks to its IP67 rating, meaning [&#8230;]",
+    "author": "Brad Bourque",
+    "published": "2026-06-30T12:05:22-04:00",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What is a quantum computer good for? Absolutely nothing — yet",
+    "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
+    "summary": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science adviser from promising a \"quantum computer powerful enough for scientific discovery by 2028\" and Trump from issuing a new [&#8230;]",
+    "author": "Sophia Chen",
+    "published": "2026-06-30T12:00:00-04:00",
+    "tags": [
+      "Microsoft",
+      "Science",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Libby will filter out AI content, kind of",
+    "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app [&#8230;]",
+    "author": "Janko Roettgers",
+    "published": "2026-06-30T11:30:00-04:00",
     "tags": [
       "AI",
       "Column",
-      "Elon Musk",
-      "Law",
-      "OpenAI",
+      "Lowpass"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
+    "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+    "summary": "The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order. Birthright citizenship dates back to Reconstruction. Under the 14th Amendment, which was ratified in 1868 to guarantee citizenship and equal protection to the children of formerly enslaved people, anyone born in the United [&#8230;]",
+    "author": "Gaby Del Valle",
+    "published": "2026-06-30T10:44:42-04:00",
+    "tags": [
+      "News",
       "Policy",
-      "Q&A",
-      "Tech",
-      "Twitter - X"
+      "Politics"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "This motor could be the future of e-bikes",
-    "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
-    "summary": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control? No problem, you can have as [&#8230;]",
-    "author": "Thomas Ricker",
-    "published": "2026-06-30T06:30:04-04:00",
-    "tags": [
-      "Electric Bikes",
-      "News",
-      "Rideables",
-      "Transportation"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Our best look yet at Samsung’s new wide foldable",
-    "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
-    "summary": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models and the Galaxy Z [&#8230;]",
-    "author": "Jess Weatherbed",
-    "published": "2026-06-30T05:54:44-04:00",
-    "tags": [
-      "Foldable Phones",
-      "Mobile",
-      "News",
-      "Samsung",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "T-Mobile is booting customers from its oldest plans",
-    "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-    "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect. Affected customers began sharing screenshots of the text on reddit and [&#8230;]",
-    "author": "Allison Johnson",
-    "published": "2026-06-29T17:06:14-04:00",
-    "tags": [
-      "5G",
-      "Mobile",
-      "Sprint",
-      "T-Mobile",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "After a great start, DC’s new cinematic universe is already slowing down",
-    "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-    "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with films about another Kryptonian and one of [&#8230;]",
-    "author": "Charles Pulliam-Moore",
-    "published": "2026-06-29T17:00:00-04:00",
-    "tags": [
-      "Analysis",
-      "Comics",
-      "DC Comics",
-      "Entertainment",
-      "Film",
-      "Report"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-    "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-    "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo. [&#8230;]",
+    "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+    "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+    "summary": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvLeaks was suspended from X after sharing the clips, while the post was removed as well, with X saying it \"violated\" the platform's rules. Another leaker, [&#8230;]",
     "author": "Emma Roth",
-    "published": "2026-06-29T16:18:26-04:00",
+    "published": "2026-06-30T09:57:41-04:00",
     "tags": [
       "Apple",
       "Apple Rumors",
-      "iOS",
       "iPhone",
       "Mobile",
       "News",
       "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-    "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-    "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's [&#8230;]",
-    "author": "Andrew Liszewski",
-    "published": "2026-06-29T15:47:35-04:00",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "News",
-      "Tech",
-      "Tidal"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
-    "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
-    "summary": "Sony hinted in a recent Q&#38;A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript, emphasis mine: Q: How can you bring back to the PlayStation platform users who migrated to gaming PCs during [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-06-29T15:12:15-04:00",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "PlayStation"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "OpenAI is teasing new hardware… for Codex",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-    "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
-    "author": "Emma Roth",
-    "published": "2026-06-29T14:52:03-04:00",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
-    "link": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
-    "summary": "Most of Apple&#8217;s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn&#8217;t a good time to consider buying an iPad, we found a deal worth considering that&#8217;s just under $500 right now. The 128GB iPad [&#8230;]",
-    "author": "Cameron Faulkner",
-    "published": "2026-06-29T13:49:12-04:00",
-    "tags": [
-      "Apple",
-      "Deals",
-      "Gadgets",
-      "iPad",
-      "Tech",
-      "Verge Shopping"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -765,21 +751,101 @@
     "module": "应用落地"
   },
   {
-    "title": "The US ambassador had Belgian police stop our reporting",
-    "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730608\">Comments</a>",
+    "title": "Claude Code Is Steganographically Marking Requests",
+    "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734373\">Comments</a>",
     "author": "",
-    "published": "Tue, 30 Jun 2026 10:15:15 +0000",
+    "published": "Tue, 30 Jun 2026 15:44:24 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "European digital ID wallets rely on safety services of Google and Apple",
-    "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730729\">Comments</a>",
+    "title": "Nano Banana 2 Lite",
+    "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735444\">Comments</a>",
     "author": "",
-    "published": "Tue, 30 Jun 2026 10:36:23 +0000",
+    "published": "Tue, 30 Jun 2026 16:48:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Claude Science",
+    "link": "https://claude.com/product/claude-science",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735770\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 17:07:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Xsnow \"protestware\" in Debian",
+    "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735554\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 16:54:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I built a mmWave material classification radar",
+    "link": "https://gauthier-lechevalier.com/radar",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48736137\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 17:29:36 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Looking Ahead to Postgres 19",
+    "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733031\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 14:14:29 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+    "link": "https://www.gutenberg.org/ebooks/24518",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48731989\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 12:47:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+    "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734699\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 16:05:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Knoppix",
+    "link": "https://www.knopper.net/knoppix/index-en.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48732056\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 12:54:01 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+    "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735376\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 16:44:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -795,26 +861,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-    "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730694\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 10:31:02 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
-    "link": "https://www.gutenberg.org/ebooks/24518",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48731989\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 12:47:51 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Open Source Low Tech",
     "link": "https://opensourcelowtech.org/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48683098\">Comments</a>",
@@ -825,11 +871,41 @@
     "module": "应用落地"
   },
   {
-    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-    "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730818\">Comments</a>",
+    "title": "We moved our Bluesky data to Eurosky",
+    "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733937\">Comments</a>",
     "author": "",
-    "published": "Tue, 30 Jun 2026 10:48:23 +0000",
+    "published": "Tue, 30 Jun 2026 15:17:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "European digital ID wallets rely on safety services of Google and Apple",
+    "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730729\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 10:36:23 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Factorio 2.1 Experimental Release",
+    "link": "https://factorio.com/blog/post/fff-444",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48697107\">Comments</a>",
+    "author": "",
+    "published": "Sat, 27 Jun 2026 10:52:44 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The labor share of income in the US is at its lowest post-war level",
+    "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48734234\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 15:35:04 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -855,11 +931,51 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Mathematics: Its Content, Methods and Meaning",
+    "link": "https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695502\">Comments</a>",
+    "author": "",
+    "published": "Sat, 27 Jun 2026 05:42:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+    "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48730694\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 10:31:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Supreme Court takes sledgehammer to federal regulatory structure",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735748\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 17:05:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
     "title": ".self: A new top-level domain designed to support self-hosting",
     "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48724230\">Comments</a>",
     "author": "",
     "published": "Mon, 29 Jun 2026 19:49:28 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "We Are the Last People Who Know How It Works",
+    "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48735633\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 16:59:00 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -875,11 +991,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Who are the fire-tamers?",
-    "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48709662\">Comments</a>",
+    "title": "I'm building a Space Cadet Pinball Machine! [video]",
+    "link": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689820\">Comments</a>",
     "author": "",
-    "published": "Sun, 28 Jun 2026 17:49:50 +0000",
+    "published": "Fri, 26 Jun 2026 18:00:49 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Have You Restarted Your Computer This Week?",
+    "link": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48733043\">Comments</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 14:15:29 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -895,6 +1021,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+    "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48710350\">Comments</a>",
+    "author": "",
+    "published": "Sun, 28 Jun 2026 18:59:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
     "link": "https://longcat.chat/blog/longcat-2.0/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48727116\">Comments</a>",
@@ -903,16 +1039,6 @@
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "大模型与基础技术"
-  },
-  {
-    "title": "All Logic, No Bite",
-    "link": "https://lcamtuf.substack.com/p/all-logic-no-bite",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48695585\">Comments</a>",
-    "author": "",
-    "published": "Sat, 27 Jun 2026 06:00:38 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
   },
   {
     "title": "Rocketlab acquires Iridium",
@@ -925,151 +1051,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Linux for the Sega MegaDrive",
-    "link": "https://github.com/LinuxMD/linuxmd",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720186\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 15:01:39 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I'm building a Space Cadet Pinball Machine! [video]",
-    "link": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689820\">Comments</a>",
-    "author": "",
-    "published": "Fri, 26 Jun 2026 18:00:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Old Computer Challenge",
-    "link": "http://occ.sdf.org/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702320\">Comments</a>",
-    "author": "",
-    "published": "Sat, 27 Jun 2026 22:18:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Exploring PDP-1 Lisp (1960)",
-    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48727323\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 00:56:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "One million passports leaked online",
-    "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48706389\">Comments</a>",
-    "author": "",
-    "published": "Sun, 28 Jun 2026 11:22:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Why problem statements aren't enough",
-    "link": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48681499\">Comments</a>",
-    "author": "",
-    "published": "Fri, 26 Jun 2026 01:57:37 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft reveals why Windows 11 keeps saying a file is in use after closing app",
-    "link": "https://www.windowslatest.com/2026/06/30/microsoft-reveals-why-windows-11-keeps-saying-a-file-is-in-use-after-you-close-the-app-plus-the-fix/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48732009\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 12:49:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "link": "https://github.com/deepreinforce-ai/Ornith-1",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48722052\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 17:16:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "The operating cost starts after the demo",
-    "link": "https://twoheads.net/the-promise-is-unattended-work/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679762\">Comments</a>",
-    "author": "",
-    "published": "Thu, 25 Jun 2026 21:58:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How to corrupt an SQLite database file",
-    "link": "https://www.sqlite.org/howtocorrupt.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48689885\">Comments</a>",
-    "author": "",
-    "published": "Fri, 26 Jun 2026 18:05:39 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720924\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 15:54:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "link": "https://arxiv.org/abs/2606.22283",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48702825\">Comments</a>",
-    "author": "",
-    "published": "Sat, 27 Jun 2026 23:30:14 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Zig – SPIR-V Backend Progress",
-    "link": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48679809\">Comments</a>",
-    "author": "",
-    "published": "Thu, 25 Jun 2026 22:03:14 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Dark Sky Lighting",
-    "link": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48675653\">Comments</a>",
-    "author": "",
-    "published": "Thu, 25 Jun 2026 16:19:19 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "UK watchdog plans to break Apple and Google’s ‘effective duopoly’ on mobile app stores",
     "link": "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma",
     "summary": "<p>CMA says developers should be able to steer users away from app stores for payments to increase competition</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The UK’s <a href=\"https://www.theguardian.com/business/competition-commission\">competition watchdog</a> is challenging Apple and Google’s <a href=\"https://www.theguardian.com/business/2025/jul/23/uk-watchdog-to-take-action-over-apple-and-googles-mobile-platforms\">“effective duopoly” over mobile platforms</a> by allowing developers to steer users away from their app stores to make purchases.</p><p>The Competition and Markets Authority argues that consumers and app owners are being let down by Apple and Google restrictions on spending money outside their app stores.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma\">Continue reading...</a>",
     "author": "Dan Milmo Global technology editor",
-    "published": "Tue, 30 Jun 2026 10:53:49 GMT",
+    "published": "Tue, 30 Jun 2026 14:32:03 GMT",
     "tags": [
       "Technology sector",
       "Competition and Markets Authority",
@@ -1197,6 +1183,24 @@
     "module": "应用落地"
   },
   {
+    "title": "Silicon Valley donations make Colorado Democratic primary one of state’s most expensive",
+    "link": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
+    "summary": "<p>Manny Rutinel’s House campaign draws millions from big tech as pro- and anti-AI factions spar over regulation</p><p>Political groups funded by top tech executives have been homing in on one local race in Colorado, as the state’s Democratic primary vote gets under way on Tuesday. Democrat Manny Rutinel, who’s running in the competitive eighth congressional district for a seat in the House, has seen his campaign boosted with at least $2m in donations from committees led by the former Google CEO Eric Schmidt and crypto billionaire Chris Larsen.</p><p>Rutinel is a progressive candidate running against former state representative and centrist Democrat Shannon Bird. During his campaign, he has focused on his Latino heritage and centered his platform around affordability and regulating Immigrations and Customs Enforcement (ICE).</p> <a href=\"https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary\">Continue reading...</a>",
+    "author": "Dara Kerr",
+    "published": "Tue, 30 Jun 2026 15:26:09 GMT",
+    "tags": [
+      "Technology",
+      "US politics",
+      "US midterm elections 2026",
+      "US news",
+      "AI (artificial intelligence)",
+      "Silicon Valley",
+      "Colorado"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Rocky week for AI as shares slump but no sign of crash – yet",
     "link": "https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares",
     "summary": "<p>The markets are souring on artificial intelligence, but is this the bubble being burst? Meanwhile, California proposes a tax on billionaires</p><p>Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you after fending off sunburns at the beach. Today, we’re discussing a rocky week for the AI industry’s finances and how California’s proposed billionaire’s tax is changing the political posture of the state’s governor.</p><p><a href=\"https://www.theguardian.com/uk-news/2026/jun/15/effects-uk-social-media-ban-under-16s-enforcement\">Impact of social media ban for under-16s in UK hinges on how firm it is</a></p><p><a href=\"https://www.theguardian.com/uk-news/2026/jun/15/uk-under-16s-social-media-ban-how-will-it-work\">UK under-16s social media ban: which apps will be blocked and how will it work?</a></p><p><a href=\"https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point\">‘Tech firms are losing the public’: social media age bans near tipping point</a></p><p><a href=\"https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos\">OpenAI staggers AI model release after Trump administration request</a></p><p><a href=\"https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns\">Meta pauses employee tracker for AI training amid privacy concerns</a></p><p><a href=\"https://www.theguardian.com/us-news/2026/jun/28/government-website-visitor-tracking-surveillance-fears\">‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears</a></p><p><a href=\"https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot\">California billionaire tax will appear on ballot after deadline for deal passes | Technology | The Guardian</a></p> <a href=\"https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares\">Continue reading...</a>",
@@ -1241,23 +1245,18 @@
     "module": "应用落地"
   },
   {
-    "title": "OpenAI staggers AI model release after Trump administration request",
-    "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
-    "summary": "<p>Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>OpenAI is staggering the release of its latest AI model after a request from the US government, in a move echoing the launch of Anthropic’s Mythos product.</p><p>The company behind ChatGPT signalled its dissatisfaction with the move, saying that doing so keeps the best AI tools from “users, developers, enterprises, cyber defenders, and global partners who need them”.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos\">Continue reading...</a>",
-    "author": "Dan Milmo Global technology editor",
-    "published": "Fri, 26 Jun 2026 14:06:11 GMT",
+    "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans",
+    "link": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
+    "summary": "<p>The US motor company found that the hundreds of AI cameras being used for design and manufacturing checks were prone to pitfalls</p><p><strong>Name:</strong> “Greybeards.”</p><p><strong>Age:</strong> There’s a clue in the name.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers\">Continue reading...</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 15:04:58 GMT",
     "tags": [
-      "OpenAI",
       "AI (artificial intelligence)",
-      "Anthropic",
-      "Technology",
-      "Technology sector",
-      "Business",
-      "US news",
-      "World news",
+      "Engineering",
+      "Motoring",
+      "Work & careers",
       "Computing",
-      "Hacking",
-      "Trump administration"
+      "Technology"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1318,20 +1317,18 @@
     "module": "应用落地"
   },
   {
-    "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
-    "link": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
-    "summary": "<p>A niche type of fraud is lucrative enough for criminals to set up fake websites with dodgy software to harvest your data</p><p>After holding them for a few years, you have decided it is time to cash in your cryptocurrency holdings. The problem is, it is so long since you set up the digital wallet which manages them on your laptop, you have forgotten the lengthy access code.</p><p>Stressed at the thought of losing thousands of pounds, you search and download a program which promises to recover the 24-word “seed phrase” which gives you access to your cypto assets.</p> <a href=\"https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data\">Continue reading...</a>",
-    "author": "Shane Hickey",
-    "published": "Sun, 28 Jun 2026 06:00:01 GMT",
+    "title": "Doubt that Elon Musk ‘earned’ his trillion? Rightwing media says you’re in an ‘impotent envy cult’ | Arwa Mahdawi",
+    "link": "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media",
+    "summary": "<p>The lovefest from Musk’s conservative fans completely overlooks the unscrupulous tactics behind his immense wealth</p><p>For 12 glorious days in June, Elon Musk experienced something nobody else in the history of humankind has ever experienced: <a href=\"https://www.theguardian.com/technology/2026/jun/12/elon-musk-spacex-net-worth\">trillionaire</a> status.</p><p>Did all those zeros make Musk happy? Did the army of children he has sired love him more? Did he find inner peace? We’ll never know because Musk was dragged back to being a boring old billionaire <a href=\"https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex\">last Wednesday</a>, after shares in Tesla and SpaceX plunged amid a broader tech sell-off.</p> <a href=\"https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media\">Continue reading...</a>",
+    "author": "Arwa Mahdawi",
+    "published": "Tue, 30 Jun 2026 11:00:05 GMT",
     "tags": [
-      "Cryptocurrencies",
-      "Money",
-      "Scams",
-      "Consumer affairs",
-      "E-commerce",
+      "Elon Musk",
+      "The super-rich",
       "Technology",
-      "Banking",
-      "UK news",
+      "Tesla",
+      "SpaceX",
+      "Stock markets",
       "Business"
     ],
     "source": "https://www.theguardian.com",
@@ -1386,28 +1383,6 @@
       "Music",
       "Culture",
       "Computing"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How big tech got its way on Trump’s AI executive order",
-    "link": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-    "summary": "<p>The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power</p><p>Only hours before <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> models before their release, the president abruptly <a href=\"https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates?page=with%3Ablock-6a102b318f089865cf41acd6#block-6a102b318f089865cf41acd6\">backed out</a>. Despite growing public backlash to the technology and experts warning new models will pose critical security risks, Trump vowed the US government would not slow down the AI race.</p><p>During a meeting with reporters on Thursday, Trump cited both American dominance and competition with China and as his reasoning behind the reversal.</p> <a href=\"https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech\">Continue reading...</a>",
-    "author": "Nick Robins-Early",
-    "published": "Sat, 23 May 2026 14:00:29 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Donald Trump",
-      "Technology",
-      "US politics",
-      "US news",
-      "Computing",
-      "Trump administration",
-      "World news",
-      "Republicans",
-      "OpenAI",
-      "Technology sector"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1566,6 +1541,25 @@
     "module": "应用落地"
   },
   {
+    "title": "Citizen Vigilante review – Armie Hammer returns to obliterate the imaginary woke piñata of Europe-stan",
+    "link": "https://www.theguardian.com/film/2026/jun/30/citizen-vigilante-review-armie-hammer-uwe-boll",
+    "summary": "<p>Low-budget film-maker Uwe Boll sets Hammer up for a further fall from grace by cannibalising all manner of tired tropes in this incoherent schlocker</p><p>Oh, Armie Hammer! Has it come to this? It doesn’t seem that long since you were in the Oscar-winning film <a href=\"https://www.theguardian.com/film/2017/oct/26/call-me-by-your-name-review-luca-guadagnino-armie-hammer\">Call Me By Your Name</a> giving a sensitive liberal performance opposite Timothée Chalamet. Now here you are, striding around the streets and public parks of Zagreb, shooting Muslims, tasering teens and topping complicit deep-state judges to protest against what your character robustly describes as an “unfriendly takeover by Islamist extremists and the blind-sided woke left”.</p><p>Much has happened to this once garlanded actor and great-grandson of oil tycoon Armand Hammer. His reputation plummeted after <a href=\"https://www.theguardian.com/film/2021/mar/18/armie-hammer-accused-rape-2017-effie\">allegations of sexual assault by former partners in 2021</a>, relationships that Hammer has maintained were consensual. Criminal <a href=\"https://www.theguardian.com/film/2023/may/31/armie-hammer-sexual-assault-charges-los-angeles-case\">charges were since dropped</a> for lack of evidence, Hammer has now returned to the silver screen – and here he is in a very cheap, incoherent and embarrassingly badly acted schlocker, written, produced and directed by Germany’s low-budget exploitation maestro Uwe Boll, which cannibalises all manner of revenge tropes. More importantly, <a href=\"https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante\">the film has been promoted and publicised globally online</a> with monumental hypocrisy by Elon Musk who like JD Vance is very keen to divert America’s attention from its own issues to the fiercely imagined lawless migrant-caliphate of Europe-stan. It’s another piece of shit to flood the zone.</p> <a href=\"https://www.theguardian.com/film/2026/jun/30/citizen-vigilante-review-armie-hammer-uwe-boll\">Continue reading...</a>",
+    "author": "Peter Bradshaw",
+    "published": "Tue, 30 Jun 2026 17:00:06 GMT",
+    "tags": [
+      "Film",
+      "Armie Hammer",
+      "Thrillers",
+      "Elon Musk",
+      "Culture",
+      "Technology",
+      "Migration",
+      "World news"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "The best fans to keep you cool in 2026 – tried and tested",
     "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
     "summary": "<p>As temperatures soar across the UK, chill your space – and avoid energy-guzzling aircon – with our pick of the best fans, from tower to desk to bladeless</p><p><strong>• </strong><a href=\"https://www.theguardian.com/thefilter/2025/aug/12/best-portable-neck-handheld-fans-uk\"><strong>The best portable neck and handheld fans</strong></a><strong><br />• </strong><a href=\"https://www.theguardian.com/thefilter/2026/jun/24/dyson-hushjet-mini-cool-handheld-fan-review\"><strong>Dyson HushJet Mini Cool fan review</strong></a></p><p>Our world is getting <a href=\"https://www.theguardian.com/environment/2026/may/20/uk-built-for-climate-that-no-longer-exists-and-needs-urgent-changes-to-survive-global-heating-report-warns\">hotter</a>. Summer heatwaves are so frequent, they’re stretching the bounds of what we think of as summer. Hot-and-bothered home working and sweaty, sleepless nights are now alarmingly common.</p><p>Get a good fan and you can dodge the temptation of air conditioning. Aircon is incredibly effective, but it uses a lot of electricity … and burning fossil fuels is how we got into this mess in the first place. Save money and carbon by opting for a great fan instead.</p><p><strong>Best quiet fan for the bedroom and best overall:<br /></strong>AirCraft Lume – <em>preorder now for delivery early July, or consider the <a href=\"https://aircraftvacuums.com/product/airlume/\">cordless version (£179)</a> or <a href=\"https://aircraftvacuums.com/product/lume-midi-fan-air-circulator/\">table fan (£129)</a> for faster delivery</em></p><p><strong>Best budget fan and best desk fan:<br /></strong>Devola desk fan <em>– currently out of stock</em></p> <a href=\"https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk\">Continue reading...</a>",
@@ -1607,23 +1601,6 @@
       "Life and style",
       "Gadgets",
       "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Reverse Centaur’s Guide to Life After AI by Cory Doctorow review – the real price of artificial intelligence",
-    "link": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
-    "summary": "<p>A vivid and entertaining polemic on the economics of the tech revolution, filled with righteous ire</p><p>As former Google CEO Eric Schmidt &nbsp;could tell you, AI is a hard sell these days. Last month, he tried talking up&nbsp;the AI revolution during a <a href=\"https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed\">commencement address</a> at the University of Arizona and was loudly booed by students about to enter an AI-ravaged job market. His discombobulation was telling.</p><p>Schmidt is not the only AI booster to crash out with students recently as the popular backlash grows. Every week brings a new story about some writer, publisher or academic who has torched their reputation by using an unreliable chatbot. Most US voters are opposed to the construction of vast, resource-guzzling new datacentres. A <a href=\"https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/\">majority believe</a> AI will negatively impact not just jobs but creativity and human relationships. In some quarters, saying that AI has any benefits at all is akin to saying that biological warfare gets a bad rap. As a New York Times column <a href=\"https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html\">put it</a>: “AI populism is here. And no one is ready.”</p> <a href=\"https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence\">Continue reading...</a>",
-    "author": "Dorian Lynskey",
-    "published": "Mon, 22 Jun 2026 06:00:52 GMT",
-    "tags": [
-      "Science and nature books",
-      "Books",
-      "Culture",
-      "AI (artificial intelligence)",
-      "Technology",
-      "Computing"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1693,6 +1670,35 @@
     "module": "前沿探索"
   },
   {
+    "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
+    "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html",
+    "summary": "Bending Spoons, an Italian company that buys aging internet companies, is going public this week at a potential value of $19 billion.",
+    "author": "Erin Griffith",
+    "published": "Tue, 30 Jun 2026 17:41:22 +0000",
+    "tags": [
+      "Computers and the Internet",
+      "Mergers, Acquisitions and Divestitures",
+      "Initial Public Offerings",
+      "Mobile Applications",
+      "Artificial Intelligence",
+      "Layoffs and Job Reductions",
+      "Start-ups",
+      "Venture Capital",
+      "Brightcove Inc",
+      "Eventbrite",
+      "Evernote Corp",
+      "Imgur LLC",
+      "Kik Messenger",
+      "Vimeo LLC",
+      "Krishnan, Sriram",
+      "Milan (Italy)",
+      "Luca Ferrari",
+      "Small Business"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
     "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
     "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
     "summary": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
@@ -1740,11 +1746,61 @@
     "published": "Tue, 30 Jun 2026 04:46:32 +0000",
     "tags": [
       "Artificial Intelligence",
+      "Elections",
+      "Voting and Voters",
+      "Political Advertising",
+      "Research",
+      "United States Politics and Government",
       "Midterm Elections (2026)",
       "Democratic Party",
-      "Republican Party",
-      "Wilson, Eric",
-      "Pennsylvania"
+      "Republican Party"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "BMW Will Build a New Electric S.U.V. in South Carolina",
+    "link": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html",
+    "summary": "The German company is doubling down on electric vehicles even as other automakers pull back after acknowledging billions of dollars in losses.",
+    "author": "Jack Ewing",
+    "published": "Tue, 30 Jun 2026 15:00:06 +0000",
+    "tags": [
+      "Automobiles",
+      "Electric and Hybrid Vehicles",
+      "Factories and Manufacturing",
+      "Oil (Petroleum) and Gasoline",
+      "International Trade and World Market",
+      "Batteries",
+      "Production",
+      "Sports Utility Vehicles and Light Trucks",
+      "Bayerische Motorenwerke AG",
+      "Ford Motor Co",
+      "General Motors",
+      "Honda Motor Co Ltd",
+      "Stellantis NV",
+      "Spartanburg (SC)"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Many Child Safety Features on Social Apps Don’t Work, Report Finds",
+    "link": "https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html",
+    "summary": "Researchers found that teens can discover harmful content, connect with unknown adults and easily bypass time limits.",
+    "author": "Jennifer Valentino-DeVries",
+    "published": "Mon, 29 Jun 2026 16:24:41 +0000",
+    "tags": [
+      "Social Media",
+      "Children and Childhood",
+      "Teenagers and Adolescence",
+      "Research",
+      "Instagram Inc",
+      "Snap Inc",
+      "YouTube.com",
+      "TikTok (ByteDance)",
+      "New York University",
+      "Northeastern University",
+      "Computers and the Internet"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -1767,27 +1823,6 @@
     ],
     "source": "https://rss.nytimes.com",
     "module": "前沿探索"
-  },
-  {
-    "title": "Many Child Safety Features on Social Apps Don’t Work, Report Finds",
-    "link": "https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html",
-    "summary": "Researchers found that teens can discover harmful content, connect with unknown adults and easily bypass time limits.",
-    "author": "Jennifer Valentino-DeVries",
-    "published": "Mon, 29 Jun 2026 16:24:40 +0000",
-    "tags": [
-      "Social Media",
-      "Children and Childhood",
-      "Research",
-      "Computers and the Internet",
-      "Teenagers and Adolescence",
-      "Youth",
-      "Instagram Inc",
-      "Snap Inc",
-      "YouTube.com",
-      "TikTok (ByteDance)"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
   },
   {
     "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
@@ -2119,23 +2154,13 @@
     "module": "应用落地"
   },
   {
-    "title": "Meta Has Created a Prediction Markets App",
-    "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
-    "summary": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
-    "author": "Mike Isaac and David Yaffe-Bellany",
-    "published": "Tue, 23 Jun 2026 22:42:38 +0000",
-    "tags": [
-      "Meta Platforms Inc",
-      "Prediction Markets",
-      "Mobile Applications",
-      "Social Media",
-      "Computers and the Internet",
-      "Zuckerberg, Mark E",
-      "Kalshi Inc",
-      "Polymarket (Adventure One QSS Inc)",
-      "internal-open-access-from-nl"
-    ],
-    "source": "https://rss.nytimes.com",
+    "title": "Why I switched to wireless security cameras after years of testing wired models",
+    "link": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+    "summary": "After using multiple security cameras from Ring, Blink, and more, I've found the best arrangement for my home.",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 14:33:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
     "module": "应用落地"
   },
   {
@@ -2324,16 +2349,6 @@
     "summary": "Sony's and Sennheiser's flagship headphones are best in their class, but how you plan to use them determines whether they're top one.",
     "author": "",
     "published": "Mon, 29 Jun 2026 12:00:38 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "8 plug-in gadgets that take your outlets from basic to better (including a lifesaver)",
-    "link": "https://www.zdnet.com/article/best-wall-outlet-gadgets/",
-    "summary": "These plug-in gadgets make your home's routine easier. Here's why I recommend them.",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 10:00:39 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2676,6 +2691,56 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "California bill to preserve online games fails committee vote",
+    "link": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
+    "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
+    "author": "staff@engadget.com (Kris Holt)",
+    "published": "Tue, 30 Jun 2026 16:11:47 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Super Mario Galaxy Movie launches onto Peacock on July 30",
+    "link": "https://www.engadget.com/2205013/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/",
+    "summary": "The second animated Mario movie made over a billion dollars.",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "published": "Tue, 30 Jun 2026 15:54:00 +0000",
+    "tags": [
+      "Nintendo",
+      "TV & Movies"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "All the Apple products avoiding the price hike (for now)",
+    "link": "https://www.engadget.com/2204455/all-the-apple-products-avoiding-the-price-hike-for-now/",
+    "summary": "All the Apple products avoiding the price hike (for now)",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "published": "Tue, 30 Jun 2026 15:30:00 +0000",
+    "tags": [
+      "Apple"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Google's Gmail Live AI feature is now available in beta",
+    "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
+    "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
+    "author": "staff@engadget.com (Matt Tate)",
+    "published": "Tue, 30 Jun 2026 14:29:36 +0000",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Clicks shows off its Communicator smartphone with a Blackberry-like keyboard",
     "link": "https://www.engadget.com/2204851/clicks-shows-off-its-communicator-smartphone-with-a-blackberry-like-keyboard/",
     "summary": "Clicks has released the first hands-on video of its Blackberry like Communicator Android phone.",
@@ -2870,55 +2935,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Half of social media child safety features don't work, report claims",
-    "link": "https://www.engadget.com/2203983/half-of-social-media-child-safety-features-dont-work-report-claims/",
-    "summary": "A new report found half of social media safety features intended to keep children safe online do not work as claimed.",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "published": "Mon, 29 Jun 2026 16:04:30 +0000",
-    "tags": [
-      "Social Media"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "WhatsApp introduces usernames so you can chat without phone numbers",
-    "link": "https://www.engadget.com/2203162/whatsapp-usernames-chat-without-phone-numbers/",
-    "summary": "WhatsApp is launching usernames later this year, but you can reserve yours starting this week.",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "published": "Mon, 29 Jun 2026 16:00:00 +0000",
-    "tags": [
-      "Apps"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Don't like Gemini? Here's how to roll back to Google Assistant on your Android phone",
-    "link": "https://www.engadget.com/2203705/how-to-replace-gemini-with-google-assistant/",
-    "summary": "Want to go back to your ex... AI assistant? We don't blame you. Take these steps to get Google Assistant back after your fling with Gemini.",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "published": "Mon, 29 Jun 2026 15:30:00 +0000",
-    "tags": [
-      "AI",
-      "Smartphones"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Comcast spins off NBCUniversal as it exits media entirely",
-    "link": "https://www.engadget.com/2203860/comcast-spins-off-nbcuniversal-as-it-exits-media-entirely/",
-    "summary": "Comcast plans to spin out NBCUniversal and leave the entertainment business.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Mon, 29 Jun 2026 15:03:08 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
     "link": "https://arxiv.org/abs/2110.01831v1",
     "summary": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
@@ -3079,21 +3095,21 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
-    "link": "https://arxiv.org/abs/2310.09243v1",
-    "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
-    "author": "Pirouz Nourian, Shervin Azadi, Roy Uijtendaal, Nan Bai",
-    "published": "2023-10-13T16:47:35Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Modular Belief Updates and Confusion about Measures of Certainty in Artificial Intelligence Research",
     "link": "https://arxiv.org/abs/1407.7281v1",
     "summary": "Over the last decade, there has been growing interest in the use or measures or change in belief for reasoning with uncertainty in artificial intelligence research. An important characteristic of several methodologies that reason with changes in belief or belief updates, is a property that we term modularity. We call updates that satisfy this property modular updates. Whereas probabilistic measures of belief update - which satisfy the modularity property were first discovered in the nineteenth century, knowledge and discussion of these quantities remains obscure in artificial intelligence research. We define modular updates and discuss their inappropriate use in two influential expert systems.",
     "author": "Eric J. Horvitz, David Heckerman",
     "published": "2014-07-27T20:37:36Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
+    "link": "https://arxiv.org/abs/2310.09243v1",
+    "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
+    "author": "Pirouz Nourian, Shervin Azadi, Roy Uijtendaal, Nan Bai",
+    "published": "2023-10-13T16:47:35Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3189,16 +3205,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Blue Sky Ideas in Artificial Intelligence Education from the EAAI 2017 New and Future AI Educator Program",
-    "link": "https://arxiv.org/abs/1702.00137v1",
-    "summary": "The 7th Symposium on Educational Advances in Artificial Intelligence (EAAI'17, co-chaired by Sven Koenig and Eric Eaton) launched the EAAI New and Future AI Educator Program to support the training of early-career university faculty, secondary school faculty, and future educators (PhD candidates or postdocs who intend a career in academia). As part of the program, awardees were asked to address one of the following \"blue sky\" questions:\n  * How could/should Artificial Intelligence (AI) courses incorporate ethics into the curriculum?\n  * How could we teach AI topics at an early undergraduate or a secondary school level?\n  * AI has the potential for broad impact to numerous disciplines. How could we make AI education more interdisciplinary, specifically to benefit non-engineering fields?\n  This paper is a collection of their responses, intended to help motivate discussion around these issues in AI education.",
-    "author": "Eric Eaton, Sven Koenig, Claudia Schulz, Francesco Maurelli, John Lee, Joshua Eckroth, Mark Crowley, Richard G. Freedman, Rogelio E. Cardona-Rivera, Tiago Machado, Tom Williams",
-    "published": "2017-02-01T05:16:55Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "Enterprise AI Canvas -- Integrating Artificial Intelligence into Business",
     "link": "https://arxiv.org/abs/2009.11190v1",
     "summary": "Artificial Intelligence (AI) and Machine Learning have enormous potential to transform businesses and disrupt entire industry sectors. However, companies wishing to integrate algorithmic decisions into their face multiple challenges: They have to identify use-cases in which artificial intelligence can create value, as well as decisions that can be supported or executed automatically. Furthermore, the organization will need to be transformed to be able to integrate AI based systems into their human work-force. Furthermore, the more technical aspects of the underlying machine learning model have to be discussed in terms of how they impact the various units of a business: Where do the relevant data come from, which constraints have to be considered, how is the quality of the data and the prediction evaluated?\n  The Enterprise AI canvas is designed to bring Data Scientist and business expert together to discuss and define all relevant aspects which need to be clarified in order to integrate AI based systems into a digital enterprise. It consists of two parts where part one focuses on the business view and organizational aspects, whereas part two focuses on the underlying machine learning model and the data it uses.",
@@ -3209,14 +3215,14 @@
     "module": "应用落地"
   },
   {
-    "title": "The Challenge of Imputation in Explainable Artificial Intelligence Models",
-    "link": "https://arxiv.org/abs/1907.12669v1",
-    "summary": "Explainable models in Artificial Intelligence are often employed to ensure transparency and accountability of AI systems. The fidelity of the explanations are dependent upon the algorithms used as well as on the fidelity of the data. Many real world datasets have missing values that can greatly influence explanation fidelity. The standard way to deal with such scenarios is imputation. This can, however, lead to situations where the imputed values may correspond to a setting which refer to counterfactuals. Acting on explanations from AI models with imputed values may lead to unsafe outcomes. In this paper, we explore different settings where AI models with imputation can be problematic and describe ways to address such scenarios.",
-    "author": "Muhammad Aurangzeb Ahmad, Carly Eckert, Ankur Teredesai",
-    "published": "2019-07-29T22:06:21Z",
+    "title": "Blue Sky Ideas in Artificial Intelligence Education from the EAAI 2017 New and Future AI Educator Program",
+    "link": "https://arxiv.org/abs/1702.00137v1",
+    "summary": "The 7th Symposium on Educational Advances in Artificial Intelligence (EAAI'17, co-chaired by Sven Koenig and Eric Eaton) launched the EAAI New and Future AI Educator Program to support the training of early-career university faculty, secondary school faculty, and future educators (PhD candidates or postdocs who intend a career in academia). As part of the program, awardees were asked to address one of the following \"blue sky\" questions:\n  * How could/should Artificial Intelligence (AI) courses incorporate ethics into the curriculum?\n  * How could we teach AI topics at an early undergraduate or a secondary school level?\n  * AI has the potential for broad impact to numerous disciplines. How could we make AI education more interdisciplinary, specifically to benefit non-engineering fields?\n  This paper is a collection of their responses, intended to help motivate discussion around these issues in AI education.",
+    "author": "Eric Eaton, Sven Koenig, Claudia Schulz, Francesco Maurelli, John Lee, Joshua Eckroth, Mark Crowley, Richard G. Freedman, Rogelio E. Cardona-Rivera, Tiago Machado, Tom Williams",
+    "published": "2017-02-01T05:16:55Z",
     "tags": [],
     "source": "arXiv",
-    "module": "应用落地"
+    "module": "基础设施与工具"
   },
   {
     "title": "Dungeon Crawl Stone Soup as an Evaluation Domain for Artificial Intelligence",
@@ -3237,6 +3243,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "基础设施与工具"
+  },
+  {
+    "title": "The Challenge of Imputation in Explainable Artificial Intelligence Models",
+    "link": "https://arxiv.org/abs/1907.12669v1",
+    "summary": "Explainable models in Artificial Intelligence are often employed to ensure transparency and accountability of AI systems. The fidelity of the explanations are dependent upon the algorithms used as well as on the fidelity of the data. Many real world datasets have missing values that can greatly influence explanation fidelity. The standard way to deal with such scenarios is imputation. This can, however, lead to situations where the imputed values may correspond to a setting which refer to counterfactuals. Acting on explanations from AI models with imputed values may lead to unsafe outcomes. In this paper, we explore different settings where AI models with imputation can be problematic and describe ways to address such scenarios.",
+    "author": "Muhammad Aurangzeb Ahmad, Carly Eckert, Ankur Teredesai",
+    "published": "2019-07-29T22:06:21Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Artificial Decision Making Under Uncertainty in Intelligent Buildings",
@@ -3319,16 +3335,6 @@
     "module": "前沿探索"
   },
   {
-    "title": "Levels of explainable artificial intelligence for human-aligned conversational explanations",
-    "link": "https://arxiv.org/abs/2107.03178v1",
-    "summary": "Over the last few years there has been rapid research growth into eXplainable Artificial Intelligence (XAI) and the closely aligned Interpretable Machine Learning (IML). Drivers for this growth include recent legislative changes and increased investments by industry and governments, along with increased concern from the general public. People are affected by autonomous decisions every day and the public need to understand the decision-making process to accept the outcomes. However, the vast majority of the applications of XAI/IML are focused on providing low-level `narrow' explanations of how an individual decision was reached based on a particular datum. While important, these explanations rarely provide insights into an agent's: beliefs and motivations; hypotheses of other (human, animal or AI) agents' intentions; interpretation of external cultural expectations; or, processes used to generate its own explanation. Yet all of these factors, we propose, are essential to providing the explanatory depth that people require to accept and trust the AI's decision-making. This paper aims to define levels of explanation and describe how they can be integrated to create a human-aligned conversational explanation system. In so doing, this paper will survey current approaches and discuss the integration of different technologies to achieve these levels with Broad eXplainable Artificial Intelligence (Broad-XAI), and thereby move towards high-level `strong' explanations.",
-    "author": "Richard Dazeley, Peter Vamplew, Cameron Foale, Charlotte Young, Sunil Aryal, Francisco Cruz",
-    "published": "2021-07-07T12:19:16Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Artificial intelligence for sustainable wine industry: AI-driven management in viticulture, wine production and enotourism",
     "link": "https://arxiv.org/abs/2507.21098v1",
     "summary": "This study examines the role of Artificial Intelligence (AI) in enhancing sustainability and efficiency within the wine industry. It focuses on AI-driven intelligent management in viticulture, wine production, and enotourism. As the wine industry faces environmental and economic challenges, AI offers innovative solutions to optimize resource use, reduce environmental impact, and improve customer engagement. Understanding AI's potential in sustainable winemaking is crucial for fostering responsible and efficient industry practices. The research is based on a questionnaire survey conducted among Polish winemakers, combined with a comprehensive analysis of AI methods applicable to viticulture, production, and tourism. Key AI technologies, including predictive analytics, machine learning, and computer vision, are explored. The findings indicate that AI enhances vineyard monitoring, optimizes irrigation, and streamlines production processes, contributing to sustainable resource management. In enotourism, AI-powered chatbots, recommendation systems, and virtual tastings personalize consumer experiences. The study highlights AI's impact on economic, environmental, and social sustainability, supporting local wine enterprises and cultural heritage. Keywords: Artificial Intelligence, Sustainable Development, AI-Driven Management, Viticulture, Wine Production, Enotourism, Wine Enterprises, Local Communities",
@@ -3337,6 +3343,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Levels of explainable artificial intelligence for human-aligned conversational explanations",
+    "link": "https://arxiv.org/abs/2107.03178v1",
+    "summary": "Over the last few years there has been rapid research growth into eXplainable Artificial Intelligence (XAI) and the closely aligned Interpretable Machine Learning (IML). Drivers for this growth include recent legislative changes and increased investments by industry and governments, along with increased concern from the general public. People are affected by autonomous decisions every day and the public need to understand the decision-making process to accept the outcomes. However, the vast majority of the applications of XAI/IML are focused on providing low-level `narrow' explanations of how an individual decision was reached based on a particular datum. While important, these explanations rarely provide insights into an agent's: beliefs and motivations; hypotheses of other (human, animal or AI) agents' intentions; interpretation of external cultural expectations; or, processes used to generate its own explanation. Yet all of these factors, we propose, are essential to providing the explanatory depth that people require to accept and trust the AI's decision-making. This paper aims to define levels of explanation and describe how they can be integrated to create a human-aligned conversational explanation system. In so doing, this paper will survey current approaches and discuss the integration of different technologies to achieve these levels with Broad eXplainable Artificial Intelligence (Broad-XAI), and thereby move towards high-level `strong' explanations.",
+    "author": "Richard Dazeley, Peter Vamplew, Cameron Foale, Charlotte Young, Sunil Aryal, Francisco Cruz",
+    "published": "2021-07-07T12:19:16Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "A Classification of Artificial Intelligence Systems for Mathematics Education",
@@ -3549,6 +3565,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Hows and Whys of Artificial Intelligence for Public Sector Decisions: Explanation and Evaluation",
+    "link": "https://arxiv.org/abs/1810.02689v2",
+    "summary": "Evaluation has always been a key challenge in the development of artificial intelligence (AI) based software, due to the technical complexity of the software artifact and, often, its embedding in complex sociotechnical processes. Recent advances in machine learning (ML) enabled by deep neural networks has exacerbated the challenge of evaluating such software due to the opaque nature of these ML-based artifacts. A key related issue is the (in)ability of such systems to generate useful explanations of their outputs, and we argue that the explanation and evaluation problems are closely linked. The paper models the elements of a ML-based AI system in the context of public sector decision (PSD) applications involving both artificial and human intelligence, and maps these elements against issues in both evaluation and explanation, showing how the two are related. We consider a number of common PSD application patterns in the light of our model, and identify a set of key issues connected to explanation and evaluation in each case. Finally, we propose multiple strategies to promote wider adoption of AI/ML technologies in PSD, where each is distinguished by a focus on different elements of our model, allowing PSD policy makers to adopt an approach that best fits their context and concerns.",
+    "author": "Alun Preece, Rob Ashelford, Harry Armstrong, Dave Braines",
+    "published": "2018-09-28T09:38:13Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "False Sense of Security in Explainable Artificial Intelligence (XAI)",
     "link": "https://arxiv.org/abs/2405.03820v2",
     "summary": "A cautious interpretation of AI regulations and policy in the EU and the USA place explainability as a central deliverable of compliant AI systems. However, from a technical perspective, explainable AI (XAI) remains an elusive and complex target where even state of the art methods often reach erroneous, misleading, and incomplete explanations. \"Explainability\" has multiple meanings which are often used interchangeably, and there are an even greater number of XAI methods - none of which presents a clear edge. Indeed, there are multiple failure modes for each XAI method, which require application-specific development and continuous evaluation. In this paper, we analyze legislative and policy developments in the United States and the European Union, such as the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the AI Act, the AI Liability Directive, and the General Data Protection Regulation (GDPR) from a right to explanation perspective. We argue that these AI regulations and current market conditions threaten effective AI governance and safety because the objective of trustworthy, accountable, and transparent AI is intrinsically linked to the questionable ability of AI operators to provide meaningful explanations. Unless governments explicitly tackle the issue of explainability through clear legislative and policy statements that take into account technical realities, AI governance risks becoming a vacuous \"box-ticking\" exercise where scientific standards are replaced with legalistic thresholds, providing only a false sense of security in XAI.",
@@ -3569,11 +3595,11 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Hows and Whys of Artificial Intelligence for Public Sector Decisions: Explanation and Evaluation",
-    "link": "https://arxiv.org/abs/1810.02689v2",
-    "summary": "Evaluation has always been a key challenge in the development of artificial intelligence (AI) based software, due to the technical complexity of the software artifact and, often, its embedding in complex sociotechnical processes. Recent advances in machine learning (ML) enabled by deep neural networks has exacerbated the challenge of evaluating such software due to the opaque nature of these ML-based artifacts. A key related issue is the (in)ability of such systems to generate useful explanations of their outputs, and we argue that the explanation and evaluation problems are closely linked. The paper models the elements of a ML-based AI system in the context of public sector decision (PSD) applications involving both artificial and human intelligence, and maps these elements against issues in both evaluation and explanation, showing how the two are related. We consider a number of common PSD application patterns in the light of our model, and identify a set of key issues connected to explanation and evaluation in each case. Finally, we propose multiple strategies to promote wider adoption of AI/ML technologies in PSD, where each is distinguished by a focus on different elements of our model, allowing PSD policy makers to adopt an approach that best fits their context and concerns.",
-    "author": "Alun Preece, Rob Ashelford, Harry Armstrong, Dave Braines",
-    "published": "2018-09-28T09:38:13Z",
+    "title": "On the Limits of Design: What Are the Conceptual Constraints on Designing Artificial Intelligence for Social Good?",
+    "link": "https://arxiv.org/abs/2111.04165v1",
+    "summary": "Artificial intelligence AI can bring substantial benefits to society by helping to reduce costs, increase efficiency and enable new solutions to complex problems. Using Floridi's notion of how to design the 'infosphere' as a starting point, in this chapter I consider the question: what are the limits of design, i.e. what are the conceptual constraints on designing AI for social good? The main argument of this chapter is that while design is a useful conceptual tool to shape technologies and societies, collective efforts towards designing future societies are constrained by both internal and external factors. Internal constraints on design are discussed by evoking Hardin's thought experiment regarding 'the Tragedy of the Commons'. Further, Hayek's classical distinction between 'cosmos' and 'taxis' is used to demarcate external constraints on design. Finally, five design principles are presented which are aimed at helping policymakers manage the internal and external constraints on design. A successful approach to designing future societies needs to account for the emergent properties of complex systems by allowing space for serendipity and socio-technological coevolution.",
+    "author": "Jakob Mokander",
+    "published": "2021-11-07T19:56:13Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3587,16 +3613,6 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
-  },
-  {
-    "title": "On the Limits of Design: What Are the Conceptual Constraints on Designing Artificial Intelligence for Social Good?",
-    "link": "https://arxiv.org/abs/2111.04165v1",
-    "summary": "Artificial intelligence AI can bring substantial benefits to society by helping to reduce costs, increase efficiency and enable new solutions to complex problems. Using Floridi's notion of how to design the 'infosphere' as a starting point, in this chapter I consider the question: what are the limits of design, i.e. what are the conceptual constraints on designing AI for social good? The main argument of this chapter is that while design is a useful conceptual tool to shape technologies and societies, collective efforts towards designing future societies are constrained by both internal and external factors. Internal constraints on design are discussed by evoking Hardin's thought experiment regarding 'the Tragedy of the Commons'. Further, Hayek's classical distinction between 'cosmos' and 'taxis' is used to demarcate external constraints on design. Finally, five design principles are presented which are aimed at helping policymakers manage the internal and external constraints on design. A successful approach to designing future societies needs to account for the emergent properties of complex systems by allowing space for serendipity and socio-technological coevolution.",
-    "author": "Jakob Mokander",
-    "published": "2021-11-07T19:56:13Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
   },
   {
     "title": "Experts' View on Challenges and Needs for Fairness in Artificial Intelligence for Education",
@@ -3789,16 +3805,6 @@
     "module": "应用落地"
   },
   {
-    "title": "IMPACTX: improving model performance by appropriately constraining the training with teacher explanations",
-    "link": "https://arxiv.org/abs/2502.12222v2",
-    "summary": "The eXplainable Artificial Intelligence (XAI) research predominantly concentrates to provide explainations about AI model decisions, especially Deep Learning (DL) models. However, there is a growing interest in using XAI techniques to automatically improve the performance of the AI systems themselves.\n  This paper proposes IMPACTX, a novel approach that leverages XAI as a fully automated attention mechanism, without requiring external knowledge or human feedback. Experimental results show that IMPACTX has improved performance respect to the standalone ML model by integrating an attention mechanism based an XAI method outputs during the model training. Furthermore, IMPACTX directly provides proper feature attribution maps for the model's decisions, without relying on external XAI methods during the inference process.\n  Our proposal is evaluated using three widely recognized DL models (EfficientNet-B2, MobileNet, and LeNet-5) along with three standard image datasets: CIFAR-10, CIFAR-100, and STL-10. The results show that IMPACTX consistently improves the performance of all the inspected DL models across all evaluated datasets, and it directly provides appropriate explanations for its responses.",
-    "author": "Andrea Apicella, Salvatore Giugliano, Francesco Isgrò, Andrea Pollastro, Roberto Prevete",
-    "published": "2025-02-17T14:15:20Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "ShapG: new feature importance method based on the Shapley value",
     "link": "https://arxiv.org/abs/2407.00506v2",
     "summary": "With wide application of Artificial Intelligence (AI), it has become particularly important to make decisions of AI systems explainable and transparent. In this paper, we proposed a new Explainable Artificial Intelligence (XAI) method called ShapG (Explanations based on Shapley value for Graphs) for measuring feature importance. ShapG is a model-agnostic global explanation method. At the first stage, it defines an undirected graph based on the dataset, where nodes represent features and edges are added based on calculation of correlation coefficients between features. At the second stage, it calculates an approximated Shapley value by sampling the data taking into account this graph structure. The sampling approach of ShapG allows to calculate the importance of features efficiently, i.e. to reduce computational complexity. Comparison of ShapG with other existing XAI methods shows that it provides more accurate explanations for two examined datasets. We also compared other XAI methods developed based on cooperative game theory with ShapG in running time, and the results show that ShapG exhibits obvious advantages in its running time, which further proves efficiency of ShapG. In addition, extensive experiments demonstrate a wide range of applicability of the ShapG method for explaining complex models. We find ShapG an important tool in improving explainability and transparency of AI systems and believe it can be widely used in various fields.",
@@ -3817,6 +3823,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "IMPACTX: improving model performance by appropriately constraining the training with teacher explanations",
+    "link": "https://arxiv.org/abs/2502.12222v2",
+    "summary": "The eXplainable Artificial Intelligence (XAI) research predominantly concentrates to provide explainations about AI model decisions, especially Deep Learning (DL) models. However, there is a growing interest in using XAI techniques to automatically improve the performance of the AI systems themselves.\n  This paper proposes IMPACTX, a novel approach that leverages XAI as a fully automated attention mechanism, without requiring external knowledge or human feedback. Experimental results show that IMPACTX has improved performance respect to the standalone ML model by integrating an attention mechanism based an XAI method outputs during the model training. Furthermore, IMPACTX directly provides proper feature attribution maps for the model's decisions, without relying on external XAI methods during the inference process.\n  Our proposal is evaluated using three widely recognized DL models (EfficientNet-B2, MobileNet, and LeNet-5) along with three standard image datasets: CIFAR-10, CIFAR-100, and STL-10. The results show that IMPACTX consistently improves the performance of all the inspected DL models across all evaluated datasets, and it directly provides appropriate explanations for its responses.",
+    "author": "Andrea Apicella, Salvatore Giugliano, Francesco Isgrò, Andrea Pollastro, Roberto Prevete",
+    "published": "2025-02-17T14:15:20Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "基础设施与工具"
   },
   {
     "title": "Symbol Emergence and The Solutions to Any Task",
@@ -3839,6 +3855,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era",
+    "link": "https://arxiv.org/abs/2603.03177v1",
+    "summary": "The integration of symbolic computing with neural networks has intrigued researchers since the first theorizations of Artificial intelligence (AI). The ability of Neuro-Symbolic (NeSy) methods to infer or exploit behavioral schema has been widely considered as one of the possible proxies for human-level intelligence. However, the limited semantic generalizability and the challenges in declining complex domains with pre-defined patterns and rules hinder their practical implementation in real-world scenarios. The unprecedented results achieved by connectionist systems since the last AI breakthrough in 2017 have raised questions about the competitiveness of NeSy solutions, with particular emphasis on the Natural Language Processing and Computer Vision fields. This survey examines task-specific advancements in the NeSy domain to explore how incorporating symbolic systems can enhance explainability and reasoning capabilities. Our findings are meant to serve as a resource for researchers exploring explainable NeSy methodologies for real-life tasks and applications. Reproducibility details and in-depth comments on each surveyed research work are made available at https://github.com/disi-unibo-nlp/task-oriented-neuro-symbolic.git.",
+    "author": "Giovanni Pio Delvecchio, Lorenzo Molfetta, Gianluca Moro",
+    "published": "2026-03-03T17:34:45Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review",
     "link": "https://arxiv.org/abs/2201.09130v2",
     "summary": "Death by suicide is the seventh leading death cause worldwide. The recent advancement in Artificial Intelligence (AI), specifically AI applications in image and voice processing, has created a promising opportunity to revolutionize suicide risk assessment. Subsequently, we have witnessed fast-growing literature of research that applies AI to extract audiovisual non-verbal cues for mental illness assessment. However, the majority of the recent works focus on depression, despite the evident difference between depression symptoms and suicidal behavior and non-verbal cues. This paper reviews recent works that study suicide ideation and suicide behavior detection through audiovisual feature analysis, mainly suicidal voice/speech acoustic features analysis and suicidal visual cues. Automatic suicide assessment is a promising research direction that is still in the early stages. Accordingly, there is a lack of large datasets that can be used to train machine learning and deep learning models proven to be effective in other, similar tasks.",
@@ -3854,16 +3880,6 @@
     "summary": "Microarray is one of the essential technologies used by the biologist to measure genome-wide expression levels of genes in a particular organism under some particular conditions or stimuli. As microarrays technologies have become more prevalent, the challenges of analyzing these data for getting better insight about biological processes have essentially increased. Due to availability of artificial intelligence based sophisticated computational techniques, such as artificial neural networks, fuzzy logic, genetic algorithms, and many other nature-inspired algorithms, it is possible to analyse microarray gene expression data in more better way. Here, we reviewed artificial intelligence based techniques for the analysis of microarray gene expression data. Further, challenges in the field and future work direction have also been suggested.",
     "author": "Khalid Raza",
     "published": "2015-07-10T12:25:58Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era",
-    "link": "https://arxiv.org/abs/2603.03177v1",
-    "summary": "The integration of symbolic computing with neural networks has intrigued researchers since the first theorizations of Artificial intelligence (AI). The ability of Neuro-Symbolic (NeSy) methods to infer or exploit behavioral schema has been widely considered as one of the possible proxies for human-level intelligence. However, the limited semantic generalizability and the challenges in declining complex domains with pre-defined patterns and rules hinder their practical implementation in real-world scenarios. The unprecedented results achieved by connectionist systems since the last AI breakthrough in 2017 have raised questions about the competitiveness of NeSy solutions, with particular emphasis on the Natural Language Processing and Computer Vision fields. This survey examines task-specific advancements in the NeSy domain to explore how incorporating symbolic systems can enhance explainability and reasoning capabilities. Our findings are meant to serve as a resource for researchers exploring explainable NeSy methodologies for real-life tasks and applications. Reproducibility details and in-depth comments on each surveyed research work are made available at https://github.com/disi-unibo-nlp/task-oriented-neuro-symbolic.git.",
-    "author": "Giovanni Pio Delvecchio, Lorenzo Molfetta, Gianluca Moro",
-    "published": "2026-03-03T17:34:45Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3949,16 +3965,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Are Biological Systems More Intelligent Than Artificial Intelligence?",
-    "link": "https://arxiv.org/abs/2405.02325v7",
-    "summary": "Are biological self-organising systems more ``intelligent'' than artificial intelligence (AI)? If so, why? I address this question using a mathematical framework that defines intelligence in terms of adaptability. Systems are modelled as stacks of abstraction layers (\\emph{Stack Theory}) and compared by how effectively they delegate agentic control down their stacks. I illustrate this using computational, biological, military, governmental, and economic systems. Contemporary AI typically relies on static, human-engineered stacks whose lower layers are fixed during deployment. Put provocatively, such systems resemble inflexible bureaucracies that adapt only top-down. Biological systems are more intelligent because they delegate adaptation. Formally, I prove a theorem (\\emph{The Law of the Stack}) showing that adaptability at higher layers is bottlenecked by adaptability at lower layers. I further show that, under standard viability assumptions, maximising adaptability is equivalent to minimising variational free energy, implying that delegation is necessary for free-energy minimisation. Generalising bioelectric accounts of cancer as isolation from collective informational structures, I analyse cancer-like failure modes in non-biological systems when delegation is inadequate. This yields design principles for building robust systems via delegated control, and reframes hybrid agents (e.g. organoids or human--AI systems) as weak boundary-condition design problems in which constraints shape low-level policy spaces while preserving collective identity.",
-    "author": "Michael Timothy Bennett",
-    "published": "2024-04-23T00:13:14Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Past Visions of Artificial Futures: One Hundred and Fifty Years under the Spectre of Evolving Machines",
     "link": "https://arxiv.org/abs/1806.01322v1",
     "summary": "The influence of Artificial Intelligence (AI) and Artificial Life (ALife) technologies upon society, and their potential to fundamentally shape the future evolution of humankind, are topics very much at the forefront of current scientific, governmental and public debate. While these might seem like very modern concerns, they have a long history that is often disregarded in contemporary discourse. Insofar as current debates do acknowledge the history of these ideas, they rarely look back further than the origin of the modern digital computer age in the 1940s-50s. In this paper we explore the earlier history of these concepts. We focus in particular on the idea of self-reproducing and evolving machines, and potential implications for our own species. We show that discussion of these topics arose in the 1860s, within a decade of the publication of Darwin's The Origin of Species, and attracted increasing interest from scientists, novelists and the general public in the early 1900s. After introducing the relevant work from this period, we categorise the various visions presented by these authors of the future implications of evolving machines for humanity. We suggest that current debates on the co-evolution of society and technology can be enriched by a proper appreciation of the long history of the ideas involved.",
@@ -3967,6 +3973,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
+  },
+  {
+    "title": "Are Biological Systems More Intelligent Than Artificial Intelligence?",
+    "link": "https://arxiv.org/abs/2405.02325v7",
+    "summary": "Are biological self-organising systems more ``intelligent'' than artificial intelligence (AI)? If so, why? I address this question using a mathematical framework that defines intelligence in terms of adaptability. Systems are modelled as stacks of abstraction layers (\\emph{Stack Theory}) and compared by how effectively they delegate agentic control down their stacks. I illustrate this using computational, biological, military, governmental, and economic systems. Contemporary AI typically relies on static, human-engineered stacks whose lower layers are fixed during deployment. Put provocatively, such systems resemble inflexible bureaucracies that adapt only top-down. Biological systems are more intelligent because they delegate adaptation. Formally, I prove a theorem (\\emph{The Law of the Stack}) showing that adaptability at higher layers is bottlenecked by adaptability at lower layers. I further show that, under standard viability assumptions, maximising adaptability is equivalent to minimising variational free energy, implying that delegation is necessary for free-energy minimisation. Generalising bioelectric accounts of cancer as isolation from collective informational structures, I analyse cancer-like failure modes in non-biological systems when delegation is inadequate. This yields design principles for building robust systems via delegated control, and reframes hybrid agents (e.g. organoids or human--AI systems) as weak boundary-condition design problems in which constraints shape low-level policy spaces while preserving collective identity.",
+    "author": "Michael Timothy Bennett",
+    "published": "2024-04-23T00:13:14Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Can Autism be Catered with Artificial Intelligence-Assisted Intervention Technology? A Literature Review",
@@ -3999,6 +4015,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Artificial Intelligence and Arms Control",
+    "link": "https://arxiv.org/abs/2211.00065v1",
+    "summary": "Potential advancements in artificial intelligence (AI) could have profound implications for how countries research and develop weapons systems, and how militaries deploy those systems on the battlefield. The idea of AI-enabled military systems has motivated some activists to call for restrictions or bans on some weapon systems, while others have argued that AI may be too diffuse to control. This paper argues that while a ban on all military applications of AI is likely infeasible, there may be specific cases where arms control is possible. Throughout history, the international community has attempted to ban or regulate weapons or military systems for a variety of reasons. This paper analyzes both successes and failures and offers several criteria that seem to influence why arms control works in some cases and not others. We argue that success or failure depends on the desirability (i.e., a weapon's military value versus its perceived horribleness) and feasibility (i.e., sociopolitical factors that influence its success) of arms control. Based on these criteria, and the historical record of past attempts at arms control, we analyze the potential for AI arms control in the future and offer recommendations for what policymakers can do today.",
+    "author": "Paul Scharre, Megan Lamberth",
+    "published": "2022-10-22T16:09:41Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Explainable AI for Intelligence Augmentation in Multi-Domain Operations",
     "link": "https://arxiv.org/abs/1910.07563v1",
     "summary": "Central to the concept of multi-domain operations (MDO) is the utilization of an intelligence, surveillance, and reconnaissance (ISR) network consisting of overlapping systems of remote and autonomous sensors, and human intelligence, distributed among multiple partners. Realising this concept requires advancement in both artificial intelligence (AI) for improved distributed data analytics and intelligence augmentation (IA) for improved human-machine cognition. The contribution of this paper is threefold: (1) we map the coalition situational understanding (CSU) concept to MDO ISR requirements, paying particular attention to the need for assured and explainable AI to allow robust human-machine decision-making where assets are distributed among multiple partners; (2) we present illustrative vignettes for AI and IA in MDO ISR, including human-machine teaming, dense urban terrain analysis, and enhanced asset interoperability; (3) we appraise the state-of-the-art in explainable AI in relation to the vignettes with a focus on human-machine collaboration to achieve more rapid and agile coalition decision-making. The union of these three elements is intended to show the potential value of a CSU approach in the context of MDO ISR, grounded in three distinct use cases, highlighting how the need for explainability in the multi-partner coalition setting is key.",
@@ -4014,16 +4040,6 @@
     "summary": "Artificial intelligence (AI) provides a promising substitution for streamlining COVID-19 diagnoses. However, concerns surrounding security and trustworthiness impede the collection of large-scale representative medical data, posing a considerable challenge for training a well-generalised model in clinical practices. To address this, we launch the Unified CT-COVID AI Diagnostic Initiative (UCADI), where the AI model can be distributedly trained and independently executed at each host institution under a federated learning framework (FL) without data sharing. Here we show that our FL model outperformed all the local models by a large yield (test sensitivity /specificity in China: 0.973/0.951, in the UK: 0.730/0.942), achieving comparable performance with a panel of professional radiologists. We further evaluated the model on the hold-out (collected from another two hospitals leaving out the FL) and heterogeneous (acquired with contrast materials) data, provided visual explanations for decisions made by the model, and analysed the trade-offs between the model performance and the communication costs in the federated training process. Our study is based on 9,573 chest computed tomography scans (CTs) from 3,336 patients collected from 23 hospitals located in China and the UK. Collectively, our work advanced the prospects of utilising federated learning for privacy-preserving AI in digital health.",
     "author": "Xiang Bai, Hanchen Wang, Liya Ma, Yongchao Xu, Jiefeng Gan, Ziwei Fan, Fan Yang, Ke Ma, Jiehua Yang, Song Bai, Chang Shu, Xinyu Zou, Renhao Huang, Changzheng Zhang, Xiaowu Liu, Dandan Tu, Chuou Xu, Wenqing Zhang, Xi Wang, Anguo Chen, Yu Zeng, Dehua Yang, Ming-Wei Wang, Nagaraj Holalkere, Neil J. Halin, Ihab R. Kamel, Jia Wu, Xuehua Peng, Xiang Wang, Jianbo Shao, Pattanasak Mongkolwat, Jianjun Zhang, Weiyang Liu, Michael Roberts, Zhongzhao Teng, Lucian Beer, Lorena Escudero Sanchez, Evis Sala, Daniel Rubin, Adrian Weller, Joan Lasenby, Chuangsheng Zheng, Jianming Wang, Zhen Li, Carola-Bibiane Schönlieb, Tian Xia",
     "published": "2021-11-18T00:43:41Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Artificial Intelligence and Arms Control",
-    "link": "https://arxiv.org/abs/2211.00065v1",
-    "summary": "Potential advancements in artificial intelligence (AI) could have profound implications for how countries research and develop weapons systems, and how militaries deploy those systems on the battlefield. The idea of AI-enabled military systems has motivated some activists to call for restrictions or bans on some weapon systems, while others have argued that AI may be too diffuse to control. This paper argues that while a ban on all military applications of AI is likely infeasible, there may be specific cases where arms control is possible. Throughout history, the international community has attempted to ban or regulate weapons or military systems for a variety of reasons. This paper analyzes both successes and failures and offers several criteria that seem to influence why arms control works in some cases and not others. We argue that success or failure depends on the desirability (i.e., a weapon's military value versus its perceived horribleness) and feasibility (i.e., sociopolitical factors that influence its success) of arms control. Based on these criteria, and the historical record of past attempts at arms control, we analyze the potential for AI arms control in the future and offer recommendations for what policymakers can do today.",
-    "author": "Paul Scharre, Megan Lamberth",
-    "published": "2022-10-22T16:09:41Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4219,6 +4235,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Intelligence Quotient and Intelligence Grade of Artificial Intelligence",
+    "link": "https://arxiv.org/abs/1709.10242v2",
+    "summary": "Although artificial intelligence is currently one of the most interesting areas in scientific research, the potential threats posed by emerging AI systems remain a source of persistent controversy. To address the issue of AI threat, this study proposes a standard intelligence model that unifies AI and human characteristics in terms of four aspects of knowledge, i.e., input, output, mastery, and creation. Using this model, we observe three challenges, namely, expanding of the von Neumann architecture; testing and ranking the intelligence quotient of naturally and artificially intelligent systems, including humans, Google, Bing, Baidu, and Siri; and finally, the dividing of artificially intelligent systems into seven grades from robots to Google Brain. Based on this, we conclude that AlphaGo belongs to the third grade.",
+    "author": "Feng Liu, Yong Shi, Ying Liu",
+    "published": "2017-09-29T05:43:39Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
+  },
+  {
     "title": "AI Horizon Scanning -- White Paper p3395, IEEE-SA. Part III: Technology Watch: a selection of key developments, emerging technologies, and industry trends in Artificial Intelligence",
     "link": "https://arxiv.org/abs/2411.03449v1",
     "summary": "Generative Artificial Intelligence (AI) technologies are in a phase of unprecedented rapid development following the landmark release of Chat-GPT, which brought the phenomenon to wide public attention. As the deployment of AI products rises geometrically, considerable attention is being given to the threats and opportunities that AI technologies offer, and to the need for regulatory and standards initiatives to ensure that use of the technology aligns with societal needs and generates broad benefits while mitigating risks and threats. This manuscript is the third of a series of White Papers informing the development of IEEE-SA's p3995 {\\it `Standard for the Implementation of Safeguards, Controls, and Preventive Techniques for Artificial Intelligence Models'} \\cite{P3395}, Chair Marina Cortês. This part focuses on assessing calmly and objectively, as far as is possible, the current state of Artificial Intelligence (AI) technology development and identifying predominant trends, prospects, and ensuing risks. It necessarily forms a snapshot of the current instant of a rapidly-evolving landscape, with new products and innovations emerging continuously. While our main focus is on software and hardware developments and their corporate context, we also briefly review progress on robotics within the AI context and describe some implications of the substantial and growing AI energy demand.",
@@ -4239,14 +4265,14 @@
     "module": "应用落地"
   },
   {
-    "title": "Intelligence Quotient and Intelligence Grade of Artificial Intelligence",
-    "link": "https://arxiv.org/abs/1709.10242v2",
-    "summary": "Although artificial intelligence is currently one of the most interesting areas in scientific research, the potential threats posed by emerging AI systems remain a source of persistent controversy. To address the issue of AI threat, this study proposes a standard intelligence model that unifies AI and human characteristics in terms of four aspects of knowledge, i.e., input, output, mastery, and creation. Using this model, we observe three challenges, namely, expanding of the von Neumann architecture; testing and ranking the intelligence quotient of naturally and artificially intelligent systems, including humans, Google, Bing, Baidu, and Siri; and finally, the dividing of artificially intelligent systems into seven grades from robots to Google Brain. Based on this, we conclude that AlphaGo belongs to the third grade.",
-    "author": "Feng Liu, Yong Shi, Ying Liu",
-    "published": "2017-09-29T05:43:39Z",
+    "title": "Physical Artificial Intelligence: The Concept Expansion of Next-Generation Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2105.06564v2",
+    "summary": "Artificial Intelligence has been a growth catalyst to our society and is cosidered across all idustries as a fundamental technology. However, its development has been limited to the signal processing domain that relies on the generated and collected data from other sensors. In recent research, concepts of Digital Artificial Intelligence and Physicial Artifical Intelligence have emerged and this can be considered a big step in the theoretical development of Artifical Intelligence. In this paper we explore the concept of Physicial Artifical Intelligence and propose two subdomains: Integrated Physicial Artifical Intelligence and Distributed Physicial Artifical Intelligence. The paper will also examine the trend and governance of Physicial Artifical Intelligence.",
+    "author": "Yingbo Li, Yucong Duan, Anamaria-Beatrice Spulber, Haoyang Che, Zakaria Maamar, Zhao Li, Chen Yang, Yu lei",
+    "published": "2021-05-13T21:46:46Z",
     "tags": [],
     "source": "arXiv",
-    "module": "前沿探索"
+    "module": "应用落地"
   },
   {
     "title": "From Prediction to Foresight: The Role of AI in Designing Responsible Futures",
@@ -4259,11 +4285,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Physical Artificial Intelligence: The Concept Expansion of Next-Generation Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2105.06564v2",
-    "summary": "Artificial Intelligence has been a growth catalyst to our society and is cosidered across all idustries as a fundamental technology. However, its development has been limited to the signal processing domain that relies on the generated and collected data from other sensors. In recent research, concepts of Digital Artificial Intelligence and Physicial Artifical Intelligence have emerged and this can be considered a big step in the theoretical development of Artifical Intelligence. In this paper we explore the concept of Physicial Artifical Intelligence and propose two subdomains: Integrated Physicial Artifical Intelligence and Distributed Physicial Artifical Intelligence. The paper will also examine the trend and governance of Physicial Artifical Intelligence.",
-    "author": "Yingbo Li, Yucong Duan, Anamaria-Beatrice Spulber, Haoyang Che, Zakaria Maamar, Zhao Li, Chen Yang, Yu lei",
-    "published": "2021-05-13T21:46:46Z",
+    "title": "Relating Blindsight and AI: A Review",
+    "link": "https://arxiv.org/abs/2201.00616v1",
+    "summary": "Processes occurring in brains, a.k.a. biological neural networks, can and have been modeled within artificial neural network architectures. Due to this, we have conducted a review of research on the phenomenon of blindsight in an attempt to generate ideas for artificial intelligence models. Blindsight can be considered as a diminished form of visual experience. If we assume that artificial networks have no form of visual experience, then deficits caused by blindsight give us insights into the processes occurring within visual experience that we can incorporate into artificial neural networks. This article has been structured into three parts. Section 2 is a review of blindsight research, looking specifically at the errors occurring during this condition compared to normal vision. Section 3 identifies overall patterns from Section 2 to generate insights for computational models of vision. Section 4 demonstrates the utility of examining biological research to inform artificial intelligence research by examining computation models of visual attention relevant to one of the insights generated in Section 3. The research covered in Section 4 shows that incorporating one of our insights into computational vision does benefit those models. Future research will be required to determine whether our other insights are as valuable.",
+    "author": "Joshua Bensemann, Qiming Bao, Gaël Gendron, Tim Hartill, Michael Witbrock",
+    "published": "2021-12-09T02:33:11Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4299,6 +4325,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Open Ended Intelligence: The individuation of Intelligent Agents",
+    "link": "https://arxiv.org/abs/1505.06366v2",
+    "summary": "Artificial General Intelligence is a field of research aiming to distill the principles of intelligence that operate independently of a specific problem domain or a predefined context and utilize these principles in order to synthesize systems capable of performing any intellectual task a human being is capable of and eventually go beyond that. While \"narrow\" artificial intelligence which focuses on solving specific problems such as speech recognition, text comprehension, visual pattern recognition, robotic motion, etc. has shown quite a few impressive breakthroughs lately, understanding general intelligence remains elusive. In the paper we offer a novel theoretical approach to understanding general intelligence. We start with a brief introduction of the current conceptual approach. Our critique exposes a number of serious limitations that are traced back to the ontological roots of the concept of intelligence. We then propose a paradigm shift from intelligence perceived as a competence of individual agents defined in relation to an a priori given problem domain or a goal, to intelligence perceived as a formative process of self-organization by which intelligent agents are individuated. We call this process open-ended intelligence. Open-ended intelligence is developed as an abstraction of the process of cognitive development so its application can be extended to general agents and systems. We introduce and discuss three facets of the idea: the philosophical concept of individuation, sense-making and the individuation of general cognitive agents. We further show how open-ended intelligence can be framed in terms of a distributed, self-organizing network of interacting elements and how such process is scalable. The framework highlights an important relation between coordination and intelligence and a new understanding of values. We conclude with a number of questions for future research.",
+    "author": "David Weinbaum, Viktoras Veitas",
+    "published": "2015-05-23T19:32:54Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Artificial Intelligence in Education: Ethical Considerations and Insights from Ancient Greek Philosophy",
     "link": "https://arxiv.org/abs/2409.15296v1",
     "summary": "This paper explores the ethical implications of integrating Artificial Intelligence (AI) in educational settings, from primary schools to universities, while drawing insights from ancient Greek philosophy to address emerging concerns. As AI technologies increasingly influence learning environments, they offer novel opportunities for personalized learning, efficient assessment, and data-driven decision-making. However, these advancements also raise critical ethical questions regarding data privacy, algorithmic bias, student autonomy, and the changing roles of educators. This research examines specific use cases of AI in education, analyzing both their potential benefits and drawbacks. By revisiting the philosophical principles of ancient Greek thinkers such as Socrates, Aristotle, and Plato, we discuss how their writings can guide the ethical implementation of AI in modern education. The paper argues that while AI presents significant challenges, a balanced approach informed by classical philosophical thought can lead to an ethically sound transformation of education. It emphasizes the evolving role of teachers as facilitators and the importance of fostering student initiative in AI-rich environments.",
@@ -4319,11 +4355,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Relating Blindsight and AI: A Review",
-    "link": "https://arxiv.org/abs/2201.00616v1",
-    "summary": "Processes occurring in brains, a.k.a. biological neural networks, can and have been modeled within artificial neural network architectures. Due to this, we have conducted a review of research on the phenomenon of blindsight in an attempt to generate ideas for artificial intelligence models. Blindsight can be considered as a diminished form of visual experience. If we assume that artificial networks have no form of visual experience, then deficits caused by blindsight give us insights into the processes occurring within visual experience that we can incorporate into artificial neural networks. This article has been structured into three parts. Section 2 is a review of blindsight research, looking specifically at the errors occurring during this condition compared to normal vision. Section 3 identifies overall patterns from Section 2 to generate insights for computational models of vision. Section 4 demonstrates the utility of examining biological research to inform artificial intelligence research by examining computation models of visual attention relevant to one of the insights generated in Section 3. The research covered in Section 4 shows that incorporating one of our insights into computational vision does benefit those models. Future research will be required to determine whether our other insights are as valuable.",
-    "author": "Joshua Bensemann, Qiming Bao, Gaël Gendron, Tim Hartill, Michael Witbrock",
-    "published": "2021-12-09T02:33:11Z",
+    "title": "Comprehensible Artificial Intelligence on Knowledge Graphs: A survey",
+    "link": "https://arxiv.org/abs/2404.03499v1",
+    "summary": "Artificial Intelligence applications gradually move outside the safe walls of research labs and invade our daily lives. This is also true for Machine Learning methods on Knowledge Graphs, which has led to a steady increase in their application since the beginning of the 21st century. However, in many applications, users require an explanation of the Artificial Intelligences decision. This led to increased demand for Comprehensible Artificial Intelligence. Knowledge Graphs epitomize fertile soil for Comprehensible Artificial Intelligence, due to their ability to display connected data, i.e. knowledge, in a human- as well as machine-readable way. This survey gives a short history to Comprehensible Artificial Intelligence on Knowledge Graphs. Furthermore, we contribute by arguing that the concept Explainable Artificial Intelligence is overloaded and overlapping with Interpretable Machine Learning. By introducing the parent concept Comprehensible Artificial Intelligence, we provide a clear-cut distinction of both concepts while accounting for their similarities. Thus, we provide in this survey a case for Comprehensible Artificial Intelligence on Knowledge Graphs consisting of Interpretable Machine Learning on Knowledge Graphs and Explainable Artificial Intelligence on Knowledge Graphs. This leads to the introduction of a novel taxonomy for Comprehensible Artificial Intelligence on Knowledge Graphs. In addition, a comprehensive overview of the research on Comprehensible Artificial Intelligence on Knowledge Graphs is presented and put into the context of the taxonomy. Finally, research gaps in the field of Comprehensible Artificial Intelligence on Knowledge Graphs are identified for future research.",
+    "author": "Simon Schramm, Christoph Wehner, Ute Schmid",
+    "published": "2024-04-04T14:57:32Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4349,41 +4385,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Open Ended Intelligence: The individuation of Intelligent Agents",
-    "link": "https://arxiv.org/abs/1505.06366v2",
-    "summary": "Artificial General Intelligence is a field of research aiming to distill the principles of intelligence that operate independently of a specific problem domain or a predefined context and utilize these principles in order to synthesize systems capable of performing any intellectual task a human being is capable of and eventually go beyond that. While \"narrow\" artificial intelligence which focuses on solving specific problems such as speech recognition, text comprehension, visual pattern recognition, robotic motion, etc. has shown quite a few impressive breakthroughs lately, understanding general intelligence remains elusive. In the paper we offer a novel theoretical approach to understanding general intelligence. We start with a brief introduction of the current conceptual approach. Our critique exposes a number of serious limitations that are traced back to the ontological roots of the concept of intelligence. We then propose a paradigm shift from intelligence perceived as a competence of individual agents defined in relation to an a priori given problem domain or a goal, to intelligence perceived as a formative process of self-organization by which intelligent agents are individuated. We call this process open-ended intelligence. Open-ended intelligence is developed as an abstraction of the process of cognitive development so its application can be extended to general agents and systems. We introduce and discuss three facets of the idea: the philosophical concept of individuation, sense-making and the individuation of general cognitive agents. We further show how open-ended intelligence can be framed in terms of a distributed, self-organizing network of interacting elements and how such process is scalable. The framework highlights an important relation between coordination and intelligence and a new understanding of values. We conclude with a number of questions for future research.",
-    "author": "David Weinbaum, Viktoras Veitas",
-    "published": "2015-05-23T19:32:54Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Explainable Artificial Intelligence for Dependent Features: Additive Effects of Collinearity",
     "link": "https://arxiv.org/abs/2411.00846v1",
     "summary": "Explainable Artificial Intelligence (XAI) emerged to reveal the internal mechanism of machine learning models and how the features affect the prediction outcome. Collinearity is one of the big issues that XAI methods face when identifying the most informative features in the model. Current XAI approaches assume the features in the models are independent and calculate the effect of each feature toward model prediction independently from the rest of the features. However, such assumption is not realistic in real life applications. We propose an Additive Effects of Collinearity (AEC) as a novel XAI method that aim to considers the collinearity issue when it models the effect of each feature in the model on the outcome. AEC is based on the idea of dividing multivariate models into several univariate models in order to examine their impact on each other and consequently on the outcome. The proposed method is implemented using simulated and real data to validate its efficiency comparing with the a state of arts XAI method. The results indicate that AEC is more robust and stable against the impact of collinearity when it explains AI models compared with the state of arts XAI method.",
     "author": "Ahmed M Salih",
     "published": "2024-10-30T07:00:30Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Comprehensible Artificial Intelligence on Knowledge Graphs: A survey",
-    "link": "https://arxiv.org/abs/2404.03499v1",
-    "summary": "Artificial Intelligence applications gradually move outside the safe walls of research labs and invade our daily lives. This is also true for Machine Learning methods on Knowledge Graphs, which has led to a steady increase in their application since the beginning of the 21st century. However, in many applications, users require an explanation of the Artificial Intelligences decision. This led to increased demand for Comprehensible Artificial Intelligence. Knowledge Graphs epitomize fertile soil for Comprehensible Artificial Intelligence, due to their ability to display connected data, i.e. knowledge, in a human- as well as machine-readable way. This survey gives a short history to Comprehensible Artificial Intelligence on Knowledge Graphs. Furthermore, we contribute by arguing that the concept Explainable Artificial Intelligence is overloaded and overlapping with Interpretable Machine Learning. By introducing the parent concept Comprehensible Artificial Intelligence, we provide a clear-cut distinction of both concepts while accounting for their similarities. Thus, we provide in this survey a case for Comprehensible Artificial Intelligence on Knowledge Graphs consisting of Interpretable Machine Learning on Knowledge Graphs and Explainable Artificial Intelligence on Knowledge Graphs. This leads to the introduction of a novel taxonomy for Comprehensible Artificial Intelligence on Knowledge Graphs. In addition, a comprehensive overview of the research on Comprehensible Artificial Intelligence on Knowledge Graphs is presented and put into the context of the taxonomy. Finally, research gaps in the field of Comprehensible Artificial Intelligence on Knowledge Graphs are identified for future research.",
-    "author": "Simon Schramm, Christoph Wehner, Ute Schmid",
-    "published": "2024-04-04T14:57:32Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Predicting Star Scientists in the Field of Artificial Intelligence: A Machine Learning Approach",
-    "link": "https://arxiv.org/abs/2407.14559v1",
-    "summary": "Star scientists are highly influential researchers who have made significant contributions to their field, gained widespread recognition, and often attracted substantial research funding. They are critical for the advancement of science and innovation, and they have a significant influence on the transfer of knowledge and technology to industry. Identifying potential star scientists before their performance becomes outstanding is important for recruitment, collaboration, networking, or research funding decisions. Using machine learning techniques, this study proposes a model to predict star scientists in the field of artificial intelligence while highlighting features related to their success. Our results confirm that rising stars follow different patterns compared to their non-rising stars counterparts in almost all the early-career features. We also found that certain features such as gender and ethnic diversity play important roles in scientific collaboration and that they can significantly impact an author's career development and success. The most important features in predicting star scientists in the field of artificial intelligence were the number of articles, group discipline diversity, and weighted degree centrality. The proposed approach offers valuable insights for researchers, practitioners, and funding agencies interested in identifying and supporting talented researchers.",
-    "author": "Koosha Shirouyeh, Andrea Schiffauerova, Ashkan Ebadi",
-    "published": "2024-07-18T16:50:18Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4407,6 +4413,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Predicting Star Scientists in the Field of Artificial Intelligence: A Machine Learning Approach",
+    "link": "https://arxiv.org/abs/2407.14559v1",
+    "summary": "Star scientists are highly influential researchers who have made significant contributions to their field, gained widespread recognition, and often attracted substantial research funding. They are critical for the advancement of science and innovation, and they have a significant influence on the transfer of knowledge and technology to industry. Identifying potential star scientists before their performance becomes outstanding is important for recruitment, collaboration, networking, or research funding decisions. Using machine learning techniques, this study proposes a model to predict star scientists in the field of artificial intelligence while highlighting features related to their success. Our results confirm that rising stars follow different patterns compared to their non-rising stars counterparts in almost all the early-career features. We also found that certain features such as gender and ethnic diversity play important roles in scientific collaboration and that they can significantly impact an author's career development and success. The most important features in predicting star scientists in the field of artificial intelligence were the number of articles, group discipline diversity, and weighted degree centrality. The proposed approach offers valuable insights for researchers, practitioners, and funding agencies interested in identifying and supporting talented researchers.",
+    "author": "Koosha Shirouyeh, Andrea Schiffauerova, Ashkan Ebadi",
+    "published": "2024-07-18T16:50:18Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Biological Inspiration for Artificial Immune Systems",
@@ -4549,21 +4565,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Guarding against artificial intelligence--hallucinated citations: the case for full-text reference deposit",
-    "link": "https://arxiv.org/abs/2503.19848v1",
-    "summary": "The tendency of generative artificial intelligence (AI) systems to \"hallucinate\" false information is well-known; AI-generated citations to non-existent sources have made their way into the reference lists of peer-reviewed publications. Here, I propose a solution to this problem, taking inspiration from the Transparency and Openness Promotion (TOP) data sharing guidelines, the clash of generative AI with the American judiciary, and the precedent set by submissions of prior art to the United States Patent and Trademark Office. Journals should require authors to submit the full text of each cited source along with their manuscripts, thereby preventing authors from citing any material whose full text they cannot produce. This solution requires limited additional work on the part of authors or editors while effectively immunizing journals against hallucinated references.",
-    "author": "Alex Glynn",
-    "published": "2025-03-25T17:12:38Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook",
     "link": "https://arxiv.org/abs/2406.05984v2",
     "summary": "Mental health constitutes a complex and pervasive global challenge, affecting millions of lives and often leading to severe consequences. In this paper, we conduct a thorough survey to explore the intersection of data science, artificial intelligence, and mental healthcare, focusing on the recent developments of mental disorder detection through online social media (OSM). A significant portion of the population actively engages in OSM platforms, creating a vast repository of personal data that holds immense potential for mental health analytics. The paper navigates through traditional diagnostic methods, state-of-the-art data- and AI-driven research studies, and the emergence of explainable AI (XAI) models for mental healthcare. We review state-of-the-art machine learning methods, particularly those based on modern deep learning, while emphasising the need for explainability in healthcare AI models. The experimental design section provides insights into prevalent practices, including available datasets and evaluation approaches. We also identify key issues and challenges in the field and propose promising future research directions. As mental health decisions demand transparency, interpretability, and ethical considerations, this paper contributes to the ongoing discourse on advancing XAI in mental healthcare through social media. The comprehensive overview presented here aims to guide researchers, practitioners, and policymakers in developing the area of mental disorder detection.",
     "author": "Yusif Ibrahimov, Tarique Anwar, Tommy Yuan",
     "published": "2024-06-10T02:51:16Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Guarding against artificial intelligence--hallucinated citations: the case for full-text reference deposit",
+    "link": "https://arxiv.org/abs/2503.19848v1",
+    "summary": "The tendency of generative artificial intelligence (AI) systems to \"hallucinate\" false information is well-known; AI-generated citations to non-existent sources have made their way into the reference lists of peer-reviewed publications. Here, I propose a solution to this problem, taking inspiration from the Transparency and Openness Promotion (TOP) data sharing guidelines, the clash of generative AI with the American judiciary, and the precedent set by submissions of prior art to the United States Patent and Trademark Office. Journals should require authors to submit the full text of each cited source along with their manuscripts, thereby preventing authors from citing any material whose full text they cannot produce. This solution requires limited additional work on the part of authors or editors while effectively immunizing journals against hallucinated references.",
+    "author": "Alex Glynn",
+    "published": "2025-03-25T17:12:38Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4639,16 +4655,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Theory of Mind for Explainable Human-Robot Interaction",
-    "link": "https://arxiv.org/abs/2512.23482v3",
-    "summary": "Within the context of human-robot interaction (HRI), Theory of Mind (ToM) is intended to serve as a user-friendly backend to the interface of robotic systems, enabling robots to infer and respond to human mental states. When integrated into robots, ToM allows them to adapt their internal models to users' behaviors, enhancing the interpretability and predictability of their actions. Similarly, Explainable Artificial Intelligence (XAI) aims to make AI systems transparent and interpretable, allowing humans to understand and interact with them effectively. Since ToM in HRI serves related purposes, we propose to consider ToM as a form of XAI and evaluate it through the eValuation XAI (VXAI) framework and its seven desiderata. This paper identifies a critical gap in the application of ToM within HRI, as existing methods rarely assess the extent to which explanations correspond to the robot's actual internal reasoning. To address this limitation, we propose to integrate ToM within XAI frameworks. By embedding ToM principles inside XAI, we argue for a shift in perspective, as current XAI research focuses predominantly on the AI system itself and often lacks user-centered explanations. Incorporating ToM would enable a change in focus, prioritizing the user's informational needs and perspective.",
-    "author": "Marie S. Bauer, Julia Gachot, Matthias Kerzel, Cornelius Weber, Stefan Wermter",
-    "published": "2025-12-29T14:09:05Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Human-Centered Artificial Intelligence and Machine Learning",
     "link": "https://arxiv.org/abs/1901.11184v1",
     "summary": "Humans are increasingly coming into contact with artificial intelligence and machine learning systems. Human-centered artificial intelligence is a perspective on AI and ML that algorithms must be designed with awareness that they are part of a larger system consisting of humans. We lay forth an argument that human-centered artificial intelligence can be broken down into two aspects: (1) AI systems that understand humans from a sociocultural perspective, and (2) AI systems that help humans understand them. We further argue that issues of social responsibility such as fairness, accountability, interpretability, and transparency.",
@@ -4667,6 +4673,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Theory of Mind for Explainable Human-Robot Interaction",
+    "link": "https://arxiv.org/abs/2512.23482v3",
+    "summary": "Within the context of human-robot interaction (HRI), Theory of Mind (ToM) is intended to serve as a user-friendly backend to the interface of robotic systems, enabling robots to infer and respond to human mental states. When integrated into robots, ToM allows them to adapt their internal models to users' behaviors, enhancing the interpretability and predictability of their actions. Similarly, Explainable Artificial Intelligence (XAI) aims to make AI systems transparent and interpretable, allowing humans to understand and interact with them effectively. Since ToM in HRI serves related purposes, we propose to consider ToM as a form of XAI and evaluate it through the eValuation XAI (VXAI) framework and its seven desiderata. This paper identifies a critical gap in the application of ToM within HRI, as existing methods rarely assess the extent to which explanations correspond to the robot's actual internal reasoning. To address this limitation, we propose to integrate ToM within XAI frameworks. By embedding ToM principles inside XAI, we argue for a shift in perspective, as current XAI research focuses predominantly on the AI system itself and often lacks user-centered explanations. Incorporating ToM would enable a change in focus, prioritizing the user's informational needs and perspective.",
+    "author": "Marie S. Bauer, Julia Gachot, Matthias Kerzel, Cornelius Weber, Stefan Wermter",
+    "published": "2025-12-29T14:09:05Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Integrating Generative Artificial Intelligence in Intelligent Vehicle Systems",
@@ -4689,6 +4705,16 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "The Challenge of Non-Technical Loss Detection using Artificial Intelligence: A Survey",
+    "link": "https://arxiv.org/abs/1606.00626v3",
+    "summary": "Detection of non-technical losses (NTL) which include electricity theft, faulty meters or billing errors has attracted increasing attention from researchers in electrical engineering and computer science. NTLs cause significant harm to the economy, as in some countries they may range up to 40% of the total electricity distributed. The predominant research direction is employing artificial intelligence to predict whether a customer causes NTL. This paper first provides an overview of how NTLs are defined and their impact on economies, which include loss of revenue and profit of electricity providers and decrease of the stability and reliability of electrical power grids. It then surveys the state-of-the-art research efforts in a up-to-date and comprehensive review of algorithms, features and data sets used. It finally identifies the key scientific and engineering challenges in NTL detection and suggests how they could be addressed in the future.",
+    "author": "Patrick Glauner, Jorge Augusto Meira, Petko Valtchev, Radu State, Franck Bettinger",
+    "published": "2016-06-02T11:14:47Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Internet of Intelligence: The Collective Advantage for Advancing Communications and Intelligence",
     "link": "https://arxiv.org/abs/1905.00719v7",
     "summary": "The fifth-generation cellular networks (5G) has boosted the unprecedented convergence between the information world and physical world. On the other hand, empowered with the enormous amount of data and information, artificial intelligence (AI) has been universally applied and pervasive AI is believed to be an integral part of the six-generation cellular networks (6G). Consequently, benefiting from the advancement in communication technology and AI, we boldly argue that the conditions for collective intelligence (CI) will be mature in the 6G era and CI will emerge among the widely connected beings and things. Afterwards, we highlight the potential huge impact of CI on both communications and intelligence. In particular, we introduce a regular language (i.e., the information economy metalanguage) supporting the future collective communications to augment human intelligence and explain its potential applications in naming Internet information and pushing information centric networks forward. Meanwhile, we propose a stigmergy-based federated collective intelligence and demonstrate its achievement in a simulated scenario where the agents collectively work together to form a pattern through simple indirect communications. In a word, CI could advance both communications and intelligence.",
@@ -4704,16 +4730,6 @@
     "summary": "The elusive quest for intelligence in artificial intelligence prompts us to consider that instituting human-level intelligence in systems may be (still) in the realm of utopia. In about a quarter century, we have witnessed the winter of AI (1990) being transformed and transported to the zenith of tabloid fodder about AI (2015). The discussion at hand is about the elements that constitute the canonical idea of intelligence. The delivery of intelligence as a pay-per-use-service, popping out of an app or from a shrink-wrapped software defined point solution, is in contrast to the bio-inspired view of intelligence as an outcome, perhaps formed from a tapestry of events, cross-pollinated by instances, each with its own microcosm of experiences and learning, which may not be discrete all-or-none functions but continuous, over space and time. The enterprise world may not require, aspire or desire such an engaged solution to improve its services for enabling digital transformation through the deployment of digital twins, for example. One might ask whether the \"work-flow on steroids\" version of decision support may suffice for intelligence? Are we harking back to the era of rule based expert systems? The image conjured by the publicity machines offers deep solutions with human-level AI and preposterous claims about capturing the \"brain in a box\" by 2020. Even emulating insects may be difficult in terms of real progress. Perhaps we can try to focus on worms (Caenorhabditis elegans) which may be better suited for what business needs to quench its thirst for so-called intelligence in AI.",
     "author": "Shoumen Palit Austin Datta",
     "published": "2016-10-24T02:15:46Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Challenge of Non-Technical Loss Detection using Artificial Intelligence: A Survey",
-    "link": "https://arxiv.org/abs/1606.00626v3",
-    "summary": "Detection of non-technical losses (NTL) which include electricity theft, faulty meters or billing errors has attracted increasing attention from researchers in electrical engineering and computer science. NTLs cause significant harm to the economy, as in some countries they may range up to 40% of the total electricity distributed. The predominant research direction is employing artificial intelligence to predict whether a customer causes NTL. This paper first provides an overview of how NTLs are defined and their impact on economies, which include loss of revenue and profit of electricity providers and decrease of the stability and reliability of electrical power grids. It then surveys the state-of-the-art research efforts in a up-to-date and comprehensive review of algorithms, features and data sets used. It finally identifies the key scientific and engineering challenges in NTL detection and suggests how they could be addressed in the future.",
-    "author": "Patrick Glauner, Jorge Augusto Meira, Petko Valtchev, Radu State, Franck Bettinger",
-    "published": "2016-06-02T11:14:47Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4779,6 +4795,36 @@
     "module": "应用落地"
   },
   {
+    "title": "A Cybersecurity Risk Analysis Framework for Systems with Artificial Intelligence Components",
+    "link": "https://arxiv.org/abs/2401.01630v1",
+    "summary": "The introduction of the European Union Artificial Intelligence Act, the NIST Artificial Intelligence Risk Management Framework, and related norms demands a better understanding and implementation of novel risk analysis approaches to evaluate systems with Artificial Intelligence components. This paper provides a cybersecurity risk analysis framework that can help assessing such systems. We use an illustrative example concerning automated driving systems.",
+    "author": "Jose Manuel Camacho, Aitor Couce-Vieira, David Arroyo, David Rios Insua",
+    "published": "2024-01-03T09:06:39Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Finite-Time Technological Singularity Model With Artificial Intelligence Self-Improvement",
+    "link": "https://arxiv.org/abs/2010.01961v1",
+    "summary": "Recent advances in the development of artificial intelligence, technological progress acceleration, long-term trends of macroeconomic dynamics increase the relevance of technological singularity hypothesis. In this paper, we build a model of finite-time technological singularity assuming that artificial intelligence will replace humans for artificial intelligence engineers after some point in time when it is developed enough. This model implies the following: let A be the level of development of artificial intelligence. Then, the moment of technological singularity n is defined as the point in time where artificial intelligence development function approaches infinity. Thus, it happens in finite time. Although infinite level of development of artificial intelligence cannot be reached practically, this approximation is useful for several reasons, firstly because it allows modeling a phase transition or a change of regime. In the model, intelligence growth function appears to be hyperbolic function under relatively broad conditions which we list and compare. Subsequently, we also add a stochastic term (Brownian motion) to the model and investigate the changes in its behavior. The results can be applied for the modeling of dynamics of various processes characterized by multiplicative growth.",
+    "author": "Ihor Kendiukhov",
+    "published": "2020-08-31T15:29:14Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Embeddings World and Artificial General Intelligence",
+    "link": "https://arxiv.org/abs/2209.06569v1",
+    "summary": "From early days, a key and controversial question inside the artificial intelligence community was whether Artificial General Intelligence (AGI) is achievable. AGI is the ability of machines and computer programs to achieve human-level intelligence and do all tasks that a human being can. While there exist a number of systems in the literature claiming they realize AGI, several other researchers argue that it is impossible to achieve it. In this paper, we take a different view to the problem. First, we discuss that in order to realize AGI, along with building intelligent machines and programs, an intelligent world should also be constructed which is on the one hand, an accurate approximation of our world and on the other hand, a significant part of reasoning of intelligent machines is already embedded in this world. Then we discuss that AGI is not a product or algorithm, rather it is a continuous process which will become more and more mature over time (like human civilization and wisdom). Then, we argue that pre-trained embeddings play a key role in building this intelligent world and as a result, realizing AGI. We discuss how pre-trained embeddings facilitate achieving several characteristics of human-level intelligence, such as embodiment, common sense knowledge, unconscious knowledge and continuality of learning, by machines.",
+    "author": "Mostafa Haghir Chehreghani",
+    "published": "2022-09-14T11:56:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Artificial Intelligence in Humans",
     "link": "https://arxiv.org/abs/1311.0716v1",
     "summary": "In this paper, I put forward that in many instances, thinking mechanisms are equivalent to artificial intelligence modules programmed into the human mind.",
@@ -4819,41 +4865,11 @@
     "module": "应用落地"
   },
   {
-    "title": "A Cybersecurity Risk Analysis Framework for Systems with Artificial Intelligence Components",
-    "link": "https://arxiv.org/abs/2401.01630v1",
-    "summary": "The introduction of the European Union Artificial Intelligence Act, the NIST Artificial Intelligence Risk Management Framework, and related norms demands a better understanding and implementation of novel risk analysis approaches to evaluate systems with Artificial Intelligence components. This paper provides a cybersecurity risk analysis framework that can help assessing such systems. We use an illustrative example concerning automated driving systems.",
-    "author": "Jose Manuel Camacho, Aitor Couce-Vieira, David Arroyo, David Rios Insua",
-    "published": "2024-01-03T09:06:39Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Hybrid Systems for Knowledge Representation in Artificial Intelligence",
     "link": "https://arxiv.org/abs/1211.2736v1",
     "summary": "There are few knowledge representation (KR) techniques available for efficiently representing knowledge. However, with the increase in complexity, better methods are needed. Some researchers came up with hybrid mechanisms by combining two or more methods. In an effort to construct an intelligent computer system, a primary consideration is to represent large amounts of knowledge in a way that allows effective use and efficiently organizing information to facilitate making the recommended inferences. There are merits and demerits of combinations, and standardized method of KR is needed. In this paper, various hybrid schemes of KR were explored at length and details presented.",
     "author": "Rajeswari P. V. N., T. V. Prasad",
     "published": "2012-11-12T19:09:08Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "A Finite-Time Technological Singularity Model With Artificial Intelligence Self-Improvement",
-    "link": "https://arxiv.org/abs/2010.01961v1",
-    "summary": "Recent advances in the development of artificial intelligence, technological progress acceleration, long-term trends of macroeconomic dynamics increase the relevance of technological singularity hypothesis. In this paper, we build a model of finite-time technological singularity assuming that artificial intelligence will replace humans for artificial intelligence engineers after some point in time when it is developed enough. This model implies the following: let A be the level of development of artificial intelligence. Then, the moment of technological singularity n is defined as the point in time where artificial intelligence development function approaches infinity. Thus, it happens in finite time. Although infinite level of development of artificial intelligence cannot be reached practically, this approximation is useful for several reasons, firstly because it allows modeling a phase transition or a change of regime. In the model, intelligence growth function appears to be hyperbolic function under relatively broad conditions which we list and compare. Subsequently, we also add a stochastic term (Brownian motion) to the model and investigate the changes in its behavior. The results can be applied for the modeling of dynamics of various processes characterized by multiplicative growth.",
-    "author": "Ihor Kendiukhov",
-    "published": "2020-08-31T15:29:14Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Embeddings World and Artificial General Intelligence",
-    "link": "https://arxiv.org/abs/2209.06569v1",
-    "summary": "From early days, a key and controversial question inside the artificial intelligence community was whether Artificial General Intelligence (AGI) is achievable. AGI is the ability of machines and computer programs to achieve human-level intelligence and do all tasks that a human being can. While there exist a number of systems in the literature claiming they realize AGI, several other researchers argue that it is impossible to achieve it. In this paper, we take a different view to the problem. First, we discuss that in order to realize AGI, along with building intelligent machines and programs, an intelligent world should also be constructed which is on the one hand, an accurate approximation of our world and on the other hand, a significant part of reasoning of intelligent machines is already embedded in this world. Then we discuss that AGI is not a product or algorithm, rather it is a continuous process which will become more and more mature over time (like human civilization and wisdom). Then, we argue that pre-trained embeddings play a key role in building this intelligent world and as a result, realizing AGI. We discuss how pre-trained embeddings facilitate achieving several characteristics of human-level intelligence, such as embodiment, common sense knowledge, unconscious knowledge and continuality of learning, by machines.",
-    "author": "Mostafa Haghir Chehreghani",
-    "published": "2022-09-14T11:56:30Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4889,6 +4905,16 @@
     "module": "应用落地"
   },
   {
+    "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2003.08316v2",
+    "summary": "Neuro-symbolic and statistical relational artificial intelligence both integrate frameworks for learning with logical reasoning. This survey identifies several parallels across seven different dimensions between these two fields. These cannot only be used to characterize and position neuro-symbolic artificial intelligence approaches but also to identify a number of directions for further research.",
+    "author": "Luc De Raedt, Sebastijan Dumančić, Robin Manhaeve, Giuseppe Marra",
+    "published": "2020-03-18T16:15:46Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Construction Grammar and Artificial Intelligence",
     "link": "https://arxiv.org/abs/2309.00135v1",
     "summary": "In this chapter, we argue that it is highly beneficial for the contemporary construction grammarian to have a thorough understanding of the strong relationship between the research fields of construction grammar and artificial intelligence. We start by unravelling the historical links between the two fields, showing that their relationship is rooted in a common attitude towards human communication and language. We then discuss the first direction of influence, focussing in particular on how insights and techniques from the field of artificial intelligence play an important role in operationalising, validating and scaling constructionist approaches to language. We then proceed to the second direction of influence, highlighting the relevance of construction grammar insights and analyses to the artificial intelligence endeavour of building truly intelligent agents. We support our case with a variety of illustrative examples and conclude that the further elaboration of this relationship will play a key role in shaping the future of the field of construction grammar.",
@@ -4899,11 +4925,11 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2003.08316v2",
-    "summary": "Neuro-symbolic and statistical relational artificial intelligence both integrate frameworks for learning with logical reasoning. This survey identifies several parallels across seven different dimensions between these two fields. These cannot only be used to characterize and position neuro-symbolic artificial intelligence approaches but also to identify a number of directions for further research.",
-    "author": "Luc De Raedt, Sebastijan Dumančić, Robin Manhaeve, Giuseppe Marra",
-    "published": "2020-03-18T16:15:46Z",
+    "title": "A Review on Building Blocks of Decentralized Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2402.02885v1",
+    "summary": "Artificial intelligence is transforming our lives, and technological progress and transfer from the academic and theoretical sphere to the real world are accelerating yearly. But during that progress and transition, several open problems and questions need to be addressed for the field to develop ethically, such as digital privacy, ownership, and control. These are some of the reasons why the currently most popular approaches of artificial intelligence, i.e., centralized AI (CEAI), are questionable, with other directions also being widely explored, such as decentralized artificial intelligence (DEAI), to solve some of the most reaching problems. This paper provides a systematic literature review (SLR) of existing work in the field of DEAI, presenting the findings of 71 identified studies. The paper's primary focus is identifying the building blocks of DEAI solutions and networks, tackling the DEAI analysis from a bottom-up approach. In the end, future directions of research and open problems are proposed.",
+    "author": "Vid Kersic, Muhamed Turkanovic",
+    "published": "2024-02-05T10:54:14Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5189,16 +5215,6 @@
     "module": "应用落地"
   },
   {
-    "title": "The Virtual Doctor: An Interactive Artificial Intelligence based on Deep Learning for Non-Invasive Prediction of Diabetes",
-    "link": "https://arxiv.org/abs/1903.12069v1",
-    "summary": "Artificial intelligence (AI) will pave the way to a new era in medicine. However, currently available AI systems do not interact with a patient, e.g., for anamnesis, and thus are only used by the physicians for predictions in diagnosis or prognosis. However, these systems are widely used, e.g., in diabetes or cancer prediction. In the current study, we developed an AI that is able to interact with a patient (virtual doctor) by using a speech recognition and speech synthesis system and thus can autonomously interact with the patient, which is particularly important for, e.g., rural areas, where the availability of primary medical care is strongly limited by low population densities. As a proof-of-concept, the system is able to predict type 2 diabetes mellitus (T2DM) based on non-invasive sensors and deep neural networks. Moreover, the system provides an easy-to-interpret probability estimation for T2DM for a given patient. Besides the development of the AI, we further analyzed the acceptance of young people for AI in healthcare to estimate the impact of such system in the future.",
-    "author": "Sebastian Spänig, Agnes Emberger-Klein, Jan-Peter Sowa, Ali Canbay, Klaus Menrad, Dominik Heider",
-    "published": "2019-03-09T13:41:46Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "The Future of Scientific Simulations: from Artificial Life to Artificial Cosmogenesis",
     "link": "https://arxiv.org/abs/0803.1087v3",
     "summary": "This philosophical paper explores the relation between modern scientific simulations and the future of the universe. We argue that a simulation of an entire universe will result from future scientific activity. This requires us to tackle the challenge of simulating open-ended evolution at all levels in a single simulation. The simulation should encompass not only biological evolution, but also physical evolution (a level below) and cultural evolution (a level above). The simulation would allow us to probe what would happen if we would \"replay the tape of the universe\" with the same or different laws and initial conditions. We also distinguish between real-world and artificial-world modelling. Assuming that intelligent life could indeed simulate an entire universe, this leads to two tentative hypotheses. Some authors have argued that we may already be in a simulation run by an intelligent entity. Or, if such a simulation could be made real, this would lead to the production of a new universe. This last direction is argued with a careful speculative philosophical approach, emphasizing the imperative to find a solution to the heat death problem in cosmology. The reader is invited to consult Annex 1 for an overview of the logical structure of this paper. -- Keywords: far future, future of science, ALife, simulation, realization, cosmology, heat death, fine-tuning, physical eschatology, cosmological natural selection, cosmological artificial selection, artificial cosmogenesis, selfish biocosm hypothesis, meduso-anthropic principle, developmental singularity hypothesis, role of intelligent life.",
@@ -5207,6 +5223,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
+  },
+  {
+    "title": "The Virtual Doctor: An Interactive Artificial Intelligence based on Deep Learning for Non-Invasive Prediction of Diabetes",
+    "link": "https://arxiv.org/abs/1903.12069v1",
+    "summary": "Artificial intelligence (AI) will pave the way to a new era in medicine. However, currently available AI systems do not interact with a patient, e.g., for anamnesis, and thus are only used by the physicians for predictions in diagnosis or prognosis. However, these systems are widely used, e.g., in diabetes or cancer prediction. In the current study, we developed an AI that is able to interact with a patient (virtual doctor) by using a speech recognition and speech synthesis system and thus can autonomously interact with the patient, which is particularly important for, e.g., rural areas, where the availability of primary medical care is strongly limited by low population densities. As a proof-of-concept, the system is able to predict type 2 diabetes mellitus (T2DM) based on non-invasive sensors and deep neural networks. Moreover, the system provides an easy-to-interpret probability estimation for T2DM for a given patient. Besides the development of the AI, we further analyzed the acceptance of young people for AI in healthcare to estimate the impact of such system in the future.",
+    "author": "Sebastian Spänig, Agnes Emberger-Klein, Jan-Peter Sowa, Ali Canbay, Klaus Menrad, Dominik Heider",
+    "published": "2019-03-09T13:41:46Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Probabilistic Artificial Intelligence",
@@ -5709,6 +5735,16 @@
     "module": "前沿探索"
   },
   {
+    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
+    "link": "https://arxiv.org/abs/1304.3852v1",
+    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
+    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
+    "published": "2013-04-13T21:10:50Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence (2010)",
     "link": "https://arxiv.org/abs/1205.2597v2",
     "summary": "This is the Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence, which was held on Catalina Island, CA, July 8 - 11 2010.",
@@ -5724,16 +5760,6 @@
     "summary": "This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21 2009.",
     "author": "Jeff Bilmes, Andrew Ng",
     "published": "2012-06-13T16:43:44Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
-    "link": "https://arxiv.org/abs/1304.3852v1",
-    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
-    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
-    "published": "2013-04-13T21:10:50Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5944,26 +5970,6 @@
     "summary": "Product take-back legislation forces manufacturers to bear the costs of collection and disposal of products that have reached the end of their useful lives. In order to reduce these costs, manufacturers can consider reuse, remanufacturing and/or recycling of components as an alternative to disposal. The implementation of such alternatives usually requires an appropriate reverse supply chain management. With the concepts of reverse supply chain are gaining popularity in practice, the use of artificial intelligence approaches in these areas is also becoming popular. As a result, the purpose of this paper is to give an overview of the recent publications concerning the application of artificial intelligence techniques to reverse supply chain with emphasis on certain types of product returns.",
     "author": "Bo Xing, Wen-Jing Gao, Kimberly Battle, Tshildzi Marwala, Fulufhelo V. Nelwamondo",
     "published": "2010-12-18T01:12:14Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research",
-    "link": "https://arxiv.org/abs/2511.15282v2",
-    "summary": "In this paper, we argue that current AI research operates on a spectrum between two different underlying conceptions of intelligence: Intelligence Realism, which holds that intelligence represents a single, universal capacity measurable across all systems, and Intelligence Pluralism, which views intelligence as diverse, context-dependent capacities that cannot be reduced to a single universal measure. Through an analysis of current debates in AI research, we demonstrate how the conceptions remain largely implicit yet fundamentally shape how empirical evidence gets interpreted across a wide range of areas. These underlying views generate fundamentally different research approaches across three areas. Methodologically, they produce different approaches to model selection, benchmark design, and experimental validation. Interpretively, they lead to contradictory readings of the same empirical phenomena, from capability emergence to system limitations. Regarding AI risk, they generate categorically different assessments: realists view superintelligence as the primary risk and search for unified alignment solutions, while pluralists see diverse threats across different domains requiring context-specific solutions. We argue that making explicit these underlying assumptions can contribute to a clearer understanding of disagreements in AI research.",
-    "author": "Ninell Oldenburg, Ruchira Dhar, Anders Søgaard",
-    "published": "2025-11-19T09:48:07Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence (1996)",
-    "link": "https://arxiv.org/abs/1304.3847v2",
-    "summary": "This is the Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence, which was held in Portland, OR, August 1-4, 1996",
-    "author": "Eric Horvitz, Finn Jensen",
-    "published": "2013-04-13T20:49:49Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
