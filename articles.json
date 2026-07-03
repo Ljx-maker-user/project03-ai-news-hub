@@ -624,6 +624,21 @@
     "module": "应用落地"
   },
   {
+    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+    "author": "Jessica Hamzelou",
+    "published": "Fri, 03 Jul 2026 09:00:00 +0000",
+    "tags": [
+      "Biotechnology and health",
+      "App",
+      "Summary",
+      "The Checkup"
+    ],
+    "source": "https://www.technologyreview.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Achieving operational excellence with AI",
     "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
     "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
@@ -744,34 +759,31 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Agriculture is ready for AI, but its data isn’t",
-    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
-    "author": "Carole Hill, Manish Sood",
-    "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-    "tags": [
-      "Artificial intelligence",
-      "sponsored"
-    ],
-    "source": "https://www.technologyreview.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-    "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770647\">Comments</a>",
-    "author": "",
-    "published": "Fri, 03 Jul 2026 04:16:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Virginia bans sale of geolocation data",
     "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48767347\">Comments</a>",
     "author": "",
     "published": "Thu, 02 Jul 2026 21:03:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Half-Baked Product",
+    "link": "https://weli.dev/blog/half-baked-product/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772388\">Comments</a>",
+    "author": "",
+    "published": "Fri, 03 Jul 2026 08:23:32 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Right to Local Intelligence",
+    "link": "https://righttointelligence.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768951\">Comments</a>",
+    "author": "",
+    "published": "Thu, 02 Jul 2026 23:54:03 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -787,11 +799,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Right to Local Intelligence",
-    "link": "https://righttointelligence.org/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768951\">Comments</a>",
+    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772443\">Comments</a>",
     "author": "",
-    "published": "Thu, 02 Jul 2026 23:54:03 +0000",
+    "published": "Fri, 03 Jul 2026 08:31:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+    "link": "https://wordgard.net/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772573\">Comments</a>",
+    "author": "",
+    "published": "Fri, 03 Jul 2026 08:50:47 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -827,11 +849,21 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770477\">Comments</a>",
+    "title": "How working with a blind client revealed invisible accessibility gaps",
+    "link": "https://iinteractive.com/resources/blog/read-only",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48725857\">Comments</a>",
     "author": "",
-    "published": "Fri, 03 Jul 2026 03:49:47 +0000",
+    "published": "Mon, 29 Jun 2026 21:59:28 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Podman v6.0.0",
+    "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762098\">Comments</a>",
+    "author": "",
+    "published": "Thu, 02 Jul 2026 14:23:09 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -857,31 +889,41 @@
     "module": "应用落地"
   },
   {
-    "title": "Podman v6.0.0",
-    "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762098\">Comments</a>",
+    "title": "Q&A with Micron's VP and GM of Memory",
+    "link": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48738244\">Comments</a>",
     "author": "",
-    "published": "Thu, 02 Jul 2026 14:23:09 +0000",
+    "published": "Tue, 30 Jun 2026 19:45:39 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "An American Privacy Emergency",
-    "link": "https://scottaaronson.blog/?p=9902",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768992\">Comments</a>",
+    "title": "Immich 3.0",
+    "link": "https://github.com/immich-app/immich/discussions/29439",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48761944\">Comments</a>",
     "author": "",
-    "published": "Fri, 03 Jul 2026 00:01:06 +0000",
+    "published": "Thu, 02 Jul 2026 14:13:26 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "I Type Holes in Keyboard Covers – This One Survived",
-    "link": "https://medium.com/@jamesgarside_/i-type-holes-in-keyboard-covers-e5664732ef93",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48731252\">Comments</a>",
+    "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48770477\">Comments</a>",
     "author": "",
-    "published": "Tue, 30 Jun 2026 11:40:50 +0000",
+    "published": "Fri, 03 Jul 2026 03:49:47 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Quake in 13 Kilobytes (2021)",
+    "link": "https://js13kgames.com/games/q1k3",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48693428\">Comments</a>",
+    "author": "",
+    "published": "Fri, 26 Jun 2026 23:36:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -897,41 +939,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-    "link": "https://news.ycombinator.com/item?id=48771515",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48771515\">Comments</a>",
+    "title": "An American Privacy Emergency",
+    "link": "https://scottaaronson.blog/?p=9902",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768992\">Comments</a>",
     "author": "",
-    "published": "Fri, 03 Jul 2026 06:21:44 +0000",
+    "published": "Fri, 03 Jul 2026 00:01:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",
-    "link": "https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48720728\">Comments</a>",
+    "title": "The short leash AI coding method for beating Fable",
+    "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48766026\">Comments</a>",
     "author": "",
-    "published": "Mon, 29 Jun 2026 15:40:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
-    "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768336\">Comments</a>",
-    "author": "",
-    "published": "Thu, 02 Jul 2026 22:44:04 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Immich 3.0",
-    "link": "https://github.com/immich-app/immich/discussions/29439",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48761944\">Comments</a>",
-    "author": "",
-    "published": "Thu, 02 Jul 2026 14:13:26 +0000",
+    "published": "Thu, 02 Jul 2026 19:11:57 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -957,11 +979,21 @@
     "module": "应用落地"
   },
   {
-    "title": "The short leash AI coding method for beating Fable",
-    "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48766026\">Comments</a>",
+    "title": "Superpowers 6",
+    "link": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739459\">Comments</a>",
     "author": "",
-    "published": "Thu, 02 Jul 2026 19:11:57 +0000",
+    "published": "Tue, 30 Jun 2026 21:28:32 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+    "link": "https://apple.github.io/foundationdb/flow.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762372\">Comments</a>",
+    "author": "",
+    "published": "Thu, 02 Jul 2026 14:41:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -987,51 +1019,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
-    "link": "https://www.bkurtz.io/posts/macvdmtool/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48724608\">Comments</a>",
-    "author": "",
-    "published": "Mon, 29 Jun 2026 20:18:58 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
-    "link": "https://apple.github.io/foundationdb/flow.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48762372\">Comments</a>",
-    "author": "",
-    "published": "Thu, 02 Jul 2026 14:41:56 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "This is my attempt to get Vulkan going on NetBSD",
     "link": "https://github.com/segaboy/vulkan-netbsd",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48765607\">Comments</a>",
     "author": "",
     "published": "Thu, 02 Jul 2026 18:36:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Superpowers 6",
-    "link": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48739459\">Comments</a>",
-    "author": "",
-    "published": "Tue, 30 Jun 2026 21:28:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
-    "link": "https://zk.golf/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48763246\">Comments</a>",
-    "author": "",
-    "published": "Thu, 02 Jul 2026 15:40:05 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1047,13 +1039,83 @@
     "module": "应用落地"
   },
   {
-    "title": "Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]",
-    "link": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48760106\">Comments</a>",
+    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+    "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48768336\">Comments</a>",
     "author": "",
-    "published": "Thu, 02 Jul 2026 12:02:47 +0000",
+    "published": "Thu, 02 Jul 2026 22:44:04 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Android Developer Verification: Threat masquerading as protection",
+    "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48755965\">Comments</a>",
+    "author": "",
+    "published": "Thu, 02 Jul 2026 03:00:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
+    "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+    "summary": "<p>Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profits</p><p>When South Korea’s most high-profile divorce case returned to court last month, the lawyers were arguing not just about the breakdown of a relationship, but also the exact date at which to value shares in one specific company.</p><p>The judges’ decision in Seoul could change the value of business tycoon Chey Tae-won’s assets by billions of dollars. The shares were in the holding company behind SK Hynix, the manufacturer of chips powering AI systems around the world.</p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom\">Continue reading...</a>",
+    "author": "Raphael Rashid in Seoul",
+    "published": "Fri, 03 Jul 2026 02:34:40 GMT",
+    "tags": [
+      "South Korea",
+      "Inequality",
+      "AI (artificial intelligence)",
+      "Technology",
+      "Stock markets",
+      "Computing",
+      "Asia Pacific"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Lisa Nandy quits X over fears Musk-owned site pushes ‘abuse and misinformation’",
+    "link": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
+    "summary": "<p>Culture secretary says her department will stop using platform, citing concerns over far-right content fuelling violence and division</p><p>The UK’s culture and media department will stop using X because the site “now favours abuse and misinformation over meaningful debate”, Lisa Nandy has announced.</p><p>The culture secretary’s department is the UK’s second to quit the Elon Musk-owned platform over increasing concerns about the way it highlights and prioritises often inaccurate far-right and racist content and is used to incite violence and division.</p> <a href=\"https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation\">Continue reading...</a>",
+    "author": "Peter Walker Senior political correspondent",
+    "published": "Thu, 02 Jul 2026 17:43:30 GMT",
+    "tags": [
+      "X",
+      "Lisa Nandy",
+      "Far right",
+      "Politics",
+      "Social media",
+      "Elon Musk",
+      "Freedom of speech",
+      "UK news",
+      "Media",
+      "Digital media",
+      "Technology",
+      "Ofcom",
+      "Internet",
+      "World news",
+      "Regulators"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Tesla sales surpass expectations for second quarter as Musk backlash seems to cool",
+    "link": "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter",
+    "summary": "<p>Strong figures suggest Tesla’s auto business is regaining momentum after two straight annual sales declines</p><p>Tesla blew past ​Wall Street estimates for second-quarter deliveries on Thursday, posting a record for the period as recovering demand in Europe outweighed persistent weakness in North America.</p><p>The strong figures suggest Tesla’s ⁠mainstay auto business is regaining momentum after two straight annual sales declines, providing the spending cushion needed to power its ambitions in autonomous driving and artificial intelligence – the main drivers of the company’s roughly $1.6tn valuation.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter\">Continue reading...</a>",
+    "author": "Reuters",
+    "published": "Thu, 02 Jul 2026 15:23:11 GMT",
+    "tags": [
+      "Tesla",
+      "Technology",
+      "Automotive industry",
+      "Business",
+      "Elon Musk"
+    ],
+    "source": "https://www.theguardian.com",
     "module": "应用落地"
   },
   {
@@ -1130,69 +1192,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Sony will kill PlayStation games on discs in 2028 and offer digital downloads only",
-    "link": "https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads",
-    "summary": "<p>With the much-anticipated release of Grand Theft Auto VI only available as download, Sony is following suit</p><p>Sony said on Wednesday that it would stop releasing new video games for the PlayStation console on disc in January 2028 following a shift in consumer preferences.</p><p>“Following this date, new games will be available on PlayStation Store and at retailers in digital formats only,” the company said on its official PlayStation blog.</p> <a href=\"https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads\">Continue reading...</a>",
-    "author": "Agence France-Presse",
-    "published": "Wed, 01 Jul 2026 18:56:26 GMT",
-    "tags": [
-      "PlayStation",
-      "Grand Theft Auto",
-      "Grand Theft Auto VI",
-      "Sony",
-      "Games",
-      "Technology",
-      "Culture",
-      "US news"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "UK watchdog plans to break Apple and Google’s ‘effective duopoly’ on mobile app stores",
-    "link": "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma",
-    "summary": "<p>CMA says developers should be able to steer users away from app stores for payments to increase competition</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The UK’s <a href=\"https://www.theguardian.com/business/competition-commission\">competition watchdog</a> is challenging Apple and Google’s <a href=\"https://www.theguardian.com/business/2025/jul/23/uk-watchdog-to-take-action-over-apple-and-googles-mobile-platforms\">“effective duopoly” over mobile platforms</a> by allowing developers to steer users away from their app stores to make purchases.</p><p>The Competition and Markets Authority argues that consumers and app owners are being let down by Apple and Google restrictions on spending money outside their app stores.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma\">Continue reading...</a>",
-    "author": "Dan Milmo Global technology editor",
-    "published": "Tue, 30 Jun 2026 14:32:03 GMT",
-    "tags": [
-      "Technology sector",
-      "Competition and Markets Authority",
-      "Business",
-      "Apps",
-      "Apple",
-      "Google",
-      "Technology",
-      "UK news",
-      "Regulators",
-      "Alphabet",
-      "Mobile phones",
-      "Mobile phones",
-      "Money"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
-    "link": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
-    "summary": "<p>Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autism</p><p>Adults in the US who frequently seek out health advice from artificial intelligence chatbots are more likely to believe myths about vaccines, according to a poll released on Tuesday by health research firm KFF.</p><p>The survey, which was conducted in May and polled a representative sample of 2,480 US adults, found that use of AI tools and chatbots correlated with belief in falsehoods such as vaccines causing autism or that the measles vaccine poses more danger than the corresponding virus. The connection remained while controlling for factors such as age, race, education and political partisanship.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll\">Continue reading...</a>",
-    "author": "Nick Robins-Early",
-    "published": "Tue, 30 Jun 2026 19:51:07 GMT",
-    "tags": [
-      "Technology",
-      "AI (artificial intelligence)",
-      "Health",
-      "US news"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Australia news live: NSW shadow upper house leader steps aside during Icac Liberals inquiry",
+    "title": "NSW shadow upper house leader steps aside during Icac Liberals inquiry – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
-    "summary": "<p>Follow the day’s latest updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenager has been charged with murder after a 15-year-old boy was discovered with fatal stab wounds outside a community medical centre.</p><p>AAP reports the boy was found critically injured outside Craigieburn Community hospital in Melbourne’s north about 7.50pm on Wednesday. A staff member from the clinic rushed to his aid and delivered CPR but he died at the scene.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb\">Continue reading...</a>",
-    "author": "Catie McLeod (now) and Nick Visser (earlier)",
-    "published": "Fri, 03 Jul 2026 07:08:22 GMT",
+    "summary": "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenager has been charged with murder after a 15-year-old boy was discovered with fatal stab wounds outside a community medical centre.</p><p>AAP reports the boy was found critically injured outside Craigieburn Community hospital in Melbourne’s north about 7.50pm on Wednesday. A staff member from the clinic rushed to his aid and delivered CPR but he died at the scene.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb\">Continue reading...</a>",
+    "author": "Catie McLeod and Nick Visser",
+    "published": "Fri, 03 Jul 2026 07:54:18 GMT",
     "tags": [
       "Australia news",
       "Australian politics",
@@ -1267,19 +1271,18 @@
     "module": "应用落地"
   },
   {
-    "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
-    "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
-    "summary": "<p>Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profits</p><p>When South Korea’s most high-profile divorce case returned to court last month, the lawyers were arguing not just about the breakdown of a relationship, but also the exact date at which to value shares in one specific company.</p><p>The judges’ decision in Seoul could change the value of business tycoon Chey Tae-won’s assets by billions of dollars. The shares were in the holding company behind SK Hynix, the manufacturer of chips powering AI systems around the world.</p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom\">Continue reading...</a>",
-    "author": "Raphael Rashid in Seoul",
-    "published": "Fri, 03 Jul 2026 02:34:40 GMT",
+    "title": "I tested 53 water bottles to find the best for leaks, looks and sustainability: here are my favourites",
+    "link": "https://www.theguardian.com/thefilter/2025/aug/14/best-water-bottles-tested-uk",
+    "summary": "<p>Ditched single-use plastic bottles but can’t find a good reusable one? I spent months putting dozens through their paces – these are the ones worth buying</p><p><strong>• </strong><a href=\"https://www.theguardian.com/thefilter/2025/jul/30/best-travel-mug-reusable-coffee-cup-uk\"><strong>The best travel mugs and reusable coffee cups, tested</strong></a></p><p>If you think a water bottle is just a water bottle, it’s time to wake up. These days, there’s <a href=\"https://www.theguardian.com/media/2018/nov/18/water-bottle-status-symbol-reusable-fashion-statement\">a lot riding on your choice of drinking vessel</a>. The heady combination of worrying about the planet and, on a more day-to-day level, staying hydrated has made reusable water bottles a must-have.</p><p>Once the preserve of hikers and gym-goers, water bottles have become a small but significant act of environmental virtue signalling. Not all bottles are created equal, though. Some are insulated, some leak, some weigh as much as a toddler, and some even infuse your water with hydrogen (more on that later). The choice is dizzying.</p><p><strong>Best water bottle overall:<br /></strong>Owala FreeSip</p><p><strong>Best budget water bottle:<br /></strong>Ion8 stainless-steel water bottle</p> <a href=\"https://www.theguardian.com/thefilter/2025/aug/14/best-water-bottles-tested-uk\">Continue reading...</a>",
+    "author": "Zoë Phillimore",
+    "published": "Fri, 03 Jul 2026 09:00:41 GMT",
     "tags": [
-      "South Korea",
-      "Inequality",
-      "AI (artificial intelligence)",
+      "Life and style",
       "Technology",
-      "Stock markets",
-      "Computing",
-      "Asia Pacific"
+      "Ethical and green living",
+      "Health & wellbeing",
+      "Travel",
+      "Hobbies"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1310,44 +1313,35 @@
     "module": "前沿探索"
   },
   {
-    "title": "‘A very good gadget’: taking delivery from the robots of Milton Keynes",
-    "link": "https://www.theguardian.com/technology/2026/jun/29/delivery-robots-milton-keynes-starship-technologies",
-    "summary": "<p>Starship Technologies six-wheelers could soon become a more familiar sight across the country under new laws</p><p>Driving down an endless string of identical roundabouts in the dead heat with hardly a human in sight, you see robots roving around on grassy pavements, whizzing past obstacles to hurriedly reach their final destination. This isn’t a scene from a Philip K Dick novel, however, but an average Thursday in Milton Keynes.</p><p>The robots aren’t a new arrival to the Buckinghamshire city, <a href=\"https://www.theguardian.com/cities/2016/may/03/struggle-for-the-soul-of-milton-keynes\">the UK’s largest new town</a> and a longtime marvel for city planning enthusiasts fascinated by its American-influenced layout and postwar history. They’ve roamed its streets since 2018 – and could soon be coming to a town or city near you.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/29/delivery-robots-milton-keynes-starship-technologies\">Continue reading...</a>",
-    "author": "Sammy Gecsoyler and Charlotte Smith",
-    "published": "Mon, 29 Jun 2026 12:00:44 GMT",
+    "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans",
+    "link": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
+    "summary": "<p>The US motor company found that the hundreds of AI cameras being used for design and manufacturing checks were prone to pitfalls</p><p><strong>Name:</strong> “Greybeards.”</p><p><strong>Age:</strong> There’s a clue in the name.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers\">Continue reading...</a>",
+    "author": "",
+    "published": "Tue, 30 Jun 2026 15:04:58 GMT",
     "tags": [
-      "Robots",
-      "Couriers/delivery industry",
-      "Milton Keynes",
-      "Technology",
-      "Co-operative Group",
-      "UK news",
-      "England",
-      "Buckinghamshire"
+      "AI (artificial intelligence)",
+      "Engineering",
+      "Motoring",
+      "Work & careers",
+      "Computing",
+      "Technology"
     ],
     "source": "https://www.theguardian.com",
-    "module": "前沿探索"
+    "module": "应用落地"
   },
   {
-    "title": "‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres",
-    "link": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
-    "summary": "<p>In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water. Three decades later, she has a new target in her sights – and it’s global</p><p>When Erin Brockovich woke to find 30 emails from people from the same town, she realised something was going on. People email Brockovich all the time because of what happened in 1993, when she was instrumental in suing Pacific Gas and Electric Company (PG&amp;E) on behalf of residents of the town of Hinkley, California, whose groundwater had been contaminated. The case resulted in a settlement of $333m – then the largest ever payout for a direct-action lawsuit. When she was immortalised by Julia Roberts in the 2000 film Erin Brockovich, she became the hero we didn’t know we needed, a modern day Joan of Arc. She had won against PG&amp;E with no formal legal training.</p><p>The emails she received a few weeks ago were about datacentres. In April, she put a callout on her website asking for anyone with concerns about one near them to get in touch. Within a month, 3,862 people had replied. Tech companies have needed datacentres to power their technology “for ever”, she says, but the new ones being built to power AI? “This feels like Hinkley on steroids.”</p> <a href=\"https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres\">Continue reading...</a>",
-    "author": "Zoe Williams",
-    "published": "Mon, 29 Jun 2026 04:00:28 GMT",
+    "title": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+    "summary": "<p>Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference?</p><p>In 2017, a 33-year-old political philosopher named Iason Gabriel was told by a friend that he ought to apply for a job at DeepMind, the London-based subsidiary of Google where much of its AI research was concentrated. The suggestion was not an obvious one.</p><p>Gabriel was a cheerful but intense junior academic with a passion for Vipassana meditation and what his brother calls “enthusiastic” rock climbing. The eldest son of a Greek management professor and a British documentary maker, Gabriel split his time between teaching and international development work. At the University of Oxford, where he was a fellow at St John’s College, Gabriel taught courses on political theory and wrote papers on the moral contortions of “yuppie ethics” and the ethical blind spots of effective altruism. When he wasn’t there, he did crisis work for the United Nations Development Programme in Sudan and Lebanon.</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind\">Continue reading...</a>",
+    "author": "Robert P Baird",
+    "published": "Tue, 30 Jun 2026 04:00:37 GMT",
     "tags": [
-      "Energy",
-      "Environment",
-      "Climate crisis",
-      "Technology",
       "AI (artificial intelligence)",
       "Computing",
-      "US news",
-      "Erin Brockovich",
-      "Film",
-      "Water"
+      "Technology"
     ],
     "source": "https://www.theguardian.com",
-    "module": "基础设施与工具"
+    "module": "应用落地"
   },
   {
     "title": "Doubt that Elon Musk ‘earned’ his trillion? Rightwing media says you’re in an ‘impotent envy cult’ | Arwa Mahdawi",
@@ -1421,6 +1415,21 @@
     "module": "应用落地"
   },
   {
+    "title": "What is Paralives? The creative life simulator game that could rival The Sims",
+    "link": "https://www.theguardian.com/games/2026/jul/03/paralives-life-simulator-game-the-sims",
+    "summary": "<p>With players leaving EA’s series once life there felt like a grind beset by ethical concerns, this quirky new sim promises a better life elsewhere</p><p>For 26 years, the life-sims genre has been dominated by one series: The Sims. Originally designed by Will Wright, creator of Sim City, EA’s virtual dollhouse series has grown into a $5bn [£3.8bn] empire with the constant release of new games, expansion packs, and collaborations cementing its place among the bestselling video game franchises of all time. But things are beginning to change. New contenders are emerging and turning the heads of even loyal players in The Sims community.</p><p>The most recent, and promising, of these is <a href=\"https://www.paralives.com/\">Paralives</a>, once the solo project of indie designer Alex Massé, who is now employing a small team of developers. Released on the PC games platform Steam in May 2026 as an early access title (meaning it’s technically unfinished and looking for user feedback), it sold 250,000 copies in just eight hours. On that first day, the concurrent player count hit 78,603 – not far off The Sims 4’s all-time peak of 96,328 in 2022. While Paralives is a small project, this success is understandable. Following the news of EA’s controversial acquisition by a Saudi-backed business consortium, some simmers are looking for what they see as a more ethical alternative. But this is only part of the game’s appeal. The real draw is the game’s focus on creativity over realism: the quirky details that made many fans fall in love with The Sims in the first place.</p> <a href=\"https://www.theguardian.com/games/2026/jul/03/paralives-life-simulator-game-the-sims\">Continue reading...</a>",
+    "author": "Vic Hood",
+    "published": "Fri, 03 Jul 2026 08:30:23 GMT",
+    "tags": [
+      "Games",
+      "Culture",
+      "Indie games",
+      "Simulation games"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Rhythm Paradise Groove review – exhilarating bitesize beats test your reflexes",
     "link": "https://www.theguardian.com/games/2026/jul/02/rhythm-paradise-heaven-groove-review-nintendo-switch",
     "summary": "<p><strong>Nintendo/TNX; Nintendo Switch<br /></strong>A joyful collection of vibrant rhythm games includes catching veggies in mid-air, practising dance choreographies and speaking to an alien</p><p>It has been a strange decade for the rhythm game genre. The legendary progenitors Rock Band and Guitar Hero are seemingly gone, yet companies are manufacturing plastic guitars again. Tango Gameworks, a studio best known for delivering survival horror hauntings, made Hi-Fi Rush and it ruled, but Microsoft sold the studio. Indie titles such as Sayonara Wild Hearts and Rift of the NecroDancer have done well on the margins, but now Epic Games has swept in, adding a rhythm action mode to Fortnite so now its mainstream again. All these titles have reinforced the ideas laid out by their forefathers: rhythm can intersect with video games as much as it already intersects with our everyday lives.</p><p>Few series hold this ethos to heart as strongly as Rhythm Heaven. Dormant since 2015, a new entry, Rhythm Heaven Groove (known as Rhythm Paradise Groove in Pal territories), doubles down on the concept of offering bitesize, rhythm-based experiences where you follow auditive cues to perform all manner of increasingly exhilarating actions with just a few buttons. Whether you’re catching veggies in mid-air, practising dance choreographies, or speaking to an alien, each mini-game is intended to be a vibrant, micro cacophony with its own rules.</p> <a href=\"https://www.theguardian.com/games/2026/jul/02/rhythm-paradise-heaven-groove-review-nintendo-switch\">Continue reading...</a>",
@@ -1430,6 +1439,25 @@
       "Games",
       "Culture",
       "Nintendo Switch"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Sony will kill PlayStation games on discs in 2028 and offer digital downloads only",
+    "link": "https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads",
+    "summary": "<p>With the much-anticipated release of Grand Theft Auto VI only available as download, Sony is following suit</p><p>Sony said on Wednesday that it would stop releasing new video games for the PlayStation console on disc in January 2028 following a shift in consumer preferences.</p><p>“Following this date, new games will be available on PlayStation Store and at retailers in digital formats only,” the company said on its official PlayStation blog.</p> <a href=\"https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads\">Continue reading...</a>",
+    "author": "Agence France-Presse",
+    "published": "Wed, 01 Jul 2026 18:56:26 GMT",
+    "tags": [
+      "PlayStation",
+      "Grand Theft Auto",
+      "Grand Theft Auto VI",
+      "Sony",
+      "Games",
+      "Technology",
+      "Culture",
+      "US news"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1462,37 +1490,6 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "大模型与基础技术"
-  },
-  {
-    "title": "Behold, the most realistic golf game ever  | Dominik Diamond",
-    "link": "https://www.theguardian.com/games/2026/jun/26/normal-golf-game-steam-dominik-diamond",
-    "summary": "<p>Normal Golf Game takes a tiresomely easy genre and makes it infernally difficult. Which deserves a round of applause</p><p>I have always struggled playing golf. I wish I didn’t. It’s a beautiful game in concept. A leisurely walk in the sunshine, slapping a ball around, sandwiches and beer consumed during and after play. Sure, you have to dress like Huggy Bear from Starsky and Hutch, and getting membership of an actual club is more complex than joining the Freemasons (although many offer a two for one deal with this), but you don’t have to be fit, you don’t have to even run. It is the only outdoor sport where a fat dad can be the best in the world.</p><p>The premise couldn’t be simpler: get the ball in the hole. But there is nothing worse in sport than knowing what you have to do and not being able to do it. Just ask amateur parachutists.</p> <a href=\"https://www.theguardian.com/games/2026/jun/26/normal-golf-game-steam-dominik-diamond\">Continue reading...</a>",
-    "author": "Dominik Diamond",
-    "published": "Fri, 26 Jun 2026 11:02:49 GMT",
-    "tags": [
-      "Games",
-      "Culture",
-      "Steam",
-      "Golf",
-      "Sport"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Grand Theft Auto VI pre-orders open, but don’t expect a physical copy",
-    "link": "https://www.theguardian.com/games/2026/jun/25/grand-theft-auto-vi-pre-orders-open",
-    "summary": "<p>The blockbuster launch is expected to dwarf the box office takings of the year’s biggest movies with one industry analyst predicting it could make $1bn within an hour</p><p>It is, quite simply, the most anticipated piece of entertainment since the Star Wars prequels and now, at last, you can reserve a copy. At midnight last night, Rockstar opened preorders on Grand Theft Auto VI, the latest title in the epic open-world gangster adventure series, five months before its 19 November release date on PS5 and Xbox Series S/X.</p><p>Prices have also been confirmed, with the standard edition costing $80 in the US, £70 in the UK, and €80 in Europe. An Ultimate Edition (£90/€100/$100) will include exclusive in-game cars, clothes and weapons – the developer has confirmed that there will also be in-game stores that are only open to Ultimate owners. Anyone who pre-orders the game will get a Vintage Vice City pack filled with 80s apparel and other nostalgic items, which look to be straight out of Don Johnson’s Miami Vice wardrobe.</p> <a href=\"https://www.theguardian.com/games/2026/jun/25/grand-theft-auto-vi-pre-orders-open\">Continue reading...</a>",
-    "author": "Keith Stuart",
-    "published": "Thu, 25 Jun 2026 14:17:28 GMT",
-    "tags": [
-      "Games",
-      "Culture",
-      "Grand Theft Auto",
-      "Grand Theft Auto VI"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
   },
   {
     "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
@@ -1780,6 +1777,26 @@
       "Altman, Samuel H",
       "Computers and the Internet",
       "Amazon.com Inc"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics",
+    "link": "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html",
+    "summary": "Other U.S. companies will soon need to provide similar reports as a new European directive takes effect.",
+    "author": "Jesse Drucker and Karen Weise",
+    "published": "Fri, 03 Jul 2026 09:04:25 +0000",
+    "tags": [
+      "Computers and the Internet",
+      "Company Reports",
+      "Corporate Taxes",
+      "Tax Shelters",
+      "Microsoft Corp",
+      "Internal Revenue Service",
+      "European Commission",
+      "Ireland",
+      "Luxembourg"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -2092,28 +2109,6 @@
       "University of California, Los Angeles",
       "International Business Machines Corporation",
       "Innovation"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
-    "link": "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html",
-    "summary": "President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.",
-    "author": "Cecilia Kang",
-    "published": "Thu, 25 Jun 2026 23:25:18 +0000",
-    "tags": [
-      "Candeub, Adam",
-      "Trump, Donald J",
-      "Antitrust Laws and Competition Issues",
-      "United States Politics and Government",
-      "Appointments and Executive Changes",
-      "Mergers, Acquisitions and Divestitures",
-      "Justice Department",
-      "Federal Communications Commission",
-      "Federal Trade Commission",
-      "Mandate for Leadership (Project 2025) (Book)",
-      "Heritage Foundation"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -5430,21 +5425,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Evaluation of Multidisciplinary Effects of Artificial Intelligence with Optimization Perspective",
-    "link": "https://arxiv.org/abs/1902.01362v1",
-    "summary": "Artificial Intelligence has an important place in the scientific community as a result of its successful outputs in terms of different fields. In time, the field of Artificial Intelligence has been divided into many sub-fields because of increasing number of different solution approaches, methods, and techniques. Machine Learning has the most remarkable role with its functions to learn from samples from the environment. On the other hand, intelligent optimization done by inspiring from nature and swarms had its own unique scientific literature, with effective solutions provided for optimization problems from different fields. Because intelligent optimization can be applied in different fields effectively, this study aims to provide a general discussion on multidisciplinary effects of Artificial Intelligence by considering its optimization oriented solutions. The study briefly focuses on background of the intelligent optimization briefly and then gives application examples of intelligent optimization from a multidisciplinary perspective.",
-    "author": "M. H. Calp",
-    "published": "2019-02-04T18:26:12Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans",
     "link": "https://arxiv.org/abs/2603.17926v1",
     "summary": "Legal age estimation plays a critical role in forensic and medico-legal contexts, where decisions must be supported by accurate, robust, and reproducible methods with explicit uncertainty quantification. While prior artificial intelligence (AI)-based approaches have primarily focused on hand radiographs or dental imaging, clavicle computed tomography (CT) scans remain underexplored despite their documented effectiveness for legal age estimation. In this work, we present an interpretable, multi-stage pipeline for legal age estimation from clavicle CT scans. The proposed framework combines (i) a feature-based connected-component method for automatic clavicle detection that requires minimal manual annotation, (ii) an Integrated Gradients-guided slice selection strategy used to construct the input data for a multi-slice convolutional neural network that estimates legal age, and (iii) conformal prediction intervals to support uncertainty-aware decisions in accordance with established international protocols. The pipeline is evaluated on 1,158 full-body post-mortem CT scans from a public forensic dataset (the New Mexico Decedent Image Database). The final model achieves state-of-the-art performance with a mean absolute error (MAE) of 1.55 $\\pm$ 0.16 years on a held-out test set, outperforming both human experts (MAE of approximately 1.90 years) and previous methods (MAEs above 1.75 years in our same dataset). Furthermore, conformal prediction enables configurable coverage levels aligned with forensic requirements. Attribution maps indicate that the model focuses on anatomically relevant regions of the medial clavicular epiphysis. The proposed method, which is currently being added as part of the Skeleton-ID software (https://skeleton-id.com/skeleton-id/), is intended as a decision-support component within multi-factorial forensic workflows.",
     "author": "Javier Venema, Stefano De Luca, Pablo Mesejo, Óscar Ibáñez",
     "published": "2026-03-18T17:02:01Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Evaluation of Multidisciplinary Effects of Artificial Intelligence with Optimization Perspective",
+    "link": "https://arxiv.org/abs/1902.01362v1",
+    "summary": "Artificial Intelligence has an important place in the scientific community as a result of its successful outputs in terms of different fields. In time, the field of Artificial Intelligence has been divided into many sub-fields because of increasing number of different solution approaches, methods, and techniques. Machine Learning has the most remarkable role with its functions to learn from samples from the environment. On the other hand, intelligent optimization done by inspiring from nature and swarms had its own unique scientific literature, with effective solutions provided for optimization problems from different fields. Because intelligent optimization can be applied in different fields effectively, this study aims to provide a general discussion on multidisciplinary effects of Artificial Intelligence by considering its optimization oriented solutions. The study briefly focuses on background of the intelligent optimization briefly and then gives application examples of intelligent optimization from a multidisciplinary perspective.",
+    "author": "M. H. Calp",
+    "published": "2019-02-04T18:26:12Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5560,16 +5555,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Explainable Artificial Intelligence Approaches: A Survey",
-    "link": "https://arxiv.org/abs/2101.09429v1",
-    "summary": "The lack of explainability of a decision from an Artificial Intelligence (AI) based \"black box\" system/model, despite its superiority in many real-world applications, is a key stumbling block for adopting AI in many high stakes applications of different domain or industry. While many popular Explainable Artificial Intelligence (XAI) methods or approaches are available to facilitate a human-friendly explanation of the decision, each has its own merits and demerits, with a plethora of open challenges. We demonstrate popular XAI methods with a mutual case study/task (i.e., credit default prediction), analyze for competitive advantages from multiple perspectives (e.g., local, global), provide meaningful insight on quantifying explainability, and recommend paths towards responsible or human-centered AI using XAI as a medium. Practitioners can use this work as a catalog to understand, compare, and correlate competitive advantages of popular XAI methods. In addition, this survey elicits future research directions towards responsible or human-centric AI systems, which is crucial to adopt AI in high stakes applications.",
-    "author": "Sheikh Rabiul Islam, William Eberle, Sheikh Khaled Ghafoor, Mohiuddin Ahmed",
-    "published": "2021-01-23T06:15:34Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Artificial Intelligence and its Role in Near Future",
     "link": "https://arxiv.org/abs/1804.01396v1",
     "summary": "AI technology has a long history which is actively and constantly changing and growing. It focuses on intelligent agents, which contain devices that perceive the environment and based on which takes actions in order to maximize goal success chances. In this paper, we will explain the modern AI basics and various representative applications of AI. In the context of the modern digitalized world, AI is the property of machines, computer programs, and systems to perform the intellectual and creative functions of a person, independently find ways to solve problems, be able to draw conclusions and make decisions. Most artificial intelligence systems have the ability to learn, which allows people to improve their performance over time. The recent research on AI tools, including machine learning, deep learning and predictive analysis intended toward increasing the planning, learning, reasoning, thinking and action taking ability. Based on which, the proposed research intends towards exploring on how the human intelligence differs from the artificial intelligence. Moreover, we critically analyze what AI of today is capable of doing, why it still cannot reach human intelligence and what are the open challenges existing in front of AI to reach and outperform human level of intelligence. Furthermore, it will explore the future predictions for artificial intelligence and based on which potential solution will be recommended to solve it within next decades.",
@@ -5578,6 +5563,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Explainable Artificial Intelligence Approaches: A Survey",
+    "link": "https://arxiv.org/abs/2101.09429v1",
+    "summary": "The lack of explainability of a decision from an Artificial Intelligence (AI) based \"black box\" system/model, despite its superiority in many real-world applications, is a key stumbling block for adopting AI in many high stakes applications of different domain or industry. While many popular Explainable Artificial Intelligence (XAI) methods or approaches are available to facilitate a human-friendly explanation of the decision, each has its own merits and demerits, with a plethora of open challenges. We demonstrate popular XAI methods with a mutual case study/task (i.e., credit default prediction), analyze for competitive advantages from multiple perspectives (e.g., local, global), provide meaningful insight on quantifying explainability, and recommend paths towards responsible or human-centered AI using XAI as a medium. Practitioners can use this work as a catalog to understand, compare, and correlate competitive advantages of popular XAI methods. In addition, this survey elicits future research directions towards responsible or human-centric AI systems, which is crucial to adopt AI in high stakes applications.",
+    "author": "Sheikh Rabiul Islam, William Eberle, Sheikh Khaled Ghafoor, Mohiuddin Ahmed",
+    "published": "2021-01-23T06:15:34Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Mathematics of natural intelligence",
@@ -5700,6 +5695,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
+    "link": "https://arxiv.org/abs/1304.3852v1",
+    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
+    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
+    "published": "2013-04-13T21:10:50Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence (2010)",
     "link": "https://arxiv.org/abs/1205.2597v2",
     "summary": "This is the Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence, which was held on Catalina Island, CA, July 8 - 11 2010.",
@@ -5715,16 +5720,6 @@
     "summary": "This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21 2009.",
     "author": "Jeff Bilmes, Andrew Ng",
     "published": "2012-06-13T16:43:44Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)",
-    "link": "https://arxiv.org/abs/1304.3852v1",
-    "summary": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992",
-    "author": "Bruce D'Ambrosio, Didier Dubois, Philippe Smets, Michael Wellman",
-    "published": "2013-04-13T21:10:50Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5895,6 +5890,76 @@
     "summary": "Data-centric artificial intelligence (data-centric AI) represents an emerging paradigm emphasizing that the systematic design and engineering of data is essential for building effective and efficient AI-based systems. The objective of this article is to introduce practitioners and researchers from the field of Information Systems (IS) to data-centric AI. We define relevant terms, provide key characteristics to contrast the data-centric paradigm to the model-centric one, and introduce a framework for data-centric AI. We distinguish data-centric AI from related concepts and discuss its longer-term implications for the IS community.",
     "author": "Johannes Jakubik, Michael Vössing, Niklas Kühl, Jannis Walk, Gerhard Satzger",
     "published": "2022-12-22T16:41:03Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker",
+    "link": "https://arxiv.org/abs/1701.01724v3",
+    "summary": "Artificial intelligence has seen several breakthroughs in recent years, with games often serving as milestones. A common feature of these games is that players have perfect information. Poker is the quintessential game of imperfect information, and a longstanding challenge problem in artificial intelligence. We introduce DeepStack, an algorithm for imperfect information settings. It combines recursive reasoning to handle information asymmetry, decomposition to focus computation on the relevant decision, and a form of intuition that is automatically learned from self-play using deep learning. In a study involving 44,000 hands of poker, DeepStack defeated with statistical significance professional poker players in heads-up no-limit Texas hold'em. The approach is theoretically sound and is shown to produce more difficult to exploit strategies than prior approaches.",
+    "author": "Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, Michael Bowling",
+    "published": "2017-01-06T18:56:49Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Advancing from Predictive Maintenance to Intelligent Maintenance with AI and IIoT",
+    "link": "https://arxiv.org/abs/2009.00351v1",
+    "summary": "As Artificial Intelligent (AI) technology advances and increasingly large amounts of data become readily available via various Industrial Internet of Things (IIoT) projects, we evaluate the state of the art of predictive maintenance approaches and propose our innovative framework to improve the current practice. The paper first reviews the evolution of reliability modelling technology in the past 90 years and discusses major technologies developed in industry and academia. We then introduce the next generation maintenance framework - Intelligent Maintenance, and discuss its key components. This AI and IIoT based Intelligent Maintenance framework is composed of (1) latest machine learning algorithms including probabilistic reliability modelling with deep learning, (2) real-time data collection, transfer, and storage through wireless smart sensors, (3) Big Data technologies, (4) continuously integration and deployment of machine learning models, (5) mobile device and AR/VR applications for fast and better decision-making in the field. Particularly, we proposed a novel probabilistic deep learning reliability modelling approach and demonstrate it in the Turbofan Engine Degradation Dataset.",
+    "author": "Haining Zheng, Antonio R. Paiva, Chris S. Gurciullo",
+    "published": "2020-09-01T11:10:13Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Survey of Hybrid Human-Artificial Intelligence for Social Computing",
+    "link": "https://arxiv.org/abs/2103.15558v1",
+    "summary": "Along with the development of modern computing technology and social sciences, both theoretical research and practical applications of social computing have been continuously extended. In particular with the boom of artificial intelligence (AI), social computing is significantly influenced by AI. However, the conventional technologies of AI have drawbacks in dealing with more complicated and dynamic problems. Such deficiency can be rectified by hybrid human-artificial intelligence (H-AI) which integrates both human intelligence and AI into one unity, forming a new enhanced intelligence. H-AI in dealing with social problems shows the advantages that AI can not surpass. This paper firstly introduces the concept of H-AI. AI is the intelligence in the transition stage of H-AI, so the latest research progresses of AI in social computing are reviewed. Secondly, it summarizes typical challenges faced by AI in social computing, and makes it possible to introduce H-AI to solve these challenges. Finally, the paper proposes a holistic framework of social computing combining with H-AI, which consists of four layers: object layer, base layer, analysis layer, and application layer. It represents H-AI has significant advantages over AI in solving social problems.",
+    "author": "Wenxi Wang, Huansheng Ning, Feifei Shi, Sahraoui Dhelim, Weishan Zhang, Liming Chen",
+    "published": "2021-03-17T08:39:44Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Artificial Intelligence in Reverse Supply Chain Management: The State of the Art",
+    "link": "https://arxiv.org/abs/1012.4046v1",
+    "summary": "Product take-back legislation forces manufacturers to bear the costs of collection and disposal of products that have reached the end of their useful lives. In order to reduce these costs, manufacturers can consider reuse, remanufacturing and/or recycling of components as an alternative to disposal. The implementation of such alternatives usually requires an appropriate reverse supply chain management. With the concepts of reverse supply chain are gaining popularity in practice, the use of artificial intelligence approaches in these areas is also becoming popular. As a result, the purpose of this paper is to give an overview of the recent publications concerning the application of artificial intelligence techniques to reverse supply chain with emphasis on certain types of product returns.",
+    "author": "Bo Xing, Wen-Jing Gao, Kimberly Battle, Tshildzi Marwala, Fulufhelo V. Nelwamondo",
+    "published": "2010-12-18T01:12:14Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research",
+    "link": "https://arxiv.org/abs/2511.15282v2",
+    "summary": "In this paper, we argue that current AI research operates on a spectrum between two different underlying conceptions of intelligence: Intelligence Realism, which holds that intelligence represents a single, universal capacity measurable across all systems, and Intelligence Pluralism, which views intelligence as diverse, context-dependent capacities that cannot be reduced to a single universal measure. Through an analysis of current debates in AI research, we demonstrate how the conceptions remain largely implicit yet fundamentally shape how empirical evidence gets interpreted across a wide range of areas. These underlying views generate fundamentally different research approaches across three areas. Methodologically, they produce different approaches to model selection, benchmark design, and experimental validation. Interpretively, they lead to contradictory readings of the same empirical phenomena, from capability emergence to system limitations. Regarding AI risk, they generate categorically different assessments: realists view superintelligence as the primary risk and search for unified alignment solutions, while pluralists see diverse threats across different domains requiring context-specific solutions. We argue that making explicit these underlying assumptions can contribute to a clearer understanding of disagreements in AI research.",
+    "author": "Ninell Oldenburg, Ruchira Dhar, Anders Søgaard",
+    "published": "2025-11-19T09:48:07Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence (1996)",
+    "link": "https://arxiv.org/abs/1304.3847v2",
+    "summary": "This is the Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence, which was held in Portland, OR, August 1-4, 1996",
+    "author": "Eric Horvitz, Finn Jensen",
+    "published": "2013-04-13T20:49:49Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "NCI Workshop on Artificial Intelligence in Radiation Oncology: Training the Next Generation",
+    "link": "https://arxiv.org/abs/1910.13334v3",
+    "summary": "Artificial intelligence (AI) is about to touch every aspect of radiotherapy from consultation, treatment planning, quality assurance, therapy delivery, to outcomes modeling. There is an urgent need to train radiation oncologists and medical physicists in data science to help shepherd AI solutions into clinical practice. Poorly trained personnel may do more harm than good when attempting to apply rapidly developing and complex technologies. As the amount of AI research expands in our field, the radiation oncology community needs to discuss how to educate future generations in this area. The National Cancer Institute (NCI) Workshop on AI in Radiation Oncology (Shady Grove, MD, April 4-5, 2019) was the first (https://dctd.cancer.gov/NewsEvents/20190523_ai_in_radiation_oncology.htm) of two data science workshops in radiation oncology hosted by the NCI in 2019. During this workshop, the Training and Education Working Group was formed by volunteers among the invited attendees. Its members represent radiation oncology, medical physics, radiology, computer science, industry, and the NCI. In this perspective article written by members of the Training and Education Working Group, we provide and discuss Action Points relevant for future trainees interested in radiation oncology AI: (1) creating AI awareness and responsible conduct; (2) implementing a practical didactic curriculum; (3) creating a publicly available database of training resources; and (4) accelerate learning and funding opportunities. Together, these Action Points can facilitate the translation of AI into clinical practice.",
+    "author": "John Kang, Reid F. Thompson, Sanjay Aneja, Constance Lehman, Andrew Trister, James Zou, Ceferino Obcemea, Issam El Naqa",
+    "published": "2019-10-18T12:42:18Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
