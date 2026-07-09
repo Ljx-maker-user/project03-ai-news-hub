@@ -769,11 +769,31 @@
     "module": "应用落地"
   },
   {
-    "title": "I Think I Have LLM Burnout",
-    "link": "https://www.alecscollon.com/blog/llm-burnout/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48839984\">Comments</a>",
+    "title": "Spider venom kills varroa mites without harming honeybees",
+    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841259\">Comments</a>",
     "author": "",
-    "published": "Thu, 09 Jul 2026 01:56:28 +0000",
+    "published": "Thu, 09 Jul 2026 05:14:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "link": "https://github.com/malisper/pgrust",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841676\">Comments</a>",
+    "author": "",
+    "published": "Thu, 09 Jul 2026 06:18:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "link": "https://nexte.st/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48800596\">Comments</a>",
+    "author": "",
+    "published": "Mon, 06 Jul 2026 04:19:30 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -789,11 +809,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Chatto is now open source",
-    "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833116\">Comments</a>",
+    "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+    "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48837696\">Comments</a>",
     "author": "",
-    "published": "Wed, 08 Jul 2026 15:19:50 +0000",
+    "published": "Wed, 08 Jul 2026 21:30:09 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841963\">Comments</a>",
+    "author": "",
+    "published": "Thu, 09 Jul 2026 07:00:43 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -809,24 +839,14 @@
     "module": "应用落地"
   },
   {
-    "title": "Cloudflare Drop",
-    "link": "https://www.cloudflare.com/drop/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48836233\">Comments</a>",
+    "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+    "link": "https://www.yamanote.fun/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48816987\">Comments</a>",
     "author": "",
-    "published": "Wed, 08 Jul 2026 19:18:26 +0000",
+    "published": "Tue, 07 Jul 2026 12:47:46 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
-  },
-  {
-    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-    "link": "https://mistral.ai/news/robostral-navigate/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48832212\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 14:09:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
   },
   {
     "title": "Unicode's transliteration rules are Turing-complete",
@@ -834,26 +854,6 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48829797\">Comments</a>",
     "author": "",
     "published": "Wed, 08 Jul 2026 09:44:20 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-    "link": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48795591\">Comments</a>",
-    "author": "",
-    "published": "Sun, 05 Jul 2026 16:39:40 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-    "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48838772\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 23:27:14 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -869,14 +869,14 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-    "link": "https://mira-wm.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48839355\">Comments</a>",
+    "title": "Cloudflare Drop",
+    "link": "https://www.cloudflare.com/drop/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48836233\">Comments</a>",
     "author": "",
-    "published": "Thu, 09 Jul 2026 00:27:57 +0000",
+    "published": "Wed, 08 Jul 2026 19:18:26 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
+    "module": "应用落地"
   },
   {
     "title": "Grok 4.5",
@@ -889,11 +889,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-    "link": "https://www.yamanote.fun/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48816987\">Comments</a>",
+    "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+    "link": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48795591\">Comments</a>",
     "author": "",
-    "published": "Tue, 07 Jul 2026 12:47:46 +0000",
+    "published": "Sun, 05 Jul 2026 16:39:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -909,101 +909,11 @@
     "module": "应用落地"
   },
   {
-    "title": "FAANG Simulator",
-    "link": "https://www.abeyk.com/escape-the-rat-race/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48836778\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 20:05:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A bug which affected only left handed users",
-    "link": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48831587\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 13:20:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GPT‑Live",
-    "link": "https://openai.com/index/introducing-gpt-live/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834405\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 17:03:19 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Rewriting Bun in Rust",
     "link": "https://bun.com/blog/bun-in-rust",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48837877\">Comments</a>",
     "author": "",
     "published": "Wed, 08 Jul 2026 21:49:59 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "New Sweden: the US's long-lost 'secret' colony",
-    "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48836324\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 19:26:18 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "TypeScript 7",
-    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833715\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 16:06:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48829312\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 08:46:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "My road trip with the do-gooding cactus smugglers",
-    "link": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48794568\">Comments</a>",
-    "author": "",
-    "published": "Sun, 05 Jul 2026 14:30:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-    "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48835439\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 18:21:53 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Cloudflare Meerkat - Globally distributed consensus",
-    "link": "https://blog.cloudflare.com/meerkat-introduction/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48831565\">Comments</a>",
-    "author": "",
-    "published": "Wed, 08 Jul 2026 13:18:03 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1019,41 +929,131 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-    "link": "https://github.com/Rodiun/frugon",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48816724\">Comments</a>",
+    "title": "3D Airplane tracker on Mercator map",
+    "link": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48789445\">Comments</a>",
     "author": "",
-    "published": "Tue, 07 Jul 2026 12:20:54 +0000",
+    "published": "Sat, 04 Jul 2026 21:53:09 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
-    "link": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48760258\">Comments</a>",
+    "title": "Chatto is now open source",
+    "link": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833116\">Comments</a>",
     "author": "",
-    "published": "Thu, 02 Jul 2026 12:15:08 +0000",
+    "published": "Wed, 08 Jul 2026 15:19:50 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "I Built a Telegram Client for Pi",
-    "link": "https://www.npmjs.com/package/@atharva-again/pi-tg",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48804801\">Comments</a>",
+    "title": "GPT‑Live",
+    "link": "https://openai.com/index/introducing-gpt-live/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48834405\">Comments</a>",
     "author": "",
-    "published": "Mon, 06 Jul 2026 14:06:34 +0000",
+    "published": "Wed, 08 Jul 2026 17:03:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-    "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48780387\">Comments</a>",
+    "title": "New Sweden: the US's long-lost 'secret' colony",
+    "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48836324\">Comments</a>",
     "author": "",
-    "published": "Fri, 03 Jul 2026 21:46:07 +0000",
+    "published": "Wed, 08 Jul 2026 19:26:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I Built the Only 2026 WWII Jeep",
+    "link": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48814023\">Comments</a>",
+    "author": "",
+    "published": "Tue, 07 Jul 2026 05:38:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48829312\">Comments</a>",
+    "author": "",
+    "published": "Wed, 08 Jul 2026 08:46:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "link": "https://mira-wm.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48839355\">Comments</a>",
+    "author": "",
+    "published": "Thu, 09 Jul 2026 00:27:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "TypeScript 7",
+    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48833715\">Comments</a>",
+    "author": "",
+    "published": "Wed, 08 Jul 2026 16:06:35 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "FAANG Simulator",
+    "link": "https://www.abeyk.com/escape-the-rat-race/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48836778\">Comments</a>",
+    "author": "",
+    "published": "Wed, 08 Jul 2026 20:05:42 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "AI changes the economics of software rewrites",
+    "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841446\">Comments</a>",
+    "author": "",
+    "published": "Thu, 09 Jul 2026 05:46:50 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A bug which affected only left handed users",
+    "link": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48831587\">Comments</a>",
+    "author": "",
+    "published": "Wed, 08 Jul 2026 13:20:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How Donkey Kong Toppled Atari",
+    "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48841385\">Comments</a>",
+    "author": "",
+    "published": "Thu, 09 Jul 2026 05:34:44 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+    "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48835439\">Comments</a>",
+    "author": "",
+    "published": "Wed, 08 Jul 2026 18:21:53 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1284,6 +1284,22 @@
     "module": "应用落地"
   },
   {
+    "title": "Low-e windows keep homes cool … but may set neighbours’ property on fire",
+    "link": "https://www.theguardian.com/technology/2026/jul/09/low-e-windows-keep-homes-cool-but-may-set-neighbours-property-on-fire",
+    "summary": "<p>Low-emissivity windows also keep houses warm in winter, but use on bowed glass can have magnifying-glass effect</p><p>Low-emissivity or low-E window glass is a useful green technology for keeping buildings warm in winter and cool in summer … but a rare side-effect can set the neighbours’ property on fire.</p><p>The glass is coated with a thin layer of metal or metal oxide which lets visible light through but acts like a mirror in the infrared. Heat from the interior is reflected back in, retaining warmth in winter, while unwanted solar radiation is repelled in summer.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/09/low-e-windows-keep-homes-cool-but-may-set-neighbours-property-on-fire\">Continue reading...</a>",
+    "author": "David Hambling",
+    "published": "Thu, 09 Jul 2026 05:00:53 GMT",
+    "tags": [
+      "Energy",
+      "Construction industry",
+      "Environment",
+      "Technology",
+      "Business"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Can AI equalize political campaign ads – or will it remain a tool for spreading lies?",
     "link": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
     "summary": "<p>Political campaigns are increasingly deploying AI and deepfakes to further their messaging, and the scale of spread has experts concerned </p><p>From the comfort of his bed, Jonathan Rinaldi, a political candidate for a city council seat in Queens, New York, tinkered away on his iPhone, prompting an artificial intelligence chatbot to mock up fake news hits and endorsements he had never received.</p><p>During the campaign last October, Rinaldi shared one of those stories, made to appear real with a CNN logo, on his Facebook and Instagram. It stated that Lynn Schulman, his opponent and an incumbent Democrat, had been “forced to drop out of the race due to a series of critical mistakes”. But Schulman had not quit her campaign, and in November, won by a landslide.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns\">Continue reading...</a>",
@@ -1328,23 +1344,6 @@
       "Technology",
       "Summer",
       "Life and style"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The one change that worked: I banned myself from social media – and my children have never been happier",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/06/the-one-change-that-worked-i-banned-myself-from-social-media-and-my-children-have-never-been-happier",
-    "summary": "<p>I used to think my phone helped me to relax. But setting strict limits on my usage has improved my mood and my relationships</p><p>I am a psychotherapist who works with frazzled, snappy parents, and spend my days writing about why we struggle to find calm. I also used to pick up my phone hundreds of times a day, failing to realise that it was making me a snappier, more irritable, less present mother.</p><p>My phone was my office, my income, my means of communication. Every time I checked it, there was something to action, a notification of something new, something that told me I was useful and productive, giving me dopamine hits that motherhood didn’t offer. It had become my coping mechanism.</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/jul/06/the-one-change-that-worked-i-banned-myself-from-social-media-and-my-children-have-never-been-happier\">Continue reading...</a>",
-    "author": "Anna Mathur",
-    "published": "Mon, 06 Jul 2026 10:00:53 GMT",
-    "tags": [
-      "Life and style",
-      "Parents and parenting",
-      "Family",
-      "Mobile phones",
-      "Technology",
-      "Social media"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
