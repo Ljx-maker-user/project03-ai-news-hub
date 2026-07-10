@@ -1,24 +1,5 @@
 [
   {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
-    "author": "Kate Park",
-    "published": "Fri, 10 Jul 2026 17:17:12 +0000",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Hardware",
-      "Artificial Intelligence (AI)",
-      "semiconductors",
-      "SK Hynix",
-      "initial public offering",
-      "AI chips"
-    ],
-    "source": "https://techcrunch.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Data center demand drives 66% surge in natural gas power plant costs",
     "link": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
     "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
@@ -375,6 +356,25 @@
     "module": "应用落地"
   },
   {
+    "title": "Self Inspection raises $3M for its AI-powered vehicle inspections",
+    "link": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/",
+    "summary": "A number of startups are racing to make vehicle inspections faster, easier, and cheaper. Self Inspection, a startup based in San Diego, thinks it has them all beat with its AI-powered service &#8212; and now it has convinced outside investors. Self Inspection, founded in 2021, is set to announce Thursday it&#8217;s raised $3 million in [&#8230;]",
+    "author": "Sean O'Kane",
+    "published": "Fri, 07 Feb 2025 18:00:44 +0000",
+    "tags": [
+      "Startups",
+      "Transportation",
+      "AI",
+      "Artificial Intelligence (AI)",
+      "Exclusive",
+      "Costanoa Ventures",
+      "DVx Ventures",
+      "self inspection"
+    ],
+    "source": "https://techcrunch.com",
+    "module": "2025 年最热细分赛道"
+  },
+  {
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
     "summary": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google/2026/\">I/O developer conference</a>, Google announced a <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">sweeping redesign</a> of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its <a href=\"https://search.google/ways-to-search/ai-overviews/\">AI Overviews</a> and <a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a> features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.</p><p>Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.</p><p>The announcement arrived alongside a blizzard of other news — new <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini models</a>, a personal <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">AI agent called Spark</a>, an intelligent <a href=\"https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/\">shopping cart</a>, a <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">reimagined developer platform</a> — but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future of its flagship product not as a place where users type fragmented keywords, but as an interface where they hold open-ended, multimodal conversations with an AI system backed by the entire web.</p><h2><b>The new search box expands, accepts files, and coaches you on what to ask</b></h2><p>The changes show a fundamental shift in how Google expects people to interact with the product that generates the vast majority of Alphabet&#x27;s revenue.</p><p>The box itself now dynamically expands to accommodate longer, more conversational queries. Where the old interface subtly encouraged brevity — a narrow field suited to two- or three-word keyword strings — the new design invites users to fully articulate complex questions in granular detail. It also now supports multimodal inputs directly. Users can upload images, PDFs, files, and videos, or drag in content from Chrome tabs, right from the main search interface. Previously, some of these capabilities existed in AI Mode, but reaching them required extra steps. Now they sit at the primary entry point.</p><p>Google is also deploying what it describes as an AI-powered query suggestion system that &quot;goes beyond autocomplete.&quot; Rather than simply predicting the next word a user might type based on popular searches, the system helps users formulate complex, nuanced queries — essentially coaching them toward the kind of detailed questions that AI Mode handles best.</p><p>The new search box is starting to roll out immediately in all countries and languages where AI Mode is available.</p><h2><b>Google is merging AI overviews and AI mode into one seamless experience</b></h2><p>Perhaps more significant than the box itself is the architectural change happening behind it. Google is unifying <a href=\"https://search.google/ways-to-search/ai-overviews/\">AI Overviews</a> — the AI-generated summary panels that appear atop traditional search results — with <a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a>, the more immersive conversational search experience the company launched at I/O one year ago.</p><p>Starting Tuesday, this merged experience will be live across mobile and desktop worldwide. A user can type a question, receive an AI Overview alongside traditional results, and then continue directly into a back-and-forth AI Mode conversation to ask follow-up questions — all without navigating to a separate interface.</p><p>Reid explained the logic during the press briefing: the new AI search box is &quot;an upgrade of our traditional search box, and so the results take you directly to main search rather than AI mode.&quot; She noted that while some power users actively sought out AI Mode, &quot;for most users, they don&#x27;t actually want to have to think about, do they want more of a traditional page or an AI-forward search experience.&quot;</p><p>The goal, she said, was to ensure that &quot;for most users, they don&#x27;t have to think about where to go, they can just go to the search box they&#x27;re familiar with, and it feels like they get the best experience afterwards.&quot;</p><h2><b>One billion users and doubling queries reveal how fast search behavior is shifting</b></h2><p>Google&#x27;s decision to redesign the foundational interface of its most important product did not happen in a vacuum. The company shared a set of usage statistics during the briefing that reveal just how rapidly user behavior is already changing.</p><p><a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a>, which launched in the United States at I/O 2025, has surpassed one billion monthly users in its first year. AI Mode queries have been doubling every quarter since launch. AI Overviews, the lighter-weight AI summaries, now reach more than 2.5 billion monthly users. And overall <a href=\"https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai\">search query volume hit an all-time high</a> last quarter — a data point the company had previously disclosed on its earnings call.</p><p>Sundar Pichai, Google&#x27;s CEO, framed these figures as evidence that AI features are additive, not cannibalistic, to search usage. &quot;When people use our AI-powered features in search, they use search more,&quot; he said. He added that he loves &quot;how search has become less about individual queries and feels more like an ongoing conversation, giving users deeper insights and connecting you with the vastness of the web.&quot;</p><p>Reid reinforced the point: &quot;It&#x27;s not just that people are searching more, it&#x27;s that they&#x27;re searching differently. They&#x27;re fully expressing their questions in granular detail, asking those follow-up questions and searching across modalities.&quot;</p><h2><b>Gemini 3.5 Flash gives Google&#x27;s AI search the speed it needs to work at scale</b></h2><p>Under the hood, the new search experience runs on <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini 3.5 Flash</a>, Google&#x27;s newest AI model, which the company also introduced at I/O. Google upgraded AI Mode&#x27;s underlying model to 3.5 Flash to deliver what Reid described as &quot;an even more powerful AI search experience.&quot;</p><p><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini 3.5 Flash</a> is the workhorse of this year&#x27;s announcements. Google claims it outperforms its previous frontier model, <a href=\"https://deepmind.google/models/gemini/pro/\">Gemini 3.1 Pro</a>, on nearly all benchmarks while running four times faster in output tokens per second than comparable frontier models. Pichai described it as being &quot;in a league of its own in the top right quadrant&quot; of the <a href=\"https://artificialanalysis.ai/\">Artificial Analysis index</a>, which plots intelligence against speed — meaning it delivers near-frontier quality at dramatically lower latency.</p><p>That speed matters enormously for search. A conversational AI search experience that feels sluggish would be dead on arrival for a product that serves billions of queries daily. By coupling the redesigned interface with a model optimized for both quality and throughput, Google is attempting to make AI-powered search feel as instantaneous as the old keyword experience — while being dramatically more capable.</p><h2><b>Search can now build interactive visuals and custom mini apps on the fly</b></h2><p>The redesigned search box is also the gateway to a set of new capabilities that push search far beyond text-based answers. Google announced what it calls &quot;<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">generative UI</a>&quot; — the ability for search to dynamically build custom widgets, interactive visualizations, and even mini applications in real time, tailored to a user&#x27;s specific question.</p><p>Reid offered a concrete example during the briefing: a user could ask &quot;How do black holes affect space time?&quot; and receive an interactive visual in an AI Overview that brings the concept to life. Follow-up questions would trigger the system to dynamically generate entirely new visuals in real time. This is possible, she explained, because of &quot;a novel real-time code generation system we built in partnership with the Google DeepMind team&quot; that runs on Gemini 3.5 Flash. Generative UI capabilities will roll out to everyone this summer, free of charge.</p><p>But Google is going further still. For ongoing tasks — planning a wedding, organizing a move, tracking a fitness routine — users will be able to build what the company describes as customizable, stateful experiences within search, powered by its <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">Antigravity development platform</a>. These require no coding expertise. Users simply describe what they want in natural language, and search builds it. Those experiences will be available in coming months, starting with <a href=\"https://gemini.google/subscriptions/\">Google AI Pro</a> and <a href=\"https://gemini.google/subscriptions/\">Ultra</a> subscribers in the United States.</p><h2><b>AI agents that monitor the web around the clock are coming to search results</b></h2><p>The redesign also opens the door to what Google calls &quot;<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">information agents</a>&quot; — AI agents that users can configure directly within search to monitor the web 24/7 for specific conditions and deliver synthesized updates when those conditions are met.</p><p>A user could, for example, set up an agent to track market movements in a particular sector with specific parameters. The agent would create a monitoring plan, tap into real-time finance data, and proactively notify the user when conditions are met — complete with links and context for further research. Other use cases include apartment hunting, tracking sneaker drops, or monitoring any topic a user cares about. Information agents will launch first for <a href=\"https://gemini.google/subscriptions/\">Google AI Pro</a> and <a href=\"https://gemini.google/subscriptions/\">Ultra</a> subscribers this summer.</p><p>These agents sit within a much larger strategic pivot that Google articulated throughout the briefing: the company is going all-in on AI systems that don&#x27;t just answer questions but proactively take actions on users&#x27; behalf. Beyond search, Google introduced <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/\">Gemini Spark</a>, a 24/7 personal AI agent that runs on dedicated virtual machines in Google Cloud. It unveiled the <a href=\"https://blog.google/products-and-platforms/products/shopping/google-shopping-cart\">Universal Cart</a>, an intelligent cross-merchant shopping cart. It announced the <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol\">Agent Payments Protocol</a> for agents to make secure purchases. And it expanded its <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">Antigravity developer platform</a> into a full ecosystem for building autonomous AI agents.</p><h2><b>Publishers, advertisers, and SEO professionals face a new reality</b></h2><p>The redesign raises profound questions for the sprawling ecosystem — publishers, advertisers, SEO professionals — that has been built around the old model of keyword search and blue links.</p><p>If users increasingly express their needs as full, conversational sentences rather than fragmented keywords, the entire discipline of search engine optimization will need to evolve. Keyword-density strategies become less relevant when the AI is parsing natural language intent rather than matching strings. Content that answers deep, nuanced questions in authoritative ways becomes more valuable; content engineered to rank for two-word keyword fragments becomes less so.</p><p>For publishers, <a href=\"https://www.npr.org/2025/07/31/nx-s1-5484118/google-ai-overview-online-publishers\">the stakes are existential</a>. AI Overviews already synthesize information from across the web and present it directly in search results, reducing the need for users to click through to source material. The new seamless AI Mode integration deepens that dynamic: users can now get an AI-generated answer and ask multiple follow-up questions without ever leaving the search page. Google has consistently maintained that its AI features drive more traffic to publishers, but the redesign puts that claim under renewed scrutiny as the search results page becomes more self-contained.</p><p>For advertisers — who fund the vast majority of Google&#x27;s revenue — the shift from keywords to conversations changes the calculus of ad targeting. Conversational queries contain richer intent signals, which could make ad targeting more precise and valuable. But they also create new ambiguities: when a user is in the middle of a multi-turn conversation with AI Mode, where does an ad naturally fit? Google did not detail changes to its advertising model during the briefing, but the structural shift in the interface will inevitably reshape how ads are surfaced and measured.</p><h2><b>The search box was always more than a product — it was a habit for billions of people</b></h2><p>There is a reason Google chose to redesign the search box rather than simply adding new features behind it. The search box is not just a product element at this point; it is a cultural artifact — one of the few pieces of digital infrastructure used by essentially the entire internet-connected world. Changing it sends an unmistakable message about where the company believes computing is headed.</p><p>For 25 years, the search box trained billions of people to think in keywords — to compress their curiosity into the shortest possible string of words. The new box invites them to do the opposite: to think out loud, to upload what they&#x27;re looking at, to ask follow-up questions, to let an AI system handle the compression.</p><p>Pichai tied the company&#x27;s broader ambitions to a striking statistic: Google&#x27;s surfaces now process over 3.2 quadrillion tokens per month, up seven-fold from a year ago. The company expects capital expenditures of approximately $180 to $190 billion in 2026 — roughly six times the $31 billion it spent four years ago — largely to support the infrastructure required for this AI transformation. When asked about the future of traditional search, he was direct. &quot;Search is the most used AI product in the world,&quot; he said.</p><p>The blinking cursor in Google&#x27;s search box still invites you to type. But after 25 years of teaching the world to speak in keywords, Google is now asking it to speak in sentences — and betting roughly $190 billion that it will.</p>",
@@ -470,9 +470,39 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "A decade later, Pokémon Go finally made good on its original promise",
+    "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+    "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 players (many of [&#8230;]",
+    "author": "Charles Pulliam-Moore",
+    "published": "2026-07-10T15:51:10-04:00",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Nintendo",
+      "Pokemon"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "ICE is threatening to deport witnesses of its latest shooting",
+    "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+    "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren't wearing body cameras because of the lengthy [&#8230;]",
+    "author": "Gaby Del Valle",
+    "published": "2026-07-10T15:20:00-04:00",
+    "tags": [
+      "Analysis",
+      "Policy",
+      "Report"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
     "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-    "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to reports from Associated [&#8230;]",
+    "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to reports from The [&#8230;]",
     "author": "Emma Roth",
     "published": "2026-07-10T13:31:35-04:00",
     "tags": [
@@ -590,36 +620,6 @@
       "Health",
       "Optimizer",
       "Science"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-    "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
-    "author": "Emma Roth",
-    "published": "2026-07-10T09:45:02-04:00",
-    "tags": [
-      "AI",
-      "Instagram",
-      "Meta",
-      "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Would you host part of an AI data center in your home?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-    "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
-    "author": "Stevie Bonifield",
-    "published": "2026-07-10T09:20:25-04:00",
-    "tags": [
-      "AI",
-      "News",
-      "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -763,11 +763,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
     "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48862252\">Comments</a>",
     "author": "",
     "published": "Fri, 10 Jul 2026 16:37:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+    "link": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48864158\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 19:30:12 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -783,6 +793,76 @@
     "module": "应用落地"
   },
   {
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863490\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 18:29:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How the terrorist group Boko Haram uses frontier AI",
+    "link": "https://casp.ac/reports/ai-enabled-terrorism",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863707\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 18:49:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "War Atlas: An interactive cartography of every named war in human history",
+    "link": "https://waratlas.org",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863080\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 17:52:48 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "New York City to become first in US to ban deceptive subscription practices",
+    "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863464\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 18:26:24 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Combustion Engine Web-Based Simulator",
+    "link": "https://combustionlab.net",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48795900\">Comments</a>",
+    "author": "",
+    "published": "Sun, 05 Jul 2026 17:11:38 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Computation as a universal and fundamental concept",
+    "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48861213\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 15:23:42 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "An Update on the scraper situation",
+    "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48864252\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 19:38:34 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Late Bronze Age Collapse",
     "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48858737\">Comments</a>",
@@ -793,31 +873,11 @@
     "module": "应用落地"
   },
   {
-    "title": "A Love Letter to Flashcards",
-    "link": "https://lesleylai.info/en/flashcards/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48861319\">Comments</a>",
+    "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
+    "link": "https://github.com/dicroce/wyrm_math",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48844046\">Comments</a>",
     "author": "",
-    "published": "Fri, 10 Jul 2026 15:30:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Anyone else get a vague GitHub shakedown notice?",
-    "link": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48862467\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 16:57:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Lost city discovered beneath Egypt's desert with ancient church",
-    "link": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48803707\">Comments</a>",
-    "author": "",
-    "published": "Mon, 06 Jul 2026 12:32:57 +0000",
+    "published": "Thu, 09 Jul 2026 11:16:18 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -833,21 +893,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Reviving my 2001 college band with AI",
-    "link": "https://www.fadingmaize.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48851476\">Comments</a>",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church",
+    "link": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48803707\">Comments</a>",
     "author": "",
-    "published": "Thu, 09 Jul 2026 19:49:37 +0000",
+    "published": "Mon, 06 Jul 2026 12:32:57 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Write code like a human will maintain it",
-    "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859701\">Comments</a>",
+    "title": "Materials innovation has a scale-up problem, not discovery",
+    "link": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863849\">Comments</a>",
     "author": "",
-    "published": "Fri, 10 Jul 2026 13:33:00 +0000",
+    "published": "Fri, 10 Jul 2026 19:03:36 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -863,61 +923,61 @@
     "module": "应用落地"
   },
   {
+    "title": "A Love Letter to Flashcards",
+    "link": "https://lesleylai.info/en/flashcards/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48861319\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 15:30:44 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Don't discontinue Gemini 2.5 Flash",
+    "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48864507\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 20:00:28 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Clouds of Hiroshima",
+    "link": "https://doomsdaymachines.net/p/the-clouds-of-hiroshima",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48814724\">Comments</a>",
+    "author": "",
+    "published": "Tue, 07 Jul 2026 07:33:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Write code like a human will maintain it",
+    "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859701\">Comments</a>",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 13:33:00 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ask HN: Are systems ready for the first negative leap second?",
+    "link": "https://news.ycombinator.com/item?id=48807108",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48807108\">Comments</a>",
+    "author": "",
+    "published": "Mon, 06 Jul 2026 16:41:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Hands-On with the AMD Ryzen AI Halo",
     "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48861833\">Comments</a>",
     "author": "",
     "published": "Fri, 10 Jul 2026 16:06:38 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The mathematical secrets of Barcelona's Sagrada Familia",
-    "link": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772528\">Comments</a>",
-    "author": "",
-    "published": "Fri, 03 Jul 2026 08:43:18 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Computation as a Universal and Fundamental Concept",
-    "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48861213\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 15:23:42 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Alternate Clock Designs and Time Systems",
-    "link": "https://serialc.github.io/altClocks/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48810543\">Comments</a>",
-    "author": "",
-    "published": "Mon, 06 Jul 2026 21:09:56 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "In Emacs, Everything Looks Like a Service",
-    "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48857230\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 08:21:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Annotated JEPA",
-    "link": "https://elonlit.com/scrivings/the-annotated-jepa/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859835\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 13:45:05 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -933,16 +993,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
-    "link": "https://github.com/robertsdotpm/runloom",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48859387\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 13:07:38 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Show HN: Reverse-engineering web apps into agent tools",
     "link": "https://news.ycombinator.com/item?id=48847834",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=48847834\">Comments</a>",
@@ -953,101 +1003,51 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-    "link": "https://ec.europa.eu/commission/presscorner/home/en",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48858292\">Comments</a>",
+    "title": "Show HN: Reviving my 2001 college band with AI",
+    "link": "https://www.fadingmaize.com",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48851476\">Comments</a>",
     "author": "",
-    "published": "Fri, 10 Jul 2026 11:00:15 +0000",
+    "published": "Thu, 09 Jul 2026 19:49:37 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "How RCA Victor sold Sound Service to classrooms in 1939",
-    "link": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48852048\">Comments</a>",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+    "link": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48772528\">Comments</a>",
     "author": "",
-    "published": "Thu, 09 Jul 2026 20:37:43 +0000",
+    "published": "Fri, 03 Jul 2026 08:43:18 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805598\">Comments</a>",
+    "title": "In Emacs, Everything Looks Like a Service",
+    "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48857230\">Comments</a>",
     "author": "",
-    "published": "Mon, 06 Jul 2026 14:59:21 +0000",
+    "published": "Fri, 10 Jul 2026 08:21:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
-    "link": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48805342\">Comments</a>",
+    "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
+    "link": "https://github.com/Cpp2Rust/cpp2rust",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48862086\">Comments</a>",
     "author": "",
-    "published": "Mon, 06 Jul 2026 14:42:04 +0000",
+    "published": "Fri, 10 Jul 2026 16:24:20 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48849292\">Comments</a>",
+    "title": "45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC",
+    "link": "https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48863602\">Comments</a>",
     "author": "",
-    "published": "Thu, 09 Jul 2026 17:17:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GPT-5.6",
-    "link": "https://openai.com/index/gpt-5-6/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48849066\">Comments</a>",
-    "author": "",
-    "published": "Thu, 09 Jul 2026 17:04:14 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI-generated videos to maximally drive a target brain region",
-    "link": "https://nevo-project.epfl.ch/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48856904\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 07:39:11 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "You're Not a Better Engineer Because You Type Git Commands by Hand",
-    "link": "https://www.minid.net/2026/7/10/ai-works-for-me",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48862506\">Comments</a>",
-    "author": "",
-    "published": "Fri, 10 Jul 2026 17:01:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48843923\">Comments</a>",
-    "author": "",
-    "published": "Thu, 09 Jul 2026 11:03:54 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "link": "https://github.com/JustVugg/colibri",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48842459\">Comments</a>",
-    "author": "",
-    "published": "Thu, 09 Jul 2026 08:05:04 +0000",
+    "published": "Fri, 10 Jul 2026 18:41:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1720,7 +1720,7 @@
     "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
     "summary": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
     "author": "Adam Satariano",
-    "published": "Fri, 10 Jul 2026 10:28:59 +0000",
+    "published": "Fri, 10 Jul 2026 18:20:38 +0000",
     "tags": [
       "Meta Platforms Inc",
       "Facebook Inc",
@@ -1886,7 +1886,7 @@
     "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
     "summary": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
     "author": "Cade Metz",
-    "published": "Thu, 09 Jul 2026 18:55:41 +0000",
+    "published": "Fri, 10 Jul 2026 19:48:55 +0000",
     "tags": [
       "New York Times Company",
       "New York Times",
@@ -2126,6 +2126,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Red Hat will support your RHEL forever now - for a price",
+    "link": "https://www.zdnet.com/article/red-hat-enterprise-linux-forever-support/",
+    "summary": "Red Hat's new Long-Life Add-On extends support on a specific release for as long as you're willing to pay for it.",
+    "author": "",
+    "published": "Fri, 10 Jul 2026 20:44:12 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "SpaceX wants to launch 100,000 more Starlink satellites - for 100x the bandwidth",
     "link": "https://www.zdnet.com/article/spacex-wants-to-launch-100000-more-starlink-satellites/",
     "summary": "It could mean faster internet for rural customers, but not everyone is happy.",
@@ -2311,16 +2321,6 @@
     "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
     "author": "",
     "published": "Thu, 09 Jul 2026 17:16:13 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you",
-    "link": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis/",
-    "summary": "An elite security team at Microsoft has built an AI-powered pipeline to find vulnerabilities in Windows and get them to engineers to build fixes.",
-    "author": "",
-    "published": "Thu, 09 Jul 2026 17:00:03 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2664,6 +2664,78 @@
     "module": "应用落地"
   },
   {
+    "title": "Mamdani announces new Click-to-Cancel rule for New York City",
+    "link": "https://www.engadget.com/2212741/mamdani-announces-new-click-to-cancel-rule-for-new-york-city/",
+    "summary": "The rule revives a proposed FTC protection that was abandoned last year.",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "published": "Fri, 10 Jul 2026 21:04:33 +0000",
+    "tags": [
+      "Big Tech"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
+    "link": "https://www.engadget.com/2212701/openai-browser-isnt-dead/",
+    "summary": "Let's be real, OpenAI isn't giving up on the browser market, it is just changing its strategy.",
+    "author": "staff@engadget.com (Igor Bonifacic)",
+    "published": "Fri, 10 Jul 2026 20:11:13 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Meta Glasses backlash is changing how (or if) people use them",
+    "link": "https://www.engadget.com/2212604/the-meta-glasses-backlash-is-changing-how-or-if-people-use-them/",
+    "summary": "Backlash online is changing how (or if) people wear Meta's smart glasses.",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "published": "Fri, 10 Jul 2026 19:30:00 +0000",
+    "tags": [
+      "Meta"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "StubHub CEO is helping fund mass scalpers on his own platform",
+    "link": "https://www.engadget.com/2212625/stubhub-ceo-is-helping-fund-mass-scalpers-on-his-own-platform/",
+    "summary": "Stubhub CEO Eric Baker is pouring millions of dollars into the ticket-scalping market, CBC reports.",
+    "author": "staff@engadget.com (Jessica Conditt)",
+    "published": "Fri, 10 Jul 2026 19:27:21 +0000",
+    "tags": [
+      "Big Tech"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "FCC grants approval for sun-reflecting space mirror that's been widely criticized by astronomers",
+    "link": "https://www.engadget.com/2212600/fcc-grants-approval-for-sun-reflecting-space-mirror/",
+    "summary": "Reflect Orbital wants to direct sunlight at night with a network of satellites.",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "published": "Fri, 10 Jul 2026 19:08:38 +0000",
+    "tags": [
+      "Space"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Metal balls from space are popping up on Australia's beaches",
+    "link": "https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/",
+    "summary": "Sadly, we don't think aliens were involved in this particular space balls incident.",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "published": "Fri, 10 Jul 2026 18:30:00 +0000",
+    "tags": [
+      "Space"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Netflix, Paramount, Sony and others are reportedly in talks to buy Letterboxd",
     "link": "https://www.engadget.com/2212484/netflix-paramount-sony-in-talks-to-buy-letterboxd/",
     "summary": "The movie-centric social network is said to be seeking new ownership.",
@@ -2833,80 +2905,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Retroid Pocket 5 and Flip 2 are getting a spec bump, but will cost $10 more after July 14",
-    "link": "https://www.engadget.com/2211909/retroid-pocket-5-and-flip-2-are-getting-a-spec-bump-but-will-cost-10-more-after-july-14/",
-    "summary": "Even older emulation-focused handhelds can't escape RAMaggedon.",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "published": "Thu, 09 Jul 2026 21:21:53 +0000",
-    "tags": [
-      "Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Guy who took photo of Jupiter with a Game Boy Camera and giant telescope publishes DIY tutorial",
-    "link": "https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/",
-    "summary": "The latest adventure for the kooky camera looks skyward.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Thu, 09 Jul 2026 21:04:48 +0000",
-    "tags": [
-      "Nintendo",
-      "Space"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "OpenAI releases a new ChatGPT tool for all things work related",
-    "link": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
-    "summary": "OpenAI's long-awaited super app is here.",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "published": "Thu, 09 Jul 2026 20:50:04 +0000",
-    "tags": [
-      "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI-generated ads on Google will hopefully get disclosures soon",
-    "link": "https://www.engadget.com/2211839/ai-generated-ads-google-get-disclosures-soon/",
-    "summary": "If Google's AI tools are used, it will automatically be noted in My Ad Center.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Thu, 09 Jul 2026 20:06:17 +0000",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Aviation pioneer and space-travel record breaker Wally Funk dies at 87",
-    "link": "https://www.engadget.com/2211828/aviation-pioneer-space-travel-record-breaker-wally-funk-dies/",
-    "summary": "Funk became the oldest person to fly in space in 2021.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Thu, 09 Jul 2026 19:53:48 +0000",
-    "tags": [
-      "Space"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sony launches $120 in-ear monitors for pros",
-    "link": "https://www.engadget.com/2211768/sony-launches-ier-m500-iem-earphones-for-pros/",
-    "summary": "The IER-M500 earphones were designed for fit and comfort during stage wear.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Thu, 09 Jul 2026 19:17:10 +0000",
-    "tags": [
-      "Accessories"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
     "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
     "link": "https://arxiv.org/abs/2110.01831v1",
     "summary": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
@@ -3067,21 +3065,21 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
-    "link": "https://arxiv.org/abs/2310.09243v1",
-    "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
-    "author": "Pirouz Nourian, Shervin Azadi, Roy Uijtendaal, Nan Bai",
-    "published": "2023-10-13T16:47:35Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Modular Belief Updates and Confusion about Measures of Certainty in Artificial Intelligence Research",
     "link": "https://arxiv.org/abs/1407.7281v1",
     "summary": "Over the last decade, there has been growing interest in the use or measures or change in belief for reasoning with uncertainty in artificial intelligence research. An important characteristic of several methodologies that reason with changes in belief or belief updates, is a property that we term modularity. We call updates that satisfy this property modular updates. Whereas probabilistic measures of belief update - which satisfy the modularity property were first discovered in the nineteenth century, knowledge and discussion of these quantities remains obscure in artificial intelligence research. We define modular updates and discuss their inappropriate use in two influential expert systems.",
     "author": "Eric J. Horvitz, David Heckerman",
     "published": "2014-07-27T20:37:36Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
+    "link": "https://arxiv.org/abs/2310.09243v1",
+    "summary": "This chapter presents methodological reflections on the necessity and utility of artificial intelligence in generative design. Specifically, the chapter discusses how generative design processes can be augmented by AI to deliver in terms of a few outcomes of interest or performance indicators while dealing with hundreds or thousands of small decisions. The core of the performance-based generative design paradigm is about making statistical or simulation-driven associations between these choices and consequences for mapping and navigating such a complex decision space. This chapter will discuss promising directions in Artificial Intelligence for augmenting decision-making processes in architectural design for mapping and navigating complex design spaces.",
+    "author": "Pirouz Nourian, Shervin Azadi, Roy Uijtendaal, Nan Bai",
+    "published": "2023-10-13T16:47:35Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3157,6 +3155,16 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Certifiable Artificial Intelligence Through Data Fusion",
+    "link": "https://arxiv.org/abs/2111.02001v1",
+    "summary": "This paper reviews and proposes concerns in adopting, fielding, and maintaining artificial intelligence (AI) systems. While the AI community has made rapid progress, there are challenges in certifying AI systems. Using procedures from design and operational test and evaluation, there are opportunities towards determining performance bounds to manage expectations of intended use. A notional use case is presented with image data fusion to support AI object recognition certifiability considering precision versus distance.",
+    "author": "Erik Blasch, Junchi Bin, Zheng Liu",
+    "published": "2021-11-03T03:34:19Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "OAK4XAI: Model towards Out-Of-Box eXplainable Artificial Intelligence for Digital Agriculture",
     "link": "https://arxiv.org/abs/2209.15104v1",
     "summary": "Recent machine learning approaches have been effective in Artificial Intelligence (AI) applications. They produce robust results with a high level of accuracy. However, most of these techniques do not provide human-understandable explanations for supporting their results and decisions. They usually act as black boxes, and it is not easy to understand how decisions have been made. Explainable Artificial Intelligence (XAI), which has received much interest recently, tries to provide human-understandable explanations for decision-making and trained AI models. For instance, in digital agriculture, related domains often present peculiar or input features with no link to background knowledge. The application of the data mining process on agricultural data leads to results (knowledge), which are difficult to explain. In this paper, we propose a knowledge map model and an ontology design as an XAI framework (OAK4XAI) to deal with this issue. The framework does not only consider the data analysis part of the process, but it takes into account the semantics aspect of the domain knowledge via an ontology and a knowledge map model, provided as modules of the framework. Many ongoing XAI studies aim to provide accurate and verbalizable accounts for how given feature values contribute to model decisions. The proposed approach, however, focuses on providing consistent information and definitions of concepts, algorithms, and values involved in the data mining models. We built an Agriculture Computing Ontology (AgriComO) to explain the knowledge mined in agriculture. AgriComO has a well-designed structure and includes a wide range of concepts and transformations suitable for agriculture and computing domains.",
@@ -3167,11 +3175,11 @@
     "module": "前沿探索"
   },
   {
-    "title": "Certifiable Artificial Intelligence Through Data Fusion",
-    "link": "https://arxiv.org/abs/2111.02001v1",
-    "summary": "This paper reviews and proposes concerns in adopting, fielding, and maintaining artificial intelligence (AI) systems. While the AI community has made rapid progress, there are challenges in certifying AI systems. Using procedures from design and operational test and evaluation, there are opportunities towards determining performance bounds to manage expectations of intended use. A notional use case is presented with image data fusion to support AI object recognition certifiability considering precision versus distance.",
-    "author": "Erik Blasch, Junchi Bin, Zheng Liu",
-    "published": "2021-11-03T03:34:19Z",
+    "title": "Enterprise AI Canvas -- Integrating Artificial Intelligence into Business",
+    "link": "https://arxiv.org/abs/2009.11190v1",
+    "summary": "Artificial Intelligence (AI) and Machine Learning have enormous potential to transform businesses and disrupt entire industry sectors. However, companies wishing to integrate algorithmic decisions into their face multiple challenges: They have to identify use-cases in which artificial intelligence can create value, as well as decisions that can be supported or executed automatically. Furthermore, the organization will need to be transformed to be able to integrate AI based systems into their human work-force. Furthermore, the more technical aspects of the underlying machine learning model have to be discussed in terms of how they impact the various units of a business: Where do the relevant data come from, which constraints have to be considered, how is the quality of the data and the prediction evaluated?\n  The Enterprise AI canvas is designed to bring Data Scientist and business expert together to discuss and define all relevant aspects which need to be clarified in order to integrate AI based systems into a digital enterprise. It consists of two parts where part one focuses on the business view and organizational aspects, whereas part two focuses on the underlying machine learning model and the data it uses.",
+    "author": "U. Kerzel",
+    "published": "2020-09-18T07:30:56Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -3187,16 +3195,6 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Enterprise AI Canvas -- Integrating Artificial Intelligence into Business",
-    "link": "https://arxiv.org/abs/2009.11190v1",
-    "summary": "Artificial Intelligence (AI) and Machine Learning have enormous potential to transform businesses and disrupt entire industry sectors. However, companies wishing to integrate algorithmic decisions into their face multiple challenges: They have to identify use-cases in which artificial intelligence can create value, as well as decisions that can be supported or executed automatically. Furthermore, the organization will need to be transformed to be able to integrate AI based systems into their human work-force. Furthermore, the more technical aspects of the underlying machine learning model have to be discussed in terms of how they impact the various units of a business: Where do the relevant data come from, which constraints have to be considered, how is the quality of the data and the prediction evaluated?\n  The Enterprise AI canvas is designed to bring Data Scientist and business expert together to discuss and define all relevant aspects which need to be clarified in order to integrate AI based systems into a digital enterprise. It consists of two parts where part one focuses on the business view and organizational aspects, whereas part two focuses on the underlying machine learning model and the data it uses.",
-    "author": "U. Kerzel",
-    "published": "2020-09-18T07:30:56Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Dungeon Crawl Stone Soup as an Evaluation Domain for Artificial Intelligence",
     "link": "https://arxiv.org/abs/1902.01769v1",
     "summary": "Dungeon Crawl Stone Soup is a popular, single-player, free and open-source rogue-like video game with a sufficiently complex decision space that makes it an ideal testbed for research in cognitive systems and, more generally, artificial intelligence. This paper describes the properties of Dungeon Crawl Stone Soup that are conducive to evaluating new approaches of AI systems. We also highlight an ongoing effort to build an API for AI researchers in the spirit of recent game APIs such as MALMO, ELF, and the Starcraft II API. Dungeon Crawl Stone Soup's complexity offers significant opportunities for evaluating AI and cognitive systems, including human user studies. In this paper we provide (1) a description of the state space of Dungeon Crawl Stone Soup, (2) a description of the components for our API, and (3) the potential benefits of evaluating AI agents in the Dungeon Crawl Stone Soup video game.",
@@ -3207,16 +3205,6 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "The Challenge of Imputation in Explainable Artificial Intelligence Models",
-    "link": "https://arxiv.org/abs/1907.12669v1",
-    "summary": "Explainable models in Artificial Intelligence are often employed to ensure transparency and accountability of AI systems. The fidelity of the explanations are dependent upon the algorithms used as well as on the fidelity of the data. Many real world datasets have missing values that can greatly influence explanation fidelity. The standard way to deal with such scenarios is imputation. This can, however, lead to situations where the imputed values may correspond to a setting which refer to counterfactuals. Acting on explanations from AI models with imputed values may lead to unsafe outcomes. In this paper, we explore different settings where AI models with imputation can be problematic and describe ways to address such scenarios.",
-    "author": "Muhammad Aurangzeb Ahmad, Carly Eckert, Ankur Teredesai",
-    "published": "2019-07-29T22:06:21Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing",
     "link": "https://arxiv.org/abs/1905.10083v1",
     "summary": "With the breakthroughs in deep learning, the recent years have witnessed a booming of artificial intelligence (AI) applications and services, spanning from personal assistant to recommendation systems to video/audio surveillance. More recently, with the proliferation of mobile computing and Internet-of-Things (IoT), billions of mobile and IoT devices are connected to the Internet, generating zillions Bytes of data at the network edge. Driving by this trend, there is an urgent need to push the AI frontiers to the network edge so as to fully unleash the potential of the edge big data. To meet this demand, edge computing, an emerging paradigm that pushes computing tasks and services from the network core to the network edge, has been widely recognized as a promising solution. The resulted new inter-discipline, edge AI or edge intelligence, is beginning to receive a tremendous amount of interest. However, research on edge intelligence is still in its infancy stage, and a dedicated venue for exchanging the recent advances of edge intelligence is highly desired by both the computer system and artificial intelligence communities. To this end, we conduct a comprehensive survey of the recent research efforts on edge intelligence. Specifically, we first review the background and motivation for artificial intelligence running at the network edge. We then provide an overview of the overarching architectures, frameworks and emerging key technologies for deep learning model towards training/inference at the network edge. Finally, we discuss future research opportunities on edge intelligence. We believe that this survey will elicit escalating attentions, stimulate fruitful discussions and inspire further research ideas on edge intelligence.",
@@ -3225,6 +3213,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "基础设施与工具"
+  },
+  {
+    "title": "The Challenge of Imputation in Explainable Artificial Intelligence Models",
+    "link": "https://arxiv.org/abs/1907.12669v1",
+    "summary": "Explainable models in Artificial Intelligence are often employed to ensure transparency and accountability of AI systems. The fidelity of the explanations are dependent upon the algorithms used as well as on the fidelity of the data. Many real world datasets have missing values that can greatly influence explanation fidelity. The standard way to deal with such scenarios is imputation. This can, however, lead to situations where the imputed values may correspond to a setting which refer to counterfactuals. Acting on explanations from AI models with imputed values may lead to unsafe outcomes. In this paper, we explore different settings where AI models with imputation can be problematic and describe ways to address such scenarios.",
+    "author": "Muhammad Aurangzeb Ahmad, Carly Eckert, Ankur Teredesai",
+    "published": "2019-07-29T22:06:21Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Artificial Decision Making Under Uncertainty in Intelligent Buildings",
@@ -3537,26 +3535,6 @@
     "module": "应用落地"
   },
   {
-    "title": "False Sense of Security in Explainable Artificial Intelligence (XAI)",
-    "link": "https://arxiv.org/abs/2405.03820v2",
-    "summary": "A cautious interpretation of AI regulations and policy in the EU and the USA place explainability as a central deliverable of compliant AI systems. However, from a technical perspective, explainable AI (XAI) remains an elusive and complex target where even state of the art methods often reach erroneous, misleading, and incomplete explanations. \"Explainability\" has multiple meanings which are often used interchangeably, and there are an even greater number of XAI methods - none of which presents a clear edge. Indeed, there are multiple failure modes for each XAI method, which require application-specific development and continuous evaluation. In this paper, we analyze legislative and policy developments in the United States and the European Union, such as the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the AI Act, the AI Liability Directive, and the General Data Protection Regulation (GDPR) from a right to explanation perspective. We argue that these AI regulations and current market conditions threaten effective AI governance and safety because the objective of trustworthy, accountable, and transparent AI is intrinsically linked to the questionable ability of AI operators to provide meaningful explanations. Unless governments explicitly tackle the issue of explainability through clear legislative and policy statements that take into account technical realities, AI governance risks becoming a vacuous \"box-ticking\" exercise where scientific standards are replaced with legalistic thresholds, providing only a false sense of security in XAI.",
-    "author": "Neo Christopher Chung, Hongkyou Chung, Hearim Lee, Lennart Brocki, Hongbeom Chung, George Dyer",
-    "published": "2024-05-06T20:02:07Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "前沿探索"
-  },
-  {
-    "title": "Protection of an information system by artificial intelligence: a three-phase approach based on behaviour analysis to detect a hostile scenario",
-    "link": "https://arxiv.org/abs/1812.00622v1",
-    "summary": "The analysis of the behaviour of individuals and entities (UEBA) is an area of artificial intelligence that detects hostile actions (e.g. attacks, fraud, influence, poisoning) due to the unusual nature of observed events, by affixing to a signature-based operation. A UEBA process usually involves two phases, learning and inference. Intrusion detection systems (IDS) available still suffer from bias, including over-simplification of problems, underexploitation of the AI potential, insufficient consideration of the temporality of events, and perfectible management of the memory cycle of behaviours. In addition, while an alert generated by a signature-based IDS can refer to the signature on which the detection is based, the IDS in the UEBA domain produce results, often associated with a score, whose explainable character is less obvious. Our unsupervised approach is to enrich this process by adding a third phase to correlate events (incongruities, weak signals) that are presumed to be linked together, with the benefit of a reduction of false positives and negatives. We also seek to avoid a so-called \"boiled frog\" bias inherent in continuous learning. Our first results are interesting and have an explainable character, both on synthetic and real data.",
-    "author": "Jean-Philippe Fauvelle, Alexandre Dey, Sylvain Navers",
-    "published": "2018-12-03T09:29:03Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "Hows and Whys of Artificial Intelligence for Public Sector Decisions: Explanation and Evaluation",
     "link": "https://arxiv.org/abs/1810.02689v2",
     "summary": "Evaluation has always been a key challenge in the development of artificial intelligence (AI) based software, due to the technical complexity of the software artifact and, often, its embedding in complex sociotechnical processes. Recent advances in machine learning (ML) enabled by deep neural networks has exacerbated the challenge of evaluating such software due to the opaque nature of these ML-based artifacts. A key related issue is the (in)ability of such systems to generate useful explanations of their outputs, and we argue that the explanation and evaluation problems are closely linked. The paper models the elements of a ML-based AI system in the context of public sector decision (PSD) applications involving both artificial and human intelligence, and maps these elements against issues in both evaluation and explanation, showing how the two are related. We consider a number of common PSD application patterns in the light of our model, and identify a set of key issues connected to explanation and evaluation in each case. Finally, we propose multiple strategies to promote wider adoption of AI/ML technologies in PSD, where each is distinguished by a focus on different elements of our model, allowing PSD policy makers to adopt an approach that best fits their context and concerns.",
@@ -3567,11 +3545,11 @@
     "module": "应用落地"
   },
   {
-    "title": "The AGINAO Self-Programming Engine",
-    "link": "https://arxiv.org/abs/1804.03437v1",
-    "summary": "The AGINAO is a project to create a human-level artificial general intelligence system (HL AGI) embodied in the Aldebaran Robotics' NAO humanoid robot. The dynamical and open-ended cognitive engine of the robot is represented by an embedded and multi-threaded control program, that is self-crafted rather than hand-crafted, and is executed on a simulated Universal Turing Machine (UTM). The actual structure of the cognitive engine emerges as a result of placing the robot in a natural preschool-like environment and running a core start-up system that executes self-programming of the cognitive layer on top of the core layer. The data from the robot's sensory devices supplies the training samples for the machine learning methods, while the commands sent to actuators enable testing hypotheses and getting a feedback. The individual self-created subroutines are supposed to reflect the patterns and concepts of the real world, while the overall program structure reflects the spatial and temporal hierarchy of the world dependencies. This paper focuses on the details of the self-programming approach, limiting the discussion of the applied cognitive architecture to a necessary minimum.",
-    "author": "Wojciech Skaba",
-    "published": "2018-04-10T10:29:14Z",
+    "title": "False Sense of Security in Explainable Artificial Intelligence (XAI)",
+    "link": "https://arxiv.org/abs/2405.03820v2",
+    "summary": "A cautious interpretation of AI regulations and policy in the EU and the USA place explainability as a central deliverable of compliant AI systems. However, from a technical perspective, explainable AI (XAI) remains an elusive and complex target where even state of the art methods often reach erroneous, misleading, and incomplete explanations. \"Explainability\" has multiple meanings which are often used interchangeably, and there are an even greater number of XAI methods - none of which presents a clear edge. Indeed, there are multiple failure modes for each XAI method, which require application-specific development and continuous evaluation. In this paper, we analyze legislative and policy developments in the United States and the European Union, such as the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, the AI Act, the AI Liability Directive, and the General Data Protection Regulation (GDPR) from a right to explanation perspective. We argue that these AI regulations and current market conditions threaten effective AI governance and safety because the objective of trustworthy, accountable, and transparent AI is intrinsically linked to the questionable ability of AI operators to provide meaningful explanations. Unless governments explicitly tackle the issue of explainability through clear legislative and policy statements that take into account technical realities, AI governance risks becoming a vacuous \"box-ticking\" exercise where scientific standards are replaced with legalistic thresholds, providing only a false sense of security in XAI.",
+    "author": "Neo Christopher Chung, Hongkyou Chung, Hearim Lee, Lennart Brocki, Hongbeom Chung, George Dyer",
+    "published": "2024-05-06T20:02:07Z",
     "tags": [],
     "source": "arXiv",
     "module": "前沿探索"
@@ -3585,6 +3563,26 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Protection of an information system by artificial intelligence: a three-phase approach based on behaviour analysis to detect a hostile scenario",
+    "link": "https://arxiv.org/abs/1812.00622v1",
+    "summary": "The analysis of the behaviour of individuals and entities (UEBA) is an area of artificial intelligence that detects hostile actions (e.g. attacks, fraud, influence, poisoning) due to the unusual nature of observed events, by affixing to a signature-based operation. A UEBA process usually involves two phases, learning and inference. Intrusion detection systems (IDS) available still suffer from bias, including over-simplification of problems, underexploitation of the AI potential, insufficient consideration of the temporality of events, and perfectible management of the memory cycle of behaviours. In addition, while an alert generated by a signature-based IDS can refer to the signature on which the detection is based, the IDS in the UEBA domain produce results, often associated with a score, whose explainable character is less obvious. Our unsupervised approach is to enrich this process by adding a third phase to correlate events (incongruities, weak signals) that are presumed to be linked together, with the benefit of a reduction of false positives and negatives. We also seek to avoid a so-called \"boiled frog\" bias inherent in continuous learning. Our first results are interesting and have an explainable character, both on synthetic and real data.",
+    "author": "Jean-Philippe Fauvelle, Alexandre Dey, Sylvain Navers",
+    "published": "2018-12-03T09:29:03Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "The AGINAO Self-Programming Engine",
+    "link": "https://arxiv.org/abs/1804.03437v1",
+    "summary": "The AGINAO is a project to create a human-level artificial general intelligence system (HL AGI) embodied in the Aldebaran Robotics' NAO humanoid robot. The dynamical and open-ended cognitive engine of the robot is represented by an embedded and multi-threaded control program, that is self-crafted rather than hand-crafted, and is executed on a simulated Universal Turing Machine (UTM). The actual structure of the cognitive engine emerges as a result of placing the robot in a natural preschool-like environment and running a core start-up system that executes self-programming of the cognitive layer on top of the core layer. The data from the robot's sensory devices supplies the training samples for the machine learning methods, while the commands sent to actuators enable testing hypotheses and getting a feedback. The individual self-created subroutines are supposed to reflect the patterns and concepts of the real world, while the overall program structure reflects the spatial and temporal hierarchy of the world dependencies. This paper focuses on the details of the self-programming approach, limiting the discussion of the applied cognitive architecture to a necessary minimum.",
+    "author": "Wojciech Skaba",
+    "published": "2018-04-10T10:29:14Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
   },
   {
     "title": "Experts' View on Challenges and Needs for Fairness in Artificial Intelligence for Education",
@@ -3777,16 +3775,6 @@
     "module": "应用落地"
   },
   {
-    "title": "IMPACTX: improving model performance by appropriately constraining the training with teacher explanations",
-    "link": "https://arxiv.org/abs/2502.12222v2",
-    "summary": "The eXplainable Artificial Intelligence (XAI) research predominantly concentrates to provide explainations about AI model decisions, especially Deep Learning (DL) models. However, there is a growing interest in using XAI techniques to automatically improve the performance of the AI systems themselves.\n  This paper proposes IMPACTX, a novel approach that leverages XAI as a fully automated attention mechanism, without requiring external knowledge or human feedback. Experimental results show that IMPACTX has improved performance respect to the standalone ML model by integrating an attention mechanism based an XAI method outputs during the model training. Furthermore, IMPACTX directly provides proper feature attribution maps for the model's decisions, without relying on external XAI methods during the inference process.\n  Our proposal is evaluated using three widely recognized DL models (EfficientNet-B2, MobileNet, and LeNet-5) along with three standard image datasets: CIFAR-10, CIFAR-100, and STL-10. The results show that IMPACTX consistently improves the performance of all the inspected DL models across all evaluated datasets, and it directly provides appropriate explanations for its responses.",
-    "author": "Andrea Apicella, Salvatore Giugliano, Francesco Isgrò, Andrea Pollastro, Roberto Prevete",
-    "published": "2025-02-17T14:15:20Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "基础设施与工具"
-  },
-  {
     "title": "ShapG: new feature importance method based on the Shapley value",
     "link": "https://arxiv.org/abs/2407.00506v2",
     "summary": "With wide application of Artificial Intelligence (AI), it has become particularly important to make decisions of AI systems explainable and transparent. In this paper, we proposed a new Explainable Artificial Intelligence (XAI) method called ShapG (Explanations based on Shapley value for Graphs) for measuring feature importance. ShapG is a model-agnostic global explanation method. At the first stage, it defines an undirected graph based on the dataset, where nodes represent features and edges are added based on calculation of correlation coefficients between features. At the second stage, it calculates an approximated Shapley value by sampling the data taking into account this graph structure. The sampling approach of ShapG allows to calculate the importance of features efficiently, i.e. to reduce computational complexity. Comparison of ShapG with other existing XAI methods shows that it provides more accurate explanations for two examined datasets. We also compared other XAI methods developed based on cooperative game theory with ShapG in running time, and the results show that ShapG exhibits obvious advantages in its running time, which further proves efficiency of ShapG. In addition, extensive experiments demonstrate a wide range of applicability of the ShapG method for explaining complex models. We find ShapG an important tool in improving explainability and transparency of AI systems and believe it can be widely used in various fields.",
@@ -3805,6 +3793,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "IMPACTX: improving model performance by appropriately constraining the training with teacher explanations",
+    "link": "https://arxiv.org/abs/2502.12222v2",
+    "summary": "The eXplainable Artificial Intelligence (XAI) research predominantly concentrates to provide explainations about AI model decisions, especially Deep Learning (DL) models. However, there is a growing interest in using XAI techniques to automatically improve the performance of the AI systems themselves.\n  This paper proposes IMPACTX, a novel approach that leverages XAI as a fully automated attention mechanism, without requiring external knowledge or human feedback. Experimental results show that IMPACTX has improved performance respect to the standalone ML model by integrating an attention mechanism based an XAI method outputs during the model training. Furthermore, IMPACTX directly provides proper feature attribution maps for the model's decisions, without relying on external XAI methods during the inference process.\n  Our proposal is evaluated using three widely recognized DL models (EfficientNet-B2, MobileNet, and LeNet-5) along with three standard image datasets: CIFAR-10, CIFAR-100, and STL-10. The results show that IMPACTX consistently improves the performance of all the inspected DL models across all evaluated datasets, and it directly provides appropriate explanations for its responses.",
+    "author": "Andrea Apicella, Salvatore Giugliano, Francesco Isgrò, Andrea Pollastro, Roberto Prevete",
+    "published": "2025-02-17T14:15:20Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "基础设施与工具"
   },
   {
     "title": "Symbol Emergence and The Solutions to Any Task",
@@ -3827,6 +3825,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era",
+    "link": "https://arxiv.org/abs/2603.03177v1",
+    "summary": "The integration of symbolic computing with neural networks has intrigued researchers since the first theorizations of Artificial intelligence (AI). The ability of Neuro-Symbolic (NeSy) methods to infer or exploit behavioral schema has been widely considered as one of the possible proxies for human-level intelligence. However, the limited semantic generalizability and the challenges in declining complex domains with pre-defined patterns and rules hinder their practical implementation in real-world scenarios. The unprecedented results achieved by connectionist systems since the last AI breakthrough in 2017 have raised questions about the competitiveness of NeSy solutions, with particular emphasis on the Natural Language Processing and Computer Vision fields. This survey examines task-specific advancements in the NeSy domain to explore how incorporating symbolic systems can enhance explainability and reasoning capabilities. Our findings are meant to serve as a resource for researchers exploring explainable NeSy methodologies for real-life tasks and applications. Reproducibility details and in-depth comments on each surveyed research work are made available at https://github.com/disi-unibo-nlp/task-oriented-neuro-symbolic.git.",
+    "author": "Giovanni Pio Delvecchio, Lorenzo Molfetta, Gianluca Moro",
+    "published": "2026-03-03T17:34:45Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Artificial Intelligence for Suicide Assessment using Audiovisual Cues: A Review",
     "link": "https://arxiv.org/abs/2201.09130v2",
     "summary": "Death by suicide is the seventh leading death cause worldwide. The recent advancement in Artificial Intelligence (AI), specifically AI applications in image and voice processing, has created a promising opportunity to revolutionize suicide risk assessment. Subsequently, we have witnessed fast-growing literature of research that applies AI to extract audiovisual non-verbal cues for mental illness assessment. However, the majority of the recent works focus on depression, despite the evident difference between depression symptoms and suicidal behavior and non-verbal cues. This paper reviews recent works that study suicide ideation and suicide behavior detection through audiovisual feature analysis, mainly suicidal voice/speech acoustic features analysis and suicidal visual cues. Automatic suicide assessment is a promising research direction that is still in the early stages. Accordingly, there is a lack of large datasets that can be used to train machine learning and deep learning models proven to be effective in other, similar tasks.",
@@ -3842,16 +3850,6 @@
     "summary": "Microarray is one of the essential technologies used by the biologist to measure genome-wide expression levels of genes in a particular organism under some particular conditions or stimuli. As microarrays technologies have become more prevalent, the challenges of analyzing these data for getting better insight about biological processes have essentially increased. Due to availability of artificial intelligence based sophisticated computational techniques, such as artificial neural networks, fuzzy logic, genetic algorithms, and many other nature-inspired algorithms, it is possible to analyse microarray gene expression data in more better way. Here, we reviewed artificial intelligence based techniques for the analysis of microarray gene expression data. Further, challenges in the field and future work direction have also been suggested.",
     "author": "Khalid Raza",
     "published": "2015-07-10T12:25:58Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era",
-    "link": "https://arxiv.org/abs/2603.03177v1",
-    "summary": "The integration of symbolic computing with neural networks has intrigued researchers since the first theorizations of Artificial intelligence (AI). The ability of Neuro-Symbolic (NeSy) methods to infer or exploit behavioral schema has been widely considered as one of the possible proxies for human-level intelligence. However, the limited semantic generalizability and the challenges in declining complex domains with pre-defined patterns and rules hinder their practical implementation in real-world scenarios. The unprecedented results achieved by connectionist systems since the last AI breakthrough in 2017 have raised questions about the competitiveness of NeSy solutions, with particular emphasis on the Natural Language Processing and Computer Vision fields. This survey examines task-specific advancements in the NeSy domain to explore how incorporating symbolic systems can enhance explainability and reasoning capabilities. Our findings are meant to serve as a resource for researchers exploring explainable NeSy methodologies for real-life tasks and applications. Reproducibility details and in-depth comments on each surveyed research work are made available at https://github.com/disi-unibo-nlp/task-oriented-neuro-symbolic.git.",
-    "author": "Giovanni Pio Delvecchio, Lorenzo Molfetta, Gianluca Moro",
-    "published": "2026-03-03T17:34:45Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4537,21 +4535,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook",
-    "link": "https://arxiv.org/abs/2406.05984v2",
-    "summary": "Mental health constitutes a complex and pervasive global challenge, affecting millions of lives and often leading to severe consequences. In this paper, we conduct a thorough survey to explore the intersection of data science, artificial intelligence, and mental healthcare, focusing on the recent developments of mental disorder detection through online social media (OSM). A significant portion of the population actively engages in OSM platforms, creating a vast repository of personal data that holds immense potential for mental health analytics. The paper navigates through traditional diagnostic methods, state-of-the-art data- and AI-driven research studies, and the emergence of explainable AI (XAI) models for mental healthcare. We review state-of-the-art machine learning methods, particularly those based on modern deep learning, while emphasising the need for explainability in healthcare AI models. The experimental design section provides insights into prevalent practices, including available datasets and evaluation approaches. We also identify key issues and challenges in the field and propose promising future research directions. As mental health decisions demand transparency, interpretability, and ethical considerations, this paper contributes to the ongoing discourse on advancing XAI in mental healthcare through social media. The comprehensive overview presented here aims to guide researchers, practitioners, and policymakers in developing the area of mental disorder detection.",
-    "author": "Yusif Ibrahimov, Tarique Anwar, Tommy Yuan",
-    "published": "2024-06-10T02:51:16Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Guarding against artificial intelligence--hallucinated citations: the case for full-text reference deposit",
     "link": "https://arxiv.org/abs/2503.19848v1",
     "summary": "The tendency of generative artificial intelligence (AI) systems to \"hallucinate\" false information is well-known; AI-generated citations to non-existent sources have made their way into the reference lists of peer-reviewed publications. Here, I propose a solution to this problem, taking inspiration from the Transparency and Openness Promotion (TOP) data sharing guidelines, the clash of generative AI with the American judiciary, and the precedent set by submissions of prior art to the United States Patent and Trademark Office. Journals should require authors to submit the full text of each cited source along with their manuscripts, thereby preventing authors from citing any material whose full text they cannot produce. This solution requires limited additional work on the part of authors or editors while effectively immunizing journals against hallucinated references.",
     "author": "Alex Glynn",
     "published": "2025-03-25T17:12:38Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook",
+    "link": "https://arxiv.org/abs/2406.05984v2",
+    "summary": "Mental health constitutes a complex and pervasive global challenge, affecting millions of lives and often leading to severe consequences. In this paper, we conduct a thorough survey to explore the intersection of data science, artificial intelligence, and mental healthcare, focusing on the recent developments of mental disorder detection through online social media (OSM). A significant portion of the population actively engages in OSM platforms, creating a vast repository of personal data that holds immense potential for mental health analytics. The paper navigates through traditional diagnostic methods, state-of-the-art data- and AI-driven research studies, and the emergence of explainable AI (XAI) models for mental healthcare. We review state-of-the-art machine learning methods, particularly those based on modern deep learning, while emphasising the need for explainability in healthcare AI models. The experimental design section provides insights into prevalent practices, including available datasets and evaluation approaches. We also identify key issues and challenges in the field and propose promising future research directions. As mental health decisions demand transparency, interpretability, and ethical considerations, this paper contributes to the ongoing discourse on advancing XAI in mental healthcare through social media. The comprehensive overview presented here aims to guide researchers, practitioners, and policymakers in developing the area of mental disorder detection.",
+    "author": "Yusif Ibrahimov, Tarique Anwar, Tommy Yuan",
+    "published": "2024-06-10T02:51:16Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5137,16 +5135,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Defining the Collective Intelligence Supply Chain",
-    "link": "https://arxiv.org/abs/1809.09444v1",
-    "summary": "Organisations are increasingly open to scrutiny, and need to be able to prove that they operate in a fair and ethical way. Accountability should extend to the production and use of the data and knowledge assets used in AI systems, as it would for any raw material or process used in production of physical goods. This paper considers collective intelligence, comprising data and knowledge generated by crowd-sourced workforces, which can be used as core components of AI systems. A proposal is made for the development of a supply chain model for tracking the creation and use of crowdsourced collective intelligence assets, with a blockchain based decentralised architecture identified as an appropriate means of providing validation, accountability and fairness.",
-    "author": "Iain Barclay, Alun Preece, Ian Taylor",
-    "published": "2018-09-25T12:57:30Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "前沿探索"
-  },
-  {
     "title": "Artificial Intelligent Disobedience: Rethinking the Agency of Our Artificial Teammates",
     "link": "https://arxiv.org/abs/2506.22276v1",
     "summary": "Artificial intelligence has made remarkable strides in recent years, achieving superhuman performance across a wide range of tasks. Yet despite these advances, most cooperative AI systems remain rigidly obedient, designed to follow human instructions without question and conform to user expectations, even when doing so may be counterproductive or unsafe. This paper argues for expanding the agency of AI teammates to include \\textit{intelligent disobedience}, empowering them to make meaningful and autonomous contributions within human-AI teams. It introduces a scale of AI agency levels and uses representative examples to highlight the importance and growing necessity of treating AI autonomy as an independent research focus in cooperative settings. The paper then explores how intelligent disobedience manifests across different autonomy levels and concludes by proposing initial boundaries and considerations for studying disobedience as a core capability of artificial agents.",
@@ -5155,6 +5143,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Defining the Collective Intelligence Supply Chain",
+    "link": "https://arxiv.org/abs/1809.09444v1",
+    "summary": "Organisations are increasingly open to scrutiny, and need to be able to prove that they operate in a fair and ethical way. Accountability should extend to the production and use of the data and knowledge assets used in AI systems, as it would for any raw material or process used in production of physical goods. This paper considers collective intelligence, comprising data and knowledge generated by crowd-sourced workforces, which can be used as core components of AI systems. A proposal is made for the development of a supply chain model for tracking the creation and use of crowdsourced collective intelligence assets, with a blockchain based decentralised architecture identified as an appropriate means of providing validation, accountability and fairness.",
+    "author": "Iain Barclay, Alun Preece, Ian Taylor",
+    "published": "2018-09-25T12:57:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "前沿探索"
   },
   {
     "title": "Federated Artificial Intelligence for Unified Credit Assessment",
