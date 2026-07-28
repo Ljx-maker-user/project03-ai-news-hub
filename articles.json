@@ -470,9 +470,42 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "X Money is launching in the US starting today",
+    "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+    "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks include Apple Wallet support [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-07-27T18:10:18-04:00",
+    "tags": [
+      "Business",
+      "Elon Musk",
+      "News",
+      "Social Media",
+      "Tech",
+      "Twitter - X"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+    "link": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+    "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more customizable and have a faster response time. Razer’s Huntsman V3 Pro TKL is a compact, wired [&#8230;]",
+    "author": "Brad Bourque",
+    "published": "2026-07-27T17:29:22-04:00",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Gaming",
+      "PC Gaming",
+      "Verge Shopping"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Xbox’s huge outage even blocked games on disc",
     "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
-    "summary": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it has also prevented people from logging in, launching apps, or finding [&#8230;]",
+    "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented people from logging in, launching apps, or finding games [&#8230;]",
     "author": "Jay Peters",
     "published": "2026-07-27T15:53:50-04:00",
     "tags": [
@@ -591,37 +624,6 @@
       "Gaming",
       "PC Gaming",
       "Verge Shopping"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
-    "link": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
-    "summary": "San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming. Marvel revealed the next Ghost Rider (Ryan Gosling) and Black Panther (David Jonsson), while we also got release dates for God of War: Laufey (February 16th) and the fourth and final [&#8230;]",
-    "author": "Andrew Webster",
-    "published": "2026-07-27T10:38:43-04:00",
-    "tags": [
-      "Entertainment",
-      "Film",
-      "Gaming",
-      "Report",
-      "Roundup",
-      "TV Shows"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
-    "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-    "summary": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange. [&#8230;]",
-    "author": "Emma Roth",
-    "published": "2026-07-27T10:27:16-04:00",
-    "tags": [
-      "Business",
-      "News",
-      "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
@@ -760,11 +762,81 @@
     "module": "应用落地"
   },
   {
+    "title": "Our position on open-weights models",
+    "link": "https://www.anthropic.com/news/position-open-weights-models",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076057\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 22:03:49 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076391\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 22:37:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+    "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076900\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 23:19:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "DConf 2026 in London",
+    "link": "https://dconf.org/2026/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076840\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 23:14:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+    "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49041256\">Comments</a>",
+    "author": "",
+    "published": "Fri, 24 Jul 2026 20:35:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "C/C++ projects packaged for Zig",
+    "link": "https://github.com/allyourcodebase",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076791\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 23:09:50 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Watching Go's new garbage collector move through the heap",
     "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49045474\">Comments</a>",
     "author": "",
     "published": "Sat, 25 Jul 2026 07:55:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Burau representation of the braid group is faithful for n = 4",
+    "link": "https://arxiv.org/abs/2607.05283",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49077209\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 23:46:15 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -780,11 +852,31 @@
     "module": "应用落地"
   },
   {
+    "title": "Three Theses on the Literacy Crisis",
+    "link": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49050021\">Comments</a>",
+    "author": "",
+    "published": "Sat, 25 Jul 2026 18:05:59 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Self-contained highly-portable Python distributions",
     "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49073942\">Comments</a>",
     "author": "",
     "published": "Mon, 27 Jul 2026 18:43:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Securing Services with Rootless Containers",
+    "link": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021024\">Comments</a>",
+    "author": "",
+    "published": "Thu, 23 Jul 2026 13:11:30 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -800,21 +892,51 @@
     "module": "应用落地"
   },
   {
-    "title": "The computer that helped win World War II",
-    "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012309\">Comments</a>",
+    "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+    "link": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021007\">Comments</a>",
     "author": "",
-    "published": "Wed, 22 Jul 2026 19:40:44 +0000",
+    "published": "Thu, 23 Jul 2026 13:10:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Bytecode-to-Source Mapping",
-    "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49073665\">Comments</a>",
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+    "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067301\">Comments</a>",
     "author": "",
-    "published": "Mon, 27 Jul 2026 18:25:21 +0000",
+    "published": "Mon, 27 Jul 2026 09:58:50 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Kimi K3 Now Available via Telnyx Inference API",
+    "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076505\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 22:46:28 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "A missing underscore sent innocent man to prison for 18 months",
+    "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076116\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 22:10:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+    "link": "https://github.com/FrigadeHQ/yap",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49073834\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 18:36:02 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -825,6 +947,26 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49070756\">Comments</a>",
     "author": "",
     "published": "Mon, 27 Jul 2026 15:08:16 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The computer that helped win World War II",
+    "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012309\">Comments</a>",
+    "author": "",
+    "published": "Wed, 22 Jul 2026 19:40:44 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Paged Out #9 [pdf]",
+    "link": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49070138\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 14:22:34 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -850,46 +992,6 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-    "link": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021007\">Comments</a>",
-    "author": "",
-    "published": "Thu, 23 Jul 2026 13:10:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "MAI-Cyber-1-Flash inside MDASH",
-    "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49072361\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 16:52:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-    "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067301\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 09:58:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Kimi-K3 on HuggingFace",
-    "link": "https://huggingface.co/moonshotai/Kimi-K3",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49065752\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 06:18:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
     "link": "https://up.codes/careers?utm_source=HN",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49072523\">Comments</a>",
@@ -900,31 +1002,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Paged Out #9 [pdf]",
-    "link": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49070138\">Comments</a>",
+    "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+    "link": "https://hardroad.xyz/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076382\">Comments</a>",
     "author": "",
-    "published": "Mon, 27 Jul 2026 14:22:34 +0000",
+    "published": "Mon, 27 Jul 2026 22:36:55 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-    "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49074680\">Comments</a>",
+    "title": "Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
+    "link": "https://trylle.com/home",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076978\">Comments</a>",
     "author": "",
-    "published": "Mon, 27 Jul 2026 19:46:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Securing Services with Rootless Containers",
-    "link": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021024\">Comments</a>",
-    "author": "",
-    "published": "Thu, 23 Jul 2026 13:11:30 +0000",
+    "published": "Mon, 27 Jul 2026 23:26:15 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -940,121 +1032,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
-    "link": "https://github.com/letsseal/letsseal",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49071365\">Comments</a>",
+    "title": "Internet is no longer accessible?",
+    "link": "https://news.ycombinator.com/item?id=49078318",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49078318\">Comments</a>",
     "author": "",
-    "published": "Mon, 27 Jul 2026 15:52:13 +0000",
+    "published": "Tue, 28 Jul 2026 01:59:55 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "How is the Bun Rewrite in Rust going?",
-    "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49067854\">Comments</a>",
+    "title": "Forth",
+    "link": "https://xkcd.com/3277/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49074991\">Comments</a>",
     "author": "",
-    "published": "Mon, 27 Jul 2026 11:12:26 +0000",
+    "published": "Mon, 27 Jul 2026 20:15:50 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "First Robotic Satellite Servicer Launched",
-    "link": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49026755\">Comments</a>",
+    "title": "MAI-Cyber-1-Flash inside MDASH",
+    "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49072361\">Comments</a>",
     "author": "",
-    "published": "Thu, 23 Jul 2026 19:21:41 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
-    "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49070805\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 15:10:56 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How real are real numbers? (2004)",
-    "link": "https://arxiv.org/abs/math/0411418",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49071190\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 15:40:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "VLC for Unity now supported on Linux",
-    "link": "https://code.videolan.org/videolan/vlc-unity",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49066928\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 09:06:34 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Modern email can be built from borrowed parts",
-    "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49066639\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 08:27:21 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
-    "link": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49033114\">Comments</a>",
-    "author": "",
-    "published": "Fri, 24 Jul 2026 09:30:03 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Artist Who Colored Ghibli",
-    "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49073785\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 18:32:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-    "link": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49072310\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 16:49:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
-    "link": "https://infrawrench.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49071915\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 16:25:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Should you wash your solar panels?",
-    "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49069132\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 13:04:11 +0000",
+    "published": "Mon, 27 Jul 2026 16:52:22 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1680,89 +1682,22 @@
     "module": "应用落地"
   },
   {
-    "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-    "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-    "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
-    "author": "Eli Tan and Maureen Farrell",
-    "published": "Mon, 27 Jul 2026 19:54:45 +0000",
+    "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
+    "link": "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html",
+    "summary": "The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.",
+    "author": "Maureen Farrell and Cade Metz",
+    "published": "Tue, 28 Jul 2026 01:38:25 +0000",
     "tags": [
+      "Artificial Intelligence",
+      "Computer Chips",
       "Data Centers",
       "Computers and the Internet",
-      "Artificial Intelligence",
-      "Tax Credits, Deductions and Exemptions",
-      "Private Equity",
-      "Regulation and Deregulation of Industry",
-      "Nondisclosure Agreements",
-      "Blue Owl Capital Inc",
-      "Meta Platforms Inc",
-      "Landry, Jeffrey Martin"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "5 Things to Know About Meta’s Giant Data Center in Louisiana",
-    "link": "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html",
-    "summary": "The road to the giant project was paved with secret meetings and an ever-expanding building plan.",
-    "author": "Eli Tan",
-    "published": "Mon, 27 Jul 2026 14:13:22 +0000",
-    "tags": [
-      "Data Centers",
-      "Computers and the Internet",
-      "Energy and Power",
-      "Building (Construction)",
-      "Artificial Intelligence",
-      "Entergy Corporation",
-      "Meta Platforms Inc"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
-    "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-    "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
-    "author": "Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin",
-    "published": "Sat, 25 Jul 2026 20:07:34 +0000",
-    "tags": [
-      "Artificial Intelligence",
-      "Computers and the Internet",
-      "Open-Source Software",
-      "Regulation and Deregulation of Industry",
-      "Computer Security",
-      "Intellectual Property",
-      "United States Politics and Government",
-      "Anthropic AI LLC",
+      "SOFTBANK Corporation",
       "OpenAI Labs",
-      "Beijing Moonshot AI Technology Co Ltd",
-      "DeepSeek Artificial Intelligence Co Ltd",
-      "Z.ai (Artificial Intelligence Co)",
-      "Meta Platforms Inc",
-      "Microsoft Corp",
-      "NVIDIA Corporation",
-      "Google Inc",
-      "Hugging Face Inc",
-      "China",
-      "United States"
+      "NVIDIA Corporation"
     ],
     "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
-    "link": "https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html",
-    "summary": "“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”",
-    "author": "Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Davis Land, John Woo, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Leah Shaw Dameron",
-    "published": "Fri, 24 Jul 2026 11:00:03 +0000",
-    "tags": [
-      "Science and Technology",
-      "OpenAI Labs",
-      "Hugging Face Inc",
-      "Artificial Intelligence",
-      "internal-open-access-audio"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
+    "module": "基础设施与工具"
   },
   {
     "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
@@ -1799,6 +1734,27 @@
       "Microsoft Corp",
       "OpenAI Labs",
       "Suleyman, Mustafa"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
+    "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+    "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
+    "author": "Eli Tan and Maureen Farrell",
+    "published": "Mon, 27 Jul 2026 19:54:45 +0000",
+    "tags": [
+      "Data Centers",
+      "Computers and the Internet",
+      "Artificial Intelligence",
+      "Tax Credits, Deductions and Exemptions",
+      "Private Equity",
+      "Regulation and Deregulation of Industry",
+      "Nondisclosure Agreements",
+      "Blue Owl Capital Inc",
+      "Meta Platforms Inc",
+      "Landry, Jeffrey Martin"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -1888,6 +1844,36 @@
     "module": "应用落地"
   },
   {
+    "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+    "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+    "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
+    "author": "Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin",
+    "published": "Sat, 25 Jul 2026 20:07:34 +0000",
+    "tags": [
+      "Artificial Intelligence",
+      "Computers and the Internet",
+      "Open-Source Software",
+      "Regulation and Deregulation of Industry",
+      "Computer Security",
+      "Intellectual Property",
+      "United States Politics and Government",
+      "Anthropic AI LLC",
+      "OpenAI Labs",
+      "Beijing Moonshot AI Technology Co Ltd",
+      "DeepSeek Artificial Intelligence Co Ltd",
+      "Z.ai (Artificial Intelligence Co)",
+      "Meta Platforms Inc",
+      "Microsoft Corp",
+      "NVIDIA Corporation",
+      "Google Inc",
+      "Hugging Face Inc",
+      "China",
+      "United States"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
     "title": "QR Codes Make Their Way Down Wedding Aisles",
     "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
     "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
@@ -1915,6 +1901,22 @@
       "Social Media",
       "Computers and the Internet",
       "Customer Relations"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
+    "link": "https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html",
+    "summary": "“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”",
+    "author": "Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Davis Land, John Woo, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Leah Shaw Dameron",
+    "published": "Fri, 24 Jul 2026 11:00:03 +0000",
+    "tags": [
+      "Science and Technology",
+      "OpenAI Labs",
+      "Hugging Face Inc",
+      "Artificial Intelligence",
+      "internal-open-access-audio"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -2418,6 +2420,22 @@
     "module": "应用落地"
   },
   {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "author": "Dan Goodin",
+    "published": "Mon, 27 Jul 2026 21:56:14 +0000",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "microsoft",
+      "security"
+    ],
+    "source": "https://feeds.arstechnica.com",
+    "module": "应用落地"
+  },
+  {
     "title": "TreeSize won't renew perpetual-license support unless users subscribe",
     "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
     "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
@@ -2732,28 +2750,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "summary": "Notion is \"going all in on using agents to run your inbox.\"",
-    "author": "Scharon Harding",
-    "published": "Thu, 25 Jun 2026 19:04:57 +0000",
+    "title": "X Money begins limited US rollout",
+    "link": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
+    "summary": "Only Premium and Premium X subscribers get the privilege of banking with Elon for now.",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "published": "Mon, 27 Jul 2026 22:04:17 +0000",
     "tags": [
-      "AI",
-      "Biz & IT",
-      "Tech",
-      "apps",
-      "email",
-      "email client",
-      "Skiff",
-      "software"
+      "Big Tech"
     ],
-    "source": "https://feeds.arstechnica.com",
-    "module": "大模型与基础技术"
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
   },
   {
-    "title": "Spotify is experiencing another major outage",
+    "title": "Spotify experienced another major outage",
     "link": "https://www.engadget.com/2224515/spotify-is-experiencing-another-major-outage/",
-    "summary": "A second gremlin is rolling through Spotify this evening.",
+    "summary": "Two gremlins rolled through Spotify today.",
     "author": "staff@engadget.com (Jessica Conditt)",
     "published": "Mon, 27 Jul 2026 20:28:35 +0000",
     "tags": [
@@ -2980,20 +2991,6 @@
     "published": "Sun, 26 Jul 2026 20:15:08 +0000",
     "tags": [
       "Accessories"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How to get YouTube Music's best audio quality",
-    "link": "https://www.engadget.com/2221561/how-to-get-youtube-music-best-audio-quality/",
-    "summary": "If you don't mind using more data, make these changes to step up your listening experience in the YouTube Music app.",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "published": "Sun, 26 Jul 2026 18:30:00 +0000",
-    "tags": [
-      "Entertainment",
-      "Apps",
-      "Mobile"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
