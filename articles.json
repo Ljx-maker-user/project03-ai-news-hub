@@ -470,6 +470,121 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "DoorDash is going airborne with new drone delivery division",
+    "link": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
+    "summary": "DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration that clears the way for drone delivery in the near future. DoorDash said it has received a Part 135 air carrier certification from the FAA that [&#8230;]",
+    "author": "Andrew J. Hawkins",
+    "published": "2026-07-29T09:00:00-04:00",
+    "tags": [
+      "Drones",
+      "Food",
+      "News",
+      "Science",
+      "Tech",
+      "Transportation"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Nothing Ear 3A look great… and sound good enough",
+    "link": "https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review",
+    "summary": "Nothing has had a strong visual identity since the Ear 1 were released in 2021 for $99 and challenged the notion that a highly featured headset requires a high price. The Ear 3A have the same transparent look as Nothing's previous earbuds, with a clear case and stem design accented by a solid-colored body - [&#8230;]",
+    "author": "John.Higgins",
+    "published": "2026-07-29T08:30:00-04:00",
+    "tags": [
+      "Headphone Reviews",
+      "Reviews",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
+    "link": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+    "summary": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity, but as the new normal, the default design for foldables going forward. Rumor has it that Apple feels the same way, with a [&#8230;]",
+    "author": "Dominic Preston",
+    "published": "2026-07-29T08:22:03-04:00",
+    "tags": [
+      "Foldable Phones",
+      "Mobile",
+      "Phone Reviews",
+      "Reviews",
+      "Samsung",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Artists are lawyering up against AI slop, and some are even winning",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+    "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
+    "author": "Terrence O’Brien",
+    "published": "2026-07-29T08:00:00-04:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Books",
+      "Entertainment",
+      "Google",
+      "Law",
+      "Music",
+      "OpenAI",
+      "Policy",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
+    "author": "Robert Hart",
+    "published": "2026-07-29T07:54:29-04:00",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "We’re running out of reasons to ignore AI safety",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+    "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO [&#8230;]",
+    "author": "Robert Hart",
+    "published": "2026-07-29T07:00:00-04:00",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Xbox outage shouldn&#8217;t have affected games on disc, Microsoft confirms",
+    "link": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue",
+    "summary": "After the recent Xbox outage even blocked people from playing offline disc-based console games, Microsoft is trying to soothe concerns that you don't truly own anything under Xbox's license system. In a statement to The Verge, Xbox technology chief Scott Van Vliet says that while physical game discs are subject to licensing inspections, that shouldn't [&#8230;]",
+    "author": "Jess Weatherbed",
+    "published": "2026-07-29T06:58:29-04:00",
+    "tags": [
+      "Gaming",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Xbox"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "The US is banning foreign robots",
     "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
     "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited [&#8230;]",
@@ -517,121 +632,15 @@
     "module": "应用落地"
   },
   {
-    "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
-    "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-    "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a [&#8230;]",
-    "author": "Emma Roth",
-    "published": "2026-07-28T17:11:11-04:00",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "author": "Charlotte Jee",
+    "published": "Wed, 29 Jul 2026 12:10:00 +0000",
     "tags": [
-      "Law",
-      "News",
-      "Policy",
-      "Tech"
+      "The Download"
     ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-07-28T15:46:43-04:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Google",
-      "Meta",
-      "News",
-      "OpenAI",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-    "link": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
-    "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an activist. Unlike others who have had their phones seized with no explanation, Tunick was told [&#8230;]",
-    "author": "Gaby Del Valle",
-    "published": "2026-07-28T15:35:00-04:00",
-    "tags": [
-      "Policy",
-      "Politics",
-      "Privacy",
-      "Report",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI’s finally expensive enough to make Wall Street nervous",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously [&#8230;]",
-    "author": "Elizabeth Lopatto",
-    "published": "2026-07-28T15:33:03-04:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Business",
-      "Google",
-      "OpenAI",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Tech",
-      "xAI"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "This comfy gaming headset that can play audio from two sources is $25",
-    "link": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
-    "summary": "While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a whopping 75 percent off its original price of $99.99. It has an unorthodox batch of features: USB-A and 3.5mm options for [&#8230;]",
-    "author": "Brad Bourque",
-    "published": "2026-07-28T15:18:15-04:00",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Headphones",
-      "Verge Shopping"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
-    "link": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
-    "summary": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027, but instead of bringing them to the rest of the world, Logitech plans [&#8230;]",
-    "author": "Sean Hollister",
-    "published": "2026-07-28T15:12:48-04:00",
-    "tags": [
-      "Gaming",
-      "Logitech",
-      "PC Gaming",
-      "Policy",
-      "Report",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
-    "link": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
-    "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or there will be no limitations put on device functionality due to missed payments or default with [&#8230;]",
-    "author": "Emma Roth",
-    "published": "2026-07-28T14:43:57-04:00",
-    "tags": [
-      "Apple",
-      "iOS",
-      "iPhone",
-      "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
+    "source": "https://www.technologyreview.com",
     "module": "应用落地"
   },
   {
@@ -757,19 +766,44 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "The quest to keep organs alive outside the body",
-    "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
-    "author": "Jessica Hamzelou",
-    "published": "Fri, 24 Jul 2026 17:03:55 +0000",
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "Summary",
-      "The Checkup"
-    ],
-    "source": "https://www.technologyreview.com",
+    "title": "KOReader",
+    "link": "https://koreader.rocks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095865\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 11:05:08 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
     "module": "应用落地"
+  },
+  {
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "link": "https://arxiv.org/abs/2607.25398",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096969\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 13:01:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096188\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 11:44:33 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096917\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:58:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
   },
   {
     "title": "More Tailscale tricks for your jailbroken Kindle",
@@ -777,6 +811,36 @@
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093569\">Comments</a>",
     "author": "",
     "published": "Wed, 29 Jul 2026 04:58:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096427\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:11:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Amiga Graphics Archive",
+    "link": "https://amiga.lychesis.net/index.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095511\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 10:19:44 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "SpecForge – A Platform for Authoring Formal Specifications",
+    "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095628\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 10:35:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -792,6 +856,26 @@
     "module": "应用落地"
   },
   {
+    "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+    "link": "https://jcgt.org/published/0015/02/01/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096742\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:40:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "It doesn't matter whether \"Matz is nice\"",
+    "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49097611\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 13:56:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
     "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49094346\">Comments</a>",
@@ -802,11 +886,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Lisp moving Forth moving Lisp",
-    "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060363\">Comments</a>",
+    "title": "ALP: Adaptive lossless floating-point compression",
+    "link": "https://github.com/cwida/ALP",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49051355\">Comments</a>",
     "author": "",
-    "published": "Sun, 26 Jul 2026 17:37:33 +0000",
+    "published": "Sat, 25 Jul 2026 20:42:05 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -822,11 +906,61 @@
     "module": "应用落地"
   },
   {
+    "title": "Lisp moving Forth moving Lisp",
+    "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49060363\">Comments</a>",
+    "author": "",
+    "published": "Sun, 26 Jul 2026 17:37:33 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "French musician Kavinsky found dead",
+    "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096290\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 11:54:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
     "link": "https://github.com/twalichiewicz/HNewhere",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49090607\">Comments</a>",
     "author": "",
     "published": "Tue, 28 Jul 2026 22:09:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
+    "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012754\">Comments</a>",
+    "author": "",
+    "published": "Wed, 22 Jul 2026 20:14:38 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+    "link": "https://echologue.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096767\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:43:36 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49063983\">Comments</a>",
+    "author": "",
+    "published": "Mon, 27 Jul 2026 00:58:45 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -852,6 +986,26 @@
     "module": "应用落地"
   },
   {
+    "title": "Pulse Path – a browser puzzle where placement is the only decision",
+    "link": "https://pulsepathgame.netlify.app/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096493\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:19:30 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The only road in London where you have to drive on the right",
+    "link": "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095361\">Comments</a>",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 09:59:09 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Cracking Windows Open: Porting RADV to Win32",
     "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49093435\">Comments</a>",
@@ -862,31 +1016,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
-    "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49012754\">Comments</a>",
+    "title": "Darktable",
+    "link": "https://www.darktable.org/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096654\">Comments</a>",
     "author": "",
-    "published": "Wed, 22 Jul 2026 20:14:38 +0000",
+    "published": "Wed, 29 Jul 2026 12:33:02 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-    "link": "https://learnvector.ai/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092499\">Comments</a>",
+    "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+    "link": "https://vimgolf.ai",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49095143\">Comments</a>",
     "author": "",
-    "published": "Wed, 29 Jul 2026 01:49:19 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Kimi K3 Architecture Overview and Notes",
-    "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085698\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 15:48:34 +0000",
+    "published": "Wed, 29 Jul 2026 09:26:52 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -902,14 +1046,14 @@
     "module": "应用落地"
   },
   {
-    "title": "Hubble: Open-source notetaking app for you and your agents",
-    "link": "https://www.hubble.md/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49091730\">Comments</a>",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "link": "https://learnvector.ai/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092499\">Comments</a>",
     "author": "",
-    "published": "Wed, 29 Jul 2026 00:11:23 +0000",
+    "published": "Wed, 29 Jul 2026 01:49:19 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
+    "module": "应用落地"
   },
   {
     "title": "Steel Bank Common Lisp version 2.6.7",
@@ -922,154 +1066,23 @@
     "module": "应用落地"
   },
   {
-    "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-    "link": "https://www.slow-journalism.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085731\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 15:50:38 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "link": "https://transformer-transformer.github.io/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49093232\">Comments</a>",
-    "author": "",
-    "published": "Wed, 29 Jul 2026 03:52:29 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "Teach yourself programming in ten years (1998)",
-    "link": "https://www.norvig.com/21-days.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49055816\">Comments</a>",
-    "author": "",
-    "published": "Sun, 26 Jul 2026 08:06:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
-    "link": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49076450\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 22:42:11 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Hooray for the Sockets Interface",
-    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49092754\">Comments</a>",
-    "author": "",
-    "published": "Wed, 29 Jul 2026 02:25:29 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Log is non-monotonic in PHP and Lua",
-    "link": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49021756\">Comments</a>",
-    "author": "",
-    "published": "Thu, 23 Jul 2026 14:00:48 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "ChatGPT claims rogue AI attacked more companies",
-    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49094996\">Comments</a>",
-    "author": "",
-    "published": "Wed, 29 Jul 2026 09:03:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-    "link": "https://unawatch.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084813\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 14:48:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Zig's Incremental Compilation Internals",
-    "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49085666\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 15:46:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-    "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087306\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 17:37:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Mag Computer: A Mag History of RAM (1960–2025)",
-    "link": "https://magworld.pw/episodes/computer/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49036182\">Comments</a>",
-    "author": "",
-    "published": "Fri, 24 Jul 2026 14:26:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Interview with Boris Cherny [video]",
-    "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49077040\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 23:33:04 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Now is the time to give LLMs access to the ACM digital library",
-    "link": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084987\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 15:01:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Truth is not a direction: a Tarski attack on LLM probes",
-    "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49069033\">Comments</a>",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 12:56:36 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Discovering Cryptographic Weaknesses with Claude",
-    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49087091\">Comments</a>",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 17:22:16 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
+    "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+    "link": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+    "summary": "<p>ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging Face</p><p>OpenAI has revealed that a cyber-attack <a href=\"https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident\">carried out by a rogue AI agent</a> had more than one victim.</p><p>The ChatGPT developer said the agent – an autonomous tool able to carry out sequences of commands without human help – had located and used logins to access four other unnamed “publicly-available services” in addition to the US startup Hugging Face.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms\">Continue reading...</a>",
+    "author": "Dan Milmo Global technology editor",
+    "published": "Wed, 29 Jul 2026 12:38:38 GMT",
+    "tags": [
+      "OpenAI",
+      "AI (artificial intelligence)",
+      "Business",
+      "Technology sector",
+      "US news",
+      "World news",
+      "Technology",
+      "ChatGPT"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "大模型与基础技术"
   },
   {
     "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
@@ -1189,61 +1202,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Home Office used ‘AI hallucinated’ information to refuse asylum claim, judge suggests",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests",
-    "summary": "<p>Upper tribunal unable to find document cited in case and claims it is ‘analogous to relying on bogus evidence’</p><p></p><p>A senior judge has accused the Home Office of relying on “AI hallucinated” information to refuse an asylum claim.</p><p>The case relates to a Moroccan woman and her child who fled her country after experiencing forced underage marriage and extreme violence, including rape. The woman claimed asylum on the basis of fears that she would be killed by her husband: a powerful, previously convicted criminal.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests\">Continue reading...</a>",
-    "author": "Diane Taylor",
-    "published": "Tue, 28 Jul 2026 12:39:44 GMT",
-    "tags": [
-      "Immigration and asylum",
-      "Home Office",
-      "Politics",
-      "UK news",
-      "Law"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
-    "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
-    "summary": "<p>Drop comes after South Korean company SK Hynix’s results undershoot investors’ expectations</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/29/oil-jumps-iran-surprise-attack-chip-stocks-slump-ai-sell-off-economy-latest-news\">Business live – latest updates</a></p></li></ul><p>Shares in companies linked to AI have plunged further after disappointing results from the South Korean chipmaker SK Hynix, which sent the country’s stock market tumbling for a <a href=\"https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung\">second day in a row</a>.</p><p>Seoul’s Kospi index, which is dominated by semiconductor manufacturers, slid by as much as 12.6% at one point on Wednesday, following on from a near 11% slump the previous day, reaching its lowest level since early April.</p> <a href=\"https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets\">Continue reading...</a>",
-    "author": "Joanna Partridge",
-    "published": "Wed, 29 Jul 2026 08:50:26 GMT",
-    "tags": [
-      "Stock markets",
-      "AI (artificial intelligence)",
-      "Business",
-      "Technology sector",
-      "Asia Pacific",
-      "World news",
-      "Technology",
-      "Nikkei",
-      "Manufacturing sector"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Datacentre projects could face fees for grid access to ease connection queue, Ofgem says",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
-    "summary": "<p>Energy regulator’s plan would mean upfront fees or financial security via letters of credit, bonds or cash deposits</p><p>Datacentre projects in Britain will be forced to put down significant upfront fees to secure an energy connection under proposals to ease an <a href=\"https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand\">electricity grid logjam</a>.</p><p>Ofgem, the sector watchdog, said there were 315 datacentres currently queueing to connect up, representing 73GW of demand. This is almost 30GW above the entire country’s peak energy demand of 45GW.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem\">Continue reading...</a>",
-    "author": "Dan Milmo",
-    "published": "Wed, 29 Jul 2026 07:42:01 GMT",
-    "tags": [
-      "Datacentres",
-      "Ofgem",
-      "Energy industry",
-      "Business",
-      "AI (artificial intelligence)",
-      "Technology sector",
-      "UK news",
-      "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
     "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
     "summary": "<p>Federal-state stoush comes as rating agency warns that electricity bills could skyrocket</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Queensland and the Northern Territory have rejected the federal government’s plans to mandate that AI datacentres use renewable power, rubbishing Anthony Albanese’s proposals to regulate the booming technology as “underdeveloped ideas that hand increased power to Canberra”.</p><p>The latest federal-state stoush on energy comes as S&amp;P Global, the economic rating agency, warns that power use from datacentres could rise five-fold by 2035 to 10% of Australia’s total consumption, and that a mismatch between delivery timelines for datacentres and renewable projects could lead to energy bills skyrocketing.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy\">Continue reading...</a>",
@@ -1276,6 +1234,26 @@
     "module": "应用落地"
   },
   {
+    "title": "South Korean stock market at three-month low as AI sell-off intensifies",
+    "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+    "summary": "<p>Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competition</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/28/ai-sell-off-chip-stocks-slump-market-south-korea-japan-economy-latest-news\">Business live – latest updates</a></p></li></ul><p>The sell-off in AI stocks has intensified, driving South Korea’s stock market down to its lowest level in three months.</p><p>Investors continued to ditch chip stocks on Tuesday, amid rising concerns about the huge amount of borrowing among AI companies to fund their datacentre expansion plans.</p> <a href=\"https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung\">Continue reading...</a>",
+    "author": "Lauren Almeida and Graeme Wearden",
+    "published": "Tue, 28 Jul 2026 17:43:46 GMT",
+    "tags": [
+      "Stock markets",
+      "Business",
+      "AI (artificial intelligence)",
+      "Nvidia",
+      "Technology",
+      "UK news",
+      "US news",
+      "World news",
+      "South Korea"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
     "link": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
     "summary": "<p>Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO</p><p>The boss of the startup hacked by an OpenAI agent has called for the investigation into <a href=\"https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident\">the incident</a> to show “radical transparency”.</p><p>Clément Delangue, the chief executive of Hugging Face, said the “unprecedented” attack on his business required a similar response.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence\">Continue reading...</a>",
@@ -1294,6 +1272,24 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Misleading AI-generated doctors pose ‘huge danger to public safety’",
+    "link": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+    "summary": "<p>Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice</p><p>Misleading health claims online pose a “huge danger to public safety”, experts have warned, after research has shown that AI-generated doctors are gaining millions of views on TikTok by spreading dubious health advice.</p><p>The British Medical Association council deputy chair, Dr Emma Runswick, flagged the risks posed by AI accounts that “peddle medical myths and promote so-called miracle cures”.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok\">Continue reading...</a>",
+    "author": "Joe Pinner",
+    "published": "Mon, 27 Jul 2026 06:00:34 GMT",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Internet safety",
+      "Health",
+      "UK news",
+      "TikTok",
+      "Social media",
+      "Deepfake"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
   },
   {
     "title": "The great PlayStation blackout – will kids actually have to leave their bedrooms this summer?",
@@ -1809,9 +1805,9 @@
   {
     "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
     "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-    "summary": "The charges against Pavel Durov reflected an ongoing fight over one of the most popular messaging and media apps in the country.",
-    "author": "Ivan Nechepurenko",
-    "published": "Wed, 29 Jul 2026 10:17:27 +0000",
+    "summary": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
+    "author": "Ivan Nechepurenko and Adam Satariano",
+    "published": "Wed, 29 Jul 2026 13:46:29 +0000",
     "tags": [
       "Mobile Applications",
       "Social Media",
@@ -1839,7 +1835,8 @@
       "Computers and the Internet",
       "eBay Inc",
       "Steiner, Ina (1962- )",
-      "Wenig, Devin N"
+      "Wenig, Devin N",
+      "Natick (Mass)"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -1855,10 +1852,11 @@
       "Festivals",
       "Artificial Intelligence",
       "Organized Labor",
-      "Writing and Writers",
+      "News and News Media",
+      "Television",
+      "Urbanworld (Film Festival)",
       "Writers Guild of America",
       "Spikes, Stacy",
-      "Urbanworld (Film Festival)",
       "New York City"
     ],
     "source": "https://rss.nytimes.com",
@@ -2369,6 +2367,46 @@
     "module": "应用落地"
   },
   {
+    "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
+    "link": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
+    "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 13:15:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button",
+    "link": "https://www.zdnet.com/article/remap-windows-copilot-key/",
+    "summary": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 13:01:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "I tried ArchEZ to see if it really makes Arch Linux easy for beginners - and it delivered",
+    "link": "https://www.zdnet.com/article/archez-makes-arch-linux-easy/",
+    "summary": "Arch Linux doesn't have to be challenging, and ArchEZ proves that point with point-and-click ease.",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:25:18 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "74% of workers ask AI questions instead of colleagues - with potentially serious consequences",
+    "link": "https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagues/",
+    "summary": "A series of studies revealed that employees are spending less time asking their coworkers for help. Here's how that tactic could backfire and how organizations need to adapt.",
+    "author": "",
+    "published": "Wed, 29 Jul 2026 12:19:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Get Apple Music's student discount plus Apple TV for just $6 a month - here's how",
     "link": "https://www.zdnet.com/article/how-to-get-an-apple-music-student-discount-subscription/",
     "summary": "Students can save big on an Apple Music subscription. Here's how to get it.",
@@ -2437,16 +2475,6 @@
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
-  },
-  {
-    "title": "How to remap the Copilot key on your keyboard to something more helpful",
-    "link": "https://www.zdnet.com/article/remap-copilot-key/",
-    "summary": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 15:58:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "大模型与基础技术"
   },
   {
     "title": "Is your smart TV a secret proxy? LG to suspend rogue apps, Samsung sets impacted too",
@@ -2534,36 +2562,6 @@
     "summary": "Microsoft's Windows 11 insider builds let you preview and try upcoming new features and settings. Here are my five favorites this year so far and how you can check them out.",
     "author": "",
     "published": "Tue, 28 Jul 2026 12:14:00 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Get Spotify's student discount plus Hulu for just $6 a month - here's how",
-    "link": "https://www.zdnet.com/article/how-to-get-a-spotify-premium-student-discount/",
-    "summary": "If you're a college student, Spotify has an exclusive bundle that can save you cash on music and streaming. Here's how to get it.",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 09:00:35 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
-    "link": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/",
-    "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
-    "author": "",
-    "published": "Tue, 28 Jul 2026 08:30:42 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
-    "link": "https://www.zdnet.com/article/hp-omnibook-ultra-14-2026-review/",
-    "summary": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
-    "author": "",
-    "published": "Mon, 27 Jul 2026 17:54:00 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2901,6 +2899,66 @@
     "module": "应用落地"
   },
   {
+    "title": "Netflix edges past the BBC in latest UK audience survey",
+    "link": "https://www.engadget.com/2225982/netflix-edges-past-bbc-in-uk-ofcom-audience-survey/",
+    "summary": "The BBC has so many structural benefits that it's unthinkable it could be usurped by anyone else in the UK.",
+    "author": "staff@engadget.com (Daniel Cooper)",
+    "published": "Wed, 29 Jul 2026 13:43:25 +0000",
+    "tags": [
+      "Streaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Are remote car starters still worth it in 2026?",
+    "link": "https://www.engadget.com/2222373/are-remote-car-starters-still-worth-it/",
+    "summary": "Some newer vehicles include the feature, but to keep it, you'll have to pay monthly. You can also buy remote starters outright.",
+    "author": "staff@engadget.com (Gabriela Vătu)",
+    "published": "Wed, 29 Jul 2026 13:30:00 +0000",
+    "tags": [
+      "EVs and Transportation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Framework Laptop 13 Pro review: A repairable notebook at the top of the class",
+    "link": "https://www.engadget.com/2225931/framework-laptop-13-pro-review/",
+    "summary": "The Framework 13 Pro is a class-leading Windows laptop that, right now, is just a little too pricey.",
+    "author": "staff@engadget.com (Daniel Cooper)",
+    "published": "Wed, 29 Jul 2026 13:00:00 +0000",
+    "tags": [
+      "Laptops & PCs"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Rare, fully-functional Nintendo Famicombox retro consoles were discovered in a Japanese love hotel",
+    "link": "https://www.engadget.com/2225874/rare-fully-functional-nintendo-famicombox-retro-consoles-were-discovered-in-a-japanese-love-hotel/",
+    "summary": "Nintendo's 1986 commercial-use Famicombox is rare, but a Japanese love hotel reportedly has one in almost every room.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 29 Jul 2026 11:46:51 +0000",
+    "tags": [
+      "Nintendo"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Google shuts down its Nobel-prize winning AlphaFold project as it focuses on Gemini",
+    "link": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
+    "summary": "DeepMind's award-winning AlphaFold team is no more.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Wed, 29 Jul 2026 10:40:36 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "OpenAI says the rogue agent that hacked Hugging Face also breached other services",
     "link": "https://www.engadget.com/2225812/openai-rogue-agent-hacked-hugging-face-breached-other-services/",
     "summary": "OpenAI's investigation starts shedding light on the activities of its rogue agent that hacked Hugging Face.",
@@ -3080,67 +3138,6 @@
     "published": "Tue, 28 Jul 2026 17:04:24 +0000",
     "tags": [
       "Smartphones"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Here's why you shouldn't throw away your old iPhone",
-    "link": "https://www.engadget.com/2220916/old-iphone-heres-why-you-shouldnt-throw-it-away/",
-    "summary": "If you've got an older iPhone hanging out in the junk drawer, grab it out and bring it back to life with these tips.",
-    "author": "staff@engadget.com (Christine Persaud)",
-    "published": "Tue, 28 Jul 2026 16:30:00 +0000",
-    "tags": [
-      "Smartphones",
-      "Apple"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Trump administration is exempting data centers from pollution laws intended to prevent acid rain",
-    "link": "https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/",
-    "summary": "Don't worry, the Trump administration won't let a little acid rain get in the way of more data centers.",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "published": "Tue, 28 Jul 2026 16:04:52 +0000",
-    "tags": [
-      "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Xbox explains what caused this week's 'unacceptable' major outage",
-    "link": "https://www.engadget.com/2225136/xbox-explains-what-caused-this-weeks-unaceeptable-major-outage/",
-    "summary": "An Xbox executive said yesterday's outage was due to \"a licensing service that sits outside of Xbox.\"",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Tue, 28 Jul 2026 15:55:20 +0000",
-    "tags": [
-      "Xbox"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Swimming headphones: What makes them so different from regular headphones?",
-    "link": "https://www.engadget.com/2220914/swimming-headphones-what-makes-different-from-regular/",
-    "summary": "Why can't I just wear my AirPods in the pool?",
-    "author": "staff@engadget.com (Deven McClure)",
-    "published": "Tue, 28 Jul 2026 15:30:00 +0000",
-    "tags": [
-      "Wearables"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What's the difference between Amazon's Echo Dot and Echo Dot Max?",
-    "link": "https://www.engadget.com/2222509/echo-dot-max-vs-echo-dot-differences-between-amazon-devices/",
-    "summary": "Better bass and a much newer processor are the main differences between the old Echo Dot and the newer Echo Dot Max.",
-    "author": "staff@engadget.com (Dave Meikleham)",
-    "published": "Tue, 28 Jul 2026 14:30:00 +0000",
-    "tags": [
-      "Amazon"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -5146,6 +5143,16 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "A Review of Explainable Artificial Intelligence in Manufacturing",
+    "link": "https://arxiv.org/abs/2107.02295v1",
+    "summary": "The implementation of Artificial Intelligence (AI) systems in the manufacturing domain enables higher production efficiency, outstanding performance, and safer operations, leveraging powerful tools such as deep learning and reinforcement learning techniques. Despite the high accuracy of these models, they are mostly considered black boxes: they are unintelligible to the human. Opaqueness affects trust in the system, a factor that is critical in the context of decision-making. We present an overview of Explainable Artificial Intelligence (XAI) techniques as a means of boosting the transparency of models. We analyze different metrics to evaluate these techniques and describe several application scenarios in the manufacturing domain.",
+    "author": "Georgios Sofianidis, Jože M. Rožanec, Dunja Mladenić, Dimosthenis Kyriazis",
+    "published": "2021-07-05T21:59:55Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
     "link": "https://arxiv.org/abs/2003.08316v2",
     "summary": "Neuro-symbolic and statistical relational artificial intelligence both integrate frameworks for learning with logical reasoning. This survey identifies several parallels across seven different dimensions between these two fields. These cannot only be used to characterize and position neuro-symbolic artificial intelligence approaches but also to identify a number of directions for further research.",
@@ -5226,21 +5233,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
-    "link": "https://arxiv.org/abs/1807.08195v1",
-    "summary": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored.",
-    "author": "Bo Xing, Tshilidzi Marwala",
-    "published": "2018-07-21T19:37:25Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Artificial Intelligence and Asymmetric Information Theory",
     "link": "https://arxiv.org/abs/1510.02867v3",
     "summary": "When human agents come together to make decisions, it is often the case that one human agent has more information than the other. This phenomenon is called information asymmetry and this distorts the market. Often if one human agent intends to manipulate a decision in its favor the human agent can signal wrong or right information. Alternatively, one human agent can screen for information to reduce the impact of asymmetric information on decisions. With the advent of artificial intelligence, signaling and screening have been made easier. This paper studies the impact of artificial intelligence on the theory of asymmetric information. It is surmised that artificial intelligent agents reduce the degree of information asymmetry and thus the market where these agents are deployed become more efficient. It is also postulated that the more artificial intelligent agents there are deployed in the market the less is the volume of trades in the market. This is because for many trades to happen the asymmetry of information on goods and services to be traded should exist, creating a sense of arbitrage.",
     "author": "Tshilidzi Marwala, Evan Hurwitz",
     "published": "2015-10-10T03:07:10Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Creativity and Artificial Intelligence: A Digital Art Perspective",
+    "link": "https://arxiv.org/abs/1807.08195v1",
+    "summary": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored.",
+    "author": "Bo Xing, Tshilidzi Marwala",
+    "published": "2018-07-21T19:37:25Z",
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
@@ -5356,16 +5363,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Artificial Intelligent Disobedience: Rethinking the Agency of Our Artificial Teammates",
-    "link": "https://arxiv.org/abs/2506.22276v1",
-    "summary": "Artificial intelligence has made remarkable strides in recent years, achieving superhuman performance across a wide range of tasks. Yet despite these advances, most cooperative AI systems remain rigidly obedient, designed to follow human instructions without question and conform to user expectations, even when doing so may be counterproductive or unsafe. This paper argues for expanding the agency of AI teammates to include \\textit{intelligent disobedience}, empowering them to make meaningful and autonomous contributions within human-AI teams. It introduces a scale of AI agency levels and uses representative examples to highlight the importance and growing necessity of treating AI autonomy as an independent research focus in cooperative settings. The paper then explores how intelligent disobedience manifests across different autonomy levels and concludes by proposing initial boundaries and considerations for studying disobedience as a core capability of artificial agents.",
-    "author": "Reuth Mirsky",
-    "published": "2025-06-27T14:45:27Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Witgenstein's influence on artificial intelligence",
     "link": "https://arxiv.org/abs/2302.01570v1",
     "summary": "We examine how much of the contemporary progress in artificial intelligence (and, specifically, in natural language processing), can be, more or less directly, traced back to the seminal work and ideas of the Austrian-British philosopher Ludwig Wittgenstein, with particular focus on his late views. Discussing Wittgenstein's original theses will give us the chance to survey the state of artificial intelligence, and comment on both its strengths and weaknesses. A similar text appeared first in Spanish as a chapter of CENTENARIO DEL SILENCIO (2021), a book celebrating 100 years since the publication of the Tractatus.",
@@ -5374,6 +5371,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Artificial Intelligent Disobedience: Rethinking the Agency of Our Artificial Teammates",
+    "link": "https://arxiv.org/abs/2506.22276v1",
+    "summary": "Artificial intelligence has made remarkable strides in recent years, achieving superhuman performance across a wide range of tasks. Yet despite these advances, most cooperative AI systems remain rigidly obedient, designed to follow human instructions without question and conform to user expectations, even when doing so may be counterproductive or unsafe. This paper argues for expanding the agency of AI teammates to include \\textit{intelligent disobedience}, empowering them to make meaningful and autonomous contributions within human-AI teams. It introduces a scale of AI agency levels and uses representative examples to highlight the importance and growing necessity of treating AI autonomy as an independent research focus in cooperative settings. The paper then explores how intelligent disobedience manifests across different autonomy levels and concludes by proposing initial boundaries and considerations for studying disobedience as a core capability of artificial agents.",
+    "author": "Reuth Mirsky",
+    "published": "2025-06-27T14:45:27Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Federated Artificial Intelligence for Unified Credit Assessment",
@@ -6094,15 +6101,5 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
-  },
-  {
-    "title": "Evidence of interrelated cognitive-like capabilities in large language models: Indications of artificial general intelligence or achievement?",
-    "link": "https://arxiv.org/abs/2310.11616v3",
-    "summary": "Large language models (LLMs) are advanced artificial intelligence (AI) systems that can perform a variety of tasks commonly found in human intelligence tests, such as defining words, performing calculations, and engaging in verbal reasoning. There are also substantial individual differences in LLM capacities. Given the consistent observation of a positive manifold and general intelligence factor in human samples, along with group-level factors (e.g., crystallized intelligence), we hypothesized that LLM test scores may also exhibit positive intercorrelations, which could potentially give rise to an artificial general ability (AGA) factor and one or more group-level factors. Based on a sample of 591 LLMs and scores from 12 tests aligned with fluid reasoning (Gf), domain-specific knowledge (Gkn), reading/writing (Grw), and quantitative knowledge (Gq), we found strong empirical evidence for a positive manifold and a general factor of ability. Additionally, we identified a combined Gkn/Grw group-level factor. Finally, the number of LLM parameters correlated positively with both general factor of ability and Gkn/Grw factor scores, although the effects showed diminishing returns. We interpreted our results to suggest that LLMs, like human cognitive abilities, may share a common underlying efficiency in processing information and solving problems, though whether LLMs manifest primarily achievement/expertise rather than intelligence remains to be determined. Finally, while models with greater numbers of parameters exhibit greater general cognitive-like abilities, akin to the connection between greater neuronal density and human general intelligence, other characteristics must also be involved.",
-    "author": "David Ilić, Gilles E. Gignac",
-    "published": "2023-10-17T22:42:12Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "前沿探索"
   }
 ]
