@@ -470,6 +470,22 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+    "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+    "summary": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a drive. It's a 4K HDMI dock [&#8230;]",
+    "author": "Sean Hollister",
+    "published": "2026-07-31T18:09:11-04:00",
+    "tags": [
+      "Gadgets",
+      "Hands-on",
+      "Reviews",
+      "Tech",
+      "USB-C"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Apple’s new AirTags are back down to their best price",
     "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
     "summary": "We spotted a great deal on Tile trackers earlier this week that&#8217;s still live, but if you&#8217;re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has [&#8230;]",
@@ -608,22 +624,6 @@
     "module": "应用落地"
   },
   {
-    "title": "It’s time to panic about AI safety",
-    "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-    "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of [&#8230;]",
-    "author": "David Pierce",
-    "published": "2026-07-31T10:03:04-04:00",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Podcasts",
-      "Policy",
-      "Vergecast"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "The Download: Montana’s new experimental drug rules",
     "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10&#8230;",
@@ -759,16 +759,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
-    "link": "https://tailscale.com/blog/hugging-face-intrusion",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127306\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 19:03:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Elevators",
     "link": "https://john.fun/elevators",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49124218\">Comments</a>",
@@ -779,61 +769,41 @@
     "module": "应用落地"
   },
   {
-    "title": "qm",
+    "title": "qm – Multiplayer agent harness for work",
     "link": "https://github.com/yc-software/qm",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49126604\">Comments</a>",
     "author": "",
     "published": "Fri, 31 Jul 2026 18:04:58 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "应用落地"
+    "module": "大模型与基础技术"
   },
   {
-    "title": "Golang proposal: container/: generic collection types",
-    "link": "https://github.com/golang/go/issues/80590",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127031\">Comments</a>",
+    "title": "How to Exist",
+    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49129990\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 18:39:47 +0000",
+    "published": "Sat, 01 Aug 2026 00:25:00 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Severance",
-    "link": "https://lcamtuf.substack.com/p/severance",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125971\">Comments</a>",
+    "title": "The Absurdity of Albert Camus",
+    "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49117089\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 17:15:09 +0000",
+    "published": "Thu, 30 Jul 2026 23:21:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Big Food vs. the People",
-    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124858\">Comments</a>",
+    "title": "Progressive Web Components",
+    "link": "https://arielsalminen.com/2026/progressive-web-components/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49121196\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 16:04:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Everyone is building LLM routers, we deprecated ours",
-    "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126630\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 18:06:39 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125034\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 16:15:31 +0000",
+    "published": "Fri, 31 Jul 2026 10:04:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -849,71 +819,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Termixer (TUI DJ Mixer)",
-    "link": "https://github.com/l00sed/termixer",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126883\">Comments</a>",
+    "title": "Big Food vs. the People",
+    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124858\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 18:28:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49120299\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 07:59:11 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Using the railway network as a flatbed scanner [video]",
-    "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126919\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 18:30:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "DeepSeek-V4-Flash Update",
-    "link": "https://api-docs.deepseek.com/updates/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119559\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 06:08:36 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Miso (YC S16) is hiring for U.S. expansion",
-    "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125785\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 17:01:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-    "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124658\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 15:53:37 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The most official water costs $120k a gallon",
-    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124042\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 15:00:15 +0000",
+    "published": "Fri, 31 Jul 2026 16:04:32 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -929,21 +839,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-    "link": "https://arxiv.org/abs/2607.28545",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126943\">Comments</a>",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125034\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 18:32:43 +0000",
+    "published": "Fri, 31 Jul 2026 16:15:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
+    "module": "应用落地"
   },
   {
-    "title": "Dubious research tied to Red Bull has shaped energy drink policy",
-    "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124738\">Comments</a>",
+    "title": "Software for One",
+    "link": "https://www.ajwaxman.com/writing/software-for-one",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096605\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 15:58:15 +0000",
+    "published": "Wed, 29 Jul 2026 12:29:20 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "link": "https://tailscale.com/blog/hugging-face-intrusion",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127306\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 19:03:45 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -959,6 +879,26 @@
     "module": "应用落地"
   },
   {
+    "title": "Golang proposal: container/: generic collection types",
+    "link": "https://github.com/golang/go/issues/80590",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127031\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 18:39:47 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Let's make the worst Htmx",
+    "link": "https://zserge.com/posts/worst-htmx-ever/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49119270\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 05:16:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
     "link": "https://cgjennings.ca/articles/jpeg-compression/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49070810\">Comments</a>",
@@ -969,91 +909,151 @@
     "module": "应用落地"
   },
   {
-    "title": "Making Referential Stability a Type",
-    "link": "https://jovidecroock.com/blog/referential-stability-types/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49064656\">Comments</a>",
+    "title": "The most official water costs $120k a gallon",
+    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124042\">Comments</a>",
     "author": "",
-    "published": "Mon, 27 Jul 2026 02:45:34 +0000",
+    "published": "Fri, 31 Jul 2026 15:00:15 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "A simple clustering algorithm for lists",
-    "link": "https://cassidoo.co/post/clustering-tiles/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49079837\">Comments</a>",
+    "title": "Loops (YC W22) Is Hiring a Product Educator",
+    "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49128462\">Comments</a>",
     "author": "",
-    "published": "Tue, 28 Jul 2026 05:39:52 +0000",
+    "published": "Fri, 31 Jul 2026 21:00:40 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "A GTK4 SSH-askpass in Zig",
-    "link": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124496\">Comments</a>",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "link": "https://weeraman.com/because-we-can/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49083599\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 15:40:13 +0000",
+    "published": "Tue, 28 Jul 2026 13:31:25 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Clockwise/Spiral Rule (1994)",
-    "link": "https://c-faq.com/decl/spiral.anderson.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123199\">Comments</a>",
+    "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+    "link": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49096319\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 13:56:31 +0000",
+    "published": "Wed, 29 Jul 2026 11:59:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Anti-fraud tools can't keep pace with robocall scammers",
-    "link": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49122882\">Comments</a>",
+    "title": "Termixer (TUI DJ Mixer)",
+    "link": "https://github.com/l00sed/termixer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126883\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 13:28:05 +0000",
+    "published": "Fri, 31 Jul 2026 18:28:08 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "The End of an Era",
-    "link": "https://hughhowey.com/the-end-of-an-era/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49121980\">Comments</a>",
+    "title": "A past and future of trade secrets",
+    "link": "https://www.cabinetmagazine.org/issues/70/kofen.php",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49114527\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 11:51:46 +0000",
+    "published": "Thu, 30 Jul 2026 19:26:18 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
-    "link": "https://github.com/richlegrand/bitbang-cli",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49123789\">Comments</a>",
+    "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+    "link": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49084005\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 14:41:13 +0000",
+    "published": "Tue, 28 Jul 2026 13:59:14 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-    "link": "https://swe-rebench.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124336\">Comments</a>",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+    "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49127874\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 15:28:28 +0000",
+    "published": "Fri, 31 Jul 2026 19:55:41 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
+    "module": "基础设施与工具"
   },
   {
-    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-    "link": "https://www.bbc.com/news/articles/cn0nqv05g0do",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49120120\">Comments</a>",
+    "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+    "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124738\">Comments</a>",
     "author": "",
-    "published": "Fri, 31 Jul 2026 07:33:10 +0000",
+    "published": "Fri, 31 Jul 2026 15:58:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+    "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124658\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 15:53:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Using the railway network as a flatbed scanner [video]",
+    "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126919\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 18:30:44 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124358\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 15:29:39 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126630\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 18:06:39 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "link": "https://code.intellios.ai/cwbrowser/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49128826\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 21:39:52 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Severance",
+    "link": "https://lcamtuf.substack.com/p/severance",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125971\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 17:15:09 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1683,7 +1683,7 @@
     "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
     "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
     "author": "Jonathan Mahler, Jim Rutenberg and Kirsten Grind",
-    "published": "Fri, 31 Jul 2026 15:58:19 +0000",
+    "published": "Sat, 01 Aug 2026 02:27:20 +0000",
     "tags": [
       "Ellison, Lawrence J",
       "Ellison, David (1983- )",
@@ -1716,7 +1716,7 @@
     "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
     "summary": "Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.",
     "author": "Karen Weise",
-    "published": "Fri, 31 Jul 2026 02:20:58 +0000",
+    "published": "Fri, 31 Jul 2026 02:20:59 +0000",
     "tags": [
       "Computers and the Internet",
       "Artificial Intelligence",
@@ -1878,7 +1878,7 @@
     "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
     "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
     "author": "Stuart A. Thompson",
-    "published": "Fri, 31 Jul 2026 17:49:56 +0000",
+    "published": "Sat, 01 Aug 2026 02:41:12 +0000",
     "tags": [
       "Right-Wing Extremism and Alt-Right",
       "Blaze, The",
@@ -2018,7 +2018,7 @@
     "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
     "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
     "author": "Emmy Martin",
-    "published": "Fri, 31 Jul 2026 17:41:39 +0000",
+    "published": "Fri, 31 Jul 2026 21:29:27 +0000",
     "tags": [
       "Artificial Intelligence",
       "Books and Literature",
@@ -2656,7 +2656,7 @@
     "link": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
     "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
     "author": "",
-    "published": "Thu, 30 Jul 2026 12:30:02 GMT",
+    "published": "Thu, 30 Jul 2026 12:30:00 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2669,6 +2669,23 @@
     "published": "Thu, 30 Jul 2026 12:25:28 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+    "author": "Dan Goodin",
+    "published": "Fri, 31 Jul 2026 20:39:14 +0000",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "Anthropic",
+      "Claude",
+      "security"
+    ],
+    "source": "https://feeds.arstechnica.com",
     "module": "应用落地"
   },
   {
@@ -2985,19 +3002,16 @@
     "module": "应用落地"
   },
   {
-    "title": "Newly discovered PamStealer isn't your typical macOS malware",
-    "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-    "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
-    "author": "Dan Goodin",
-    "published": "Thu, 02 Jul 2026 19:38:57 +0000",
+    "title": "Lenovo's first Googlebooks have leaked",
+    "link": "https://www.engadget.com/2228337/lenovo-first-googlebooks-have-leaked/",
+    "summary": "The company appears to have built new laptops and a 2-in-1 for the Googlebook initiative.",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "published": "Fri, 31 Jul 2026 22:09:27 +0000",
     "tags": [
-      "Apple",
-      "Biz & IT",
-      "Security",
-      "infostealers",
-      "MacOS Malware"
+      "Laptops",
+      "Google"
     ],
-    "source": "https://feeds.arstechnica.com",
+    "source": "https://www.engadget.com",
     "module": "应用落地"
   },
   {
@@ -3233,18 +3247,6 @@
     "summary": "Microsoft has started rolling out the Xbox app to Hisense TVs and other TVs powered by VIDAA OS.",
     "author": "staff@engadget.com (Mariella Moon)",
     "published": "Fri, 31 Jul 2026 09:48:29 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "HoverAir's Versa is a pocket gimbal camera and drone mashup",
-    "link": "https://www.engadget.com/2227666/hoverair-versa-pocket-gimbal-camera-drone/",
-    "summary": "HoverAir has unveiled Versa, an interesting product that marries a gimbal camera and drone.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Fri, 31 Jul 2026 09:32:09 +0000",
     "tags": [
       "News"
     ],
