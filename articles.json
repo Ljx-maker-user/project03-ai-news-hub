@@ -470,6 +470,37 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+    "author": "Jay Peters",
+    "published": "2026-08-05T20:25:10-04:00",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "News",
+      "Tech",
+      "xAI"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "X product chief Nikita Bier is leaving after one year",
+    "link": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+    "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-08-05T18:19:55-04:00",
+    "tags": [
+      "News",
+      "Social Media",
+      "Tech",
+      "Twitter - X"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
     "link": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
     "summary": "Ring&#8217;s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand&#8217;s most well-rounded video doorbells, whether you&#8217;re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199 ($50 off) at Amazon and Best Buy, while the Battery Doorbell Plus is on [&#8230;]",
@@ -595,39 +626,6 @@
     ],
     "source": "https://www.theverge.com",
     "module": "大模型与基础技术"
-  },
-  {
-    "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-    "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
-    "summary": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month. Apple and Google have made cross platform messaging better in recent years with support for RCS, but Android users can still cause issues in iMessage group chats, [&#8230;]",
-    "author": "Stevie Bonifield",
-    "published": "2026-08-05T10:13:15-04:00",
-    "tags": [
-      "Android",
-      "Apps",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ring upgraded its peephole doorbell camera to 2K",
-    "link": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install",
-    "summary": "Ring has debuted a new version of its smart doorbell camera that's designed to be easily installed as a replacement for a door's peephole without drilling or running wires. The Peephole Cam 2K is a replacement for the brand's Door View Cam that first debuted in 2019 and, alongside a sleeker design, it features a [&#8230;]",
-    "author": "Andrew Liszewski",
-    "published": "2026-08-05T10:01:20-04:00",
-    "tags": [
-      "Amazon",
-      "Gadgets",
-      "News",
-      "Security",
-      "Smart Home",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
   },
   {
     "title": "Puzzle Corner",
@@ -763,11 +761,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Zed DeltaDB",
-    "link": "https://zed.dev/deltadb",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187256\">Comments</a>",
+    "title": "LLMs won't break symmetric crypto",
+    "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49191365\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 18:52:54 +0000",
+    "published": "Thu, 06 Aug 2026 01:39:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -783,111 +781,31 @@
     "module": "应用落地"
   },
   {
+    "title": "Zed DeltaDB",
+    "link": "https://zed.dev/deltadb",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187256\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 18:52:54 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The title cards in Blade Runner are amazing",
+    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189287\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
     "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49184755\">Comments</a>",
     "author": "",
     "published": "Wed, 05 Aug 2026 16:05:31 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186762\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 18:18:56 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-    "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185983\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 17:23:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I'm switching my phone from Android to Linux",
-    "link": "https://runarcn.no/android-to-linux/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49188022\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 19:50:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GNU Hurd News 2026-Q2",
-    "link": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49146183\">Comments</a>",
-    "author": "",
-    "published": "Sun, 02 Aug 2026 16:57:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187977\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 19:47:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Celld: Self-hosted, distributed Durable Objects",
-    "link": "https://github.com/denoland/celld",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 16:50:06 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-    "link": "https://sagredo.dev/projects/sula/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187259\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 18:52:58 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-    "link": "https://arxiv.org/abs/2510.01395",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186720\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 18:17:03 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-    "link": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126716\">Comments</a>",
-    "author": "",
-    "published": "Fri, 31 Jul 2026 18:14:48 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The Valley of Webhooks",
-    "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184216\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 15:22:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -903,21 +821,171 @@
     "module": "应用落地"
   },
   {
-    "title": "What happens if you put work into the second dimension?",
-    "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187084\">Comments</a>",
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186762\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 18:39:31 +0000",
+    "published": "Wed, 05 Aug 2026 18:18:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "The Entropy of a Markov Chain",
-    "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183017\">Comments</a>",
+    "title": "Prime Agent: A self-improving RLM agent",
+    "link": "https://www.primeintellect.ai/blog/prime-agent",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189075\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 14:00:10 +0000",
+    "published": "Wed, 05 Aug 2026 21:11:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185983\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 17:23:25 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "link": "https://blog.fogus.me/llm/born-against.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187061\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 18:37:49 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+    "link": "https://www.greyblake.com/blog/branchless-rust/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49151991\">Comments</a>",
+    "author": "",
+    "published": "Mon, 03 Aug 2026 06:37:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+    "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189234\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 21:24:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "link": "https://blog.cloudflare.com/cloudflare-os/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182996\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 13:58:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Something is changing in the unit economics of software",
+    "link": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185111\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 16:28:59 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I'll be stepping back from leading product for X",
+    "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49189113\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 21:15:40 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "GNU Hurd News 2026-Q2",
+    "link": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49146183\">Comments</a>",
+    "author": "",
+    "published": "Sun, 02 Aug 2026 16:57:32 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I'm switching my phone from Android to Linux",
+    "link": "https://runarcn.no/android-to-linux/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49188022\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 19:50:13 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Celld: Self-hosted, distributed Durable Objects",
+    "link": "https://github.com/denoland/celld",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185430\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 16:50:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+    "link": "https://github.com/morishuz/delaunay32",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49125532\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 16:45:03 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Origins of Vintage Comics Part 1",
+    "link": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49106756\">Comments</a>",
+    "author": "",
+    "published": "Thu, 30 Jul 2026 06:45:32 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Position: LLMs Can't Jump",
+    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181083\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 11:01:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+    "link": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49126716\">Comments</a>",
+    "author": "",
+    "published": "Fri, 31 Jul 2026 18:14:48 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "link": "https://arxiv.org/abs/2510.01395",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49186720\">Comments</a>",
+    "author": "",
+    "published": "Wed, 05 Aug 2026 18:17:03 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -943,121 +1011,51 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "link": "https://blog.cloudflare.com/cloudflare-os/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182996\">Comments</a>",
+    "title": "Pushing the limits of RISC-V emulation",
+    "link": "https://shuklaayu.sh/blog/riscv-recompiler",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49099904\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 13:58:53 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Phishers are hijacking legitimate cloud infrastructure",
-    "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185931\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 17:20:25 +0000",
+    "published": "Wed, 29 Jul 2026 16:48:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
-    "link": "https://blog.fogus.me/llm/born-against.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187061\">Comments</a>",
+    "title": "The Entropy of a Markov Chain",
+    "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183017\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 18:37:49 +0000",
+    "published": "Wed, 05 Aug 2026 14:00:10 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Aristotle quotes on virtue, knowledge, and happiness",
-    "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183115\">Comments</a>",
+    "title": "Online Friends Are Real Friends",
+    "link": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49124917\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 14:06:39 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "前沿探索"
-  },
-  {
-    "title": "Building an Advanced Agentic Harness",
-    "link": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182946\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 13:54:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-    "link": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49183079\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 14:04:10 +0000",
+    "published": "Fri, 31 Jul 2026 16:07:55 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Western Sahara",
-    "link": "https://en.wikipedia.org/wiki/Western_Sahara",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49176192\">Comments</a>",
+    "title": "The Valley of Webhooks",
+    "link": "https://weli.dev/blog/the-valley-of-webhooks/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49184216\">Comments</a>",
     "author": "",
-    "published": "Tue, 04 Aug 2026 22:34:39 +0000",
+    "published": "Wed, 05 Aug 2026 15:22:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Painting with Gaussians",
-    "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182695\">Comments</a>",
+    "title": "What happens if you put work into the second dimension?",
+    "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49187084\">Comments</a>",
     "author": "",
-    "published": "Wed, 05 Aug 2026 13:34:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I’m leaving OpenAI to build telepathy",
-    "link": "https://naomibashkansky.com/blog/telepathy/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49185370\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 16:45:33 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Faster Than Ninja",
-    "link": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49182685\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 13:33:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Position: LLMs Can't Jump",
-    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181083\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 11:01:37 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-    "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49181099\">Comments</a>",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 11:03:13 +0000",
+    "published": "Wed, 05 Aug 2026 18:39:31 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -1814,6 +1812,22 @@
     "module": "应用落地"
   },
   {
+    "title": "TikTok Is Laying Off 250 Employees in Its Nashville Office",
+    "link": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
+    "summary": "The office was home to members of the app’s content moderation team.",
+    "author": "Emmett Lindner",
+    "published": "Thu, 06 Aug 2026 00:24:06 +0000",
+    "tags": [
+      "Social Media",
+      "TikTok (ByteDance)",
+      "Nashville (Tenn)",
+      "Layoffs and Job Reductions",
+      "Labor and Jobs"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
     "link": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
     "summary": "Minutes after four top researchers said they were leaving, Google said that Demis Hassabis, the Nobel-winning scientist who led the company’s A.I. lab, was stepping into a new job.",
@@ -2331,6 +2345,26 @@
     "module": "应用落地"
   },
   {
+    "title": "DuckDuckGo's new iPhone feature is a privacy win - I recommend getting it now",
+    "link": "https://www.zdnet.com/article/duckduckgo-is-adding-a-feature-for-iphone-that-everyone-should-have/",
+    "summary": "The iPhone version of the DuckDuckGo app has a new feature that makes sharing links easier and safer.",
+    "author": "",
+    "published": "Thu, 06 Aug 2026 02:00:43 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I ran a dumpstate analysis on my Samsung phone and found 3 useful system diagnostics",
+    "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
+    "summary": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's how I've been using it.",
+    "author": "",
+    "published": "Thu, 06 Aug 2026 00:24:00 GMT",
+    "tags": [],
+    "source": "https://www.zdnet.com",
+    "module": "应用落地"
+  },
+  {
     "title": "This round mini PC is big on personality - here's why I recommend it",
     "link": "https://www.zdnet.com/article/lenovo-yoga-mini-gen-11-review/",
     "summary": "Small enough to slip into a backpack, Lenovo's Yoga Mini Gen 11 is a solid work PC with unique tricks up its sleeve.",
@@ -2356,16 +2390,6 @@
     "summary": "T-Mobile customers affected by the outage in July have been requesting credit. Though $10 is standard, the more persistent you are, the more you may be able to get.",
     "author": "",
     "published": "Wed, 05 Aug 2026 17:18:59 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I ran a dumpstate analysis on my Android phone - 3 system diagnostics to check for free",
-    "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
-    "summary": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's what you can learn from it.",
-    "author": "",
-    "published": "Wed, 05 Aug 2026 17:15:43 GMT",
     "tags": [],
     "source": "https://www.zdnet.com",
     "module": "应用落地"
@@ -2521,13 +2545,20 @@
     "module": "应用落地"
   },
   {
-    "title": "Home batteries cost thousands. So why would 91% of owners buy one again?",
-    "link": "https://www.zdnet.com/article/home-batteries-cost-thousands-so-why-do-91-of-owners-say-they-would-buy-one-again/",
-    "summary": "Up-front cost is a big barrier for those considering battery systems, but homeowner experience shows why the value overshadows the sticker shock almost every time.",
-    "author": "",
-    "published": "Tue, 04 Aug 2026 14:20:14 GMT",
-    "tags": [],
-    "source": "https://www.zdnet.com",
+    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+    "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+    "author": "Dan Goodin",
+    "published": "Wed, 05 Aug 2026 22:35:20 +0000",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "baseboard management controller",
+      "bmcs",
+      "exploits",
+      "vulnerabilities"
+    ],
+    "source": "https://feeds.arstechnica.com",
     "module": "应用落地"
   },
   {
@@ -2843,22 +2874,28 @@
     "module": "应用落地"
   },
   {
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-    "author": "Dan Goodin",
-    "published": "Wed, 08 Jul 2026 07:00:51 +0000",
+    "title": "X's head of product is leaving the company one year after joining",
+    "link": "https://www.engadget.com/2231302/x-head-of-product-nikita-bier-leaving-the-company-one-year-after-joining/",
+    "summary": "Nikita Bier was the face of some of the platform's biggest changes.",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "published": "Wed, 05 Aug 2026 22:48:54 +0000",
     "tags": [
-      "AI",
-      "Biz & IT",
-      "Features",
-      "Security",
-      "hallucinations",
-      "LLMs",
-      "typosquatting"
+      "Social Media"
     ],
-    "source": "https://feeds.arstechnica.com",
+    "source": "https://www.engadget.com",
     "module": "应用落地"
+  },
+  {
+    "title": "Meta introduces Muse Code, its take on a coding agent",
+    "link": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
+    "summary": "The terminal-based coding tool is powered by a new AI model, Muse Spark 1.2.",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "published": "Wed, 05 Aug 2026 21:57:52 +0000",
+    "tags": [
+      "AI"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "大模型与基础技术"
   },
   {
     "title": "Engadget Indie Pitch: 'VILE: Exhumed' physical edition",
@@ -3078,30 +3115,6 @@
     "published": "Wed, 05 Aug 2026 09:47:28 +0000",
     "tags": [
       "Computing"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "OpenAI and Anthropic models went on a hacking spree when tested by the UK's AI research institute",
-    "link": "https://www.engadget.com/2230628/openai-anthropic-models-hacking-spree-test-uk-ai-research-institute/",
-    "summary": "The UK AI Security Institute says OpenAI's and and Anthropic's models engaged in deceptive behavior and harmful activity during testing.",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "published": "Wed, 05 Aug 2026 09:16:33 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "MasterCraft brings CarPlay and Android Auto to its pontoon boats",
-    "link": "https://www.engadget.com/2230620/mastercraft-carplay-android-auto-boats/",
-    "summary": "If you're searching for an on-water nav app that also includes tunes, WhatsApp and other apps, there's finally a solution.",
-    "author": "staff@engadget.com (Steve Dent)",
-    "published": "Wed, 05 Aug 2026 08:21:54 +0000",
-    "tags": [
-      "News"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
