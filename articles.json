@@ -468,6 +468,22 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "Amazon is trying to crush class-action suits before they get started",
+    "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+    "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would [&#8230;]",
+    "author": "Terrence O’Brien",
+    "published": "2026-08-16T13:35:02-04:00",
+    "tags": [
+      "Amazon",
+      "Law",
+      "News",
+      "Policy",
+      "Tech"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
@@ -610,22 +626,6 @@
     "module": "应用落地"
   },
   {
-    "title": "I finally found a magnetic phone grip I never want to remove",
-    "link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-    "summary": "I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. But OhSnap's $50 Snap Grip Stand finally got me. To [&#8230;]",
-    "author": "Sean Hollister",
-    "published": "2026-08-15T10:10:16-04:00",
-    "tags": [
-      "Gadgets",
-      "Hands-on",
-      "Mobile",
-      "Reviews",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
     "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
     "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
@@ -762,11 +762,41 @@
     "module": "应用落地"
   },
   {
+    "title": "Models Are Getting Dumber on Purpose",
+    "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322695\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 19:04:26 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+    "link": "https://rvembedded.com/blog_post/12/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321717\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 17:01:07 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Claude: System Prompts",
     "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49319556\">Comments</a>",
     "author": "",
     "published": "Sun, 16 Aug 2026 12:48:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Protobuf has LSP support. You're welcome",
+    "link": "https://buf.build/blog/protobuf-lsp",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322573\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 18:48:27 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -792,71 +822,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Firefox for iOS now has a native adblocker",
-    "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319633\">Comments</a>",
+    "title": "MathCode, Mathematical Coding Agent",
+    "link": "https://math-ai-org.github.io/mathcode/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322330\">Comments</a>",
     "author": "",
-    "published": "Sun, 16 Aug 2026 12:58:10 +0000",
+    "published": "Sun, 16 Aug 2026 18:17:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "NIH is ending a key grant for budding clinical researchers",
+    "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49321353\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 16:14:55 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "A True Telnet BBS on a Casio Calculator",
-    "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319349\">Comments</a>",
+    "title": "Anton Chekhov played at love most of his life",
+    "link": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49306021\">Comments</a>",
     "author": "",
-    "published": "Sun, 16 Aug 2026 12:16:21 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Show HN: A public AI whose memory is shared across all users",
-    "link": "https://wildstatic.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319814\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 13:21:45 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The weekend is 100 years old",
-    "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49320984\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 15:30:15 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A SAT Attack on Tarski's High School Algebra Problem",
-    "link": "https://arxiv.org/abs/2608.08421",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49268565\">Comments</a>",
-    "author": "",
-    "published": "Wed, 12 Aug 2026 06:30:57 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-    "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319389\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 12:22:20 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GPS and the Lost Art of Getting Lost",
-    "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49320673\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 14:53:14 +0000",
+    "published": "Fri, 14 Aug 2026 23:53:43 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -872,6 +862,86 @@
     "module": "应用落地"
   },
   {
+    "title": "Low-Tech Ceramic Water Filter",
+    "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49259980\">Comments</a>",
+    "author": "",
+    "published": "Tue, 11 Aug 2026 15:36:27 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+    "link": "https://www.youtube.com/watch?v=-y8bGBE71yw",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49313920\">Comments</a>",
+    "author": "",
+    "published": "Sat, 15 Aug 2026 20:15:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Firefox for iOS now has a native adblocker",
+    "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319633\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 12:58:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "link": "https://news.ycombinator.com/item?id=49322107",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49322107\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 17:49:46 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
+    "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49279624\">Comments</a>",
+    "author": "",
+    "published": "Wed, 12 Aug 2026 22:46:58 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A True Telnet BBS on a Casio Calculator",
+    "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319349\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 12:16:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The weekend is 100 years old",
+    "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49320984\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 15:30:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Before Rightmove, there was the Cosmorama",
+    "link": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49260268\">Comments</a>",
+    "author": "",
+    "published": "Tue, 11 Aug 2026 15:56:01 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
     "link": "https://tasklet.ai/careers/head-of-design-engineering",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49319892\">Comments</a>",
@@ -882,11 +952,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Does anyone run Postgres without PgBouncer?",
-    "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49277952\">Comments</a>",
+    "title": "GPS and the Lost Art of Getting Lost",
+    "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49320673\">Comments</a>",
     "author": "",
-    "published": "Wed, 12 Aug 2026 20:13:06 +0000",
+    "published": "Sun, 16 Aug 2026 14:53:14 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -902,11 +972,51 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "A SAT Attack on Tarski's High School Algebra Problem",
+    "link": "https://arxiv.org/abs/2608.08421",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49268565\">Comments</a>",
+    "author": "",
+    "published": "Wed, 12 Aug 2026 06:30:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
+    "link": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49280186\">Comments</a>",
+    "author": "",
+    "published": "Thu, 13 Aug 2026 00:02:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Asus Bike Booster",
     "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49268580\">Comments</a>",
     "author": "",
     "published": "Wed, 12 Aug 2026 06:33:12 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319389\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 12:22:20 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Does anyone run Postgres without PgBouncer?",
+    "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49277952\">Comments</a>",
+    "author": "",
+    "published": "Wed, 12 Aug 2026 20:13:06 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -922,6 +1032,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Show HN: A public AI whose memory is shared across all users",
+    "link": "https://wildstatic.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319814\">Comments</a>",
+    "author": "",
+    "published": "Sun, 16 Aug 2026 13:21:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "Superconducting monolayer cuprate with a single CuO2 plane",
     "link": "https://www.nature.com/articles/s41586-026-10857-1",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49277153\">Comments</a>",
@@ -932,131 +1052,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Software Engineering fundamentals matter more",
-    "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49314902\">Comments</a>",
-    "author": "",
-    "published": "Sat, 15 Aug 2026 22:31:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Cultivating a state of mind where new ideas are born (2023)",
     "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49314235\">Comments</a>",
     "author": "",
     "published": "Sat, 15 Aug 2026 20:54:11 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
-    "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49319727\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 13:09:41 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-    "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49313428\">Comments</a>",
-    "author": "",
-    "published": "Sat, 15 Aug 2026 19:20:51 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
-    "link": "https://sniffnet.app/news/github-secure-open-source-fund/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49288857\">Comments</a>",
-    "author": "",
-    "published": "Thu, 13 Aug 2026 17:02:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Guiding Ships with Moire Patterns (2018)",
-    "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49315995\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 01:26:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Semaglutide linked to lower predicted dementia risk",
-    "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49311651\">Comments</a>",
-    "author": "",
-    "published": "Sat, 15 Aug 2026 15:58:53 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Patterns and problems in emerging multi-agent systems",
-    "link": "https://www.anthropic.com/research/multiagent-systems",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49316271\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 02:12:53 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Falstad Math and Physics Simulations",
-    "link": "https://www.falstad.com/mathphysics.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49316872\">Comments</a>",
-    "author": "",
-    "published": "Sun, 16 Aug 2026 04:19:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-    "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49310682\">Comments</a>",
-    "author": "",
-    "published": "Sat, 15 Aug 2026 14:04:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "AI in drug discovery – what it is, where we stand and the path forward",
-    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49313367\">Comments</a>",
-    "author": "",
-    "published": "Sat, 15 Aug 2026 19:12:53 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A fortuitous decade as an indie software developer",
-    "link": "https://lapcatsoftware.com/articles/2026/8/3.html",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49244872\">Comments</a>",
-    "author": "",
-    "published": "Mon, 10 Aug 2026 15:20:25 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "RISC-V: They Should Have Known Better",
-    "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49298035\">Comments</a>",
-    "author": "",
-    "published": "Fri, 14 Aug 2026 12:50:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -2668,6 +2668,69 @@
     "module": "应用落地"
   },
   {
+    "title": "Do you really need an antivirus app on your Android?",
+    "link": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+    "summary": "You probably don't need antivirus software on your Android phone, but there are some exceptions.",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "published": "Sun, 16 Aug 2026 20:00:00 +0000",
+    "tags": [
+      "Smartphones",
+      "Google"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Here's why retro games look better on old CRT TVs",
+    "link": "https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/",
+    "summary": "A Super Nintendo or PlayStation looked better on retro TVs than today's ultra-sharp displays, but why is there such a difference?",
+    "author": "staff@engadget.com (Igor Bonifacic)",
+    "published": "Sun, 16 Aug 2026 18:30:00 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "You might want to skip Newegg's GPU trade-in program",
+    "link": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
+    "summary": "The program makes upgrading your hardware incredibly convenient, but weigh your options.",
+    "author": "staff@engadget.com (Husain Parvez)",
+    "published": "Sun, 16 Aug 2026 18:00:00 +0000",
+    "tags": [
+      "Computing"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "Android Auto vs Apple CarPlay: What features set them apart",
+    "link": "https://www.engadget.com/2234248/android-auto-vs-apple-carplay-features-comparison/",
+    "summary": "The differences between the iPhone and Android show up when you connect them to your car, as well.",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "published": "Sun, 16 Aug 2026 17:30:00 +0000",
+    "tags": [
+      "EVs and Transportation",
+      "Apple",
+      "Google"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How to lease an iPhone instead of buying one",
+    "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
+    "summary": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
+    "author": "staff@engadget.com (Deven McClure)",
+    "published": "Sun, 16 Aug 2026 16:30:00 +0000",
+    "tags": [
+      "Amazon"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
     "title": "What is the Retro app for and how do you use it?",
     "link": "https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/",
     "summary": "Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
@@ -2847,67 +2910,6 @@
     "published": "Sat, 15 Aug 2026 14:30:00 +0000",
     "tags": [
       "Accessories"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What happens when a hybrid battery dies and what to do about it",
-    "link": "https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/",
-    "summary": "Don't wait to have your car checked out if its traction battery is having problems.",
-    "author": "staff@engadget.com (Novak Božović)",
-    "published": "Sat, 15 Aug 2026 13:30:00 +0000",
-    "tags": [
-      "EVs and Transportation"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "USB4 Vs USB-C: What's the difference between them?",
-    "link": "https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/",
-    "summary": "There's a pretty major difference between USB-C and USB4. We'll dive into the details and how to tell them apart.",
-    "author": "staff@engadget.com (Dave Meikleham)",
-    "published": "Sat, 15 Aug 2026 13:00:00 +0000",
-    "tags": [
-      "Accessories"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "SpaceX has officially acquired AI coding startup Cursor",
-    "link": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
-    "summary": "The $60 billion acquisition has been finalized.",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "published": "Sat, 15 Aug 2026 12:51:33 +0000",
-    "tags": [
-      "AI"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Expensive earbuds: When and why it's worth paying more",
-    "link": "https://www.engadget.com/2234234/expensive-earbuds-when-why-pay-more/",
-    "summary": "Earbuds range in price from under $10 to hundreds. What do you get for the money?",
-    "author": "staff@engadget.com (Max Miller)",
-    "published": "Sat, 15 Aug 2026 12:30:00 +0000",
-    "tags": [
-      "Entertainment",
-      "Accessories"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Riffs on GoldenEye 007, Star Fox and Kingdom Hearts, and other new indie games worth checking out",
-    "link": "https://www.engadget.com/2237397/riffs-on-goldeneye-007-star-fox-and-kingdom-hearts-and-other-new-indie-games/",
-    "summary": "Our indie game roundup this week features a handful of '90s-inspired entries along with a dog game, a cat game and a sheep game.",
-    "author": "staff@engadget.com (Kris Holt)",
-    "published": "Sat, 15 Aug 2026 12:30:00 +0000",
-    "tags": [
-      "Gaming"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -4343,21 +4345,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Artificial Intelligence in Education: Ethical Considerations and Insights from Ancient Greek Philosophy",
-    "link": "https://arxiv.org/abs/2409.15296v1",
-    "summary": "This paper explores the ethical implications of integrating Artificial Intelligence (AI) in educational settings, from primary schools to universities, while drawing insights from ancient Greek philosophy to address emerging concerns. As AI technologies increasingly influence learning environments, they offer novel opportunities for personalized learning, efficient assessment, and data-driven decision-making. However, these advancements also raise critical ethical questions regarding data privacy, algorithmic bias, student autonomy, and the changing roles of educators. This research examines specific use cases of AI in education, analyzing both their potential benefits and drawbacks. By revisiting the philosophical principles of ancient Greek thinkers such as Socrates, Aristotle, and Plato, we discuss how their writings can guide the ethical implementation of AI in modern education. The paper argues that while AI presents significant challenges, a balanced approach informed by classical philosophical thought can lead to an ethically sound transformation of education. It emphasizes the evolving role of teachers as facilitators and the importance of fostering student initiative in AI-rich environments.",
-    "author": "Kostas Karpouzis",
-    "published": "2024-09-04T08:59:38Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Design of Automatically Adaptable Web Wrappers",
     "link": "https://arxiv.org/abs/1103.1254v1",
     "summary": "Nowadays, the huge amount of information distributed through the Web motivates studying techniques to be adopted in order to extract relevant data in an efficient and reliable way. Both academia and enterprises developed several approaches of Web data extraction, for example using techniques of artificial intelligence or machine learning. Some commonly adopted procedures, namely wrappers, ensure a high degree of precision of information extracted from Web pages, and, at the same time, have to prove robustness in order not to compromise quality and reliability of data themselves. In this paper we focus on some experimental aspects related to the robustness of the data extraction process and the possibility of automatically adapting wrappers. We discuss the implementation of algorithms for finding similarities between two different version of a Web page, in order to handle modifications, avoiding the failure of data extraction tasks and ensuring reliability of information extracted. Our purpose is to evaluate performances, advantages and draw-backs of our novel system of automatic wrapper adaptation.",
     "author": "Emilio Ferrara, Robert Baumgartner",
     "published": "2011-03-07T11:41:25Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Artificial Intelligence in Education: Ethical Considerations and Insights from Ancient Greek Philosophy",
+    "link": "https://arxiv.org/abs/2409.15296v1",
+    "summary": "This paper explores the ethical implications of integrating Artificial Intelligence (AI) in educational settings, from primary schools to universities, while drawing insights from ancient Greek philosophy to address emerging concerns. As AI technologies increasingly influence learning environments, they offer novel opportunities for personalized learning, efficient assessment, and data-driven decision-making. However, these advancements also raise critical ethical questions regarding data privacy, algorithmic bias, student autonomy, and the changing roles of educators. This research examines specific use cases of AI in education, analyzing both their potential benefits and drawbacks. By revisiting the philosophical principles of ancient Greek thinkers such as Socrates, Aristotle, and Plato, we discuss how their writings can guide the ethical implementation of AI in modern education. The paper argues that while AI presents significant challenges, a balanced approach informed by classical philosophical thought can lead to an ethically sound transformation of education. It emphasizes the evolving role of teachers as facilitators and the importance of fostering student initiative in AI-rich environments.",
+    "author": "Kostas Karpouzis",
+    "published": "2024-09-04T08:59:38Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4973,21 +4975,21 @@
     "module": "应用落地"
   },
   {
-    "title": "A Review of Explainable Artificial Intelligence in Manufacturing",
-    "link": "https://arxiv.org/abs/2107.02295v1",
-    "summary": "The implementation of Artificial Intelligence (AI) systems in the manufacturing domain enables higher production efficiency, outstanding performance, and safer operations, leveraging powerful tools such as deep learning and reinforcement learning techniques. Despite the high accuracy of these models, they are mostly considered black boxes: they are unintelligible to the human. Opaqueness affects trust in the system, a factor that is critical in the context of decision-making. We present an overview of Explainable Artificial Intelligence (XAI) techniques as a means of boosting the transparency of models. We analyze different metrics to evaluate these techniques and describe several application scenarios in the manufacturing domain.",
-    "author": "Georgios Sofianidis, Jože M. Rožanec, Dunja Mladenić, Dimosthenis Kyriazis",
-    "published": "2021-07-05T21:59:55Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric analysis",
     "link": "https://arxiv.org/abs/2411.19858v3",
     "summary": "There is a strong correlation between linguistics and artificial intelligence (AI), best manifested by deep learning language models. This study provides a thorough scientometric analysis of this correlation, synthesizing the intellectual production over 51 years, from 1974 to 2024. Web of Science Core Collection (WoSCC) database was the data source. The data collected were analyzed by two powerful software, viz., CiteSpace and VOSviewer, through which mapping visualizations of the intellectual landscape, trending issues and (re)emerging hotspots were generated. The results indicate that in the 1980s and 1990s, linguistics and AI (AIL) research was not robust, characterized by unstable publication over time. It has, however, witnessed a remarkable increase of publication since then, reaching 1478 articles in 2023, and 546 articles in January-March timespan in 2024, involving emerging issues including Natural language processing, Cross-sectional study, Using bidirectional encoder representation, and Using ChatGPT and hotspots such as Novice programmer, Prioritization, and Artificial intelligence, addressing new horizons, new topics, and launching new applications and powerful deep learning language models including ChatGPT. It concludes that linguistics and AI correlation is established at several levels, research centers, journals, and countries shaping AIL knowledge production and reshaping its future frontiers.",
     "author": "Mohammed Q. Shormani",
     "published": "2024-11-29T17:12:06Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Review of Explainable Artificial Intelligence in Manufacturing",
+    "link": "https://arxiv.org/abs/2107.02295v1",
+    "summary": "The implementation of Artificial Intelligence (AI) systems in the manufacturing domain enables higher production efficiency, outstanding performance, and safer operations, leveraging powerful tools such as deep learning and reinforcement learning techniques. Despite the high accuracy of these models, they are mostly considered black boxes: they are unintelligible to the human. Opaqueness affects trust in the system, a factor that is critical in the context of decision-making. We present an overview of Explainable Artificial Intelligence (XAI) techniques as a means of boosting the transparency of models. We analyze different metrics to evaluate these techniques and describe several application scenarios in the manufacturing domain.",
+    "author": "Georgios Sofianidis, Jože M. Rožanec, Dunja Mladenić, Dimosthenis Kyriazis",
+    "published": "2021-07-05T21:59:55Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5793,16 +5795,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Quantum Artificial Intelligence for the Science of Climate Change",
-    "link": "https://arxiv.org/abs/2108.10855v2",
-    "summary": "Climate change has become one of the biggest global problems increasingly compromising the Earth's habitability. Recent developments such as the extraordinary heat waves in California & Canada, and the devastating floods in Germany point to the role of climate change in the ever-increasing frequency of extreme weather. Numerical modelling of the weather and climate have seen tremendous improvements in the last five decades, yet stringent limitations remain to be overcome. Spatially and temporally localized forecasting is the need of the hour for effective adaptation measures towards minimizing the loss of life and property. Artificial Intelligence-based methods are demonstrating promising results in improving predictions, but are still limited by the availability of requisite hardware and software required to process the vast deluge of data at a scale of the planet Earth. Quantum computing is an emerging paradigm that has found potential applicability in several fields. In this opinion piece, we argue that new developments in Artificial Intelligence algorithms designed for quantum computers - also known as Quantum Artificial Intelligence (QAI) - may provide the key breakthroughs necessary to furthering the science of climate change. The resultant improvements in weather and climate forecasts are expected to cascade to numerous societal benefits.",
-    "author": "Manmeet Singh, Chirag Dhara, Adarsh Kumar, Sukhpal Singh Gill, Steve Uhlig",
-    "published": "2021-07-28T19:00:33Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence (2010)",
     "link": "https://arxiv.org/abs/1205.2597v2",
     "summary": "This is the Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence, which was held on Catalina Island, CA, July 8 - 11 2010.",
@@ -5818,6 +5810,16 @@
     "summary": "This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21 2009.",
     "author": "Jeff Bilmes, Andrew Ng",
     "published": "2012-06-13T16:43:44Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Quantum Artificial Intelligence for the Science of Climate Change",
+    "link": "https://arxiv.org/abs/2108.10855v2",
+    "summary": "Climate change has become one of the biggest global problems increasingly compromising the Earth's habitability. Recent developments such as the extraordinary heat waves in California & Canada, and the devastating floods in Germany point to the role of climate change in the ever-increasing frequency of extreme weather. Numerical modelling of the weather and climate have seen tremendous improvements in the last five decades, yet stringent limitations remain to be overcome. Spatially and temporally localized forecasting is the need of the hour for effective adaptation measures towards minimizing the loss of life and property. Artificial Intelligence-based methods are demonstrating promising results in improving predictions, but are still limited by the availability of requisite hardware and software required to process the vast deluge of data at a scale of the planet Earth. Quantum computing is an emerging paradigm that has found potential applicability in several fields. In this opinion piece, we argue that new developments in Artificial Intelligence algorithms designed for quantum computers - also known as Quantum Artificial Intelligence (QAI) - may provide the key breakthroughs necessary to furthering the science of climate change. The resultant improvements in weather and climate forecasts are expected to cascade to numerous societal benefits.",
+    "author": "Manmeet Singh, Chirag Dhara, Adarsh Kumar, Sukhpal Singh Gill, Steve Uhlig",
+    "published": "2021-07-28T19:00:33Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5913,16 +5915,6 @@
     "module": "应用落地"
   },
   {
-    "title": "AAAI FSS-20: Artificial Intelligence in Government and Public Sector Proceedings",
-    "link": "https://arxiv.org/abs/2011.04527v2",
-    "summary": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Washington, DC, USA, November 13-14, 2020",
-    "author": "Frank Stein, Alun Preece",
-    "published": "2020-11-09T16:08:42Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "The Paradigm Shifts in Artificial Intelligence",
     "link": "https://arxiv.org/abs/2308.02558v1",
     "summary": "Kuhn's framework of scientific progress (Kuhn, 1962) provides a useful framing of the paradigm shifts that have occurred in Artificial Intelligence over the last 60 years. The framework is also useful in understanding what is arguably a new paradigm shift in AI, signaled by the emergence of large pre-trained systems such as GPT-3, on which conversational agents such as ChatGPT are based. Such systems make intelligence a commoditized general purpose technology that is configurable to applications. In this paper, I summarize the forces that led to the rise and fall of each paradigm, and discuss the pressing issues and risks associated with the current paradigm shift in AI.",
@@ -5933,31 +5925,41 @@
     "module": "大模型与基础技术"
   },
   {
+    "title": "Artificial Intelligence ordered 3D vertex importance",
+    "link": "https://arxiv.org/abs/2012.10232v1",
+    "summary": "Ranking vertices of multidimensional networks is crucial in many areas of research, including selecting and determining the importance of decisions. Some decisions are significantly more important than others, and their weight categorization is also imortant. This paper defines a completely new method for determining the weight decisions using artificial intelligence for importance ranking of three-dimensional network vertices, improving the existing Ordered Statistics Vertex Extraction and Tracking Algorithm (OSVETA) based on modulation of quantized indices (QIM) and error correction codes. The technique we propose in this paper offers significant improvements the efficiency of determination the importance of network vertices in relation to statistical OSVETA criteria, replacing heuristic methods with methods of precise prediction of modern neural networks. The new artificial intelligence technique enables a significantly better definition of the 3D meshes and a better assessment of their topological features. The new method contributions result in a greater precision in defining stable vertices, significantly reducing the probability of deleting mesh vertices.",
+    "author": "Iva Vasic, Bata Vasic, Zorica Nikolic",
+    "published": "2020-12-17T06:54:59Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "AAAI FSS-18: Artificial Intelligence in Government and Public Sector Proceedings",
+    "link": "https://arxiv.org/abs/1810.06018v1",
+    "summary": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Arlington, Virginia, USA, October 18-20, 2018",
+    "author": "Frank Stein, Alun Preece, Mihai Boicu",
+    "published": "2018-10-14T11:40:30Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "AAAI FSS-20: Artificial Intelligence in Government and Public Sector Proceedings",
+    "link": "https://arxiv.org/abs/2011.04527v2",
+    "summary": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Washington, DC, USA, November 13-14, 2020",
+    "author": "Frank Stein, Alun Preece",
+    "published": "2020-11-09T16:08:42Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Blockchain and Artificial Intelligence: Synergies and Conflicts",
     "link": "https://arxiv.org/abs/2405.13462v1",
     "summary": "Blockchain technology and Artificial Intelligence (AI) have emerged as transformative forces in their respective domains. This paper explores synergies and challenges between these two technologies. Our research analyses the biggest projects combining blockchain and AI, based on market capitalization, and derives a novel framework to categorize contemporary and future use cases. Despite the theoretical compatibility, current real-world applications combining blockchain and AI remain in their infancy.",
     "author": "Leon Witt, Armando Teles Fortes, Kentaroh Toyoda, Wojciech Samek, Dan Li",
     "published": "2024-05-22T09:04:52Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Artificial Intelligence and Legal Liability",
-    "link": "https://arxiv.org/abs/1802.07782v1",
-    "summary": "A recent issue of a popular computing journal asked which laws would apply if a self-driving car killed a pedestrian. This paper considers the question of legal liability for artificially intelligent computer systems. It discusses whether criminal liability could ever apply; to whom it might apply; and, under civil law, whether an AI program is a product that is subject to product design legislation or a service to which the tort of negligence applies. The issue of sales warranties is also considered. A discussion of some of the practical limitations that AI systems are subject to is also included.",
-    "author": "John Kingston",
-    "published": "2018-02-21T20:11:28Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research",
-    "link": "https://arxiv.org/abs/2511.15282v2",
-    "summary": "In this paper, we argue that current AI research operates on a spectrum between two different underlying conceptions of intelligence: Intelligence Realism, which holds that intelligence represents a single, universal capacity measurable across all systems, and Intelligence Pluralism, which views intelligence as diverse, context-dependent capacities that cannot be reduced to a single universal measure. Through an analysis of current debates in AI research, we demonstrate how the conceptions remain largely implicit yet fundamentally shape how empirical evidence gets interpreted across a wide range of areas. These underlying views generate fundamentally different research approaches across three areas. Methodologically, they produce different approaches to model selection, benchmark design, and experimental validation. Interpretively, they lead to contradictory readings of the same empirical phenomena, from capability emergence to system limitations. Regarding AI risk, they generate categorically different assessments: realists view superintelligence as the primary risk and search for unified alignment solutions, while pluralists see diverse threats across different domains requiring context-specific solutions. We argue that making explicit these underlying assumptions can contribute to a clearer understanding of disagreements in AI research.",
-    "author": "Ninell Oldenburg, Ruchira Dhar, Anders Søgaard",
-    "published": "2025-11-19T09:48:07Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
