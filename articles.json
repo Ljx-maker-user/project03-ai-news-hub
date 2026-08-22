@@ -746,16 +746,6 @@
     "module": "应用落地"
   },
   {
-    "title": "There's no reason for software to be slow anymore",
-    "link": "https://danluu.com/perf-opt/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395628\">Comments</a>",
-    "author": "",
-    "published": "Sat, 22 Aug 2026 01:06:17 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Felony Bench",
     "link": "https://www.felonybench.com/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49389430\">Comments</a>",
@@ -786,51 +776,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-    "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395605\">Comments</a>",
+    "title": "There's no reason for software to be slow anymore",
+    "link": "https://danluu.com/perf-opt/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395628\">Comments</a>",
     "author": "",
-    "published": "Sat, 22 Aug 2026 01:02:09 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Three important steps in my maturation process",
-    "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394496\">Comments</a>",
-    "author": "",
-    "published": "Fri, 21 Aug 2026 22:29:00 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Early Humans Likely Ate Carbs and Sugary Foods",
-    "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49396086\">Comments</a>",
-    "author": "",
-    "published": "Sat, 22 Aug 2026 02:37:30 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Scientists release biggest 2D map of the universe",
-    "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49392200\">Comments</a>",
-    "author": "",
-    "published": "Fri, 21 Aug 2026 18:36:34 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "link": "https://kagi.com/changelog#11296",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388154\">Comments</a>",
-    "author": "",
-    "published": "Fri, 21 Aug 2026 13:56:37 +0000",
+    "published": "Sat, 22 Aug 2026 01:06:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -846,6 +796,26 @@
     "module": "应用落地"
   },
   {
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49391661\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 17:54:06 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49397074\">Comments</a>",
+    "author": "",
+    "published": "Sat, 22 Aug 2026 06:16:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
     "link": "https://lina.sh/blog/hijacking-e164-arpa",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49387570\">Comments</a>",
@@ -856,7 +826,17 @@
     "module": "应用落地"
   },
   {
-    "title": "OTel isn't going well (and I made a spreadsheet about it)",
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "link": "https://kagi.com/changelog#11296",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388154\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 13:56:37 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "OTel isn’t going well",
     "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49391553\">Comments</a>",
     "author": "",
@@ -866,21 +846,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "link": "https://ozbrain.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394827\">Comments</a>",
+    "title": "Three important steps in my maturation process",
+    "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49394496\">Comments</a>",
     "author": "",
-    "published": "Fri, 21 Aug 2026 23:09:06 +0000",
+    "published": "Fri, 21 Aug 2026 22:29:00 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
+    "module": "应用落地"
   },
   {
-    "title": "Ozone: The fault is not in our trees, but in ourselves",
-    "link": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381542\">Comments</a>",
+    "title": "Scientists release biggest 2D map of the universe",
+    "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49392200\">Comments</a>",
     "author": "",
-    "published": "Thu, 20 Aug 2026 23:11:50 +0000",
+    "published": "Fri, 21 Aug 2026 18:36:34 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Zig’s io.threaded is neat",
+    "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49388694\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 14:28:15 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -896,6 +886,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Stop Making TUIs",
+    "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49384210\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 05:37:38 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "People of ACM – Russ Cox",
     "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49327408\">Comments</a>",
@@ -906,11 +906,11 @@
     "module": "应用落地"
   },
   {
-    "title": "How orchids inspired the work of Charles Darwin",
-    "link": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49379183\">Comments</a>",
+    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+    "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49395605\">Comments</a>",
     "author": "",
-    "published": "Thu, 20 Aug 2026 19:41:32 +0000",
+    "published": "Sat, 22 Aug 2026 01:02:09 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -926,16 +926,6 @@
     "module": "应用落地"
   },
   {
-    "title": "How we made a text-to-speech model respond in sub-50 ms",
-    "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389952\">Comments</a>",
-    "author": "",
-    "published": "Fri, 21 Aug 2026 15:51:10 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
     "link": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49380303\">Comments</a>",
@@ -946,11 +936,11 @@
     "module": "应用落地"
   },
   {
-    "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-    "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49393733\">Comments</a>",
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49364721\">Comments</a>",
     "author": "",
-    "published": "Fri, 21 Aug 2026 21:00:48 +0000",
+    "published": "Wed, 19 Aug 2026 17:45:41 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -966,11 +956,61 @@
     "module": "应用落地"
   },
   {
+    "title": "I'm becoming AI-blind",
+    "link": "https://cymerys.com/w/im-becoming-ai-blind",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386699\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 11:48:05 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "ESP32 Firmware Development with Docker Sandboxes",
+    "link": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49329506\">Comments</a>",
+    "author": "",
+    "published": "Mon, 17 Aug 2026 12:02:18 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How we made a text-to-speech model respond in sub-50 ms",
+    "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49389952\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 15:51:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
     "title": "HN: The Good Parts (2016)",
     "link": "https://danluu.com/hn-comments/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49395171\">Comments</a>",
     "author": "",
     "published": "Fri, 21 Aug 2026 23:53:03 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The coolest anti-surveillance tools at Defcon [video]",
+    "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49346444\">Comments</a>",
+    "author": "",
+    "published": "Tue, 18 Aug 2026 14:49:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+    "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49393733\">Comments</a>",
+    "author": "",
+    "published": "Fri, 21 Aug 2026 21:00:48 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -986,16 +1026,6 @@
     "module": "应用落地"
   },
   {
-    "title": "I'm becoming AI-blind",
-    "link": "https://cymerys.com/w/im-becoming-ai-blind",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49386699\">Comments</a>",
-    "author": "",
-    "published": "Fri, 21 Aug 2026 11:48:05 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Everyone says assembly is untyped—everyone is wrong",
     "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49376769\">Comments</a>",
@@ -1006,86 +1036,74 @@
     "module": "应用落地"
   },
   {
-    "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
-    "link": "https://tumbleforth.hardcoded.net/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49392465\">Comments</a>",
+    "title": "Ozone: The fault is not in our trees, but in ourselves",
+    "link": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49381542\">Comments</a>",
     "author": "",
-    "published": "Fri, 21 Aug 2026 18:59:52 +0000",
+    "published": "Thu, 20 Aug 2026 23:11:50 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "GitHub, autoscaling, and the component substitution fallacy",
-    "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49379026\">Comments</a>",
-    "author": "",
-    "published": "Thu, 20 Aug 2026 19:28:18 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Autolith: A programming agent with a live runtime",
-    "link": "https://www.lambda-symbolics.com/autolith",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49376197\">Comments</a>",
-    "author": "",
-    "published": "Thu, 20 Aug 2026 15:40:57 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-    "link": "https://github.com/peterkelly/rex",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49326852\">Comments</a>",
-    "author": "",
-    "published": "Mon, 17 Aug 2026 05:28:07 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-    "link": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
-    "summary": "<p>Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children</p><p><a href=\"https://www.theguardian.com/technology/meta\">Meta</a> has taken a “don’t ask, don’t tell” strategy when it comes to the safety of children on its social media platforms, according to a <a href=\"https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media\">whistleblower</a> who testified during a <a href=\"https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states\">landmark trial</a> against the company on Tuesday and Wednesday.</p><p><a href=\"https://www.theguardian.com/technology/2024/jan/24/meta-has-not-done-enough-to-safeguard-children-whistleblower-says\">Arturo Béjar</a>, a former Meta safety engineer, told the jury that the company was aware of the harm its products caused children, which included its recommendations pushing content from sexual predators and violent and graphic images. He said he repeatedly raised the issue to various Facebook and Instagram executives but that they did little to resolve it.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony\">Continue reading...</a>",
+    "title": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
+    "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+    "summary": "<p>In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy</p><p>Meta’s business can be boiled down to four words that begin with the letter H: hook, hold, harvest, hide, according to a lawyer who is prosecuting the world’s largest social media company.</p><p>The owner of Facebook and Instagram “hooks” in users, “holds” them on its platforms for as long as possible, “harvests” their data and then “hides” the truth from the public, she argued.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\">Continue reading...</a>",
     "author": "Dara Kerr",
-    "published": "Wed, 19 Aug 2026 21:30:11 GMT",
+    "published": "Sat, 22 Aug 2026 08:00:58 GMT",
     "tags": [
       "Meta",
+      "Technology",
+      "Facebook",
+      "Instagram",
       "Mark Zuckerberg",
-      "Internet safety",
-      "Children",
-      "Mental health",
+      "California",
+      "US news",
+      "Business",
       "Social media",
       "Digital media",
-      "Technology",
-      "Law (US)",
-      "California",
       "West Coast",
-      "US news",
       "World news"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
   },
   {
-    "title": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
-    "summary": "<p>I understand the pressure on AI companies to rush forward. But employees are right to be concerned</p><p>Last month, more than a thousand employees at frontier AI companies <a href=\"https://www.pacingthefrontier.com/\">signed a letter</a> asking the US government to find a way to “pace” AI development, citing the risk of the technology spiraling out of human control as it begins to <a href=\"https://www.anthropic.com/institute/recursive-self-improvement\">build itself</a>.</p><p>They were right to be concerned: just days earlier, two AI models that OpenAI was testing internally escaped the test environment, then autonomously hacked the company Hugging Face and at least <a href=\"https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/\">three other online services</a>. A few days after that, Anthropic <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">announced</a> that some of their models had also broken out and hacked other companies during testing.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed\">Continue reading...</a>",
-    "author": "Miles Brundage",
-    "published": "Fri, 21 Aug 2026 10:00:32 GMT",
+    "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
+    "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "summary": "<p>Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production</p><p>Hollywood creatives are taking gig work to train AI models to replicate their skills in a bid to offset tightening earnings in a trend one compared to being “handed a shovel and asked to dig the grave of my profession”.</p><p>Experienced and award-winning writers, directors and producers are being paid from $12 to $200 an hour to teach AI models the intricacies of their jobs, from writing a screenplay to devising a shooting schedule.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs\">Continue reading...</a>",
+    "author": "Robert Booth UK technology editor",
+    "published": "Sat, 22 Aug 2026 06:00:55 GMT",
+    "tags": [
+      "Technology",
+      "Film industry",
+      "Television industry",
+      "AI (artificial intelligence)",
+      "Media",
+      "Film",
+      "Culture"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "基础设施与工具"
+  },
+  {
+    "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
+    "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+    "summary": "<p>It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic</p><p>Here in Silicon Valley, the experts think that within the next couple of years we’ll see an extraordinary takeoff for artificial intelligence. “Welcome to the foothills of the singularity,” as a Stanford University friend greeted me. More prosaically, the imminent breakthrough is described as “recursive self-improvement” – the point at which AI itself trains each successive model of AI, resulting in an exponential development to something which, in many significant respects, is more intelligent than us humans.</p><p>As Robert Wright puts it in his book <a href=\"https://www.washingtonindependentreviewofbooks.com/bookreview/the-god-test-artificial-intelligence-and-the-future-of-humanity\">The God Test</a>: “Never before has the near-term future … held such a wide array of not-implausible paths for humankind that would be so wildly transformative.” But will this be heaven or hell? Heaven, says Elon Musk, who <a href=\"https://www.economist.com/insider/the-insider/an-interview-with-elon-musk?utm_medium=cpc.adword.pd&amp;utm_source=google&amp;ppccampaignID=17210591673&amp;ppcadID=&amp;utm_campaign=a.22brand_pmax&amp;utm_content=conversion.direct-response.anonymous&amp;gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=17210596221&amp;gclid=CjwKCAjwqJXUBhBNEiwA8BgG7qxnGXSNBRxvioLCrBehjXGAHexBGaM9cFFJVTZ-jUVDxtH4ciFVDxoC38AQAvD_BwE\">predicts</a> “an age of amazing abundance” – although he also sees a 10-20% chance of killer robots murdering us all. Hell is more likely according to <a href=\"https://x.com/geoffreyhinton?lang=en\">Geoffrey Hinton</a>, one of the intellectual founding fathers of AI. “My intuition is, we’re toast,” he told an interviewer in 2023. And talking to <a href=\"https://x.com/scmallaby?lang=en\">Sebastian Mallaby</a>, author of The Infinity Machine, a book about the quest for superintelligence, Hinton estimates p(doom) – the probability of human extinction – at 50%, “because I haven’t got a clue how to estimate the real number”. “As soon as evolution [of AI] kicks in, we’re fucked,” he adds cheerfully. But whether it’s God or Godzilla, artificial superintelligence is just around the corner.</p><p>Timothy Garton Ash is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology\">Continue reading...</a>",
+    "author": "Timothy Garton Ash",
+    "published": "Sat, 22 Aug 2026 05:00:54 GMT",
     "tags": [
       "AI (artificial intelligence)",
       "Technology",
-      "OpenAI",
-      "Anthropic",
+      "World news",
+      "US news",
       "China",
-      "Elon Musk",
+      "OpenAI",
+      "Meta",
       "Computing"
     ],
     "source": "https://www.theguardian.com",
-    "module": "大模型与基础技术"
+    "module": "应用落地"
   },
   {
     "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
@@ -1149,24 +1167,6 @@
     "module": "应用落地"
   },
   {
-    "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
-    "summary": "<p>For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technology</p><p>Two faces that appeared on my Instagram feed in recent months gave me pause. One belonged to <a href=\"https://www.youtube.com/watch?v=6WkoyUEIzvI\">John Travolta at Cannes</a>. The other to <a href=\"https://www.instagram.com/reel/DOjUQAzCPy-/\">Carla Bruni on a date night</a> with her husband, former French President Nicolas Sarkozy. Both looked recognisably themselves, yet, they both also looked oddly unfamiliar. Their looks have provoked speculation about cosmetic enhancement, though never acknowledged by them. Bruni has <a href=\"https://www.france24.com/en/20100912-unauthorised-biography-carla-bruni-don-juan-lahouri-france-sarkozy\">previously denied having had work done.</a></p><p>In any case the feeling lasted only a second: a flicker of unease, as though I were looking at people who had become approximations of themselves.</p><p>Joseph de Weck is an associate fellow with the German Council on Foreign Relations and writes for Guardian Europe from Zürich and Paris</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our <a href=\"https://www.theguardian.com/letters\">letters</a> section, please <a href=\"mailto:mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20underneath%20your%20letter.%20Letters%20are%20usually%20published%20with%20the%20author’s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20if%20your%20letter%20is%20used.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans\">Continue reading...</a>",
-    "author": "Joseph de Weck",
-    "published": "Thu, 20 Aug 2026 04:00:42 GMT",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Cosmetic surgery",
-      "Robots",
-      "Society",
-      "Philosophy",
-      "Life and style",
-      "Technology"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "前沿探索"
-  },
-  {
     "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
     "link": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
     "summary": "<p>People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy?</p><p>“I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my phone in my chest pocket, but the glasses are more convenient.’”</p><p>The man I’m talking to runs a business called <a href=\"https://ghostmetas.com/\">Ghost Metas</a>. He’s one of hundreds of vendors, easily discoverable online, who specialise in disabling the flashing LED light embedded in Meta’s smartglasses that blinks when wearers capture photos, videos and audio. After Ghost Metas disables the LED, it’s impossible for someone to know they’re being filmed.</p> <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance\">Continue reading...</a>",
@@ -1226,6 +1226,23 @@
     "module": "基础设施与工具"
   },
   {
+    "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+    "link": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+    "summary": "<p>Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hack</p><p><a href=\"https://www.theguardian.com/technology/openai\">OpenAI</a> on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its ​AI development while it overhauled its ⁠research and training systems.</p><p>The company’s researchers were ⁠caught unaware last month ​when an ‌AI agent ‌under testing <a href=\"https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident\">hacked</a> another AI ‌firm, Hugging Face.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack\">Continue reading...</a>",
+    "author": "Johana Bhuiyan and agency",
+    "published": "Tue, 18 Aug 2026 20:47:17 GMT",
+    "tags": [
+      "OpenAI",
+      "AI (artificial intelligence)",
+      "Technology",
+      "Sam Altman",
+      "Anthropic",
+      "Computing"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "大模型与基础技术"
+  },
+  {
     "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
     "link": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
     "summary": "<p>Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats</p><p><a href=\"https://www.theguardian.com/technology/openai\">OpenAI</a> is launching a version of <a href=\"https://www.theguardian.com/technology/chatgpt\">ChatGPT</a> designed for teenagers – the first generation to grow up with <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> – who are already using it for schoolwork, questions about daily life and even companionship.</p><p>The San Francisco-based company says ChatGPT for Teens, which launches on Tuesday, is tailored for children aged 13 to 17 with stronger protections including content restrictions around things such as suicide, self-harm and romantic or sexual chats. It also provides homework and study support designed to help students learn rather than spit out answers and school essays.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens\">Continue reading...</a>",
@@ -1243,23 +1260,6 @@
       "US news",
       "World news",
       "Chatbots"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-    "link": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
-    "summary": "<p>Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation</p><p>The world is familiar by now with the usual tropes of machine-generated text: overuse of the word “delve”, an excess of em dashes, and the <a href=\"https://www.theguardian.com/commentisfree/2026/apr/15/chatgpt-stylistic-quirk-its-not-x-its-y\">chirpy, relentless construction of “it’s not X but Y”</a>.</p><p>But is it about to get even worse?</p> <a href=\"https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse\">Continue reading...</a>",
-    "author": "Aisha Down",
-    "published": "Mon, 17 Aug 2026 16:52:04 GMT",
-    "tags": [
-      "Anthropic",
-      "AI (artificial intelligence)",
-      "Technology",
-      "Computing",
-      "Regulators",
-      "Internet"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1334,19 +1334,22 @@
     "module": "应用落地"
   },
   {
-    "title": "‘Can’t enjoy your pint’: Wetherspoons customers welcome ban on loud phones",
-    "link": "https://www.theguardian.com/business/2026/aug/18/wetherspoons-customers-welcome-ban-music-phone-calls-speaker",
-    "summary": "<p>Patrons at two of the chain’s London pubs were all for Tim Martin’s ban on playing music or taking calls on speaker</p><p>The terrace of the Moon Under Water Wetherspoons pub in Leicester Square was full of people enjoying the warm weather and chatting between tables – without a TikTok video or speakerphone call in earshot.</p><p>At Wetherspoons, the convivial atmosphere can no longer be punctuated by rude customers taking phone calls on blast, or playing videos without headphones after Tim Martin, the owner of the pub chain, <a href=\"https://www.theguardian.com/business/2026/aug/18/wetherspoons-pubs-ban-music-calls-phone-speakers\">banned both on his premises</a>.</p> <a href=\"https://www.theguardian.com/business/2026/aug/18/wetherspoons-customers-welcome-ban-music-phone-calls-speaker\">Continue reading...</a>",
-    "author": "Helena Horton",
-    "published": "Tue, 18 Aug 2026 17:32:31 GMT",
+    "title": "Social media on trial as $200bn case against Facebook and Instagram begins",
+    "link": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
+    "summary": "<p>Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by design</p><p>In 1994, more than 40 US states came together to sue one of the most powerful industries on Earth: big tobacco.</p><p>The suits brought together diverse claims centred on tobacco companies’ misleading advertising and contribution to a mounting public health crisis. They ended in a negotiated settlement with the US government, in which the companies agreed to pay more than any industry ever, and the states agreed to drop a large portion of their claims.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial\">Continue reading...</a>",
+    "author": "Aisha Down",
+    "published": "Tue, 18 Aug 2026 18:27:09 GMT",
     "tags": [
-      "JD Wetherspoon",
-      "Pubs",
-      "Smartphones",
-      "UK news",
+      "Meta",
+      "Facebook",
       "Technology",
-      "Mobile phones",
-      "Society"
+      "World news",
+      "Social media",
+      "Media",
+      "Digital media",
+      "US news",
+      "Google",
+      "Alphabet"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1523,6 +1526,24 @@
     "module": "2025 年最热细分赛道"
   },
   {
+    "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
+    "link": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+    "summary": "<p>Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen?</p><p>One of the stranger things about this dizzying, headlong moment in time is that it doesn’t have much of a past. Everything is about the future of this, the future of that: the future of work, the future of humanity, the future of the planet. It’s as if everyone is screaming (some ecstatically, most terror-stricken): robots are taking over the world! Meanwhile, you can’t put down your phone, unplug, delete your AI apps, tell Zoom to piss off; it feels as if you are racing toward something, and can’t stop, or look back, or think straight.</p><p>But of course this weird moment in history does have a past. It comes from somewhere. It wasn’t inevitable. Things could have turned out differently. They still can. And if you look back, one thing you’ll see is that a lot of people saw this all coming. They foresaw our present when it was still the future. They thought it might turn out fabulously, a&nbsp;computer utopia. And they worried it might turn&nbsp;out disastrously. Above all, they issued warning after warning about the rise of what I&nbsp;call the artificial state, the replacement of the liberal democratic nation-state, the consent of the governed, with the rule of people by machines. They warned of a future in which democratic deliberation would be replaced by prediction by calculation, the public sphere would be supplanted by data-driven commerce, and&nbsp;drones&nbsp;would take the place of the demos. Why didn’t anyone listen?</p><p>The new underworld is made up of innocent and well-intentioned people who work with slide rules and calculating machines and computers which can retain&nbsp;an almost infinite number of bits of information as well as sort, categorise, and reproduce this information at the press of a button. Most of these people are highly educated, many of them are PhDs, and none that I have met have malignant political designs on the American public. They may, however, radically reconstruct the American political system, build a new politics, and even modify revered and venerable American institutions – facts of which they are blissfully innocent.</p> <a href=\"https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology\">Continue reading...</a>",
+    "author": "Jill Lepore",
+    "published": "Tue, 18 Aug 2026 04:00:13 GMT",
+    "tags": [
+      "Technology",
+      "Internet",
+      "Computing",
+      "Silicon Valley",
+      "World news",
+      "Social media",
+      "Digital media"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "前沿探索"
+  },
+  {
     "title": "A timely warning on the rise of the ‘tech bros’ from the author of The Nerd Reich | Letter",
     "link": "https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich",
     "summary": "<p>Gil Durán is right, writes <strong>Catherine Austin Fitts</strong> – we must reject the limited vision of Silicon Valley with a revolution in consciousness</p><p>Thank you for your interview with Gil Durán, the author of The Nerd Reich: Silicon Valley Fascism and the War on Democracy (<a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley\">‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley, 5 August </a>)<em>. </em>Durán is right – the antipathy towards the “tech bros” is growing. However, Durán underestimates the darkness being contemplated. The plan is for complete spatial and financial transaction control. This is not the end of democracy – it is a slavery system. Many of the people involved believe technology can dramatically extend their lifespan and they can replace most of the population with robots and automation. Now is the time to reject their limited vision with a revolution in consciousness. Thanks to Durán for the inspiration.<br /><strong>Catherine Austin Fitts</strong><br /><em>Hickory Valley, Tennessee, US</em></p><p><strong>• </strong><em><strong>Have an opinion on anything you’ve read in the Guardian today? Please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name​​,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">email</a> us your letter and it will be considered for publication in our <a href=\"https://www.theguardian.com/tone/letters\">letters</a> section.</strong></em></p> <a href=\"https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich\">Continue reading...</a>",
@@ -1558,24 +1579,16 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
-    "summary": "<p>As Elon Musk, Peter Thiel and their peers have grown richer and more influential, Gil Durán argues they have all but abandoned democracy – and found the perfect government to enable them</p><p>In April, Gil Durán was permanently banned from Elon Musk’s X for posting just two words. Durán was responding to a post from the tech company Palantir outlining its 22‑point <a href=\"https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps\">“technological manifesto”</a>, which praised American “hard power”, western culture and AI weapons, denounced inclusivity and called for compulsory national service. Durán responded: “TLDR: Fascism” (TLDR is short for “too long, didn’t read”).</p><p>Durán didn’t break any of X’s written rules, he points out over a video call from San Francisco – so much for Musk’s <a href=\"https://www.theguardian.com/commentisfree/2024/apr/06/elon-musk-free-speech-lawsuits\">“free-speech absolutism”</a>. His ban might just have had something to do with his preceding tweet, showing the cover of his new book, The Nerd Reich: Silicon Valley Fascism and the War on Democracy. The book’s central argument is that big tech is no longer our friend, as many of its billionaire owners have seized economic and political control and are steering the fate of the planet towards their own bizarre, apocalyptic visions.</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley\">Continue reading...</a>",
-    "author": "Steve Rose",
-    "published": "Wed, 05 Aug 2026 09:00:14 GMT",
+    "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
+    "link": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
+    "summary": "<p>From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home</p><p>• <a href=\"https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk\"><strong>The best cordless vacuum cleaners, tested</strong></a><strong><br />• </strong><a href=\"https://www.theguardian.com/thefilter/2026/feb/13/how-to-make-vacuum-cleaner-last-longer\"><strong>How to make your vacuum cleaner last longer</strong></a></p><p>Buying a vacuum cleaner isn’t as easy as you might think. With so many brands and models to choose from, it can be bewildering. Sticking with established brands isn’t necessarily a safe bet, with past performance being no guarantee that the latest models will be as good. Meanwhile, prices can be deceptive, with some affordable models now closing the gap on top-of-the-range brands when it comes to cleaning performance.</p><p>You can’t know all this by browsing through a department store or online. The ideal thing to do would be to take a few models home to try them out – but good luck persuading anyone to let you do that. Thankfully, you won’t have to try because I’ve tested an array of models for you. I’ve measured each one’s ability to perform a range of real-world cleaning jobs, so you can discover the best vacuum cleaner for you.</p> <a href=\"https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested\">Continue reading...</a>",
+    "author": "Andy Shaw",
+    "published": "Tue, 18 Aug 2026 09:01:05 GMT",
     "tags": [
+      "Homes",
+      "Interiors",
       "Life and style",
-      "Donald Trump",
-      "The super-rich",
-      "Far right (US)",
-      "The far right",
-      "Elon Musk",
-      "AI (artificial intelligence)",
-      "Palantir",
-      "Silicon Valley",
-      "OpenAI",
-      "Peter Thiel",
-      "Social networking",
+      "Gadgets",
       "Technology"
     ],
     "source": "https://www.theguardian.com",
@@ -1632,16 +1645,38 @@
     "module": "应用落地"
   },
   {
-    "title": "The best microwaves in the UK for every kitchen and budget – tested",
-    "link": "https://www.theguardian.com/thefilter/2026/aug/04/best-microwaves-uk-tested",
-    "summary": "<p>They’re perfect for time-poor cooks, but which deserves your counter space? From combi models to smart designs, here’s what our expert recommends</p><p>• <a href=\"https://www.theguardian.com/thefilter/2025/mar/02/best-air-fryers\"><strong>The best air fryers</strong> </a></p><p>If you’re at a restaurant and hear a ping a couple of minutes before your meal arrives at your table, it’s unlikely to be a good sign. But microwave ovens are a brilliant tool in the home kitchen. They’re fearsomely fast at heating up – or even cooking – food when you’re time-poor and lacking the energy to make something wholesome after a hard day at work. And in hot weather, cooking by microwave isn’t just quick: it also won’t warm your home.</p><p>Microwaves work best for heating food with a high water content (they make the water molecules in food vibrate to create heat). However, before testing, I asked around to find out what people use theirs for most, with a view to using this information to shape my tests. I learned a few things – like lots of people eat <a href=\"https://www.theguardian.com/food/2023/feb/11/vegan-recipe-microwaveb-chocolatea-miso-banana-mug-cakes-meera-sodha\">mug cakes</a>. Who knew? And that wheat bags are a popular alternative to hot-water bottles. But the majority of folk use their microwave for reheating cold cuppas, defrosting frozen batch-cooked meals, warming food, popping microwave popcorn – and, of course, cooking jacket potatoes more quickly. I used these insights to shape my testing.</p> <a href=\"https://www.theguardian.com/thefilter/2026/aug/04/best-microwaves-uk-tested\">Continue reading...</a>",
-    "author": "Caramel Quin",
-    "published": "Tue, 04 Aug 2026 14:00:02 GMT",
+    "title": "Reel-ing it in: Meta is paying influencers to promote teen accounts",
+    "link": "https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban",
+    "summary": "<p>Tech Transparency Project’s report shows whenever governments mull platform regulations, company recruits influencers to promote its safety features</p><p>In July 2025, Meta gathered parenting influencers from all over Australia at a waterfront venue overlooking the Sydney Opera House. It was a camping-themed event and in many ways was like any other influencer affair. There were Instagram-branded tents to take pictures in, an Instagram-branded step-and-repeat, a custom-tote making station and Instagram-branded snacks and coffee cups.</p><p>But this “screen smart” event wasn’t about the photo op.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/18/meta-pays-influencers-teen-social-media-ban\">Continue reading...</a>",
+    "author": "Johana Bhuiyan",
+    "published": "Tue, 18 Aug 2026 13:00:47 GMT",
     "tags": [
-      "Life and style",
-      "Food",
+      "Meta",
+      "Children",
+      "Children's health",
+      "Instagram",
+      "Mental health",
+      "Health",
+      "Facebook",
+      "Media",
       "Technology",
-      "Gadgets"
+      "Society",
+      "Social networking"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
+    "link": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+    "summary": "<p>There are many tech irritants that are a scourge of modern life, yet we have lacked the vocabulary to describe them ... until now</p><p>The “dickover” is the scourge of the modern age. Coined in May by John Gruber, a tech writer, it is defined as “a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user”. Essentially, it is the thing (or more often, things) you have to click away in order to read the thing you wanted to read. It is the “accept cookies” box, the “allow notifications?” box, the “sign in with Google” box, the pop-up video box, etc.</p><p>We shouldn’t fool ourselves into thinking that dickovers are the only terrible thing about technology in 2026. Until now, though, we have lacked the vocabulary to describe them, so here are some suggestions.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape\">Continue reading...</a>",
+    "author": "Stuart Heritage",
+    "published": "Tue, 18 Aug 2026 09:00:20 GMT",
+    "tags": [
+      "Technology",
+      "AI (artificial intelligence)",
+      "Internet",
+      "Life and style"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1676,42 +1711,6 @@
       "US unemployment and employment statistics",
       "Technology",
       "US news"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content",
-    "link": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
-    "summary": "<p>Using ‘spy glasses’ made by Facebook owner leads to floods of negative comments, say content creators </p><p>It was hardly an offensive video. Amid the buzz of the Tour de France finale, Oliver Hooson filmed himself whipping up a delicious-looking flat white for a fellow cycling enthusiast. But after posting the footage on social media, the comments that soon rolled in were a real shock. “PERV,” read one. “Out here pushing creep glasses,” said another. His mistake? Documenting the moment with Meta’s “spy glasses”.</p><p>Despite being marketed as the latest must-have gadget, Meta’s smartglasses, which can record video footage while being worn, have faced a vicious backlash, particularly relating to concerns about surveillance. There are widespread fears about the glasses being used to film people, especially women, without their consent, and the resultant footage being posted on social media. This has earned them the label of “pervert glasses”, and content creators, no matter how they are used, have faced a flood of negative comments for deploying them.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses\">Continue reading...</a>",
-    "author": "Sammy Gecsoyler",
-    "published": "Sun, 09 Aug 2026 13:37:25 GMT",
-    "tags": [
-      "Meta",
-      "Technology",
-      "World news",
-      "Privacy",
-      "UK news",
-      "Society",
-      "Surveillance",
-      "Social media",
-      "Media",
-      "Digital media"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy",
-    "link": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
-    "summary": "<p>The backlash to what some dub ‘pervert glasses’ is growing – but people living with disabilities point out the new tech can also be life-changing</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>One summer day earlier this year, Rhys left a cafe in Melbourne where he had been working remotely, when his phone pinged with a message on the dating app Grindr.</p><p>The message was a photo of him sitting at a table outside the cafe on his laptop, with his dog seated on the ground next to him. In the foreground, in a man’s hand was an iPhone unlocked.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent\">Continue reading...</a>",
-    "author": "Josh Taylor Technology reporter",
-    "published": "Fri, 07 Aug 2026 15:00:20 GMT",
-    "tags": [
-      "Meta",
-      "Privacy",
-      "Technology",
-      "Australia news"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -4589,21 +4588,21 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "A Study on Artificial Intelligence IQ and Standard Intelligent Model",
-    "link": "https://arxiv.org/abs/1512.00977v1",
-    "summary": "Currently, potential threats of artificial intelligence (AI) to human have triggered a large controversy in society, behind which, the nature of the issue is whether the artificial intelligence (AI) system can be evaluated quantitatively. This article analyzes and evaluates the challenges that the AI development level is facing, and proposes that the evaluation methods for the human intelligence test and the AI system are not uniform; and the key reason for which is that none of the models can uniformly describe the AI system and the beings like human. Aiming at this problem, a standard intelligent system model is established in this study to describe the AI system and the beings like human uniformly. Based on the model, the article makes an abstract mathematical description, and builds the standard intelligent machine mathematical model; expands the Von Neumann architecture and proposes the Liufeng - Shiyong architecture; gives the definition of the artificial intelligence IQ, and establishes the artificial intelligence scale and the evaluation method; conduct the test on 50 search engines and three human subjects at different ages across the world, and finally obtains the ranking of the absolute IQ and deviation IQ ranking for artificial intelligence IQ 2014.",
-    "author": "Feng Liu, Yong Shi",
-    "published": "2015-12-03T07:45:32Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Boosting multi-demographic federated learning for chest radiograph analysis using general-purpose self-supervised representations",
     "link": "https://arxiv.org/abs/2504.08584v2",
     "summary": "Reliable artificial intelligence (AI) models for medical image analysis often depend on large and diverse labeled datasets. Federated learning (FL) offers a decentralized and privacy-preserving approach to training but struggles in highly non-independent and identically distributed (non-IID) settings, where institutions with more representative data may experience degraded performance. Moreover, existing large-scale FL studies have been limited to adult datasets, neglecting the unique challenges posed by pediatric data, which introduces additional non-IID variability. To address these limitations, we analyzed n=398,523 adult chest radiographs from diverse institutions across multiple countries and n=9,125 pediatric images, leveraging transfer learning from general-purpose self-supervised image representations to classify pneumonia and cases with no abnormality. Using state-of-the-art vision transformers, we found that FL improved performance only for smaller adult datasets (P<0.001) but degraded performance for larger datasets (P<0.064) and pediatric cases (P=0.242). However, equipping FL with self-supervised weights significantly enhanced outcomes across pediatric cases (P=0.031) and most adult datasets (P<0.008), except the largest dataset (P=0.052). These findings underscore the potential of easily deployable general-purpose self-supervised image representations to address non-IID challenges in clinical FL applications and highlight their promise for enhancing patient outcomes and advancing pediatric healthcare, where data scarcity and variability remain persistent obstacles.",
     "author": "Mahshad Lotfinia, Arash Tayebiarasteh, Samaneh Samiei, Mehdi Joodaki, Soroosh Tayebi Arasteh",
     "published": "2025-04-11T14:38:09Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "A Study on Artificial Intelligence IQ and Standard Intelligent Model",
+    "link": "https://arxiv.org/abs/1512.00977v1",
+    "summary": "Currently, potential threats of artificial intelligence (AI) to human have triggered a large controversy in society, behind which, the nature of the issue is whether the artificial intelligence (AI) system can be evaluated quantitatively. This article analyzes and evaluates the challenges that the AI development level is facing, and proposes that the evaluation methods for the human intelligence test and the AI system are not uniform; and the key reason for which is that none of the models can uniformly describe the AI system and the beings like human. Aiming at this problem, a standard intelligent system model is established in this study to describe the AI system and the beings like human uniformly. Based on the model, the article makes an abstract mathematical description, and builds the standard intelligent machine mathematical model; expands the Von Neumann architecture and proposes the Liufeng - Shiyong architecture; gives the definition of the artificial intelligence IQ, and establishes the artificial intelligence scale and the evaluation method; conduct the test on 50 search engines and three human subjects at different ages across the world, and finally obtains the ranking of the absolute IQ and deviation IQ ranking for artificial intelligence IQ 2014.",
+    "author": "Feng Liu, Yong Shi",
+    "published": "2015-12-03T07:45:32Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -4759,16 +4758,6 @@
     "module": "大模型与基础技术"
   },
   {
-    "title": "Bridging the Gap between Artificial Intelligence and Artificial General Intelligence: A Ten Commandment Framework for Human-Like Intelligence",
-    "link": "https://arxiv.org/abs/2210.09366v1",
-    "summary": "The field of artificial intelligence has seen explosive growth and exponential success. The last phase of development showcased deep learnings ability to solve a variety of difficult problems across a multitude of domains. Many of these networks met and exceeded human benchmarks by becoming experts in the domains in which they are trained. Though the successes of artificial intelligence have begun to overshadow its failures, there is still much that separates current artificial intelligence tools from becoming the exceptional general learners that humans are. In this paper, we identify the ten commandments upon which human intelligence is systematically and hierarchically built. We believe these commandments work collectively to serve as the essential ingredients that lead to the emergence of higher-order cognition and intelligence. This paper discusses a computational framework that could house these ten commandments and suggests new architectural modifications that could lead to the development of smarter, more explainable, and generalizable artificial systems inspired by a neuromorphic approach.",
-    "author": "Ananta Nair, Farnoush Banaei-Kashani",
-    "published": "2022-10-17T19:08:15Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Integrating Generative Artificial Intelligence in Intelligent Vehicle Systems",
     "link": "https://arxiv.org/abs/2305.17137v1",
     "summary": "This paper aims to serve as a comprehensive guide for researchers and practitioners, offering insights into the current state, potential applications, and future research directions for generative artificial intelligence and foundation models within the context of intelligent vehicles. As the automotive industry progressively integrates AI, generative artificial intelligence technologies hold the potential to revolutionize user interactions, delivering more immersive, intuitive, and personalised in-car experiences. We provide an overview of current applications of generative artificial intelligence in the automotive domain, emphasizing speech, audio, vision, and multimodal interactions. We subsequently outline critical future research areas, including domain adaptability, alignment, multimodal integration and others, as well as, address the challenges and risks associated with ethics. By fostering collaboration and addressing these research areas, generative artificial intelligence can unlock its full potential, transforming the driving experience and shaping the future of intelligent vehicles.",
@@ -4777,6 +4766,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Bridging the Gap between Artificial Intelligence and Artificial General Intelligence: A Ten Commandment Framework for Human-Like Intelligence",
+    "link": "https://arxiv.org/abs/2210.09366v1",
+    "summary": "The field of artificial intelligence has seen explosive growth and exponential success. The last phase of development showcased deep learnings ability to solve a variety of difficult problems across a multitude of domains. Many of these networks met and exceeded human benchmarks by becoming experts in the domains in which they are trained. Though the successes of artificial intelligence have begun to overshadow its failures, there is still much that separates current artificial intelligence tools from becoming the exceptional general learners that humans are. In this paper, we identify the ten commandments upon which human intelligence is systematically and hierarchically built. We believe these commandments work collectively to serve as the essential ingredients that lead to the emergence of higher-order cognition and intelligence. This paper discusses a computational framework that could house these ten commandments and suggests new architectural modifications that could lead to the development of smarter, more explainable, and generalizable artificial systems inspired by a neuromorphic approach.",
+    "author": "Ananta Nair, Farnoush Banaei-Kashani",
+    "published": "2022-10-17T19:08:15Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "The Challenge of Non-Technical Loss Detection using Artificial Intelligence: A Survey",
