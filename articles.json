@@ -464,29 +464,74 @@
     "module": "基础设施与工具"
   },
   {
-    "title": "Shelly’s new $50 security camera watches your home without a subscription",
-    "link": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
-    "summary": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's still an option if you want to expand its capabilities. The Shelly Camera will be available soon from the company's online store and [&#8230;]",
-    "author": "Andrew Liszewski",
-    "published": "2026-09-01T11:19:17-04:00",
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-09-01T18:01:36-04:00",
     "tags": [
-      "Gadgets",
-      "IFA 2026",
+      "AI",
+      "Anthropic",
+      "News"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Apple Maps follows Google in renaming Lake Ontario",
+    "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+    "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows \"Lake Ontario\" [&#8230;]",
+    "author": "Emma Roth",
+    "published": "2026-09-01T17:22:56-04:00",
+    "tags": [
+      "Apple",
+      "Apps",
       "News",
-      "Smart Home",
+      "Policy",
+      "Politics",
       "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
-    "link": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
-    "summary": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbed Sonos 27. It's the biggest single Sonos announcement [&#8230;]",
-    "author": "John.Higgins",
-    "published": "2026-09-01T10:00:00-04:00",
+    "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+    "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+    "summary": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The IPS touchscreen [&#8230;]",
+    "author": "Brad Bourque",
+    "published": "2026-09-01T16:54:08-04:00",
     "tags": [
+      "Deals",
+      "Gadgets",
+      "Laptops",
+      "Verge Shopping"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
+    "author": "Hayden Field",
+    "published": "2026-09-01T16:45:49-04:00",
+    "tags": [
+      "AI",
       "News",
+      "OpenAI"
+    ],
+    "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "On first listen, the Sonos Beam Ultra sounds great",
+    "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+    "summary": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio quality of either new product, a private [&#8230;]",
+    "author": "Cameron Faulkner",
+    "published": "2026-09-01T16:08:38-04:00",
+    "tags": [
+      "Hands-on",
+      "Reviews",
       "Sonos",
       "Speakers",
       "Tech"
@@ -495,48 +540,32 @@
     "module": "应用落地"
   },
   {
-    "title": "Tim Cook’s legacy isn’t just phones, it’s politics",
-    "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
-    "summary": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with both Chinese President Xi Jinping and US [&#8230;]",
-    "author": "Lauren Feiner",
-    "published": "2026-09-01T09:51:02-04:00",
+    "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+    "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+    "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company [&#8230;]",
+    "author": "Justine Calma",
+    "published": "2026-09-01T15:43:39-04:00",
     "tags": [
       "Apple",
-      "Policy",
-      "Politics",
+      "Climate",
+      "Energy",
+      "Environment",
+      "News",
+      "Science",
       "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "John Ternus takes over as Apple&#8217;s new CEO",
-    "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-    "summary": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook&#8217;s legacy, and what will Apple look like under the leadership of Ternus and [&#8230;]",
-    "author": "Richard Lawler",
-    "published": "2026-09-01T09:28:43-04:00",
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+    "author": "Robert Hart",
+    "published": "2026-09-01T15:02:54-04:00",
     "tags": [
-      "Apple",
-      "Apple Rumors",
-      "Business",
-      "iPad",
-      "iPhone",
-      "News",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Florida blocks Flock cams on state highways",
-    "link": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
-    "summary": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be removed from state highways within 30 days. [&#8230;]",
-    "author": "Emma Roth",
-    "published": "2026-09-01T09:17:36-04:00",
-    "tags": [
-      "News",
-      "Policy",
-      "Politics",
+      "AI",
+      "OpenAI",
       "Security",
       "Tech"
     ],
@@ -544,85 +573,62 @@
     "module": "应用落地"
   },
   {
-    "title": "Get ready for a really busy month of smartphones",
-    "link": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
-    "summary": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be [&#8230;]",
-    "author": "Dominic Preston",
-    "published": "2026-09-01T09:00:00-04:00",
+    "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
+    "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+    "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the [&#8230;]",
+    "author": "Stevie Bonifield",
+    "published": "2026-09-01T14:24:16-04:00",
     "tags": [
       "Apple",
-      "Foldable Phones",
-      "Gadgets",
-      "IFA 2026",
-      "iPhone",
-      "Mobile",
-      "Phones",
-      "Report",
+      "News",
       "Tech"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
-    "author": "Jay Peters",
-    "published": "2026-09-01T09:00:00-04:00",
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+    "author": "Emma Roth",
+    "published": "2026-09-01T14:19:26-04:00",
     "tags": [
       "AI",
-      "Gaming",
-      "News",
-      "Nvidia",
-      "PC Gaming",
+      "Apple",
+      "OpenAI",
+      "Policy",
       "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "基础设施与工具"
-  },
-  {
-    "title": "Nvidia’s DLSS 5, explained",
-    "link": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
-    "summary": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it \"preserves artistic intent,\" \"respects the rendered frame,\" [&#8230;]",
-    "author": "Sean Hollister",
-    "published": "2026-09-01T09:00:00-04:00",
-    "tags": [
-      "Gaming",
-      "Nvidia",
-      "PC Gaming",
-      "Report",
-      "Tech"
-    ],
-    "source": "https://www.theverge.com",
-    "module": "基础设施与工具"
-  },
-  {
-    "title": "Roku’s first OLED TVs undercut the midrange competition",
-    "link": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
-    "summary": "Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - which will be followed by the step-up Pro Series LX next month. The Roku Pro [&#8230;]",
-    "author": "John.Higgins",
-    "published": "2026-09-01T09:00:00-04:00",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Tech",
-      "TVs"
     ],
     "source": "https://www.theverge.com",
     "module": "应用落地"
   },
   {
-    "title": "Mozilla launches ad blocking for Firefox on iOS",
-    "link": "https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch",
-    "summary": "Mozilla is officially launching ad blocking for Firefox on iOS today, after testing the feature over the past few weeks. The new built-in option will block most third-party ads and trackers before they load on an iPhone, reducing bandwidth use and decluttering mobile websites. Mozilla is using Apple's WebKit Content Blocker technology and the EasyList [&#8230;]",
-    "author": "Tom Warren",
-    "published": "2026-09-01T09:00:00-04:00",
+    "title": "Google Find Hub will soon help you locate things without a tracker",
+    "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+    "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as [&#8230;]",
+    "author": "Andrew Liszewski",
+    "published": "2026-09-01T14:00:00-04:00",
     "tags": [
+      "Android",
+      "Google",
       "News",
-      "Tech",
-      "Web"
+      "Tech"
     ],
     "source": "https://www.theverge.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
+    "author": "Michelle Kim",
+    "published": "Tue, 01 Sep 2026 19:10:36 +0000",
+    "tags": [
+      "Space",
+      "App",
+      "Summary"
+    ],
+    "source": "https://www.technologyreview.com",
     "module": "应用落地"
   },
   {
@@ -747,19 +753,64 @@
     "module": "应用落地"
   },
   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
-    "author": "Grace Huckins",
-    "published": "Wed, 26 Aug 2026 19:00:00 +0000",
-    "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "Summary"
-    ],
-    "source": "https://www.technologyreview.com",
-    "module": "大模型与基础技术"
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525378\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 17:53:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "link": "https://danluu.com/zitron/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49526069\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527396\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 20:07:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527232\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 19:55:47 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The creator of Jujutsu has joined ERSC",
+    "link": "https://ersc.io/blog/martin-joins-ersc",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525297\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 17:46:21 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527595\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 20:20:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
   },
   {
     "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
@@ -772,31 +823,31 @@
     "module": "应用落地"
   },
   {
-    "title": "Ask HN: Who is hiring? (September 2026)",
-    "link": "https://news.ycombinator.com/item?id=49522897",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522897\">Comments</a>",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "link": "https://www.norirobotics.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525153\">Comments</a>",
     "author": "",
-    "published": "Tue, 01 Sep 2026 15:01:17 +0000",
+    "published": "Tue, 01 Sep 2026 17:35:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521973\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 13:46:49 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "Io_uring Without Readahead",
-    "link": "https://frn.sh/io-uring/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521623\">Comments</a>",
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "link": "https://github.com/carloslfu/slotstream",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524447\">Comments</a>",
     "author": "",
-    "published": "Tue, 01 Sep 2026 13:19:12 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "44% on ARC-AGI-1 in 67 cents",
-    "link": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49519939\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 09:52:45 +0000",
+    "published": "Tue, 01 Sep 2026 16:42:46 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
@@ -812,7 +863,167 @@
     "module": "应用落地"
   },
   {
-    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+    "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+    "link": "https://moviescenemap.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524320\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 16:34:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49519939\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 09:52:45 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Ask HN: Who is hiring? (September 2026)",
+    "link": "https://news.ycombinator.com/item?id=49522897",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522897\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 15:01:17 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523754\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 15:55:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Hang on to Your Firefox",
+    "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527748\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 20:30:51 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+    "link": "https://news.ycombinator.com/item?id=49524704",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524704\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 17:00:14 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+    "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527573\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 20:19:11 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+    "link": "https://hnmatchmaker.com/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49528057\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 20:53:35 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Make a Portable Wide-screen Mechanical TV",
+    "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49479673\">Comments</a>",
+    "author": "",
+    "published": "Fri, 28 Aug 2026 15:06:31 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Magic eye tube",
+    "link": "https://en.wikipedia.org/wiki/Magic_eye_tube",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49490498\">Comments</a>",
+    "author": "",
+    "published": "Sat, 29 Aug 2026 15:03:41 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Fluorescent lamps (don't) have ears",
+    "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49528366\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 21:19:10 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "link": "https://masteranza.github.io/weedout/",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49528895\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "How bicycle coaster brakes work (2018)",
+    "link": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49488224\">Comments</a>",
+    "author": "",
+    "published": "Sat, 29 Aug 2026 09:05:53 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Atlas: A World Model for Spatial Intelligence",
+    "link": "https://www.worldlabs.ai/blog/atlas",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49525160\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 17:36:02 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "前沿探索"
+  },
+  {
+    "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
+    "link": "https://newtonsorchard.app",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49524469\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 16:43:40 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Dyson CameraJet electric toothbrush",
+    "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49527879\">Comments</a>",
+    "author": "",
+    "published": "Tue, 01 Sep 2026 20:39:19 +0000",
+    "tags": [],
+    "source": "https://news.ycombinator.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "American Airlines mechanic Azriel “Al” Blackman has died",
     "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
     "summary": "<a href=\"https://news.ycombinator.com/item?id=49493468\">Comments</a>",
     "author": "",
@@ -822,244 +1033,41 @@
     "module": "应用落地"
   },
   {
-    "title": "Fastpotify",
-    "link": "https://fastpotify.rocks/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49517448\">Comments</a>",
+    "title": "Specifications Don't Exist (2025)",
+    "link": "https://www.galois.com/articles/specifications-dont-exist",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49448019\">Comments</a>",
     "author": "",
-    "published": "Tue, 01 Sep 2026 02:52:14 +0000",
+    "published": "Wed, 26 Aug 2026 12:40:56 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "EFF to Governor Newsom: Veto California's AB 1709",
-    "link": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522954\">Comments</a>",
+    "title": "Ask HN: Who wants to be hired? (September 2026)",
+    "link": "https://news.ycombinator.com/item?id=49522896",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522896\">Comments</a>",
     "author": "",
-    "published": "Tue, 01 Sep 2026 15:04:14 +0000",
+    "published": "Tue, 01 Sep 2026 15:01:17 +0000",
     "tags": [],
     "source": "https://news.ycombinator.com",
     "module": "应用落地"
   },
   {
-    "title": "We Are Rebuilding Monica",
-    "link": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49509655\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 13:37:28 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Introducing Ad Blocker for Firefox on iOS",
-    "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49521973\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 13:46:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A browser-based viewer for Office Open XML documents",
-    "link": "https://ooxml.silurus.dev/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523361\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 15:33:13 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-    "link": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522374\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 14:19:30 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Fractal Jittered Voronoi Partitions",
-    "link": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49492094\">Comments</a>",
-    "author": "",
-    "published": "Sat, 29 Aug 2026 18:24:46 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Tmp.0ut Volume 5",
-    "link": "https://tmpout.sh/5/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49516059\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 23:26:08 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Restroom Archive",
-    "link": "https://restroomarchive.com",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49517624\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 03:23:48 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "GPU World",
-    "link": "https://www.gpuworld.org/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49517584\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 03:16:36 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "基础设施与工具"
-  },
-  {
-    "title": "Playa Phone",
-    "link": "https://playaphone.com/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49510514\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 14:52:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10",
-    "link": "https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49523033\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 15:09:44 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "I turned my security cameras into an automatic bird identification system",
-    "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49511856\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 16:47:11 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-    "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49503521\">Comments</a>",
-    "author": "",
-    "published": "Sun, 30 Aug 2026 22:37:01 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49518877\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 07:01:49 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "DIY – Build a Potato Box (2022)",
-    "link": "https://www.rebootedmom.com/build-a-potato-box/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49486951\">Comments</a>",
-    "author": "",
-    "published": "Sat, 29 Aug 2026 04:45:35 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A Genealogy of Freudenthal's Lincos",
-    "link": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49516184\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 23:43:26 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-    "link": "https://github.com/fregacmols/RotaryCell",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49517297\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 02:29:23 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-    "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49512975\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 18:21:33 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Dwarf Fortress is getting the mother of all magic updates",
-    "link": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49467636\">Comments</a>",
-    "author": "",
-    "published": "Thu, 27 Aug 2026 16:45:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49508982\">Comments</a>",
-    "author": "",
-    "published": "Mon, 31 Aug 2026 12:41:22 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Urban Congestion Pricing and the Response Times of Emergency Medical Services",
-    "link": "https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522503\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 14:28:24 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49522816\">Comments</a>",
-    "author": "",
-    "published": "Tue, 01 Sep 2026 14:55:50 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-    "link": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=49500504\">Comments</a>",
-    "author": "",
-    "published": "Sun, 30 Aug 2026 17:05:32 +0000",
-    "tags": [],
-    "source": "https://news.ycombinator.com",
-    "module": "应用落地"
+    "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+    "link": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+    "summary": "<p>US owner of Claude chatbot previously said its models had hacked three organisations during testing</p><p>The US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a “failure of operational security” and said it has tightened its testing procedures.</p><p>Anthropic <a href=\"https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack\">revealed in July</a> that its models had accessed the open internet three times and gained unauthorised access to the systems of three organisations.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values\">Continue reading...</a>",
+    "author": "Dan Milmo Global technology editor",
+    "published": "Tue, 01 Sep 2026 15:18:10 GMT",
+    "tags": [
+      "Anthropic",
+      "Technology",
+      "AI (artificial intelligence)",
+      "Computing",
+      "Business",
+      "Hacking"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "2025 年最热细分赛道"
   },
   {
     "title": "Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth",
@@ -1175,42 +1183,9 @@
     "module": "应用落地"
   },
   {
-    "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
-    "link": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
-    "summary": "<p>Anthropic ​argued designation as ‘supply-chain risk’ could cost billions ‌in lost business ‌and reputational harm</p><p>A US judge ruled on Thursday that the Trump administration broke the law when it designated Anthropic as a supply chain risk earlier this year, finding that the government had unlawfully targeted the AI firm for refusing to comply with defense department demands.</p><p>“The empty invocation of national security is not a blank check to punish and retaliate against government critics,” Judge Rita Lin said in a 59-page decision.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai\">Continue reading...</a>",
-    "author": "Nick Robins-Early and agencies",
-    "published": "Fri, 28 Aug 2026 03:34:35 GMT",
-    "tags": [
-      "Technology",
-      "Pete Hegseth",
-      "Anthropic",
-      "AI (artificial intelligence)",
-      "US politics"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
-    "link": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
-    "summary": "<p>The US owner of the Claude chatbot previously said its models had hacked three organisations during testing</p><p>The US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a “failure of operational security” and revealed it has tightened its testing procedures.</p><p>Anthropic <a href=\"https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack\">revealed in July</a> that its models had accessed the open internet three times and gained unauthorised access to the systems of three organisations.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values\">Continue reading...</a>",
-    "author": "Dan Milmo Global technology editor",
-    "published": "Tue, 01 Sep 2026 15:18:10 GMT",
-    "tags": [
-      "Anthropic",
-      "Technology",
-      "AI (artificial intelligence)",
-      "Computing",
-      "Business",
-      "Hacking"
-    ],
-    "source": "https://www.theguardian.com",
-    "module": "2025 年最热细分赛道"
-  },
-  {
     "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
     "link": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
-    "summary": "<p>University’s move is part of trend that critics within academia say will lead to further staff cuts and the loss of ‘everything that makes the job worth doing’</p><p>An Australian university has swapped in-person classes with an AI chatbot, online quizzes and optional online tutorials in two subjects as institutions give the technology more teaching responsibilities.</p><p>Macquarie University’s “Virtual Peer” is part of each week’s learning in two mandatory Psychology units, programmed to ask students questions and guide them through scenario-based exercises.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials\">Continue reading...</a>",
+    "summary": "<p>University’s move is part of trend that critics within academia say will lead to further staff cuts and the loss of ‘everything that makes the job worth doing’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>An Australian university has swapped in-person classes with an AI chatbot, online quizzes and optional online tutorials in two subjects as institutions give the technology more teaching responsibilities.</p><p>Macquarie University’s “Virtual Peer” is part of each week’s learning in two mandatory psychology units, programmed to ask students questions and guide them through scenario-based exercises.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials\">Continue reading...</a>",
     "author": "Luca Ittimani",
     "published": "Tue, 01 Sep 2026 15:00:02 GMT",
     "tags": [
@@ -1219,7 +1194,10 @@
       "Australian universities",
       "Computing",
       "Australia news",
-      "Technology"
+      "Technology",
+      "University teaching",
+      "University innovation",
+      "Chatbots"
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
@@ -1259,6 +1237,25 @@
     ],
     "source": "https://www.theguardian.com",
     "module": "应用落地"
+  },
+  {
+    "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
+    "link": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
+    "summary": "<p>AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models</p><p>All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot.</p><p>Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and composers, are seeking damages for alleged misuse of “tens of thousands” of copyrighted works by Anthropic.</p> <a href=\"https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude\">Continue reading...</a>",
+    "author": "Dan Milmo Global technology editor",
+    "published": "Mon, 31 Aug 2026 12:42:05 GMT",
+    "tags": [
+      "Music industry",
+      "Anthropic",
+      "Business",
+      "Technology",
+      "Music",
+      "Culture",
+      "AI (artificial intelligence)",
+      "Law"
+    ],
+    "source": "https://www.theguardian.com",
+    "module": "2025 年最热细分赛道"
   },
   {
     "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
@@ -1729,18 +1726,12 @@
     "tags": [
       "Federal Trade Commission",
       "Amazon.com Inc",
-      "Advertising and Marketing",
+      "Online Advertising",
       "E-Commerce",
       "Prices (Fares, Fees and Rates)",
-      "Computers and the Internet",
-      "Regulation and Deregulation of Industry",
-      "Ferguson, Andrew N",
       "Suits and Litigation (Civil)",
-      "Customer Relations",
-      "Online Advertising",
-      "Attorneys General",
-      "Bonta, Rob (1972- )",
-      "Washington (State)"
+      "Regulation and Deregulation of Industry",
+      "Computers and the Internet"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -1789,6 +1780,32 @@
       "Consumer Protection",
       "Smoking and Tobacco",
       "Corporations"
+    ],
+    "source": "https://rss.nytimes.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+    "link": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+    "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+    "author": "Victor Mather",
+    "published": "Tue, 01 Sep 2026 22:03:00 +0000",
+    "tags": [
+      "Names, Geographical",
+      "Lakes",
+      "Maps",
+      "Apple Inc",
+      "Google Maps",
+      "MapQuest",
+      "Lake Ontario",
+      "United States Politics and Government",
+      "Mobile Applications",
+      "Carney, Mark J",
+      "Trump, Donald J",
+      "International Relations",
+      "Canada",
+      "United States",
+      "internal-eafs"
     ],
     "source": "https://rss.nytimes.com",
     "module": "应用落地"
@@ -2233,45 +2250,6 @@
     "module": "应用落地"
   },
   {
-    "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
-    "link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
-    "summary": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
-    "author": "Ryan Mac",
-    "published": "Tue, 25 Aug 2026 21:31:13 +0000",
-    "tags": [
-      "Space Exploration Technologies Corp",
-      "Private Spaceflight",
-      "Space and Astronomy",
-      "Musk, Elon",
-      "Computers and the Internet",
-      "Artificial Intelligence",
-      "Louisiana",
-      "Landry, Jeffrey Martin"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
-    "link": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
-    "summary": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.",
-    "author": "Maxine Joselow",
-    "published": "Tue, 25 Aug 2026 16:45:28 +0000",
-    "tags": [
-      "Environmental Protection Agency",
-      "Data Centers",
-      "United States Politics and Government",
-      "Environment",
-      "Air Pollution",
-      "Artificial Intelligence",
-      "Greenhouse Gas Emissions",
-      "Regulation and Deregulation of Industry",
-      "Polls and Public Opinion"
-    ],
-    "source": "https://rss.nytimes.com",
-    "module": "应用落地"
-  },
-  {
     "title": "Think twice before installing this device promising free movies",
     "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
     "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
@@ -2614,16 +2592,175 @@
     "module": "应用落地"
   },
   {
-    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
-    "link": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
-    "summary": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "published": "Tue, 01 Sep 2026 16:00:00 +0000",
+    "title": "Skip the 5K monitor for gaming and go with a 4K instead — here's why",
+    "link": "https://www.engadget.com/2244179/why-skip-5k-monitor-go-with-4k-instead/",
+    "summary": "5K is even sharper than 4K UHD, but it's for a specific audience. As a gamer, you won't be able to get as much use out of it as you might think.",
+    "author": "staff@engadget.com (Dave Meikleham)",
+    "published": "Tue, 01 Sep 2026 22:00:00 +0000",
     "tags": [
+      "PC Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
+    "link": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+    "summary": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "published": "Tue, 01 Sep 2026 21:56:29 +0000",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Are expensive HDMI cables worth it?",
+    "link": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying/",
+    "summary": "You need the right HDMI cable for your setup, but that doesn't mean it has to cost $100. Here's when to spend a bit more and when a cheap cable will do.",
+    "author": "staff@engadget.com (Novak Božović)",
+    "published": "Tue, 01 Sep 2026 20:00:00 +0000",
+    "tags": [
+      "Entertainment"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The new Street Fighter movie trailer looks fun in all the right ways",
+    "link": "https://www.engadget.com/2248888/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/",
+    "summary": "The Street Fighter movie looks silly and campy and that's just fine!",
+    "author": "staff@engadget.com (Devindra Hardawar)",
+    "published": "Tue, 01 Sep 2026 19:10:16 +0000",
+    "tags": [
+      "TV & Movies"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The Sonos Ace Ultra headphones and Beam Ultra soundbar are smarter than I expected",
+    "link": "https://www.engadget.com/2248883/sonos-ace-ultra-beam-ultra-hands-on-demos/",
+    "summary": "Sonos' latest hardware is smarter than ever about how it fits into your home.",
+    "author": "staff@engadget.com (Nathan Ingraham)",
+    "published": "Tue, 01 Sep 2026 19:03:10 +0000",
+    "tags": [
+      "Entertainment"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "The TV vs projector value debate isn't close — here's why",
+    "link": "https://www.engadget.com/2244158/why-projector-better-than-tv/",
+    "summary": "If you want the largest image for the least amount of money, a projector is the only choice.",
+    "author": "staff@engadget.com (Steve Dent)",
+    "published": "Tue, 01 Sep 2026 18:30:00 +0000",
+    "tags": [
+      "Entertainment"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
+    "link": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
+    "summary": "Double-check before you accidentally remove a protective layer of your screen.",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "published": "Tue, 01 Sep 2026 18:00:00 +0000",
+    "tags": [
+      "EVs and Transportation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "A new Android Find Hub feature will help you remember where you put important things",
+    "link": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
+    "summary": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "published": "Tue, 01 Sep 2026 18:00:00 +0000",
+    "tags": [
+      "Mobile",
       "Google"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
+  },
+  {
+    "title": "'Reasonable' consumers know they don't own digital downloads, Sony says",
+    "link": "https://www.engadget.com/2248777/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/",
+    "summary": "The company was responding to a suit accusing it of violating California law.",
+    "author": "staff@engadget.com (Matt Tate)",
+    "published": "Tue, 01 Sep 2026 17:37:44 +0000",
+    "tags": [
+      "PlayStation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "What more can you delete from your iPhone to free up space?",
+    "link": "https://www.engadget.com/2244278/more-to-delete-from-iphone-free-up-space/",
+    "summary": "If you're running out of space on your iPhone, there might be unused data hiding in places you wouldn't expect.",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "published": "Tue, 01 Sep 2026 17:30:00 +0000",
+    "tags": [
+      "Smartphones",
+      "Apple"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "BT's old copper network could be worth over $2 billion",
+    "link": "https://www.engadget.com/2248735/bts-old-copper-network-could-be-worth-over-dollar2-billion/",
+    "summary": "Landlines are finding a second life as valuable scrap metal.",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "published": "Tue, 01 Sep 2026 16:57:06 +0000",
+    "tags": [
+      "News"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Razer just released a cute and teensy mobile game controller",
+    "link": "https://www.engadget.com/2248729/razer-just-released-a-cute-and-teensy-mobile-game-controller/",
+    "summary": "It's called Prio and folds up when not in use, making it pocket-friendly.",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "published": "Tue, 01 Sep 2026 16:50:34 +0000",
+    "tags": [
+      "Gaming"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "QHD, WQHD, 4K, and 5K resolution: What do they mean and which is best for you?",
+    "link": "https://www.engadget.com/2244279/qhd-wqhd-4k-5k-resolution-meaning-which-best/",
+    "summary": "QHD, 4K, 5K, and other resolutions quickly become confusing. Once you get past the marketing terms, you can choose what makes sense for your needs.",
+    "author": "staff@engadget.com (Max Miller)",
+    "published": "Tue, 01 Sep 2026 16:30:00 +0000",
+    "tags": [
+      "Computing"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa",
+    "link": "https://www.engadget.com/2248696/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/",
+    "summary": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa.",
+    "author": "staff@engadget.com (Kris Holt)",
+    "published": "Tue, 01 Sep 2026 16:24:24 +0000",
+    "tags": [
+      "EVs and Transportation"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "前沿探索"
   },
   {
     "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
@@ -2646,6 +2783,18 @@
     "published": "Tue, 01 Sep 2026 16:00:00 +0000",
     "tags": [
       "Accessories"
+    ],
+    "source": "https://www.engadget.com",
+    "module": "应用落地"
+  },
+  {
+    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
+    "link": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
+    "summary": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
+    "author": "staff@engadget.com (Igor Bonifacic)",
+    "published": "Tue, 01 Sep 2026 16:00:00 +0000",
+    "tags": [
+      "Google"
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
@@ -2685,178 +2834,6 @@
     ],
     "source": "https://www.engadget.com",
     "module": "应用落地"
-  },
-  {
-    "title": "'Sonos 27' brings a refreshed UI to the app and lets AI agents control your system",
-    "link": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system/",
-    "summary": "Sonos is embracing AI in its next major software update.",
-    "author": "staff@engadget.com (Nathan Ingraham)",
-    "published": "Tue, 01 Sep 2026 14:40:00 +0000",
-    "tags": [
-      "Apps"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "大模型与基础技术"
-  },
-  {
-    "title": "Sonos unveils new Beam Ultra soundbar with 'true 7.1.2 Dolby Atmos'",
-    "link": "https://www.engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/",
-    "summary": "The refreshed model with better surround sound will cost $699.",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "published": "Tue, 01 Sep 2026 14:40:00 +0000",
-    "tags": [
-      "Entertainment"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sonos' Ace Ultra headphones can swap audio with any Sonos speaker",
-    "link": "https://www.engadget.com/2248071/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker/",
-    "summary": "The upgraded headphones also feature improved ANC and longer battery life.",
-    "author": "staff@engadget.com (Billy Steele)",
-    "published": "Tue, 01 Sep 2026 14:40:00 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "How to organize and group your Safari tabs in macOS 27",
-    "link": "https://www.engadget.com/2244143/how-to-organize-group-safari-tabs-macos-27/",
-    "summary": "Apple's latest desktop OS can make your tabs much neater, if you want it to.",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "published": "Tue, 01 Sep 2026 14:30:00 +0000",
-    "tags": [
-      "Apps",
-      "Computing",
-      "Apple"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Atlas' brain-monitoring wearable tells you how much you're in the moment",
-    "link": "https://www.engadget.com/2248372/atlas-wearable-eeg/",
-    "summary": "Atlas says its new wearable EEG will be able to tell you where your attention is through the day.",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "published": "Tue, 01 Sep 2026 14:00:00 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "The pros and cons of using a TV as your computer monitor",
-    "link": "https://www.engadget.com/2244148/tv-as-computer-monitor-pros-cons/",
-    "summary": "In the age‑old debate over whether a TV can truly replace a computer monitor, several important differences in design and performance set the two apart.",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "published": "Tue, 01 Sep 2026 13:30:00 +0000",
-    "tags": [
-      "PC Gaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "NVIDIA's DLSS 5 launches with NBA 2K27 on September 3, but there's little reason for excitement",
-    "link": "https://www.engadget.com/2248399/nvidia-dlss-5-launches-nba-2k27-september-3/",
-    "summary": "NVIDIA's controversial DLSS 5 finally arrives this week, but there's little reason to celebrate it.",
-    "author": "staff@engadget.com (Devindra Hardawar)",
-    "published": "Tue, 01 Sep 2026 13:00:00 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "基础设施与工具"
-  },
-  {
-    "title": "Roku is expanding its premium TV lineup with its first OLEDs",
-    "link": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
-    "summary": "Roku has announced its first OLED TVs, available this fall from Amazon starting at $999.",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "published": "Tue, 01 Sep 2026 13:00:00 +0000",
-    "tags": [
-      "Entertainment"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sonos Open House: Live updates from the Sonos 27  product launch",
-    "link": "https://www.engadget.com/2248277/sonos-product-launch-live-blog-september-2026/",
-    "summary": "Are you ready for some speakers and some AI?",
-    "author": "staff@engadget.com (Cherlynn Low)",
-    "published": "Tue, 01 Sep 2026 13:00:00 +0000",
-    "tags": [
-      "Entertainment"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "You can use your phone as a Roku remote (and it's free)",
-    "link": "https://www.engadget.com/2244167/use-phone-as-roku-remote-free-app/",
-    "summary": "If you've lost your Roku remote but would still like to watch something on TV, the Roku mobile app is the answer.",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "published": "Tue, 01 Sep 2026 13:00:00 +0000",
-    "tags": [
-      "TV & Movies",
-      "Streaming"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Sony Bravia Theater Trio review: The three-piece soundbar alternative",
-    "link": "https://www.engadget.com/2248082/sony-bravia-theater-trio-review/",
-    "summary": "The Bravia Theater Trio is a capable three-piece option for larger TVs, but you'll need additional gear for truly immersive sound and adequate bass.",
-    "author": "staff@engadget.com (Billy Steele)",
-    "published": "Tue, 01 Sep 2026 12:45:00 +0000",
-    "tags": [
-      "Home"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "Poco's F9 Ultra is a midrange phone with a flagship processor and a 185Hz display",
-    "link": "https://www.engadget.com/2243520/poco-f9-ultra-is-a-midrange-phone-with-a-flagship-processor-and-185hz-display/",
-    "summary": "Poco's newest smartphone isn't headed to the US, but you might want it to.",
-    "author": "staff@engadget.com (Mat Smith)",
-    "published": "Tue, 01 Sep 2026 12:45:00 +0000",
-    "tags": [
-      "Smartphones"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "What Android looked like in 2008 vs. today",
-    "link": "https://www.engadget.com/2244166/what-android-looked-like-2008-vs-today/",
-    "summary": "Early Androids were the tech equivalent of alternative rock. iPhones were far too mainstream for some of us, and Android felt like home.",
-    "author": "staff@engadget.com (Max Miller)",
-    "published": "Tue, 01 Sep 2026 12:30:00 +0000",
-    "tags": [
-      "Smartphones",
-      "Google"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "应用落地"
-  },
-  {
-    "title": "United will now let you join standby lists for earlier flights through its mobile app",
-    "link": "https://www.engadget.com/2248384/united-app-join-multiple-standby-lists/",
-    "summary": "You can add yourself to standby lists without speaking to agents through United's mobile app.",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "published": "Tue, 01 Sep 2026 12:00:00 +0000",
-    "tags": [
-      "News"
-    ],
-    "source": "https://www.engadget.com",
-    "module": "大模型与基础技术"
   },
   {
     "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
@@ -4579,16 +4556,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Quantum Operation of Affective Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2305.08112v1",
-    "summary": "The review analyzes the fundamental principles which Artificial Intelligence should be based on in order to imitate the realistic process of taking decisions by humans experiencing emotions. Two approaches are compared, one based on quantum theory and the other employing classical terms. Both these approaches have a number of similarities, being principally probabilistic. The analogies between quantum measurements under intrinsic noise and affective decision making are elucidated. It is shown that cognitive processes have many features that are formally similar to quantum measurements. This, however, in no way means that for the imitation of human decision making Affective Artificial Intelligence has necessarily to rely on the functioning of quantum systems. Appreciating the common features between quantum measurements and decision making helps for the formulation of an axiomatic approach employing only classical notions. Artificial Intelligence, following this approach, operates similarly to humans, by taking into account the utility of the considered alternatives as well as their emotional attractiveness. Affective Artificial Intelligence, whose operation takes account of the cognition-emotion duality, avoids numerous behavioural paradoxes of traditional decision making. A society of intelligent agents, interacting through the repeated multistep exchange of information, forms a network accomplishing dynamic decision making. The considered intelligent networks can characterize the operation of either a human society of affective decision makers, or the brain composed of neurons, or a typical probabilistic network of an artificial intelligence.",
-    "author": "V. I. Yukalov",
-    "published": "2023-05-14T09:40:13Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "TAU: A Framework for Video-Based Traffic Analytics Leveraging Artificial Intelligence and Unmanned Aerial Systems",
     "link": "https://arxiv.org/abs/2303.00337v1",
     "summary": "Smart traffic engineering and intelligent transportation services are in increasing demand from governmental authorities to optimize traffic performance and thus reduce energy costs, increase the drivers' safety and comfort, ensure traffic laws enforcement, and detect traffic violations. In this paper, we address this challenge, and we leverage the use of Artificial Intelligence (AI) and Unmanned Aerial Vehicles (UAVs) to develop an AI-integrated video analytics framework, called TAU (Traffic Analysis from UAVs), for automated traffic analytics and understanding. Unlike previous works on traffic video analytics, we propose an automated object detection and tracking pipeline from video processing to advanced traffic understanding using high-resolution UAV images. TAU combines six main contributions. First, it proposes a pre-processing algorithm to adapt the high-resolution UAV image as input to the object detector without lowering the resolution. This ensures an excellent detection accuracy from high-quality features, particularly the small size of detected objects from UAV images. Second, it introduces an algorithm for recalibrating the vehicle coordinates to ensure that vehicles are uniquely identified and tracked across the multiple crops of the same frame. Third, it presents a speed calculation algorithm based on accumulating information from successive frames. Fourth, TAU counts the number of vehicles per traffic zone based on the Ray Tracing algorithm. Fifth, TAU has a fully independent algorithm for crossroad arbitration based on the data gathered from the different zones surrounding it. Sixth, TAU introduces a set of algorithms for extracting twenty-four types of insights from the raw data collected. The code is shared here: https://github.com/bilel-bj/TAU. Video demonstrations are provided here: https://youtu.be/wXJV0H7LviU and here: https://youtu.be/kGv0gmtVEbI.",
@@ -4597,6 +4564,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
+  },
+  {
+    "title": "Quantum Operation of Affective Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2305.08112v1",
+    "summary": "The review analyzes the fundamental principles which Artificial Intelligence should be based on in order to imitate the realistic process of taking decisions by humans experiencing emotions. Two approaches are compared, one based on quantum theory and the other employing classical terms. Both these approaches have a number of similarities, being principally probabilistic. The analogies between quantum measurements under intrinsic noise and affective decision making are elucidated. It is shown that cognitive processes have many features that are formally similar to quantum measurements. This, however, in no way means that for the imitation of human decision making Affective Artificial Intelligence has necessarily to rely on the functioning of quantum systems. Appreciating the common features between quantum measurements and decision making helps for the formulation of an axiomatic approach employing only classical notions. Artificial Intelligence, following this approach, operates similarly to humans, by taking into account the utility of the considered alternatives as well as their emotional attractiveness. Affective Artificial Intelligence, whose operation takes account of the cognition-emotion duality, avoids numerous behavioural paradoxes of traditional decision making. A society of intelligent agents, interacting through the repeated multistep exchange of information, forms a network accomplishing dynamic decision making. The considered intelligent networks can characterize the operation of either a human society of affective decision makers, or the brain composed of neurons, or a typical probabilistic network of an artificial intelligence.",
+    "author": "V. I. Yukalov",
+    "published": "2023-05-14T09:40:13Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
   },
   {
     "title": "First Place Solution of 2023 Global Artificial Intelligence Technology Innovation Competition Track 1",
@@ -4659,21 +4636,21 @@
     "module": "应用落地"
   },
   {
-    "title": "Dynamic Agentic AI Expert Profiler System Architecture for Multidomain Intelligence Modeling",
-    "link": "https://arxiv.org/abs/2604.05345v1",
-    "summary": "In today's artificial intelligence driven world, modern systems communicate with people from diverse backgrounds and skill levels. For human-machine interaction to be meaningful, systems must be aware of context and user expertise. This study proposes an agentic AI profiler that classifies natural language responses into four levels: Novice, Basic, Advanced, and Expert. The system uses a modular layered architecture built on LLaMA v3.1 (8B), with components for text preprocessing, scoring, aggregation, and classification. Evaluation was conducted in two phases: a static phase using pre-recorded transcripts from 82 participants, and a dynamic phase with 402 live interviews conducted by an agentic AI interviewer. In both phases, participant self-ratings were compared with profiler predictions. In the dynamic phase, expertise was assessed after each response rather than at the end of the interview. Across domains, 83% to 97% of profiler evaluations matched participant self-assessments. Remaining differences were due to self-rating bias, unclear responses, and occasional misinterpretation of nuanced expertise by the language model.",
-    "author": "Aisvarya Adeseye, Jouni Isoaho, Seppo Virtanen, Mohammad Tahir",
-    "published": "2026-04-07T02:30:45Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "大模型与基础技术"
-  },
-  {
     "title": "Integrating Generative Artificial Intelligence in Intelligent Vehicle Systems",
     "link": "https://arxiv.org/abs/2305.17137v1",
     "summary": "This paper aims to serve as a comprehensive guide for researchers and practitioners, offering insights into the current state, potential applications, and future research directions for generative artificial intelligence and foundation models within the context of intelligent vehicles. As the automotive industry progressively integrates AI, generative artificial intelligence technologies hold the potential to revolutionize user interactions, delivering more immersive, intuitive, and personalised in-car experiences. We provide an overview of current applications of generative artificial intelligence in the automotive domain, emphasizing speech, audio, vision, and multimodal interactions. We subsequently outline critical future research areas, including domain adaptability, alignment, multimodal integration and others, as well as, address the challenges and risks associated with ethics. By fostering collaboration and addressing these research areas, generative artificial intelligence can unlock its full potential, transforming the driving experience and shaping the future of intelligent vehicles.",
     "author": "Lukas Stappen, Jeremy Dillmann, Serena Striegel, Hans-Jörg Vögel, Nicolas Flores-Herr, Björn W. Schuller",
     "published": "2023-05-15T09:09:40Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "大模型与基础技术"
+  },
+  {
+    "title": "Dynamic Agentic AI Expert Profiler System Architecture for Multidomain Intelligence Modeling",
+    "link": "https://arxiv.org/abs/2604.05345v1",
+    "summary": "In today's artificial intelligence driven world, modern systems communicate with people from diverse backgrounds and skill levels. For human-machine interaction to be meaningful, systems must be aware of context and user expertise. This study proposes an agentic AI profiler that classifies natural language responses into four levels: Novice, Basic, Advanced, and Expert. The system uses a modular layered architecture built on LLaMA v3.1 (8B), with components for text preprocessing, scoring, aggregation, and classification. Evaluation was conducted in two phases: a static phase using pre-recorded transcripts from 82 participants, and a dynamic phase with 402 live interviews conducted by an agentic AI interviewer. In both phases, participant self-ratings were compared with profiler predictions. In the dynamic phase, expertise was assessed after each response rather than at the end of the interview. Across domains, 83% to 97% of profiler evaluations matched participant self-assessments. Remaining differences were due to self-rating bias, unclear responses, and occasional misinterpretation of nuanced expertise by the language model.",
+    "author": "Aisvarya Adeseye, Jouni Isoaho, Seppo Virtanen, Mohammad Tahir",
+    "published": "2026-04-07T02:30:45Z",
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
@@ -4819,16 +4796,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
-    "link": "https://arxiv.org/abs/1706.07269v3",
-    "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly explaining decisions or actions to a human observer, and it should not be controversial to say that looking at how humans explain to each other can serve as a useful starting point for explanation in artificial intelligence. However, it is fair to say that most work in explainable artificial intelligence uses only the researchers' intuition of what constitutes a `good' explanation. There exists vast and valuable bodies of research in philosophy, psychology, and cognitive science of how people define, generate, select, evaluate, and present explanations, which argues that people employ certain cognitive biases and social expectations towards the explanation process. This paper argues that the field of explainable artificial intelligence should build on this existing research, and reviews relevant papers from philosophy, cognitive psychology/science, and social psychology, which study these topics. It draws out some important findings, and discusses ways that these can be infused with work on explainable artificial intelligence.",
-    "author": "Tim Miller",
-    "published": "2017-06-22T11:46:11Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Universal Algorithmic Intelligence: A mathematical top->down approach",
     "link": "https://arxiv.org/abs/cs/0701125v1",
     "summary": "Sequential decision theory formally solves the problem of rational agents in uncertain worlds if the true environmental prior probability distribution is known. Solomonoff's theory of universal induction formally solves the problem of sequence prediction for unknown prior distribution. We combine both ideas and get a parameter-free theory of universal Artificial Intelligence. We give strong arguments that the resulting AIXI model is the most intelligent unbiased agent possible. We outline how the AIXI model can formally solve a number of problem classes, including sequence prediction, strategic games, function minimization, reinforcement and supervised learning. The major drawback of the AIXI model is that it is uncomputable. To overcome this problem, we construct a modified algorithm AIXItl that is still effectively more intelligent than any other time t and length l bounded agent. The computation time of AIXItl is of the order t x 2^l. The discussion includes formal definitions of intelligence order relations, the horizon problem and relations of the AIXI theory to other AI approaches.",
@@ -4837,6 +4804,16 @@
     "tags": [],
     "source": "arXiv",
     "module": "大模型与基础技术"
+  },
+  {
+    "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
+    "link": "https://arxiv.org/abs/1706.07269v3",
+    "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly explaining decisions or actions to a human observer, and it should not be controversial to say that looking at how humans explain to each other can serve as a useful starting point for explanation in artificial intelligence. However, it is fair to say that most work in explainable artificial intelligence uses only the researchers' intuition of what constitutes a `good' explanation. There exists vast and valuable bodies of research in philosophy, psychology, and cognitive science of how people define, generate, select, evaluate, and present explanations, which argues that people employ certain cognitive biases and social expectations towards the explanation process. This paper argues that the field of explainable artificial intelligence should build on this existing research, and reviews relevant papers from philosophy, cognitive psychology/science, and social psychology, which study these topics. It draws out some important findings, and discusses ways that these can be infused with work on explainable artificial intelligence.",
+    "author": "Tim Miller",
+    "published": "2017-06-22T11:46:11Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
   },
   {
     "title": "Construction Grammar and Artificial Intelligence",
@@ -5869,16 +5846,6 @@
     "module": "应用落地"
   },
   {
-    "title": "Artificial Intelligence and Medicine: A literature review",
-    "link": "https://arxiv.org/abs/2205.00322v2",
-    "summary": "In practically every industry today, artificial intelligence is one of the most effective ways for machines to assist humans. Since its inception, a large number of researchers throughout the globe have been pioneering the application of artificial intelligence in medicine. Although artificial intelligence may seem to be a 21st-century concept, Alan Turing pioneered the first foundation concept in the 1940s. Artificial intelligence in medicine has a huge variety of applications that researchers are continually exploring. The tremendous increase in computer and human resources has hastened progress in the 21st century, and it will continue to do so for many years to come. This review of the literature will highlight the emerging field of artificial intelligence in medicine and its current level of development.",
-    "author": "Chottiwatt Jittprasong",
-    "published": "2022-04-30T18:39:00Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
     "title": "Intelligent Human Machine Interface Design for Advanced Product Life Cycle Management Systems",
     "link": "https://arxiv.org/abs/1008.1338v1",
     "summary": "Designing and implementing an intelligent and user friendly human machine interface for any kind of software or hardware oriented application is always be a challenging task for the designers and developers because it is very difficult to understand the psychology of the user, nature of the work and best suit of the environment. This research paper is basically about to propose an intelligent, flexible and user friendly machine interface for Product Life Cycle Management products or PDM Systems since studies show that usability and human computer interaction issues are a major cause of acceptance problems introducing or using such systems. Going into details of the proposition, we present prototype implementations about theme based on design requirements, designed designs and technologies involved for the development of human machine interface.",
@@ -5909,6 +5876,16 @@
     "module": "应用落地"
   },
   {
+    "title": "Data-Centric Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2212.11854v4",
+    "summary": "Data-centric artificial intelligence (data-centric AI) represents an emerging paradigm emphasizing that the systematic design and engineering of data is essential for building effective and efficient AI-based systems. The objective of this article is to introduce practitioners and researchers from the field of Information Systems (IS) to data-centric AI. We define relevant terms, provide key characteristics to contrast the data-centric paradigm to the model-centric one, and introduce a framework for data-centric AI. We distinguish data-centric AI from related concepts and discuss its longer-term implications for the IS community.",
+    "author": "Johannes Jakubik, Michael Vössing, Niklas Kühl, Jannis Walk, Gerhard Satzger",
+    "published": "2022-12-22T16:41:03Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
     "title": "Artificial Intelligence and Legal Liability",
     "link": "https://arxiv.org/abs/1802.07782v1",
     "summary": "A recent issue of a popular computing journal asked which laws would apply if a self-driving car killed a pedestrian. This paper considers the question of legal liability for artificially intelligent computer systems. It discusses whether criminal liability could ever apply; to whom it might apply; and, under civil law, whether an AI program is a product that is subject to product design legislation or a service to which the tort of negligence applies. The issue of sales warranties is also considered. A discussion of some of the practical limitations that AI systems are subject to is also included.",
@@ -5929,11 +5906,11 @@
     "module": "应用落地"
   },
   {
-    "title": "Data-Centric Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2212.11854v4",
-    "summary": "Data-centric artificial intelligence (data-centric AI) represents an emerging paradigm emphasizing that the systematic design and engineering of data is essential for building effective and efficient AI-based systems. The objective of this article is to introduce practitioners and researchers from the field of Information Systems (IS) to data-centric AI. We define relevant terms, provide key characteristics to contrast the data-centric paradigm to the model-centric one, and introduce a framework for data-centric AI. We distinguish data-centric AI from related concepts and discuss its longer-term implications for the IS community.",
-    "author": "Johannes Jakubik, Michael Vössing, Niklas Kühl, Jannis Walk, Gerhard Satzger",
-    "published": "2022-12-22T16:41:03Z",
+    "title": "Understanding in Artificial Intelligence",
+    "link": "https://arxiv.org/abs/2101.06573v1",
+    "summary": "Current Artificial Intelligence (AI) methods, most based on deep learning, have facilitated progress in several fields, including computer vision and natural language understanding. The progress of these AI methods is measured using benchmarks designed to solve challenging tasks, such as visual question answering. A question remains of how much understanding is leveraged by these methods and how appropriate are the current benchmarks to measure understanding capabilities. To answer these questions, we have analysed existing benchmarks and their understanding capabilities, defined by a set of understanding capabilities, and current research streams. We show how progress has been made in benchmark development to measure understanding capabilities of AI methods and we review as well how current methods develop understanding capabilities.",
+    "author": "Stefan Maetschke, David Martinez Iraola, Pieter Barnard, Elaheh ShafieiBavani, Peter Zhong, Ying Xu, Antonio Jimeno Yepes",
+    "published": "2021-01-17T02:29:50Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -5944,16 +5921,6 @@
     "summary": "The ability to predict the intentions of people based solely on their visual actions is a skill only performed by humans and animals. The intelligence of current computer algorithms has not reached this level of complexity, but there are several research efforts that are working towards it. With the number of classification algorithms available, it is hard to determine which algorithm works best for a particular situation. In classification of visual human intent data, Hidden Markov Models (HMM), and their variants, are leading candidates.\n  The inability of HMMs to provide a probability in the observation to observation linkages is a big downfall in this classification technique. If a person is visually identifying an action of another person, they monitor patterns in the observations. By estimating the next observation, people have the ability to summarize the actions, and thus determine, with pretty good accuracy, the intention of the person performing the action. These visual cues and linkages are important in creating intelligent algorithms for determining human actions based on visual observations.\n  The Evidence Feed Forward Hidden Markov Model is a newly developed algorithm which provides observation to observation linkages. The following research addresses the theory behind Evidence Feed Forward HMMs, provides mathematical proofs of their learning of these parameters to optimize the likelihood of observations with a Evidence Feed Forwards HMM, which is important in all computational intelligence algorithm, and gives comparative examples with standard HMMs in classification of both visual action data and measurement data; thus providing a strong base for Evidence Feed Forward HMMs in classification of many types of problems.",
     "author": "Michael DelRose, Christian Wagner, Philip Frederick",
     "published": "2011-02-04T13:00:06Z",
-    "tags": [],
-    "source": "arXiv",
-    "module": "应用落地"
-  },
-  {
-    "title": "Understanding in Artificial Intelligence",
-    "link": "https://arxiv.org/abs/2101.06573v1",
-    "summary": "Current Artificial Intelligence (AI) methods, most based on deep learning, have facilitated progress in several fields, including computer vision and natural language understanding. The progress of these AI methods is measured using benchmarks designed to solve challenging tasks, such as visual question answering. A question remains of how much understanding is leveraged by these methods and how appropriate are the current benchmarks to measure understanding capabilities. To answer these questions, we have analysed existing benchmarks and their understanding capabilities, defined by a set of understanding capabilities, and current research streams. We show how progress has been made in benchmark development to measure understanding capabilities of AI methods and we review as well how current methods develop understanding capabilities.",
-    "author": "Stefan Maetschke, David Martinez Iraola, Pieter Barnard, Elaheh ShafieiBavani, Peter Zhong, Ying Xu, Antonio Jimeno Yepes",
-    "published": "2021-01-17T02:29:50Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
@@ -6064,6 +6031,26 @@
     "summary": "This is the Proceedings of the Ninth Conference on Uncertainty in Artificial Intelligence, which was held in Washington, DC, July 9-11, 1993",
     "author": "David Heckerman, E. Mamdani",
     "published": "2013-04-13T21:03:12Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Proceedings of the Second Conference on Uncertainty in Artificial Intelligence (1986)",
+    "link": "https://arxiv.org/abs/1304.3859v1",
+    "summary": "This is the Proceedings of the Second Conference on Uncertainty in Artificial Intelligence, which was held in Philadelphia, PA, August 8-10, 1986",
+    "author": "Laveen Kanal, John Lemmer",
+    "published": "2013-04-13T21:37:12Z",
+    "tags": [],
+    "source": "arXiv",
+    "module": "应用落地"
+  },
+  {
+    "title": "Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence (2001)",
+    "link": "https://arxiv.org/abs/1301.4607v2",
+    "summary": "This is the Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence, which was held in Seattle, WA, August 2-5 2001",
+    "author": "John Breese, Daphne Koller",
+    "published": "2013-01-19T23:16:59Z",
     "tags": [],
     "source": "arXiv",
     "module": "应用落地"
